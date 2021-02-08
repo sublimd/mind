@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Entropium"
+        }
+      },
+      "diagnosisId": "D.entropion",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akutes Winkelblockglaukom</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Entropium</i> erhöhen würden: Fremdkörpergefühl im Auge, Übermässiger Tränenfluss, Ausfluss aus dem Auge, Augentrockenheit</li></ul>",
+      "label": "Entropium",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteAngleClosureGlaucoma",
+      "explanation": "",
+      "label": "Akutes Winkelblockglaukom",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Orthostatische_Dysregulation"
+        }
+      },
+      "diagnosisId": "D.orthostaticDysregulation",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akutes Winkelblockglaukom</i> besser erklärt sind: Augenschmerzen, Augenrötung</li></ul>",
+      "label": "Orthostatische Dysregulation",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ektropium"
+        }
+      },
+      "diagnosisId": "D.ectropion",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akutes Winkelblockglaukom</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ektropium</i> erhöhen würden: Fremdkörpergefühl im Auge, Übermässiger Tränenfluss, Ausfluss aus dem Auge, Augentrockenheit</li></ul>",
+      "label": "Ektropium",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hordeolum"
+        }
+      },
+      "diagnosisId": "D.hordeolum",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akutes Winkelblockglaukom</i> besser erklärt sind: Augenrötung, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Schwellung des Augenlides, Rötung des Augenlides</li></ul>",
+      "label": "Hordeolum",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (68) bei Sehstörungen am linken Auge.<br /><br />Die Sehstörung sei plötzlich aufgetreten. Die Patientin beschreibt eine Farbsinnstörungen.<br /><br />Zusätzlich berichtet die Patientin über linksseitige Augenschmerzen seit zwei Tagen sowie eine linksseitige Augenrötung und Nausea.<br /><br />Ausfluss aus dem Auge, eine Augenschwellung, übermässiger Tränenfluss, Augentrockenheit und eine Schwellung des Augenlides werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "f09cfbc1-5172-4b32-af11-2518738af3ab",
+  "topic": "ophthalmology"
+}

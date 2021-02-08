@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.cervicalCarcinoma",
+      "label": "Zervixkarzinom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.placentaPrevia",
+      "label": "Placenta praevia",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.atrophicVaginitis",
+      "label": "Atrophe Vaginitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.stablePelvicRingFracture",
+      "label": "Stabile Beckenringfraktur",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.gonococcalCervicitis",
+      "label": "Gonokokken-Zervizitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (20) bei unerwarteten vaginalen Blutungen seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen im Unterbauch.<br /><br />Die Patientin schliesst die Möglichkeit einer Schwangerschaft nicht aus.<br /><br />Vaginaler Ausfluss, Dysurie, Probleme beim Geschlechtsverkehr, Fieber und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 2py (20 Zigaretten täglich während 2 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "0da179aa-d017-481d-a955-cea0b8b27f23",
+  "topic": "obstetrics"
+}

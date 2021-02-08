@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.myocarditis",
+      "label": "Myokarditis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hivPrimoInfection",
+      "label": "HIV-Primoinfektion",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
+      "label": "Ambulant erworbene atypische Pneumonie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.epidemicParotitis",
+      "label": "Parotitis epidemica (Mumps)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.streptococcalTonsillitis",
+      "label": "Streptokokkentonsillitis",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (39) bei Halsschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Fieber, Kopfschmerzen, einen subkutanen Knoten bzw. Lymphknoten im Halsbereich, eine vermehrte Müdigkeit und Nausea.<br /><br />Gliederschmerzen, Husten, Dysphonie, Rhinorrhoe, Gelenkschmerzen, Thoraxschmerzen und eine Hautschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "00cb9ef9-95fc-4893-a0dd-b33634425e99",
+  "topic": "general-internal-medicine"
+}

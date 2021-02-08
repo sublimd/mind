@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Pankreatitis"
+        }
+      },
+      "diagnosisId": "D.acutePancreatitis",
+      "explanation": "<ul><li><i>Gastritis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pankreatitis</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
+      "label": "Akute Pankreatitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Gastritis"
+        }
+      },
+      "diagnosisId": "D.gastritis",
+      "explanation": "",
+      "label": "Gastritis",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.chronicHepatitisB",
+      "explanation": "<ul><li><i>Gastritis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
+      "label": "Chronische Hepatitis B-Infektion",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pelvic_inflammatory_disease"
+        }
+      },
+      "diagnosisId": "D.pelvicInflammatoryDisease",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Fieber, Schüttelfrost, Menstruationsbeschwerden, vaginale Blutung, Probleme beim Geschlechtsverkehr, vaginaler Ausfluss, Dysurie</li></ul>",
+      "label": "Pelvic Inflammatory Disease",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypokalemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Gastritis</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "label": "Hypokaliämie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (53) bei Nausea seit einer Woche.<br /><br />Zusätzlich berichtet die Patientin über brennende Bauchschmerzen (bis VAS 8/10) epigastrisch seit vier Tagen sowie Erbrechen und einen Appetitverlust.<br /><br />Ungeschützter Geschlechtsverkehr und der Erhalt von Bluttransfusionen werden verneint. <br /><br />Diarrhoe, Fieber, Obstipation, Tachykardien, Blähungen, Hämatemesis, Meläna, Hämatochezie, Probleme beim Geschlechtsverkehr, Menstruationsbeschwerden und vaginaler Ausfluss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 30py (10 Zigaretten täglich während 30 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "c0720c31-6478-4e06-8f60-4aa993250871",
+  "topic": "gastroenterology"
+}

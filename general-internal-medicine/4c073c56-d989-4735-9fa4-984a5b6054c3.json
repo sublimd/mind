@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.hypercalcemia",
+      "label": "Hyperkalzämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.drugInducedHypercalcemia",
+      "label": "Medikamenteninduzierte Hyperkalzämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hypercalcemiaOfMalignancy",
+      "label": "Tumorhyperkalzämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.cardiogenicShock",
+      "label": "Kardiogener Schock",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
+      "label": "Hyperosmolare hyperglykämische Entgleisung",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (58) bei Polyurie seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Sehstörungen, einen Gewichtsverlust, Nausea, Dyspnoe und Bauchschmerzen.<br /><br />Appetitverlust, Obstipation und niedrige Blutdruckwerte werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein).",
+  "id": "4c073c56-d989-4735-9fa4-984a5b6054c3",
+  "topic": "general-internal-medicine"
+}

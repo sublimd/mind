@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.acutePyelonephritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Harnwegsinfekt</i> besser erklärt sind: Urininkontinenz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Flankenschmerzen</li></ul>",
+      "label": "Akute Pyelonephritis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Harnwegsinfekt"
+        }
+      },
+      "diagnosisId": "D.urinaryTractInfection",
+      "explanation": "",
+      "label": "Harnwegsinfekt",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Eisenmangelan%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.ironDeficiencyAnemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Harnwegsinfekt</i> besser erklärt sind: Dysurie, Fieber, Urininkontinenz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
+      "label": "Eisenmangelanämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rhabdomyolyse"
+        }
+      },
+      "diagnosisId": "D.rhabdomyolysis",
+      "explanation": "<ul><li><i>Harnwegsinfekt</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Harnwegsinfekt</i> besser erklärt sind: Urininkontinenz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rhabdomyolyse</i> erhöhen würden: Gliederschmerzen</li></ul>",
+      "label": "Rhabdomyolyse",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pelvic_inflammatory_disease"
+        }
+      },
+      "diagnosisId": "D.pelvicInflammatoryDisease",
+      "explanation": "<ul><li>Probleme, welche durch <i>Harnwegsinfekt</i> besser erklärt sind: Müdigkeit, Urininkontinenz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Menstruationsbeschwerden, vaginale Blutung, Probleme beim Geschlechtsverkehr, vaginaler Ausfluss, urethraler Ausfluss</li></ul>",
+      "label": "Pelvic Inflammatory Disease",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (43) bei Dysurie seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Fieber und eine Urininkontinenz.<br /><br />Bauchschmerzen, Nykturie, Hämaturie, Flankenschmerzen, Nausea, urethraler Ausfluss, Tachykardien und Palpitationen werden verneint. <h2>Diagnoseliste</h2>- Arterielle Hypertonie- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "5a1e6236-6087-4643-b169-588021863df9",
+  "topic": "nephrology"
+}

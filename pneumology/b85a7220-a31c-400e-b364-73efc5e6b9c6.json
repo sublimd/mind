@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Masern"
+        }
+      },
+      "diagnosisId": "D.measles",
+      "explanation": "<ul><li><i>Viraler Infekt der oberen Atemwege</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Viraler Infekt der oberen Atemwege</i> besser erklärt sind: Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Masern</i> erhöhen würden: Hautveränderungen</li></ul>",
+      "label": "Masern",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelallergie"
+        }
+      },
+      "diagnosisId": "D.foodAllergy",
+      "explanation": "<ul><li>Probleme, welche durch <i>Viraler Infekt der oberen Atemwege</i> besser erklärt sind: Fieber, Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Nausea, Erbrechen, Bauchschmerzen, Diarrhoe, Blähungen, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
+      "label": "Nahrungsmittelallergie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteLaryngitis",
+      "explanation": "<ul><li><i>Viraler Infekt der oberen Atemwege</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Viraler Infekt der oberen Atemwege</i> besser erklärt sind: nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie</li></ul>",
+      "label": "Akute Laryngitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.upperAirwayInfection",
+      "explanation": "",
+      "label": "Viraler Infekt der oberen Atemwege",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Allergische_Rhinitis"
+        }
+      },
+      "diagnosisId": "D.allergicRhinitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Viraler Infekt der oberen Atemwege</i> besser erklärt sind: Fieber, Dyspnoe</li></ul>",
+      "label": "Allergische Rhinitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (41) bei Rhinorrhoe seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über eine nasale Obstruktion, Husten, Dyspnoe, Fieber und eine vermehrte Müdigkeit.<br /><br />Niesen, Kopfschmerzen, eine Augenrötung, Halsschmerzen, Gliederschmerzen, Hautveränderungen, Dysphagie, Thoraxschmerzen, Dysphonie und vergrösserte Lymphknoten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 15py (20 Zigaretten täglich während 15 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "b85a7220-a31c-400e-b364-73efc5e6b9c6",
+  "topic": "pneumology"
+}

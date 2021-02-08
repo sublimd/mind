@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cholelithiasis"
+        }
+      },
+      "diagnosisId": "D.cholelithiasis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li></ul>",
+      "label": "Cholelithiasis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Leberzirrhose"
+        }
+      },
+      "diagnosisId": "D.liverCirrhosis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gewichtsverlust, Appetitverlust, Ikterus, Pruritus, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "label": "Leberzirrhose",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mallory-Weiss-Syndrom"
+        }
+      },
+      "diagnosisId": "D.malloryWeissSyndrome",
+      "explanation": "",
+      "label": "Mallory-Weiss Syndrom",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akutes_Koronarsyndrom"
+        }
+      },
+      "diagnosisId": "D.acuteCoronarySyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Dyspnoe, Schwindel</li></ul>",
+      "label": "Myokardinfarkt",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.foreignBodyIngestion",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Verschluckter Fremdkörper</i> erhöhen würden: Dysphagie, Thoraxschmerzen</li></ul>",
+      "label": "Verschluckter Fremdkörper",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (71) bei Hämatemesis vor sechs Stunden.<br /><br />Zusätzlich berichtet der Patient über epigastrische Bauchschmerzen.<br /><br />Aktuell hätten die Bauchschmerzen eine Intensität von VAS 3/10.<br /><br />Nausea, Fieber, Meläna, Thoraxschmerzen, Pruritus, ein Ikterus, Hämatochezie und saures Aufstossen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 52py (20 Zigaretten täglich während 52 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "79c6fc13-c5ea-41fe-99df-1bcf827db870",
+  "topic": "gastroenterology"
+}

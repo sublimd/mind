@@ -1,0 +1,50 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Dystonie"
+        }
+      },
+      "diagnosisId": "D.dystonia",
+      "explanation": "<ul><li><i>Nackenschmerzen (Myalgie)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie, Sehstörungen</li></ul>",
+      "label": "Dystonie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.clavicleContusion",
+      "explanation": "<ul><li><i>Nackenschmerzen (Myalgie)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kontusion der Clavicula</i> erhöhen würden: Schulterschmerzen, Hautschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Kontusion der Clavicula</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "label": "Kontusion der Clavicula",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Thoracic-outlet-Syndrom"
+        }
+      },
+      "diagnosisId": "D.thoracicOutletSyndrome",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thoracic Outlet Syndrome (TOS)</i> erhöhen würden: Schulterschmerzen, Armschmerzen, Sensibilitätsstörungen, Muskelschwäche</li></ul>",
+      "label": "Thoracic Outlet Syndrome (TOS)",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.cervicalSpineSprain",
+      "explanation": "",
+      "label": "Nackenschmerzen (Myalgie)",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acromioclavicularJointDislocation",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AC-Gelenksluxation</i> erhöhen würden: Schulterschmerzen, Hautschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>AC-Gelenksluxation</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "label": "AC-Gelenksluxation",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (46) bei drückenden Nackenschmerzen (bis VAS 7/10) seit einem Tag.<br /><br />Ein kürzliches Trauma, Lähmungserscheinungen, Sensibilitätsstörungen, Schulterschmerzen, eine Hautschwellung, Fieber, Dysphagie, Muskelkrämpfe und vergrösserte Lymphknoten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "39e9d1e7-740b-469f-9014-20470bfc59a4",
+  "topic": "rheumatology"
+}

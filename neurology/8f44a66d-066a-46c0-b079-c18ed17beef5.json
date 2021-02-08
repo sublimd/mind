@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.gravesDisease",
+      "label": "Morbus Basedow",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hypoglykemia",
+      "label": "Hypoglykämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.corticobasalDegeneration",
+      "label": "Kortikobasale Degeneration",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.multipleSystemAtrophy",
+      "label": "Multisystematrophie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.essentialTremor",
+      "label": "Essentieller Tremor",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (57) bei Tremor seit acht Tagen.<br /><br />Eine Hyperhidrose, Ataxie, Nachtschweiss, Dysphagie und Dysarthrie werden verneint. <h2>Medikamente</h2>- Risperidon<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 33py (20 Zigaretten täglich während 33 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "8f44a66d-066a-46c0-b079-c18ed17beef5",
+  "topic": "neurology"
+}

@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Analabszess"
+        }
+      },
+      "diagnosisId": "D.analAbscess",
+      "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Analabszess</i> erhöhen würden: vergrösserter Lymphknoten, Hautabszess</li></ul>",
+      "label": "Analabszess",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/H%C3%A4morrhoiden"
+        }
+      },
+      "diagnosisId": "D.hemorrhoids",
+      "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hämorrhoiden</i> erhöhen würden: analer Juckreiz</li></ul>",
+      "label": "Hämorrhoiden",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Proklitisch"
+        }
+      },
+      "diagnosisId": "D.proctitis",
+      "explanation": "",
+      "label": "Proktitis",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Kolonkarzinom"
+        }
+      },
+      "diagnosisId": "D.colorectalCancer",
+      "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: anale Schmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kolonkarzinom</i> erhöhen würden: Gewichtsverlust, Bauchschmerzen</li></ul>",
+      "label": "Kolonkarzinom",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.bacterialEnteritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: anale Schmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Bakterielle Enteritis</i> erhöhen würden: Fieber, Bauchschmerzen, Nausea, Erbrechen</li></ul>",
+      "label": "Bakterielle Enteritis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei Diarrhoe seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über anale Schmerzen und Hämatochezie.<br /><br />Bauchschmerzen, Erbrechen, Fieber, ein Gewichtsverlust, Obstipation, Schüttelfrost und eine Hautschwellung werden verneint. <h2>Diagnoseliste</h2>- Lues<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "cfeacbce-7525-4ce0-a564-56965b914107",
+  "topic": "gastroenterology"
+}

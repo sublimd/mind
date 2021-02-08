@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hordeolum"
+        }
+      },
+      "diagnosisId": "D.hordeolum",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Lidschwellung</li></ul>",
+      "label": "Hordeolum",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.bacterialKeratitis",
+      "explanation": "",
+      "label": "Akute bakterielle Keratitis",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.allergicConjunctivitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Juckreiz im Auge, Lidschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Bekannte Allergien</li></ul>",
+      "label": "Allergische Konjunktivitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.foreignBodyInConjunctiva",
+      "explanation": "",
+      "label": "Konjunktivaler Fremdkörper",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.bacterialConjunctivitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge</li></ul>",
+      "label": "Akute bakterielle Konjunktivitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (77) bei einer Augenrötung.<br /><br />Zusätzlich berichtet der Patient über Augenschmerzen, ein Fremdkörpergefühl im Auge, Sehstörungen und Ausfluss aus dem Auge.<br /><br /> Allergien auf Umweltfaktoren (Pollen, Katzenhaare etc.) werden verneint. <br /><br />Juckreiz in den Augen, eine Lidschwellung, Rhinorrhoe und Fieber werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 24py (10 Zigaretten täglich während 48 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "eaf69858-d167-4e76-bd18-12a858f0f419",
+  "topic": "ophthalmology"
+}

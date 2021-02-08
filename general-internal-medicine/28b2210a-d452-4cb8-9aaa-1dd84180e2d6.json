@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.pulmonaryEmbolism",
+      "label": "Lungenembolie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
+      "label": "AV-Block II°, Mobitz II",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.corPulmonale",
+      "label": "Cor pulmonale",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.situationalSyncope",
+      "label": "Situative Synkope",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.atrioventricularBlockThirdDegree",
+      "label": "AV-Block III°",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (46) bei einer Synkope vor vier Tagen.<br /><br />Die Patientin berichtet über Schwindel vor der Synkope.<br /><br />Zusätzlich berichtet die Patientin über Nausea.<br /><br />Dyspnoe, Palpitationen, Bradykardien und Orthopnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "28b2210a-d452-4cb8-9aaa-1dd84180e2d6",
+  "topic": "general-internal-medicine"
+}

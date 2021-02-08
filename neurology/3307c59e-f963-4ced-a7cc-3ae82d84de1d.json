@@ -1,0 +1,50 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      },
+      "diagnosisId": "D.infectiousMononucleosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
+      "label": "Infektiöse Mononukleose",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.lymeBorreliosisStage1",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "label": "Lyme Borreliose Stadium 1",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
+        }
+      },
+      "diagnosisId": "D.myocarditis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Palpitationen, Tachykardien, Schwellung der Unterschenkel, Thoraxschmerzen</li></ul>",
+      "label": "Myokarditis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteViralMeningitis",
+      "explanation": "",
+      "label": "Akute virale Meningitis",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.tickborneEncephalitis",
+      "explanation": "</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "label": "Frühsommer-Meningoencephalitis (FSME)",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (21) bei Kopfschmerzen seit vier Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Fieber, Gliederschmerzen, eine Verwirrtheit, Nackensteifigkeit und eine Hörminderung.<br /><br /> Der Aufenthalt in Wäldern wird verneint. <br /><br />Nausea, Erbrechen, Sehstörungen, ein kürzlicher Bewusstseinsverlust, eine Photophobie, Nackenschmerzen, eine Phonophobie, Lähmungserscheinungen, Sensibilitätsstörungen, Husten, Halsschmerzen, Odynophagie, Hautveränderungen, vergrösserte Lymphknoten und Diarrhoe werden verneint. <h2>Diagnoseliste</h2>- HSV-Zervizitis<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "3307c59e-f963-4ced-a7cc-3ae82d84de1d",
+  "topic": "neurology"
+}

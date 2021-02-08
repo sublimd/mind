@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Masern"
+        }
+      },
+      "diagnosisId": "D.measles",
+      "explanation": "",
+      "label": "Masern",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Tular%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.tularemia",
+      "explanation": "<ul><li><i>Masern</i> ist häufiger</li><li>Symptome, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Augenrötung</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Tularämie</i> erhöhen würden: Appetitverlust, Nausea, Erbrechen</li></ul>",
+      "label": "Tularämie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.drugInducedLiverInjury",
+      "explanation": "<ul><li>Symptome, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Augenrötung</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Bauchschmerzen, Appetitverlust, Gewichtsverlust, Nausea, Erbrechen, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
+      "label": "Medikamenteninduzierte Hepatotoxizität",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.leptospirosisStage1",
+      "explanation": "<ul><li><i>Masern</i> ist häufiger</li><li>Symptome, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Müdigkeit</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Leptospirose Stadium I</i> erhöhen würden: Kopfschmerzen, Gliederschmerzen, Husten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leptospirose Stadium I</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Leptospirose Stadium I",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      },
+      "diagnosisId": "D.typhoidFever",
+      "explanation": "<ul><li>Symptome, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Augenrötung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Typhus abdominalis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (19) bei einer Hautveränderung am Rücken seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Fieber, Dysphagie, eine vermehrte Müdigkeit, eine Augenrötung und Diarrhoe.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. Eine Therapie mit Analgetika wird verneint. <br /><br />Pruritus, eine Hautschwellung, vergrösserte Lymphknoten, Husten, Erbrechen, Nausea, eine nasale Obstruktion, ein Gewichtsverlust und ein Ikterus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "25e8b8ad-c6a4-4299-ba54-b19feb70b735",
+  "topic": "infectiology"
+}

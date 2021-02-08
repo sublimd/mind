@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hodentorsion"
+        }
+      },
+      "diagnosisId": "D.testicularTorsion",
+      "explanation": "",
+      "label": "Hodentorsion",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.nonseminomaOfTestis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hodentorsion</i> besser erklärt sind: Nausea</li></ul>",
+      "label": "Hodenkarzinom (Non-Seminom)",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.seminomaOfTestis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hodentorsion</i> besser erklärt sind: Nausea</li></ul>",
+      "label": "Hodenkarzinom (Seminom)",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Epididymitis"
+        }
+      },
+      "diagnosisId": "D.epididymitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hodentorsion</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Fieber</li></ul>",
+      "label": "Epididymitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Urolithiasis"
+        }
+      },
+      "diagnosisId": "D.urolithiasis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hodentorsion</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Urolithiasis</i> erhöhen würden: Flankenschmerzen</li></ul>",
+      "label": "Urolithiasis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (19) bei Hodenschmerzen seit drei Stunden.<br /><br />Zusätzlich berichtet der Patient über eine Hodenschwellung und Nausea.<br /><br />Bauchschmerzen, Fieber, Flankenschmerzen, Pollakisurie, Dysurie, Hämaturie, Leistenschmerzen und ein Gewichtsverlust werden verneint.",
+  "id": "b5575113-f998-4f29-af23-2a8077e50695",
+  "topic": "nephrology"
+}

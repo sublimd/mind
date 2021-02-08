@@ -1,0 +1,50 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.upperAirwayInfection",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chikungunya Fieber</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Husten, Halsschmerzen, Odynophagie, Dyspnoe</li></ul>",
+      "label": "Viraler Infekt der oberen Atemwege",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chikungunyafieber"
+        }
+      },
+      "diagnosisId": "D.chikungunyaFever",
+      "explanation": "",
+      "label": "Chikungunya Fieber",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.lymeBorreliosisStage1",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "label": "Lyme Borreliose Stadium 1",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
+        }
+      },
+      "diagnosisId": "D.malaria",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chikungunya Fieber</i> besser erklärt sind: Hautveränderungen</li></ul>",
+      "label": "Malaria",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.viralPharyngitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chikungunya Fieber</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, Dysphonie</li></ul>",
+      "label": "Virale Pharyngitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (62) bei Gliederschmerzen seit vier Tagen.<br /><br />Zusätzlich berichtet die Patientin über Fieber seit einem Tag sowie ein erythematöses Exanthem am Rumpf.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br /> Der Aufenthalt in Wäldern wird verneint. <br /><br />Schüttelfrost, Halsschmerzen, Odynophagie, Husten, Kopfschmerzen, Nausea, vergrösserte Lymphknoten, Diarrhoe, Bauchschmerzen, Dysurie und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "901a7107-6b58-4f6e-b485-2a76a64d7c43",
+  "topic": "infectiology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.multipleSclerosis",
+      "label": "Multiple Sklerose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.preeclampsia",
+      "label": "Präeklampsie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.insulinoma",
+      "label": "Insulinom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.cocaineIntoxication",
+      "label": "Kokain-Intoxikation",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.eclampsia",
+      "label": "Eklampsie",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (26) bei Status nach Krampfanfall vor zwei Stunden.<br /><br />Aktuell berichtet die Patientin über erhöhte Blutdruckwerte, Schwindel, eine beidseitige Beinschwellung und Sehstörungen.<br /><br />Die Patientin gibt an schwanger zu sein.<br /><br />Nausea, Sensibilitätsstörungen, Kopfschmerzen, Bauchschmerzen, Palpitationen, Fieber, Dyspnoe, Augenschmerzen, eine Urininkontinenz und eine Stuhlinkontinenz werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Kein Alkoholkonsum.",
+  "id": "55316070-8b56-4938-b1e6-b5ec91a67977",
+  "topic": "obstetrics"
+}

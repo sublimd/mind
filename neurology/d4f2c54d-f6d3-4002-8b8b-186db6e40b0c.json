@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.subduralHematoma",
+      "label": "Subduralhämatom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.subarachnoidHemorrhage",
+      "label": "Subarachnoidalblutung",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.intracerebralHemorrhage",
+      "label": "Intrazerebrale Blutung",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.migraineHeadache",
+      "label": "Migräne",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.concussion",
+      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (41) bei einem Bewusstseinsverlust seit zwei Stunden.<br /><br />Zuvor berichtete die Patientin über Kopfschmerzen, erhöhte Blutdruckwerte, Dysarthrie, eine Muskelschwäche, Nausea und Schwindel.<br /><br />Eine Therapie mit blutverdünnenden Medikamenten wird bejaht.<br /><br />Ein Trauma wird verneint. <h2>Diagnoseliste</h2>- Essentielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "d4f2c54d-f6d3-4002-8b8b-186db6e40b0c",
+  "topic": "neurology"
+}

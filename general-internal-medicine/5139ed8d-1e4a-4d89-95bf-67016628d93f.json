@@ -1,0 +1,27 @@
+{
+  "answers": [
+    {
+      "label": "Schnarchen",
+      "isCorrect": false
+    },
+    {
+      "label": "Narkolepsie",
+      "isCorrect": false
+    },
+    {
+      "label": "Chronische Niereninsuffizienz",
+      "isCorrect": false
+    },
+    {
+      "label": "Zentrales Schlafapnoesyndrom",
+      "isCorrect": true
+    },
+    {
+      "label": "Cushing Syndrom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (80) bei einer vermehrten Müdigkeit seit zwei Wochen.<br /><br />Im Zusammenhang mit der Müdigkeit sei es ausserdem zu Schlafstörungen gekommen.<br />Der Patient berichtet von Schlafapnoe-Attacken, einer Tagseschläfrigkeit, paroxysmalen nächtliche Dyspnoeattacken und einem erhöhten Blutdruck.<br /><br />Fieber, Gewichtsverlust, Nachtschweiss oder eine depressive Stimmung im Zusammenhang mit der Müdigkeit wird verneint. <br /><br />Schnarchen, Kopfschmerzen, Thoraxschmerzen, Nykturie und eine Schwellung der Unterschenkel werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "5139ed8d-1e4a-4d89-95bf-67016628d93f",
+  "topic": "general-internal-medicine"
+}

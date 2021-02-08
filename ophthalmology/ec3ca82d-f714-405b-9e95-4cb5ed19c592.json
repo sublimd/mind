@@ -1,0 +1,42 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.hypermetropia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Katarakt</i> besser erklärt sind: Photophobie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypermetropie</i> erhöhen würden: Kopfschmerzen</li></ul>",
+      "label": "Hypermetropie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.hypertensiveRetinopathy",
+      "explanation": "<ul><li>Probleme, welche durch <i>Katarakt</i> besser erklärt sind: Photophobie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Retinopathie</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
+      "label": "Hypertensive Retinopathie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.tickborneEncephalitis",
+      "explanation": "<ul><li><i>Katarakt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Kopfschmerzen, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Fieber, Gliederschmerzen, Gelenkschmerzen, Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
+      "label": "Frühsommer-Meningoencephalitis (FSME)",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteBacterialMeningitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Meningitis</i> erhöhen würden: Nackensteifigkeit, Fieber, Verwirrtheit, Amnesie, Kopfschmerzen</li></ul>",
+      "label": "Akute bakterielle Meningitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.cataract",
+      "explanation": "",
+      "label": "Katarakt",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (59) bei Sehstörungen seit zwei Monaten.<br /><br />Der Patient beschreibt ein Verschwommensehen.<br /><br />Zusätzlich berichtet der Patient über eine Photophobie.<br /><br />Kopfschmerzen, eine Augenrötung, Augenschmerzen, Amnesie, Fieber und Nackensteifigkeit werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 12py (30 Zigaretten täglich während 8 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "ec3ca82d-f714-405b-9e95-4cb5ed19c592",
+  "topic": "ophthalmology"
+}

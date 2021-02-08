@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.spondylarthrosis",
+      "label": "Spondylarthrose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.lumbarHerniatedDisc",
+      "label": "Lumbale Diskushernie",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.uterineDescensus",
+      "label": "Descensus uteri",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.placentaPrevia",
+      "label": "Placenta praevia",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.rectocele",
+      "label": "Rektozele",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (51) bei Rückenschmerzen lumbal seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Sensibilitätsstörungen an der rechten unteren Extremität.<br /><br />Lähmungserscheinungen, Hüftschmerzen, Bauchschmerzen, Fieber, Beinschmerzen, vaginale Blutungen, eine Stuhlinkontinenz, Probleme beim Geschlechtsverkehr und ein Harnverhalt werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "416987d8-0db8-4a05-a474-90f22a3fee73",
+  "topic": "rheumatology"
+}

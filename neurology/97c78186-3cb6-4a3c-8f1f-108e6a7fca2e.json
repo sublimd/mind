@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hirntumor"
+        }
+      },
+      "diagnosisId": "D.malignantNeoplasmOfBrain",
+      "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirntumor</i> erhöhen würden: Kopfschmerzen, Krampfanfall</li></ul>",
+      "label": "Hirntumor",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteAngleClosureGlaucoma",
+      "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Sensibilitätsstörungen, Dysphagie, Dysphonie, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akutes Winkelblockglaukom</i> erhöhen würden: Augenrötung</li></ul>",
+      "label": "Akutes Winkelblockglaukom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Wallenberg-Syndrom"
+        }
+      },
+      "diagnosisId": "D.wallenbergSyndrome",
+      "explanation": "",
+      "label": "Wallenberg-Syndrom",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akustikusneurinom"
+        }
+      },
+      "diagnosisId": "D.acousticNeuroma",
+      "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Dysphagie, Sehstörungen, Dysphonie, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akustikusneurinom</i> erhöhen würden: Hörminderung, Tinnitus</li></ul>",
+      "label": "Akustikusneurinom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoglyk%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypoglykemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Dysphagie, Dysphonie, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Tremor, Hyperhidrose</li></ul>",
+      "label": "Hypoglykämie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (35) bei Schwindel seit drei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Gesichtsschmerzen, Sensibilitätsstörungen, Dysphagie, Sehstörungen, Dysphonie und Dysarthrie.<br /><br />Nausea, Kopfschmerzen, Palpitationen, eine Hörminderung, Lähmungserscheinungen, Krampfanfälle und Ausfluss aus dem Ohr werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 1py (20 Zigaretten täglich während 1 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",
+  "id": "97c78186-3cb6-4a3c-8f1f-108e6a7fca2e",
+  "topic": "neurology"
+}

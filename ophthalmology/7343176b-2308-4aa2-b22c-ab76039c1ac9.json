@@ -1,0 +1,42 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.viralConjunctivitis",
+      "explanation": "",
+      "label": "Virale Konjunktivitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.bacterialConjunctivitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Konjunktivitis</i> erhöhen würden: Augenschmerzen</li></ul>",
+      "label": "Akute bakterielle Konjunktivitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.chalazion",
+      "explanation": "",
+      "label": "Chalazion",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.allergicConjunctivitis",
+      "explanation": "",
+      "label": "Allergische Konjunktivitis",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.hordeolum",
+      "explanation": "",
+      "label": "Hordeolum",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (32) bei einer beidseitigen Augenrötung.<br /><br />Zusätzlich berichtet der Patient über wässrigen Ausfluss aus dem Auge, Juckreiz und eine Augenschwellung.<br /><br />Allergien auf Umweltfaktoren (Pollen, Katzenhaare etc.) werden bejaht.<br /><br />Sehstörungen, Augenschmerzen, Rhinorrhoe, eine nasale Obstruktion, Fieber, Odynophagie und vergrösserte Lymphknoten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "7343176b-2308-4aa2-b22c-ab76039c1ac9",
+  "topic": "ophthalmology"
+}

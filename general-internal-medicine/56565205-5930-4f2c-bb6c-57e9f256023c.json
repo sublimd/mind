@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.hypercortisolism",
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, Schwellung der Unterschenkel, Schwellung der Beine, Hautschwellung, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "label": "Cushing Syndrom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hypertensiveEncephalopathy",
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Hypertensive Enzephalopathie</i> erhöhen würden: Kopfschmerzen, Verwirrtheit, Erbrechen, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Enzephalopathie</i> erhöhen würden: Bekannte arterielle Hypertonie</li></ul>",
+      "label": "Hypertensive Enzephalopathie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.essentialHypertension",
+      "explanation": "",
+      "label": "Essentielle Hypertonie",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.hypertensiveNephrosclerosis",
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Hypertensive Nephropathie</i> erhöhen würden: Schwellung der Unterschenkel, Schwellung der Beine, Nausea, Erbrechen, Appetitverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Nephropathie</i> erhöhen würden: Bekannte rterielle Hypertonie</li></ul>",
+      "label": "Hypertensive Nephropathie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.polycysticKidneyDisease",
+      "explanation": "<ul><li><i>Essentielle Hypertonie</i> ist häufiger</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Polyzystische Nierenerkrankung (PKD)</i> erhöhen würden: Flankenschmerzen, Bauchschmerzen</li></ul>",
+      "label": "Polyzystische Nierenerkrankung (PKD)",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (74) bei erhöhten Blutdruckwerten seit zehn Tagen.<br /><br />Kopfschmerzen, Thoraxschmerzen, Schwindel, Bauchschmerzen, Nausea und eine Beinschwellung werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "56565205-5930-4f2c-bb6c-57e9f256023c",
+  "topic": "general-internal-medicine"
+}

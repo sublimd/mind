@@ -1,0 +1,69 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.seminomaOfTestis",
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hodenkarzinom (Seminom)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Seminom"
+        },
+        "en": {
+          "wikipedia": "https://en.wikipedia.org/wiki/Seminoma"
+        }
+      }
+    },
+    {
+      "diagnosisId": "D.testicularTorsion",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hodentorsion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hodentorsion"
+        },
+        "en": {
+          "wikipedia": "https://en.wikipedia.org/wiki/Testicular_torsion"
+        }
+      }
+    },
+    {
+      "diagnosisId": "D.testicularVaricocele",
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Varicocele testis",
+      "references": {
+        "de": {},
+        "en": {}
+      }
+    },
+    {
+      "diagnosisId": "D.spermatocele",
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Spermatozele",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Spermatozele"
+        },
+        "en": {
+          "wikipedia": "https://en.wikipedia.org/wiki/Spermatocele"
+        }
+      }
+    },
+    {
+      "diagnosisId": "D.nonseminomaOfTestis",
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hodenkarzinom (Non-Seminom)",
+      "references": {
+        "de": {},
+        "en": {}
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (57) bei Hodenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über eine Hodenschwellung, Nausea und Fieber.<br /><br />Leistenschmerzen, Bauchschmerzen, Flankenschmerzen, Hämaturie, ein Gewichtsverlust, eine erektile Dysfunktion, Rückenschmerzen und ein unerfüllter Kinderwunsch werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 50py (20 Zigaretten täglich während 50 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "aaafee18-4310-4542-b4ed-2b6c07116120",
+  "topic": "general-internal-medicine"
+}

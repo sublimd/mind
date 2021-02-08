@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.hyperkalemia",
+      "label": "Hyperkaliämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.bellsPalsy",
+      "label": "Idiopathische Fazialisparese",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.clusterHeadache",
+      "label": "Cluster-Kopfschmerz",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hypertensiveEncephalopathy",
+      "label": "Hypertensive Enzephalopathie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.lymeBorreliosisStage3",
+      "label": "Lyme Borreliose Stadium 3",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (29) bei einer Muskelschwäche im Gesicht seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Kopfschmerzen.<br /><br /> Der Aufenthalt in Wäldern wird verneint. <br /><br />Sensibilitätsstörungen, Rückenschmerzen, Nausea, Palpitationen, erhöhte Blutdruckwerte, eine Hörminderung und Fieber werden verneint. <h2>Diagnoseliste</h2>- Schwangerschaft<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 20py (30 Zigaretten täglich während 13 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "9214a883-4c6d-4f01-91a3-0e59080fd7fa",
+  "topic": "neurology"
+}

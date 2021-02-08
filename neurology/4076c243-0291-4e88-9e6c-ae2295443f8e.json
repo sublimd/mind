@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.multipleSystemAtrophy",
+      "label": "Multisystematrophie",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.essentialTremor",
+      "label": "Essentieller Tremor",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.corticobasalDegeneration",
+      "label": "Kortikobasale Degeneration",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.parkinsonsDisease",
+      "label": "Morbus Parkinson",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.parkinsonianSyndromes",
+      "label": "Sekundäres Parkinson-Syndrom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (53) bei Tremor seit sechs Wochen.<br /><br />Zusätzlich berichtet die Patientin über Rigor, Ataxie, Dysphagie und Dysarthrie.<br /><br />Schlafstörungen, Angstzustände, Obstipation, Amnesie, eine Urininkontinenz und niedrige Blutdruckwerte werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "4076c243-0291-4e88-9e6c-ae2295443f8e",
+  "topic": "neurology"
+}

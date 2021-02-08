@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.hemorrhoids",
+      "label": "Hämorrhoiden",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.analFissures",
+      "label": "Analfissur",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.analAbscess",
+      "label": "Analabszess",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.acuteProstatitis",
+      "label": "Akute Prostatitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.proctitis",
+      "label": "Proktitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (18) bei analen Schmerzen seit vier Tagen.<br /><br />Verstärkung der analen Schmerzen beim Stuhlgang.<br /><br />Zusätzlich berichtet der Patient über eine Hautschwellung perianal und Obstipation.<br /><br />Der Stuhlgang sei schmerzhaft.<br /><br />Hämatochezie, analer Juckreiz, Hautveränderungen, eine Urininkontinenz, Pollakisurie, Bauchschmerzen und Nausea werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "77459365-fef1-476d-915f-f511b4c2ffb4",
+  "topic": "gastroenterology"
+}

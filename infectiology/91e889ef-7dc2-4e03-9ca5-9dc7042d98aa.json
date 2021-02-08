@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
+        }
+      },
+      "diagnosisId": "D.malaria",
+      "explanation": "<ul><li>Probleme, welche durch <i>Influenza</i> besser erklärt sind: Rhinorrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Malaria</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Malaria",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.leptospirosisStage1",
+      "explanation": "<ul><li><i>Influenza</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Influenza</i> besser erklärt sind: Rhinorrhoe, Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leptospirose Stadium I</i> erhöhen würden: Augenrötung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leptospirose Stadium I</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Leptospirose Stadium I",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
+      "explanation": "",
+      "label": "Ambulant erworbene atypische Pneumonie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      },
+      "diagnosisId": "D.typhoidFever",
+      "explanation": "<ul><li>Probleme, welche durch <i>Influenza</i> besser erklärt sind: Rhinorrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Typhus abdominalis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      },
+      "diagnosisId": "D.influenza",
+      "explanation": "",
+      "label": "Influenza",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei dumpfen Kopfschmerzen (bis VAS 6/10).<br /><br />Im Verlauf seien die Kopfschmerzen zunehmend geworden.<br /><br />Zusätzlich berichtet die Patientin über Fieber seit fünf Tagen sowie klare Rhinorrhoe, Husten, Gliederschmerzen, Müdigkeit und Nausea.<br /><br />Die Müdigkeit sei am Morgen am stärksten ausgeprägt.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Erbrechen, Schüttelfrost, Dyspnoe, Odynophagie, Bauchschmerzen, vergrösserte Lymphknoten, Diarrhoe, eine Augenrötung, Nachtschweiss, Flankenschmerzen und Dysurie werden verneint. <h2>Diagnoseliste</h2>- Chronische Niereninsuffizienz<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 42py (30 Zigaretten täglich während 28 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "91e889ef-7dc2-4e03-9ca5-9dc7042d98aa",
+  "topic": "infectiology"
+}

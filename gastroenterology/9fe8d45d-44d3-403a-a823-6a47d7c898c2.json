@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.splenicAbscess",
+      "label": "Milzabszess",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.gallbladderEmpyema",
+      "label": "Gallenblasenempyem",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.echinococcosisOfLiver",
+      "label": "Echinokokkose der Leber",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.paracetamolIntoxication",
+      "label": "Akute Paracetamol-Intoxikation",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteProstatitis",
+      "label": "Akute Prostatitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei Bauchschmerzen im rechten Oberbauch seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Fieber, Schüttelfrost, Nausea und Pruritus.<br /><br />Erbrechen, Diarrhoe, ein Appetitverlust, Obstipation, ein Ikterus, Tachykardien, Hämatochezie, Meläna, eine Urininkontinenz und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",
+  "id": "9fe8d45d-44d3-403a-a823-6a47d7c898c2",
+  "topic": "gastroenterology"
+}

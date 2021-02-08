@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.gonarthrosis",
+      "label": "Gonarthrose",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.psoriaticArthritis",
+      "label": "Psoriasis-Arthritis (PsA)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.overweight",
+      "label": "Übergewicht",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.osgoodSchlatterDisease",
+      "label": "Morbus Osgood-Schlatter",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.meniscusLesion",
+      "label": "Meniskusläsion",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (71) bei atraumatischen Knieschmerzen seit einem Monat.<br /><br />Verstärkung bzw. Auslösung der Knieschmerzen bei Bewegung.<br /><br />Zusätzlich berichtet der Patient über eine Kniesteifigkeit.<br /><br />Eine Knieschwellung, eine Knierötung, Handgelenksschmerzen, Fussschmerzen, Handschmerzen, Fieber und Fingerschmerzen werden verneint. <h2>Diagnoseliste</h2>- Genu valgum<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",
+  "id": "0c0a2392-98f2-42d0-b1d4-39408932ca0f",
+  "topic": "general-internal-medicine"
+}

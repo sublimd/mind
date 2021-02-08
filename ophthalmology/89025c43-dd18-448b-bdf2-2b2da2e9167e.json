@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.foreignBodyInConjunctiva",
+      "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Augentrockenheit</li></ul>",
+      "label": "Konjunktivaler Fremdkörper",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pinguecula"
+        }
+      },
+      "diagnosisId": "D.pinguecula",
+      "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Übermässiger Tränenfluss</li></ul>",
+      "label": "Pinguecula",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Entropium"
+        }
+      },
+      "diagnosisId": "D.entropion",
+      "explanation": "",
+      "label": "Entropium",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fazialisparese"
+        }
+      },
+      "diagnosisId": "D.bellsPalsy",
+      "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Fremdkörpergefühl im Auge, übermässiger Tränenfluss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Idiopathische Fazialisparese</i> erhöhen würden: Muskelschwäche, hängendes Augenlid, Kopfschmerzen</li></ul>",
+      "label": "Idiopathische Fazialisparese",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pterygium_conjunctivae"
+        }
+      },
+      "diagnosisId": "D.pterygium",
+      "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Übermässiger Tränenfluss</li></ul>",
+      "label": "Pterygium",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (71) bei übermässigem Tränenfluss.<br /><br />Zusätzlich berichtet der Patient über ein linksseitiges Fremdkörpergefühl im Auge seit sechs Tagen sowie Augentrockenheit.<br /><br />Eine Augenrötung, Sehstörungen, Augenschmerzen, Juckreiz in den Augen, eine Augenschwellung, Rhinorrhoe, eine Mundtrockenheit, eine Hörminderung und Kopfschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "89025c43-dd18-448b-bdf2-2b2da2e9167e",
+  "topic": "ophthalmology"
+}

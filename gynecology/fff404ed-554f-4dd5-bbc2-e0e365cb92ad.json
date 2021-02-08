@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.tuboOvarianAbscess",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tuboovarialabszess</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
+      "label": "Tuboovarialabszess",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.chlamydialCervicitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Extrauterine Gravidität (EUG)</i> besser erklärt sind: Bauchschmerzen, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chlamydien-Zervizitis</i> erhöhen würden: vaginaler Ausfluss, Probleme beim Geschlechtsverkehr</li></ul>",
+      "label": "Chlamydien-Zervizitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteAdnexitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Adnexitis</i> erhöhen würden: Fieber, Schüttelfrost, vaginaler Ausfluss</li></ul>",
+      "label": "Akute Adnexitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Extrauteringravidit%C3%A4t"
+        }
+      },
+      "diagnosisId": "D.ectopicPregnancy",
+      "explanation": "",
+      "label": "Extrauterine Gravidität (EUG)",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.atrophicVaginitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Extrauterine Gravidität (EUG)</i> besser erklärt sind: Bauchschmerzen, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atrophe Vaginitis</i> erhöhen würden: vaginaler Juckreiz, Probleme beim Geschlechtsverkehr, vaginaler Ausfluss</li></ul>",
+      "label": "Atrophe Vaginitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (17) bei unerwarteten vaginalen Blutungen seit drei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen im Unterbauch, Dysurie und Nausea.<br /><br />Die Patientin schliesst die Möglichkeit einer Schwangerschaft nicht aus.<br /><br />Probleme beim Geschlechtsverkehr, vaginaler Ausfluss, Fieber, Schüttelfrost, Rückenschmerzen und Schwindel werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "fff404ed-554f-4dd5-bbc2-e0e365cb92ad",
+  "topic": "gynecology"
+}

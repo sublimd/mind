@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hiatushernie"
+        }
+      },
+      "diagnosisId": "D.diaphragmaticHernia",
+      "explanation": "",
+      "label": "Hiatushernie",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      },
+      "diagnosisId": "D.infectiousMononucleosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Fieber, Schüttelfrost, vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
+      "label": "Infektiöse Mononukleose",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Diffuser_%C3%96sophagusspasmus"
+        }
+      },
+      "diagnosisId": "D.diffuseEsophagealSpasm",
+      "explanation": "<ul><li><i>Hiatushernie</i> tritt statistisch häufiger auf</li></ul>",
+      "label": "Diffuser Oesophagusspasmus",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Achalasie"
+        }
+      },
+      "diagnosisId": "D.achalasia",
+      "explanation": "<ul><li><i>Hiatushernie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Achalasie</i> erhöhen würden: Gewichtsverlust</li></ul>",
+      "label": "Achalasie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.streptococcalTonsillitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Streptokokkentonsillitis</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen</li></ul>",
+      "label": "Streptokokkentonsillitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (47) bei retrosternalem Brennen seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Dysphagie.<br /><br />Ein Gewichtsverlust, Husten, Erbrechen, Thoraxschmerzen, Obstipation, Schüttelfrost, Halsschmerzen und vergrösserte Lymphknoten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "386a0441-88f8-49d4-ad49-38707595e4e2",
+  "topic": "gastroenterology"
+}

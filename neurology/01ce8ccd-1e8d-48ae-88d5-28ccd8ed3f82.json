@@ -1,0 +1,62 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fazialisparese"
+        }
+      },
+      "diagnosisId": "D.bellsPalsy",
+      "explanation": "",
+      "label": "Idiopathische Fazialisparese",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akustikusneurinom"
+        }
+      },
+      "diagnosisId": "D.acousticNeuroma",
+      "explanation": "<ul><li><i>Idiopathische Fazialisparese</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akustikusneurinom</i> erhöhen würden: Tinnitus, Schwindel, Ataxie</li></ul>",
+      "label": "Akustikusneurinom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Transitorische_isch%C3%A4mische_Attacke"
+        }
+      },
+      "diagnosisId": "D.transientIschemicAttack",
+      "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Transitorische ischämische Attacke (TIA)",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sinusitis"
+        }
+      },
+      "diagnosisId": "D.acuteRhinoSinusitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Muskelschwäche, Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Fieber, Schüttelfrost</li></ul>",
+      "label": "Akute Rhinosinusitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      },
+      "diagnosisId": "D.migraineHeadache",
+      "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
+      "label": "Migräne",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (74) bei rechtsseitiger Augentrockenheit.<br /><br />Zusätzlich berichtet die Patientin über eine Muskelschwäche im Gesicht seit einem Tag sowie drückende Kopfschmerzen und eine Hörminderung.<br /><br />Im Verlauf seien die Kopfschmerzen kommend und gehend.<br /><br />Sehstörungen, Fieber, Sensibilitätsstörungen, Rückenschmerzen, Tinnitus und Dysarthrie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 60py (30 Zigaretten täglich während 40 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "01ce8ccd-1e8d-48ae-88d5-28ccd8ed3f82",
+  "topic": "neurology"
+}

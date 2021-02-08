@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.upperAirwayInfection",
+      "label": "Viraler Infekt der oberen Atemwege",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.epiglottitis",
+      "label": "Akute Epiglottitis",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.ludwigAngina",
+      "label": "Ludwig-Angina",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.pulmonaryAspiration",
+      "label": "Aspirationspneumonie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.infectiousMononucleosis",
+      "label": "Infektiöse Mononukleose",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (9) bei Dysphonie seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Halsschmerzen, Dyspnoe und Fieber.<br /><br />Dysphagie, Odynophagie, Husten, Gliederschmerzen, Schmerzen im Mund und eine nasale Obstruktion werden verneint.",
+  "id": "c2e5b264-6f68-4c86-8468-bf34f74a1341",
+  "topic": "ear-nose-and-throat"
+}

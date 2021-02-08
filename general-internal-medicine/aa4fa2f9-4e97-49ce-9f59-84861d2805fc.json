@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.ectropion",
+      "label": "Ektropium",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.clusterHeadache",
+      "label": "Cluster-Kopfschmerz",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.bacterialConjunctivitis",
+      "label": "Akute bakterielle Konjunktivitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.viralConjunctivitis",
+      "label": "Virale Konjunktivitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hordeolum",
+      "label": "Hordeolum",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (78) bei frontalen Kopfschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über wässrigen Ausfluss aus dem Auge und eine Augenrötung.<br /><br />Lähmungserscheinungen, Schwindel, Nausea, Rhinorrhoe, Fieber, Erbrechen, eine Photophobie, eine Phonophobie, Sensibilitätsstörungen, Sehstörungen, Augenschmerzen, eine Augenschwellung und ein Fremdkörpergefühl im Auge werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 3 x / Woche, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "aa4fa2f9-4e97-49ce-9f59-84861d2805fc",
+  "topic": "general-internal-medicine"
+}

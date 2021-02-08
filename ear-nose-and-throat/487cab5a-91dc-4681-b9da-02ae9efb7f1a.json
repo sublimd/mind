@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.upperAirwayInfection",
+      "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Fieber, Schüttelfrost, Gliederschmerzen</li></ul>",
+      "label": "Viraler Infekt der oberen Atemwege",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schilddr%C3%BCsenkarzinom"
+        }
+      },
+      "diagnosisId": "D.malignantNeoplasmOfThyroidGland",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schilddrüsenkarzinom</i> erhöhen würden: Halsschwellung, vergrösserter Lymphknoten bzw. subkutaner Knoten, Dysphagie</li></ul>",
+      "label": "Schilddrüsenkarzinom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vocal_Cord_Dysfunction"
+        }
+      },
+      "diagnosisId": "D.vocalCordDysfunctionSyndrome",
+      "explanation": "",
+      "label": "Vocal Cord Dysfunction (VCD)",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pleuraerguss"
+        }
+      },
+      "diagnosisId": "D.pleuralEffusion",
+      "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pleuraerguss</i> erhöhen würden: Thoraxschmerzen</li></ul>",
+      "label": "Pleuraerguss",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Linksherzinsuffizienz"
+        }
+      },
+      "diagnosisId": "D.leftSidedHeartFailure",
+      "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Linksherzinsuffizienz</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li></ul>",
+      "label": "Linksherzinsuffizienz",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (74) bei Dyspnoe seit zehn Tagen.<br /><br />Zusätzlich berichtet der Patient über Husten und Dysphonie.<br /><br />Thoraxschmerzen, Fieber, Rhinorrhoe, vergrösserte Lymphknoten, eine Halsschwellung und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "487cab5a-91dc-4681-b9da-02ae9efb7f1a",
+  "topic": "ear-nose-and-throat"
+}

@@ -1,0 +1,42 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.anginaPectorisStable",
+      "explanation": "",
+      "label": "Stabile Angina pectoris",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.anemiaMacrocytic",
+      "explanation": "<ul><li>Probleme, welche durch <i>Stabile Angina pectoris</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "label": "Makrozytäre Anämie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.hyperventilationSyndrome",
+      "explanation": "<ul><li><i>Hyperventilationssyndrom</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Stabile Angina pectoris</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperventilationssyndrom</i> erhöhen würden: Sensibilitätsstörungen, Muskelkrämpfe</li></ul>",
+      "label": "Hyperventilationssyndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.pneumothorax",
+      "explanation": "<ul><li>Probleme, welche durch <i>Stabile Angina pectoris</i> besser erklärt sind: Bauchschmerzen</li></ul>",
+      "label": "Pneumothorax",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.aorticStenosis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aortenklappenstenose</i> erhöhen würden: Synkope, Bewusstseinsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Aortenklappenstenose</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
+      "label": "Aortenklappenstenose",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (35) bei Thoraxschmerzen im Bereich des Sternums seit sieben Tagen.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe, Schwindel und Bauchschmerzen epigastrisch.<br /><br />Verschlimmerung der Dyspnoe bei körperlicher Anstrengung.<br /><br />Ein ungesunder Ernährungsstil wird bejaht.<br /><br />Husten, Palpitationen, Nausea, Fieber, erhöhte Blutdruckwerte, Erbrechen, Synkopen, eine Hyperhidrose, ein kürzlicher Bewusstseinsverlust, Sensibilitätsstörungen und Muskelkrämpfe werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 2py (10 Zigaretten täglich während 3 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "3e55e9ef-7e05-43f7-beb4-ba58890e8595",
+  "topic": "cardiology"
+}

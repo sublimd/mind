@@ -1,0 +1,50 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Abszess"
+        }
+      },
+      "diagnosisId": "D.abscess",
+      "explanation": "<ul><li>Probleme, welche durch <i>Tendinitis der distalen Trizepssehne</i> besser erklärt sind: Ellbogenschmerzen</li></ul>",
+      "label": "Abszess",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Septische_Arthritis"
+        }
+      },
+      "diagnosisId": "D.septicArthritis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Septische Arthritis</i> erhöhen würden: Ellbogenschwellung, Fieber, Schüttelfrost</li></ul>",
+      "label": "Septische Arthritis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.epicondylitisLateralis",
+      "explanation": "<ul></ul>",
+      "label": "Epicondylitis humeri lateralis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.tricepsTendinopathy",
+      "explanation": "",
+      "label": "Tendinitis der distalen Trizepssehne",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.osteochondritisDissecans",
+      "explanation": "<ul><li>Probleme, welche durch <i>Tendinitis der distalen Trizepssehne</i> besser erklärt sind: Rötung</li></ul>",
+      "label": "Osteochondritis dissecans",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (34) bei Ellbogenschmerzen seit fünf Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Rötung oberhalb des linken Olecranons.<br /><br />Eine Ellbogenschwellung, eine Ellbogensteifigkeit und Fieber werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "cf22c723-9fb1-4a8b-bb8d-65f6a47d43c8",
+  "topic": "rheumatology"
+}

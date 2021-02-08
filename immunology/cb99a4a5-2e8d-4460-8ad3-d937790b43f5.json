@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.henochSchonleinPurpura",
+      "label": "Purpura Schönlein-Henoch",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.chikungunyaFever",
+      "label": "Chikungunya Fieber",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
+      "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.herpesZoster",
+      "label": "Herpes zoster",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hemolyticUremicSyndrome",
+      "label": "Hämolytisches urämisches Syndrom (HUS)",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (8) bei einer erythematösen bzw. pustulösen Hautveränderung an den Unterschenkeln und gluteal seit 2 Tagen.<br /><br />Zusätzlich berichtet der Patient über Gelenkschmerzen, Bauchschmerzen und Hämatochezie.<br /><br />Eine kürzliche Erkältung wird bejaht.<br /><br />Pruritus, Fieber, Schüttelfrost, Kopfschmerzen, Erbrechen und Hämaturie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Kein Alkoholkonsum.",
+  "id": "cb99a4a5-2e8d-4460-8ad3-d937790b43f5",
+  "topic": "immunology"
+}

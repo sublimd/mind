@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.diaphragmaticHernia",
+      "explanation": "",
+      "label": "Hiatushernie",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.foodAllergy",
+      "explanation": "<ul><li>Symptome, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen, Dysphagie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
+      "label": "Nahrungsmittelallergie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.diffuseEsophagealSpasm",
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Diffuser Oesophagusspasmus</i> erhöhen würden: Thoraxschmerzen, saures Aufstossen, Gewichtsverlust</li></ul>",
+      "label": "Diffuser Oesophagusspasmus",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.streptococcalTonsillitis",
+      "explanation": "<ul><li>Symptome, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen, Husten</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Streptokokkentonsillitis</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
+      "label": "Streptokokkentonsillitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.alcoholUseDisorder",
+      "explanation": "<ul><li>Symptome, welche durch <i>Hiatushernie</i> besser erklärt sind: Dysphagie, Husten, Erbrechen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Alkoholüberkonsum</i> erhöhen würden: Schlafstörungen, erhöhter Blutdruck, Angstzustände, depressive Stimmung</li></ul>",
+      "label": "Alkoholüberkonsum",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (45) bei retrosternalem Brennen seit sieben Tagen.<br /><br />Zusätzlich berichtet der Patient über Dysphagie, Husten und Erbrechen.<br /><br />Schlafstörungen, Thoraxschmerzen, Dyspnoe, Hautveränderungen, Obstipation, Pruritus und Rhinorrhoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "73351986-76cc-4f71-ab22-1513dc52b774",
+  "topic": "gastroenterology"
+}

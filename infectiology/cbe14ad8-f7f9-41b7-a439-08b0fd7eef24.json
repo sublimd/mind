@@ -1,0 +1,62 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Denguefieber"
+        }
+      },
+      "diagnosisId": "D.dengueFever",
+      "explanation": "<ul><li>Probleme, welche durch <i>Zerebrale Malaria</i> besser erklärt sind: Krampfanfall</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Hautveränderungen</li></ul>",
+      "label": "Dengue Fieber",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hitzschlag"
+        }
+      },
+      "diagnosisId": "D.heatStroke",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hitzschlag</i> erhöhen würden: Hyperhidrose, Verwirrtheit, Muskelkrämpfe, Ataxie, Schwindel, Hautveränderungen</li></ul>",
+      "label": "Hitzschlag",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hirnabszess"
+        }
+      },
+      "diagnosisId": "D.brainAbscess",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirnabszess</i> erhöhen würden: Somnolenz, Bewusstseinsverlust, Verwirrtheit, Nackenschmerzen</li></ul>",
+      "label": "Hirnabszess",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chikungunyafieber"
+        }
+      },
+      "diagnosisId": "D.chikungunyaFever",
+      "explanation": "<ul><li>Probleme, welche durch <i>Zerebrale Malaria</i> besser erklärt sind: Krampfanfall</li></ul>",
+      "label": "Chikungunya Fieber",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
+        }
+      },
+      "diagnosisId": "D.cerebralMalaria",
+      "explanation": "",
+      "label": "Zerebrale Malaria",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (23) bei Fieber seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über pulsierende Kopfschmerzen (bis VAS 1/10), Nausea und Status nach einem Krampfanfall.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br />Bauchschmerzen, Diarrhoe, eine allgemeine Müdigkeit, Hautveränderungen, Odynophagie, Husten, Dyspnoe, Gliederschmerzen, Flankenschmerzen, Dysurie, Schüttelfrost, ein Ikterus, ein kürzlicher Bewusstseinsverlust, eine Somnolenz und Ataxie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "cbe14ad8-f7f9-41b7-a439-08b0fd7eef24",
+  "topic": "infectiology"
+}

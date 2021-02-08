@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ringelr%C3%B6teln"
+        }
+      },
+      "diagnosisId": "D.erythemaInfectiosum",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hand-Fuss-Mund-Krankheit</i> besser erklärt sind: Appetitverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ringelröteln (Erythema infectiosum)</i> erhöhen würden: Kopfschmerzen</li></ul>",
+      "label": "Ringelröteln (Erythema infectiosum)",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Masern"
+        }
+      },
+      "diagnosisId": "D.measles",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Masern</i> erhöhen würden: Schüttelfrost, Gliederschmerzen</li></ul>",
+      "label": "Masern",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      },
+      "diagnosisId": "D.infectiousMononucleosis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
+      "label": "Infektiöse Mononukleose",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.viralPharyngitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hand-Fuss-Mund-Krankheit</i> besser erklärt sind: Hautveränderungen, Appetitverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie, Gliederschmerzen</li></ul>",
+      "label": "Virale Pharyngitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hand-Fu%C3%9F-Mund-Krankheit"
+        }
+      },
+      "diagnosisId": "D.handFootAndMouthDisease",
+      "explanation": "",
+      "label": "Hand-Fuss-Mund-Krankheit",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (8) bei Fieber.<br /><br />Zusätzlich berichtet die Patientin über Halsschmerzen seit zwei Tagen sowie eine Hautveränderung an den Händen und einen Appetitverlust.<br /><br />Der Kontakt zu kranken Kindern wird bejaht.<br /><br />Odynophagie, Husten, Dysphagie, vergrösserte Lymphknoten und Dysphonie werden verneint.",
+  "id": "cc3be189-7c25-4ba9-8c9e-ea7ff8e71695",
+  "topic": "pediatrics"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.otogenicBrainAbscess",
+      "label": "Otogener Hirnabszess",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.otitisExternaDiffusa",
+      "label": "Otitis externa diffusa",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.menieresDisease",
+      "label": "M. Menière",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.chronicOtitisMedia",
+      "label": "Chronische Otitis media",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.erysipelasOfExternalEar",
+      "label": "Erysipel des Ohres",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (65) bei rechtsseitigen Ohrenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Ausfluss aus dem Ohr, Pruritus und eine Hörminderung.<br /><br />Kopfschmerzen, Schwindel, Nackenschmerzen und Tinnitus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 6py (20 Zigaretten täglich während 6 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "6e317ee2-d96a-404c-ac88-9240eb074455",
+  "topic": "ear-nose-and-throat"
+}

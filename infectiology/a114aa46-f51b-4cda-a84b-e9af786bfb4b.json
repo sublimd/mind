@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      },
+      "diagnosisId": "D.typhoidFever",
+      "explanation": "<ul><li>Probleme, welche durch <i>Q Fieber</i> besser erklärt sind: Hyperhidrose</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Typhus abdominalis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.upperAirwayInfection",
+      "explanation": "<ul><li>Probleme, welche durch <i>Q Fieber</i> besser erklärt sind: Kopfschmerzen, Hyperhidrose</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: nasale Obstruktion, Dyspnoe</li></ul>",
+      "label": "Viraler Infekt der oberen Atemwege",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Q-Fieber"
+        }
+      },
+      "diagnosisId": "D.qFever",
+      "explanation": "",
+      "label": "Q Fieber",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
+        }
+      },
+      "diagnosisId": "D.myocarditis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Q Fieber</i> besser erklärt sind: Husten, Hyperhidrose</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Palpitationen, Tachykardien, Schwellung der Unterschenkel, Schwellung der Beine, Thoraxschmerzen</li></ul>",
+      "label": "Myokarditis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sinusitis"
+        }
+      },
+      "diagnosisId": "D.acuteRhinoSinusitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Q Fieber</i> besser erklärt sind: Gliederschmerzen, Hyperhidrose</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion</li></ul>",
+      "label": "Akute Rhinosinusitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (73) bei einer vermehrten Müdigkeit seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen, Gliederschmerzen, Husten und Hyperhidrose.<br /><br />Ungewöhnlicher Kontakt zu Tieren wird bejaht.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Dyspnoe, Schlafstörungen, Nausea, Bauchschmerzen, Halsschmerzen, Thoraxschmerzen, eine depressive Stimmung, eine nasale Obstruktion, Gesichtsschmerzen und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 77py (30 Zigaretten täglich während 51 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "a114aa46-f51b-4cda-a84b-e9af786bfb4b",
+  "topic": "infectiology"
+}

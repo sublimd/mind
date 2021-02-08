@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.rightSidedHeartFailure",
+      "label": "Rechtsherzinsuffizienz",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.urethralStricture",
+      "label": "Urethrastriktur",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acutePyelonephritis",
+      "label": "Akute Pyelonephritis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hypercalcemia",
+      "label": "Hyperkalzämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.cystocele",
+      "label": "Zystozele",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (70) bei Nykturie seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über eine Urininkontinenz.<br /><br />Dysurie, Hämaturie, eine Schwellung der Unterschenkel, Erbrechen, Nausea, ein Appetitverlust, Palpitationen und eine Gewichtszunahme werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "951c9176-0c01-48c5-94b0-0af78f769b5c",
+  "topic": "gynecology"
+}

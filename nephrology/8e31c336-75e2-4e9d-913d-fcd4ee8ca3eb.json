@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Orthostatische_Dysregulation"
+        }
+      },
+      "diagnosisId": "D.orthostaticDysregulation",
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Orthostatische Dysregulation</i> erhöhen würden: Schwindel</li></ul>",
+      "label": "Orthostatische Dysregulation",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypokalemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "label": "Hypokaliämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Niereninfarkt"
+        }
+      },
+      "diagnosisId": "D.renalInfarction",
+      "explanation": "",
+      "label": "Niereninfarkt",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypercalcemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "label": "Hyperkalzämie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.malignantNeoplasmOfKidney",
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
+      "label": "Nierenkarzinom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (54) bei Flankenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Nausea.<br /><br />Fieber, Dysurie, Hämaturie, Bauchschmerzen, Nykturie, Polyurie, ein kürzlicher Bewusstseinsverlust und ein vermehrtes Durstgefühl werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",
+  "id": "8e31c336-75e2-4e9d-913d-fcd4ee8ca3eb",
+  "topic": "nephrology"
+}

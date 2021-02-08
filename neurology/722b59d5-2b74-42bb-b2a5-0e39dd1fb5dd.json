@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Neuritis_vestibularis"
+        }
+      },
+      "diagnosisId": "D.vestibularNeuritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Verwirrtheit, Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Neuritis vestibularis</i> erhöhen würden: Schwindel, Nausea, Erbrechen</li></ul>",
+      "label": "Neuritis vestibularis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akustikusneurinom"
+        }
+      },
+      "diagnosisId": "D.acousticNeuroma",
+      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akustikusneurinom</i> erhöhen würden: Hörminderung, Tinnitus</li></ul>",
+      "label": "Akustikusneurinom",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.ghbIntoxication",
+      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>GHB-Intoxikation</i> erhöhen würden: Aggressivität, innere Anspannung, Angstzustände, Nausea, Erbrechen</li></ul>",
+      "label": "GHB-Intoxikation",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Transitorische_isch%C3%A4mische_Attacke"
+        }
+      },
+      "diagnosisId": "D.transientIschemicAttack",
+      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Muskelschwäche, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Transitorische ischämische Attacke (TIA)",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Korsakow-Syndrom"
+        }
+      },
+      "diagnosisId": "D.korsakoffsSyndrome",
+      "explanation": "",
+      "label": "Korsakow-Syndrom",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (52) bei Ataxie.<br /><br />Zusätzlich berichtet die Patientin über eine Verwirrtheit seit acht Tagen sowie Sensibilitätsstörungen.<br /><br />Schwindel, Erbrechen, Lähmungserscheinungen, Fieber, Kopfschmerzen, Bauchschmerzen, ein Harnverhalt, ein kürzlicher Bewusstseinsverlust, niedrige Blutdruckwerte und Dysurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 41py (30 Zigaretten täglich während 27 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "722b59d5-2b74-42bb-b2a5-0e39dd1fb5dd",
+  "topic": "neurology"
+}

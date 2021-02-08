@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.lumbarSpondylogenicSyndrome",
+      "label": "Lumbospondylogenes Syndrom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.lumbarRadicularSyndrome",
+      "label": "Lumboradikuläres Syndrom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.urolithiasis",
+      "label": "Urolithiasis",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.acutePyelonephritis",
+      "label": "Akute Pyelonephritis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.spondylolysis",
+      "label": "Spondylolyse",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (18) bei Flankenschmerzen ohne Ausstrahlung seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Nausea.<br /><br />Hodenschmerzen, Hämaturie, Nykturie, Fieber, Bauchschmerzen, Dysurie, Beinschmerzen, Sensibilitätsstörungen, Lähmungserscheinungen und Rückenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "e702a155-eb4c-4081-afed-f3849dcc4b95",
+  "topic": "general-internal-medicine"
+}

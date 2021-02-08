@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.allergicConjunctivitis",
+      "label": "Allergische Konjunktivitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.viralConjunctivitis",
+      "label": "Virale Konjunktivitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.ocularRosacea",
+      "label": "Okuläre Rosazea",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hordeolum",
+      "label": "Hordeolum",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.bacterialKeratitis",
+      "label": "Akute bakterielle Keratitis",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (55) bei einer Augenrötung.<br /><br />Zusätzlich berichtet die Patientin über rechtsseitige Augenschmerzen, ein Fremdkörpergefühl im Auge, Sehstörungen und Ausfluss aus dem Auge.<br /><br />Juckreiz in den Augen, eine Augenschwellung, Rhinorrhoe, Fieber und Halsschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 28py (20 Zigaretten täglich während 28 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "7980b5ba-3e02-4c7d-b36e-2c13c9d3551a",
+  "topic": "general-internal-medicine"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.acuteHepatitisA",
+      "label": "Akute Hepatitis A-Infektion",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.uremia",
+      "label": "Urämisches Syndrom",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.scabies",
+      "label": "Scabies (Krätze)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.liverCirrhosis",
+      "label": "Leberzirrhose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.nonHodgkinLymphoma",
+      "label": "Non-Hodgkin Lymphom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei Pruritus seit sieben Tagen.<br /><br />Zusätzlich berichtet der Patient über Polyurie und eine vermehrte Müdigkeit.<br /><br />Hautveränderungen, Bauchschmerzen, eine Schwellung der Unterschenkel, Fieber, ein Gewichtsverlust und Nasenbluten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "3574657e-f32f-4f91-b615-171a3900deb6",
+  "topic": "general-internal-medicine"
+}

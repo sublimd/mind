@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.wernickesEncephalopathy",
+      "label": "Wernicke-Enzephalopathie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.allergicConjunctivitis",
+      "label": "Allergische Konjunktivitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.keratoconjunctivitisSicca",
+      "label": "Keratokonjunktivitis sicca",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.bruxism",
+      "label": "Bruxismus",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.cataract",
+      "label": "Katarakt",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (68) bei linksseitigen Sehstörungen seit einem Monat.<br /><br />Der Patient beschreibt ein Verschwommensehen.<br /><br />Kopfschmerzen, eine Augenrötung, Juckreiz in den Augen, Augenschmerzen, eine Photophobie, Lähmungserscheinungen, Fieber, Augentrockenheit und Schlafstörungen werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "4644a281-5d82-4a84-954b-509d90bf8cf6",
+  "topic": "ophthalmology"
+}

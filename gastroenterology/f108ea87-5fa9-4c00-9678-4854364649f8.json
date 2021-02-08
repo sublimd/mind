@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.diverticularBleeding",
+      "explanation": "",
+      "label": "Divertikelblutung",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Colitis_ulcerosa"
+        }
+      },
+      "diagnosisId": "D.ulcerativeColitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Diarrhoe, Gewichtsverlust</li></ul>",
+      "label": "Colitis ulcerosa",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Isch%C3%A4mische_Colitis"
+        }
+      },
+      "diagnosisId": "D.ischemicColitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ischämische Kolitis</i> erhöhen würden: Diarrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ischämische Kolitis</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "label": "Ischämische Kolitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.proctitis",
+      "explanation": "<ul><li><i>Divertikelblutung</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Diarrhoe, anale Schmerzen</li></ul>",
+      "label": "Proktitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      },
+      "diagnosisId": "D.typhoidFever",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Typhus abdominalis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (71) bei Hämatochezie seit sechs Tagen.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Anale Schmerzen, Obstipation, Bauchschmerzen, Diarrhoe, Nausea, Erbrechen und ein Gewichtsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 44py (20 Zigaretten täglich während 44 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "f108ea87-5fa9-4c00-9678-4854364649f8",
+  "topic": "gastroenterology"
+}

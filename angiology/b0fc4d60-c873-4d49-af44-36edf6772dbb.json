@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Isch%C3%A4mischer_Schlaganfall"
+        }
+      },
+      "diagnosisId": "D.ischemicStroke",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akuter peripherer Arterienverschluss</i> besser erklärt sind: Beinschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Dysarthrie, Aphasie</li></ul>",
+      "label": "Ischämischer Schlaganfall",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Leriche-Syndrom"
+        }
+      },
+      "diagnosisId": "D.lericheSyndrome",
+      "explanation": "<ul><li><i>Akuter peripherer Arterienverschluss</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leriche Syndrom</i> erhöhen würden: erektile Dysfunktion</li></ul>",
+      "label": "Leriche Syndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Periphere_arterielle_Verschlusskrankheit"
+        }
+      },
+      "diagnosisId": "D.peripheralArteryDisease",
+      "explanation": "",
+      "label": "Periphere arterielle Verschlusskrankheit (PAVK)",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteLimbIschemia",
+      "explanation": "",
+      "label": "Akuter peripherer Arterienverschluss",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Transitorische_isch%C3%A4mische_Attacke"
+        }
+      },
+      "diagnosisId": "D.transientIschemicAttack",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akuter peripherer Arterienverschluss</i> besser erklärt sind: Beinschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Dysarthrie</li></ul>",
+      "label": "Transitorische ischämische Attacke (TIA)",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (65) bei Sensibilitätsstörungen an der linken unteren Extremität seit zwei Stunden.<br /><br />Zusätzlich berichtet der Patient über linksseitige Beinschmerzen (VAS 6/10) sowie eine Muskelschwäche an der linken unteren Extremität.<br /><br />Rückenschmerzen, Dysarthrie, Schwindel, eine Beinschwellung, Dysphagie, Hautveränderungen, Palpitationen und eine erektile Dysfunktion werden verneint. <h2>Diagnoseliste</h2>- Koronare Herzkrankheit<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 20py (20 Zigaretten täglich während 20 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "b0fc4d60-c873-4d49-af44-36edf6772dbb",
+  "topic": "angiology"
+}

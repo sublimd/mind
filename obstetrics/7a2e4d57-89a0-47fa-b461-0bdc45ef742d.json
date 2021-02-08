@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.functionalCyst",
+      "explanation": "<ul><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: vaginale Blutung</li></ul>",
+      "label": "Funktionelle Zyste des Ovars",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Harnwegsinfekt"
+        }
+      },
+      "diagnosisId": "D.urinaryTractInfection",
+      "explanation": "<ul><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: vaginale Blutung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Dysurie, Pollakisurie</li></ul>",
+      "label": "Harnwegsinfekt",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pr%C3%A4menstruelles_Syndrom"
+        }
+      },
+      "diagnosisId": "D.premenstrualSyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: vaginale Blutung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: depressive Verstimmung, Angstzustände, Blähungen</li></ul>",
+      "label": "Prämenstruelles Syndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Spontanabort"
+        }
+      },
+      "diagnosisId": "D.spontaneousAbortion",
+      "explanation": "",
+      "label": "Spontanabort",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.atrophicVaginitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atrophe Vaginitis</i> erhöhen würden: vaginaler Juckreiz, Probleme beim Geschlechtsverkehr</li></ul>",
+      "label": "Atrophe Vaginitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (26) bei unerwarteten vaginalen Blutungen.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen (bis VAS 9/10) seit zwei Tagen.<br /><br />Vaginaler Juckreiz, Fieber, Obstipation, Nausea, Erbrechen, Hämaturie, Blähungen, Diarrhoe, Hämatochezie und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 4py (20 Zigaretten täglich während 4 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "7a2e4d57-89a0-47fa-b461-0bdc45ef742d",
+  "topic": "obstetrics"
+}

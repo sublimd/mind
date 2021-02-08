@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.allergicConjunctivitis",
+      "explanation": "",
+      "label": "Allergische Konjunktivitis",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteBlepharitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Blepharitis</i> erhöhen würden: Rötung des Augenlides</li></ul>",
+      "label": "Akute Blepharitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.foreignBodyInConjunctiva",
+      "explanation": "<ul><li>Probleme, welche durch <i>Allergische Konjunktivitis</i> besser erklärt sind: Lidschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Konjunktivaler Fremdkörper</i> erhöhen würden: Fremdkörpergefühl im Auge</li></ul>",
+      "label": "Konjunktivaler Fremdkörper",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Allergische_Rhinokonjunktivitis"
+        }
+      },
+      "diagnosisId": "D.allergicRhinoconjunctivitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Niesen</li></ul>",
+      "label": "Allergische Rhinokonjunktivitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.viralConjunctivitis",
+      "explanation": "",
+      "label": "Virale Konjunktivitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (39) bei einer beidseitigen Augenrötung seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über wässrigen Ausfluss aus dem Auge, Juckreiz und eine beidseitige Lidschwellung.<br /><br />Allergien auf Umweltfaktoren werden bejaht (Pollen).<br /><br />Sehstörungen, Augenschmerzen, ein Fremdkörpergefühl im Auge, Rhinorrhoe, Fieber und eine Rötung des Augenlides werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier).",
+  "id": "adbcaaa8-707a-43b8-99e3-ae62a73b3f27",
+  "topic": "ophthalmology"
+}

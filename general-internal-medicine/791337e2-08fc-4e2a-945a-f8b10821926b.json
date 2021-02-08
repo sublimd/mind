@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.ironDeficiencyAnemia",
+      "label": "Eisenmangelanämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hypertensiveCrisis",
+      "label": "Hypertensiver Notfall",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.superiorVenaCavaSyndrome",
+      "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.leftSidedHeartFailure",
+      "label": "Linksherzinsuffizienz",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.pleuralEffusion",
+      "label": "Pleuraerguss",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (53) bei Dyspnoe seit vier Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Gesichtsschwellung, Thoraxschmerzen, Husten, Kopfschmerzen und Schwindel.<br /><br />Tachykardien, Fieber, erhöhte Blutdruckwerte, Orthopnoe und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Diagnoseliste</h2>- Lungenkarzinom<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 35py (20 Zigaretten täglich während 35 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "791337e2-08fc-4e2a-945a-f8b10821926b",
+  "topic": "general-internal-medicine"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.otitisExternaCircumscripta",
+      "label": "Otitis externa circumscripta",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.chronicOtitisMedia",
+      "label": "Chronische Otitis media",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteOtitisMedia",
+      "label": "Akute Otitis media",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.erysipelasOfExternalEar",
+      "label": "Erysipel des Ohres",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.auricularPerichondritis",
+      "label": "Perichondritis auricularis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (24) bei Ohrenschmerzen seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über eine Hörminderung.<br /><br />Eine kürzliche Erkältung wird bejaht.<br /><br />Ausfluss aus dem Ohr, Fieber, Pruritus, Hautveränderungen, Schüttelfrost, Schwindel und Tinnitus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "876ef853-73d8-4909-9bc8-6fae41a84bf7",
+  "topic": "ear-nose-and-throat"
+}

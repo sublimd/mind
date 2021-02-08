@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypokalzämie</i> besser erklärt sind: Muskelkrämpfe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Hyperosmolare hyperglykämische Entgleisung",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokalz%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypocalcemia",
+      "explanation": "",
+      "label": "Hypokalzämie",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypomagnesi%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypomagnesemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypokalzämie</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypomagnesiämie</i> erhöhen würden: Tremor, Muskelschwäche, Gliederschmerzen, Verwirrtheit</li></ul>",
+      "label": "Hypomagnesiämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypokalemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypokalzämie</i> besser erklärt sind: Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Obstipation</li></ul>",
+      "label": "Hypokaliämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkali%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hyperkalemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypokalzämie</i> besser erklärt sind: Muskelkrämpfe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkaliämie</i> erhöhen würden: Muskelschwäche</li></ul>",
+      "label": "Hyperkaliämie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (66) bei Sensibilitätsstörungen im Gesicht seit fünf Tagen.<br /><br />Zusätzlich berichtet die Patientin über Muskelkrämpfe und eine vermehrte Müdigkeit.<br /><br />Lähmungserscheinungen, Rückenschmerzen, Beinschmerzen, Nausea, Krampfanfälle, Palpitationen, ein vermehrtes Durstgefühl, Polyurie, Gliederschmerzen und eine depressive Stimmung werden verneint. <h2>Diagnoseliste</h2>- Vitamin D-Mangel<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein).",
+  "id": "b8c05fb6-8479-4eb6-9774-9d564a73bd4b",
+  "topic": "endocrinology"
+}

@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.distalRadiusFracture",
+      "explanation": "<ul><li>Symptome, welche durch <i>Handgelenksganglion</i> besser erklärt sind: subkutaner Knoten</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Distale Radiusfraktur</i> erhöhen würden: Schwellung der Arme, Handschwellung, Hautschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Distale Radiusfraktur</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "label": "Distale Radiusfraktur",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.wristSprain",
+      "explanation": "<ul><li>Symptome, welche durch <i>Handgelenksganglion</i> besser erklärt sind: subkutaner Knoten</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Handgelenksverstauchung</i> erhöhen würden: Handschwellung, Hautschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Handgelenksverstauchung</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "label": "Handgelenksverstauchung",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.chondrocalcinosis",
+      "explanation": "<ul><li>Symptome, welche durch <i>Handgelenksganglion</i> besser erklärt sind: subkutaner Knoten</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>CPP-Kristall-Arthritis (Pseudogicht)</i> erhöhen würden: Knieschmerzen, Knieschwellung, Knierötung, Hautüberwärmung, Schulterschwellung, Schulterrötung, Fussschwellung, Fussrötung, Schwellung des Ellbogens, Ellbogenrötung</li></ul>",
+      "label": "CPP-Kristall-Arthritis (Pseudogicht)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.carpalTunnelSyndrome",
+      "explanation": "<ul><li>Symptome, welche durch <i>Handgelenksganglion</i> besser erklärt sind: subkutaner Knoten</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Karpaltunnelsyndrom</i> erhöhen würden: Sensibilitätsstörungen, Muskelschwäche</li></ul>",
+      "label": "Karpaltunnelsyndrom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.wristGanglion",
+      "explanation": "",
+      "label": "Handgelenksganglion",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (60) bei rechtsseitigen Handgelenksschmerzen seit sieben Tagen.<br /><br />Zusätzlich berichtet die Patientin über einen subkutanen Knoten am Handgelenk.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Eine Handschwellung, eine Handrötung, eine Handsteifigkeit, Sensibilitätsstörungen, Fieber und Armschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "0d3931e5-9efc-4d23-ae86-16464a4a272a",
+  "topic": "rheumatology"
+}

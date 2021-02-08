@@ -1,0 +1,62 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypercalcemia",
+      "explanation": "",
+      "label": "Hyperkalzämie",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Kolonkarzinom"
+        }
+      },
+      "diagnosisId": "D.colorectalCancer",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kolonkarzinom</i> erhöhen würden: Hämatochezie, Meläna, Gewichtsverlust</li></ul>",
+      "label": "Kolonkarzinom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      },
+      "diagnosisId": "D.migraineHeadache",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperkalzämie</i> besser erklärt sind: Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Kopfschmerzen, Photophobie, Phonophobie</li></ul>",
+      "label": "Migräne",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Paralytischer_Ileus"
+        }
+      },
+      "diagnosisId": "D.viralGastroenteritis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Gastroenteritis</i> erhöhen würden: Diarrhoe</li></ul>",
+      "label": "Virale Gastroenteritis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Analabszess"
+        }
+      },
+      "diagnosisId": "D.analAbscess",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Analabszess</i> erhöhen würden: anale Schmerzen, vergrösserte Lymphknoten</li></ul>",
+      "label": "Analabszess",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (41) bei Nausea seit fünf Tagen.<br /><br />Zusätzlich berichtet die Patientin über Obstipation.<br /><br />Bauchschmerzen, Diarrhoe, Schwindel, Kopfschmerzen, eine allgemeine Müdigkeit, Palpitationen, Lähmungserscheinungen, eine Photophobie, eine Hautschwellung und anale Schmerzen werden verneint. <h2>Diagnoseliste</h2>- Multiple endokrine Neoplasie (MEN 1)- Arterielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "d1160670-f585-481f-96f7-5e931894e47e",
+  "topic": "endocrinology"
+}

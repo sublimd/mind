@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.thrombosedExternalHemorrhoid",
+      "label": "Thrombosierte Hämorrhoide",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.morbusCrohn",
+      "label": "M. Crohn",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.analCancer",
+      "label": "Analkarzinom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.analSkinTags",
+      "label": "Marisken",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.analFissures",
+      "label": "Analfissur",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (22) bei analem Juckreiz seit acht Tagen.<br /><br />Anale Schmerzen, Hämatochezie, Bauchschmerzen, Obstipation und Diarrhoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "ff361e89-4e04-472d-8014-de714728238b",
+  "topic": "general-internal-medicine"
+}

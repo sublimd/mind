@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.carpalTunnelSyndrome",
+      "label": "Karpaltunnelsyndrom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.perniciousAnemia",
+      "label": "Perniziöse Anämie",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.hyperparathyroidism",
+      "label": "Hyperparathyroidismus",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.respiratoryAcidosis",
+      "label": "Respiratorische Azidose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.lacticAcidosis",
+      "label": "Laktatazidose",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (29) bei einer vermehrten Müdigkeit seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Sensibilitätsstörungen an den Händen, Dyspnoe, Palpitationen und eine Muskelschwäche.<br /><br />Fieber, Nausea, Erbrechen, Schlafstörungen, ein Gewichtsverlust, Bauchschmerzen, Polyurie, ein Ikterus, Nachtschweiss, Veränderungen der Mundschleimhaut und eine Zungenschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "de420727-a4d7-4a2a-829b-391e4680f879",
+  "topic": "general-internal-medicine"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.hypercalcemia",
+      "label": "Hyperkalzämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.alcoholIntoxication",
+      "label": "Alkohol-Intoxikation",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteHepaticFailure",
+      "label": "Akutes Leberversagen",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.lacticAcidosis",
+      "label": "Laktatazidose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.comaDiabeticum",
+      "label": "Hyperglykämisches Koma",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (65) bei einer Verwirrtheit seit fünf Tagen.<br /><br />Zusätzlich berichtet die Patientin über Nausea, Bauchschmerzen, einen Appetitverlust, eine Unterschenkelschwellung und Hämaturie.<br /><br />Ein Ikterus, Pruritus, niedrige Blutdruckwerte, Hautveränderungen, Hämatochezie, Hämatemesis, Hämoptoe, Dyspnoe, Kopfschmerzen, Dysurie, Harnverhalt, Fieber, Nykturie, Synkopen, ein vermehrtes Durstgefühl und Polyurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "29da8f6b-5cca-464b-8922-feb21846737c",
+  "topic": "general-internal-medicine"
+}

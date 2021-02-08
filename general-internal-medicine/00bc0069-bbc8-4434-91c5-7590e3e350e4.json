@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.migraineHeadache",
+      "label": "Migräne",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.herpesZosterOticus",
+      "label": "Zoster oticus",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.auricularPerichondritis",
+      "label": "Perichondritis auricularis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.lymeBorreliosisStage2",
+      "label": "Lyme Borreliose Stadium 2",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.erysipelaOfExternalEar",
+      "label": "Erysipel des Ohres",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (52) bei einer Muskelschwäche im Gesicht seit sieben Tagen.<br /><br />Zusätzlich berichtet die Patientin über Ohrenschmerzen und eine Hautveränderung im Gesicht.<br /><br />Schwindel, Sensibilitätsstörungen, Fieber, Rückenschmerzen, Kopfschmerzen, Fieber, eine Photophobie und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "00bc0069-bbc8-4434-91c5-7590e3e350e4",
+  "topic": "general-internal-medicine"
+}

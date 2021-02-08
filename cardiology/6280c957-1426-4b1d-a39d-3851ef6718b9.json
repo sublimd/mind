@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
+        }
+      },
+      "diagnosisId": "D.myocarditis",
+      "explanation": "",
+      "label": "Myokarditis",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cor_pulmonale"
+        }
+      },
+      "diagnosisId": "D.corPulmonale",
+      "explanation": "<ul><li>Probleme, welche durch <i>Myokarditis</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cor pulmonale</i> erhöhen würden: Schwindel</li></ul>",
+      "label": "Cor pulmonale",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
+      "explanation": "<ul><li>Probleme, welche durch <i>Myokarditis</i> besser erklärt sind: Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Husten</li></ul>",
+      "label": "Ambulant erworbene atypische Pneumonie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.copdExacerbation",
+      "explanation": "<ul><li>Probleme, welche durch <i>Myokarditis</i> besser erklärt sind: Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>COPD Exazerbation</i> erhöhen würden: Husten</li></ul>",
+      "label": "COPD Exazerbation",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenemphysem"
+        }
+      },
+      "diagnosisId": "D.pulmonaryEmphysema",
+      "explanation": "<ul><li>Probleme, welche durch <i>Myokarditis</i> besser erklärt sind: Palpitationen, Thoraxschmerzen</li></ul>",
+      "label": "Lungenemphysem",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (28) bei einer vermehrten Müdigkeit seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe, Palpitationen, Thoraxschmerzen im Bereich des Sternums und Kopfschmerzen.<br /><br />Verstärkung der Thoraxschmerzen durch tiefe Inspiration und flaches Liegen auf dem Rücken.<br /><br />Fieber, Schlafstörungen, Husten, ein Gewichtsverlust, eine depressive Stimmung, eine Schwellung der Unterschenkel, ein kürzlicher Bewusstseinsverlust, Nachtschweiss, eine Gewichtszunahme und Ohrenschmerzen werden verneint. <h2>Diagnoseliste</h2>- Rückfallfieber<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 1py (10 Zigaretten täglich während 1 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "6280c957-1426-4b1d-a39d-3851ef6718b9",
+  "topic": "cardiology"
+}

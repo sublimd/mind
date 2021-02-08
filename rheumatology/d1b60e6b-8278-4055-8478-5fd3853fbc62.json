@@ -1,0 +1,50 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.goutyArthritis",
+      "explanation": "<ul><li><i>Gichtarthritis</i> kommt häufiger bei männlichen Patienten vor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gichtarthritis</i> erhöhen würden: Fussschmerzen, Knieschmerzen, Gelenkschmerzen, Fussschwellung, Schwellung der Unterschenkel, Knieschwellung, Handschwellung, Schwellung des Ellbogens, Fussrötung, Knierötung</li></ul>",
+      "label": "Gichtarthritis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.whiplashInjury",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Nackenschmerzen, Unfall, Sensibilitätsstörungen, Unfall, Muskelschwäche, Unfall</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Schädeltrauma</li></ul>",
+      "label": "Distorsionstrauma der Halswirbelsäule",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akutes_Koronarsyndrom"
+        }
+      },
+      "diagnosisId": "D.acuteCoronarySyndrome",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Thoraxschmerzen, Bauchschmerzen, Dyspnoe, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Nikotinabusus, Arterielle Hypertonie, Diabetes mellitus</li></ul>",
+      "label": "Myokardinfarkt",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.rotatorCuffTendinitis",
+      "explanation": "",
+      "label": "Tendinitis der Rotatorenmanschette",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Septische_Arthritis"
+        }
+      },
+      "diagnosisId": "D.septicArthritis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Septische Arthritis</i> erhöhen würden: Hüftrötung, Handrötung, Knierötung, Schulterrötung, Ellbogenrötung, Fussrötung, Hautschwellung, Hüftschwellung, Handschwellung, Knieschwellung, Schulterschwellung, Schwellung des Ellbogens, Fussschwellung, Fieber, Schüttelfrost</li></ul>",
+      "label": "Septische Arthritis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (46) bei Schulterschmerzen seit vier Tagen.<br /><br />Verstärkung bzw. Auslösung der Schulterschmerzen in Ruhe.<br /><br /> Ein kürzliches Schädeltrauma wird verneint. <br /><br />Unfall, eine Schultersteifigkeit, Knieschmerzen, Fieber, Fussschmerzen, Schwindel und Handgelenksschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "d1b60e6b-8278-4055-8478-5fd3853fbc62",
+  "topic": "rheumatology"
+}

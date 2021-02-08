@@ -1,0 +1,42 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.majorDepressiveEpisode",
+      "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Epistaxis</li></ul>",
+      "label": "Ausgeprägte depressive Episode",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteBronchitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Bronchitis</i> erhöhen würden: Husten, Dyspnoe, Gliederschmerzen</li></ul>",
+      "label": "Akute Bronchitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.hyperkalemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkaliämie</i> erhöhen würden: Muskelschwäche</li></ul>",
+      "label": "Hyperkaliämie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.hypokalemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "label": "Hypokaliämie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.myelodysplasticSyndrome",
+      "explanation": "",
+      "label": "Myelodysplastisches Syndrom",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (65) bei einer vermehrten Müdigkeit seit vier Monaten.<br /><br />Zusätzlich berichtet der Patient über Nasenbluten.<br /><br />Dyspnoe, Fieber, Schlafstörungen, ein Gewichtsverlust, Tachykardien, Gliederschmerzen, Polyurie, eine depressive Stimmung, vergrösserte Lymphknoten, ein vermehrtes Durstgefühl und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 68py (30 Zigaretten täglich während 45 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "a4e737d7-f6dc-451a-8e90-2e09f50a9ba8",
+  "topic": "hematology"
+}

@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schistosomiasis"
+        }
+      },
+      "diagnosisId": "D.schistosomiasis",
+      "explanation": "<ul><li><i>Dengue Fieber</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schistosomiasis</i> erhöhen würden: Pruritus</li></ul>",
+      "label": "Schistosomiasis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Dermatomyositis"
+        }
+      },
+      "diagnosisId": "D.dermatomyositis",
+      "explanation": "<ul><li><i>Dengue Fieber</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dermatomyositis</i> erhöhen würden: Muskelschwäche</li></ul>",
+      "label": "Dermatomyositis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Denguefieber"
+        }
+      },
+      "diagnosisId": "D.dengueFever",
+      "explanation": "",
+      "label": "Dengue Fieber",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
+        }
+      },
+      "diagnosisId": "D.malaria",
+      "explanation": "<ul><li>Probleme, welche durch <i>Dengue Fieber</i> besser erklärt sind: Exanthem</li></ul>",
+      "label": "Malaria",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.lymeBorreliosisStage1",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "label": "Lyme Borreliose Stadium 1",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (41) bei Gliederschmerzen seit fünf Tagen.<br /><br />Zusätzlich berichtet die Patientin über Fieber seit einer Woche sowie ein erythematöses Exanthem am Rumpf.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br /> Ein spezifischer Auslöser für die Hautveränderung sei der Patientin nicht aufgefallen. Der Aufenthalt in Wäldern wird verneint. <br /><br />Odynophagie, Husten, Dyspnoe, Kopfschmerzen, Nausea, Diarrhoe, Bauchschmerzen, Lähmungserscheinungen, Dysurie und Pruritus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "21c6187c-af52-4d34-bc65-1b9f285feaf1",
+  "topic": "infectiology"
+}

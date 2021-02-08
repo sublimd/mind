@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypokalemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschmerzen, Halsschwellung, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Obstipation</li></ul>",
+      "label": "Hypokaliämie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.viralPharyngitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschwellung, Appetitverlust, Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie</li></ul>",
+      "label": "Virale Pharyngitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.subacuteThyroiditis",
+      "explanation": "",
+      "label": "Subakute granulomatöse Thyreoiditis de Quervain",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      },
+      "diagnosisId": "D.infectiousMononucleosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschwellung, Appetitverlust, Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
+      "label": "Infektiöse Mononukleose",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
+        }
+      },
+      "diagnosisId": "D.myocarditis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschwellung, Appetitverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Schwellung der Unterschenkel bzw. der Beine, Thoraxschmerzen</li></ul>",
+      "label": "Myokarditis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (58) bei Fieber.<br /><br />Zusätzlich berichtet die Patientin über Halsschmerzen seit drei Wochen sowie eine vermehrte Müdigkeit, eine schmerzhafte Halsschwellung, Gliederschmerzen, einen Appetitverlust und Palpitationen (Ausstrahlung des Herzschlags).<br /><br />Die Palpitationen würden jeweils für mehrere Sekunden anhalten.<br /><br />Odynophagie, Husten, Kopfschmerzen, vergrösserte Lymphknoten, Rhinorrhoe, Schüttelfrost und Dysphonie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "f0b05038-2ab8-4667-9808-b391ae22e17c",
+  "topic": "endocrinology"
+}

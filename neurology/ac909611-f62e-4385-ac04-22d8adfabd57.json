@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.panarteritisNodosa",
+      "label": "Panarteriitis nodosa",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.vestibularMigraine",
+      "label": "Vestibuläre Migräne",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.cerebralMetastasis",
+      "label": "Hirnmetastasen",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.neoplasticMeningitis",
+      "label": "Meningeosis neoplastica",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.trigeminalNeuralgia",
+      "label": "Trigeminusneuralgie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (46) bei Kopfschmerzen seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Fieber, Nausea und Sensibilitätsstörungen an der linken oberen Extremität.<br /><br />Erbrechen, eine Verwirrtheit, Sehstörungen, Fieber, eine Photophobie, eine Phonophobie, Lähmungserscheinungen, Dysphagie, Thoraxschmerzen, Dysarthrie, Krampfanfälle und eine Hörminderung werden verneint. <h2>Diagnoseliste</h2>- Kolonkarzinom<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "ac909611-f62e-4385-ac04-22d8adfabd57",
+  "topic": "neurology"
+}

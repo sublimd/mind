@@ -1,0 +1,50 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.chronicHepatitisB",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Appetitverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen, Konsum von intravenösen Drogen oder ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
+      "label": "Chronische Hepatitis B-Infektion",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteHepatitisA",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Appetitverlust, Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Akute Hepatitis A-Infektion",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.drugInducedLiverInjury",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Appetitverlust, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
+      "label": "Medikamenteninduzierte Hepatotoxizität",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Choledocholithiasis"
+        }
+      },
+      "diagnosisId": "D.choledocholithiasis",
+      "explanation": "",
+      "label": "Choledocholithiasis",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cholangitis"
+        }
+      },
+      "diagnosisId": "D.cholangitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cholangitis</i> erhöhen würden: Fieber, Hypotonie</li></ul>",
+      "label": "Cholangitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (35) bei wellenförmigen Bauchschmerzen im rechten Oberbauch seit fünf Tagen.<br /><br />Zusätzlich berichtet die Patientin über Nausea und einen Ikterus.<br /><br /> Der Konsum von intravenösen Drogen und ungeschützter Geschlechtsverkehr in der Vergangenheit werden verneint. Eine Therapie mit Analgetika wird verneint. <br /><br />Erbrechen, Fieber, Diarrhoe, Obstipation, Schüttelfrost, Hautveränderungen, vaginaler Ausfluss, niedrige Blutdruckwerte, Hämatochezie und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "d6922601-2fde-4d67-a87f-a0e230732abb",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,62 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Z%C3%B6liakie"
+        }
+      },
+      "diagnosisId": "D.celiacDisease",
+      "explanation": "",
+      "label": "Zöliakie",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronische_Pankreatitis"
+        }
+      },
+      "diagnosisId": "D.chronicPancreatitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Zöliakie</i> besser erklärt sind: Blähungen, Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische Pankreatitis</i> erhöhen würden: Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Pankreatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "label": "Chronische Pankreatitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelallergie"
+        }
+      },
+      "diagnosisId": "D.foodAllergy",
+      "explanation": "<ul><li>Probleme, welche durch <i>Zöliakie</i> besser erklärt sind: Müdigkeit, Steatorrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
+      "label": "Nahrungsmittelallergie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pr%C3%A4menstruelles_Syndrom"
+        }
+      },
+      "diagnosisId": "D.premenstrualSyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Zöliakie</i> besser erklärt sind: Steatorrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: Depressive Stimmung, Angstzustände</li></ul>",
+      "label": "Prämenstruelles Syndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Laktoseintoleranz"
+        }
+      },
+      "diagnosisId": "D.lactoseIntolerance",
+      "explanation": "<ul><li>Probleme, welche durch <i>Zöliakie</i> besser erklärt sind: Müdigkeit, Steatorrhoe</li></ul>",
+      "label": "Laktoseintoleranz",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (15) bei Diarrhoe seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über Blähungen, eine vermehrte Müdigkeit und Steatorrhoe.<br /><br />Nausea, Bauchschmerzen, Erbrechen, Fieber, ein Gewichtsverlust, Hautveränderungen, ein Appetitverlust, Schwindel und Gelenkschmerzen werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",
+  "id": "e6d0560f-8693-4387-9cf6-4fd864d02eee",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Stabile_Angina_Pectoris"
+        }
+      },
+      "diagnosisId": "D.anginaPectorisStable",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Thoraxschmerzen, Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "label": "Stabile Angina pectoris",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ovarialtorsion"
+        }
+      },
+      "diagnosisId": "D.ovarianTorsion",
+      "explanation": "",
+      "label": "Ovarialtorsion",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.situationalSyncope",
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialtorsion</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Situative Synkope</i> erhöhen würden: Synkope, Bewusstseinsverlust</li></ul>",
+      "label": "Situative Synkope",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoglyk%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypoglykemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialtorsion</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Tremor, Kopfschmerzen</li></ul>",
+      "label": "Hypoglykämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypercalcemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialtorsion</i> besser erklärt sind: Hyperhidrose</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "label": "Hyperkalzämie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (50) bei Schweissausbrüchen seit vier Stunden.<br /><br />Zusätzlich berichtet die Patientin über dumpfe Bauchschmerzen (bis VAS 9/10) im linken Unterbauch seit vier Stunden sowie Nausea.<br /><br />Aktuell hätten die Bauchschmerzen eine Intensität von VAS 6/10.<br /><br />Dyspnoe, Schwindel, Erbrechen, Fieber, ein kürzlicher Bewusstseinsverlust, Palpitationen, Diarrhoe, Obstipation, Hämatochezie, Meläna, vaginaler Ausfluss und Polyurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 23py (30 Zigaretten täglich während 15 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "25668b18-7606-4c88-8e9d-819307c9cceb",
+  "topic": "gynecology"
+}

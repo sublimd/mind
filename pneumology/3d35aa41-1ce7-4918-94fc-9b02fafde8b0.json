@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungen%C3%B6dem"
+        }
+      },
+      "diagnosisId": "D.pulmonaryEdema",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Kopfschmerzen</li></ul>",
+      "label": "Lungenödem",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Stabile_Angina_Pectoris"
+        }
+      },
+      "diagnosisId": "D.anginaPectorisStable",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Husten, Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "label": "Stabile Angina pectoris",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Atelektase"
+        }
+      },
+      "diagnosisId": "D.atelectasis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Kopfschmerzen</li></ul>",
+      "label": "Atelektase",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rippenfraktur"
+        }
+      },
+      "diagnosisId": "D.ribFracture",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Rippenfraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Thoraxtrauma</li></ul>",
+      "label": "Rippenfraktur",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteAsthma",
+      "explanation": "",
+      "label": "Akute Exazerbation eines Asthma bronchiale",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (82) bei Dyspnoe seit zwei Tagen.<br /><br />Es komme jeweils zu einem Pfeifen.<br /><br />Zusätzlich berichtet der Patient über Husten, Thoraxschmerzen und Kopfschmerzen.<br /><br /> Ein kürzliches Thoraxtrauma wird verneint. <br /><br />Eine allgemeine Müdigkeit, Tachykardien, Palpitationen, Schwindel und Erbrechen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 25py (10 Zigaretten täglich während 49 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier).",
+  "id": "3d35aa41-1ce7-4918-94fc-9b02fafde8b0",
+  "topic": "pneumology"
+}

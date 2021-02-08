@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rheumatoide_Arthritis"
+        }
+      },
+      "diagnosisId": "D.rheumatoidArthritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische myeloische Leukämie</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rheumatoide Arthritis</i> erhöhen würden: Handschmerzen, Handgelenksschmerzen, Gelenkschmerzen</li></ul>",
+      "label": "Rheumatoide Arthritis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.malignantNeoplasmOfKidney",
+      "explanation": "<ul><li><i>Nierenkarzinom</i> kommt häufiger bei männlichen Patienten vor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
+      "label": "Nierenkarzinom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lues"
+        }
+      },
+      "diagnosisId": "D.lues",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische myeloische Leukämie</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lues</i> erhöhen würden: offene Wunde, vergrösserte Lymphknoten, Hautveränderungen</li></ul>",
+      "label": "Lues",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronische_myeloische_Leuk%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.chronicMyeloidLeukemia",
+      "explanation": "",
+      "label": "Chronische myeloische Leukämie",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acutePyelonephritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische myeloische Leukämie</i> besser erklärt sind: Nachtschweiss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Flankenschmerzen, Dysurie, Pollakisurie</li></ul>",
+      "label": "Akute Pyelonephritis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (49) bei einer vermehrten Müdigkeit seit vier Monaten.<br /><br />Zusätzlich berichtet die Patientin über Fieber, Nachtschweiss und Bauchschmerzen (bis VAS 4/10) im linken Oberbauch.<br /><br />Strahlenexposition in der Vergangenheit wird bejaht.<br /><br />Schlafstörungen, Schüttelfrost, ein Gewichtsverlust, eine depressive Verstimmung, vergrösserte Lymphknoten, Pollakisurie und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 32py (30 Zigaretten täglich während 21 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "e7883050-6665-4ce5-b6bc-fb320bd963ef",
+  "topic": "hematology"
+}

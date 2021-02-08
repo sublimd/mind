@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.poplitealArteryAneurysm",
+      "label": "Aneurysma der Arteria poplitea",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.vertebralFracture",
+      "label": "Wirbelkörperfraktur",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.lericheSyndrome",
+      "label": "Leriche Syndrom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteLimbIschemia",
+      "label": "Akuter peripherer Arterienverschluss",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.subperiostealHematomaTibia",
+      "label": "Subperiostales Hämatom der Tibia",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (63) bei akuten, rechtsseitigen Beinschmerzen seit drei Stunden.<br /><br />Zusätzlich berichtet der Patient über Sensibilitätsstörungen am rechten Bein.<br /><br />Rückenschmerzen, eine Beinschwellung und Lähmungserscheinungen werden verneint. <h2>Diagnoseliste</h2>- Vorhofflimmern<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 14py (20 Zigaretten täglich während 14 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "0cbe19ed-8460-4039-8bd7-a884617be90a",
+  "topic": "general-internal-medicine"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.hepatitisD",
+      "label": "Hepatitis D",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.yellowFever",
+      "label": "Gelbfieber",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.dubinJohnsonSyndrome",
+      "label": "Dubin-Johnson-Syndrom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.gilbertsSyndrome",
+      "label": "M. Meulengracht",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.buddChiariSyndrome",
+      "label": "Budd-Chiari-Syndrom",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (63) bei einem Ikterus seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen im rechten Oberbauch, Nausea, eine Beinschwellung und Pruritus.<br /><br />Appetitverlust, ein Gewichtsverlust, Gelenkschmerzen und Diarrhoe werden verneint. <h2>Diagnoseliste</h2>- Nierenkarzinom<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 14py (20 Zigaretten täglich während 14 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "9b6e5497-d324-4ca4-acc3-e2ee4dabde36",
+  "topic": "general-internal-medicine"
+}

@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Epididymitis"
+        }
+      },
+      "diagnosisId": "D.epididymitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Schwellung oder Vergrösserung des Hodens, Hautschwellung, Bauchschmerzen</li></ul>",
+      "label": "Epididymitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Orchitis"
+        }
+      },
+      "diagnosisId": "D.orchitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Orchitis</i> erhöhen würden: Schwellung oder Vergrösserung des Hodens, Nausea, Fieber, Schüttelfrost</li></ul>",
+      "label": "Orchitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Coxarthrose"
+        }
+      },
+      "diagnosisId": "D.hipOsteoarthritis",
+      "explanation": "",
+      "label": "Coxarthrose",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.hipContusion",
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hüftkontusion</i> erhöhen würden: kürzliches Trauma</li></ul>",
+      "label": "Hüftkontusion",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pertrochant%C3%A4re_Femurfraktur"
+        }
+      },
+      "diagnosisId": "D.pertrochantericFemoralFracture",
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pertrochantäre Femurfraktur</i> erhöhen würden: kürzliches Trauma</li></ul>",
+      "label": "Pertrochantäre Femurfraktur",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (55) bei atraumatischen, linksseitigen Leistenschmerzen seit einem Monat.<br /><br />Eine Hodenschwellung, Bauchschmerzen, Nausea, Fieber, Hodenschmerzen, Dysurie und eine Beinschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "270e01ad-cd4c-4442-b181-9afdc9994cde",
+  "topic": "rheumatology"
+}

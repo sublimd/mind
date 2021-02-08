@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.liverCirrhosis",
+      "label": "Leberzirrhose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.duodenalUlcer",
+      "label": "Ulcus duodeni",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.foreignBodyIngestion",
+      "label": "Verschluckter Fremdkörper",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.esophagealVaricealBleeding",
+      "label": "Oesophagusvarizen-Blutung",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.malignantNeoplasmOfOesophagus",
+      "label": "Oesophaguskarzinom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (60) bei Hämatemesis vor zwei Stunden.<br /><br />Zusätzlich berichtet der Patient über Nausea.<br /><br />Bauchschmerzen, ein Appetitverlust, ein Gewichtsverlust, ein Ikterus, Fieber, Thoraxschmerzen, Hämatochezie und saures Aufstossen werden verneint. <h2>Diagnoseliste</h2>- Portale Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 38py (20 Zigaretten täglich während 38 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 10 oder mehr Standardgetränke / Tag (Sekt).",
+  "id": "0bf4dff9-08d3-4f76-a0e9-5430f0215c1c",
+  "topic": "gastroenterology"
+}

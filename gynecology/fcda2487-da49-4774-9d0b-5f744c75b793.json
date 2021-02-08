@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Bartholinitis"
+        }
+      },
+      "diagnosisId": "D.abscessOfBartholinsGland",
+      "explanation": "",
+      "label": "Bartholinitis",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.urinaryTractInfection",
+      "explanation": "<ul><li>Probleme, welche durch <i>Bartholinitis</i> besser erklärt sind: Schwellung im Genitalbereich</li></ul>",
+      "label": "Harnwegsinfekt",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Bartholin-Zyste"
+        }
+      },
+      "diagnosisId": "D.bartholinCyst",
+      "explanation": "<ul><li>Probleme, welche durch <i>Bartholinitis</i> besser erklärt sind: Fieber</li></ul>",
+      "label": "Bartholin-Zyste",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.chlamydialCervicitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Bartholinitis</i> besser erklärt sind: Schwellung im Genitalbereich</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chlamydien-Zervizitis</i> erhöhen würden: vaginaler Ausfluss, vaginale Blutung, Dysurie, Pollakisurie</li></ul>",
+      "label": "Chlamydien-Zervizitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Atherom"
+        }
+      },
+      "diagnosisId": "D.epidermoidCyst",
+      "explanation": "<ul><li>Probleme, welche durch <i>Bartholinitis</i> besser erklärt sind: Schmerzen im Genitalbereich, Probleme beim Geschlechtsverkehr, Fieber</li></ul>",
+      "label": "Atherom (Epidermoidzyste)",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (64) bei genitalen Schmerzen seit vier Tagen.<br /><br />Zusätzlich berichtet die Patientin über starke Schmerzen beim Geschlechtsverkehr, eine Schwellung im Genitalbereich und Fieber.<br /><br />Unerwartete vaginale Blutungen, vaginaler Ausfluss, Dysurie und vergrösserte Lymphknoten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "fcda2487-da49-4774-9d0b-5f744c75b793",
+  "topic": "gynecology"
+}

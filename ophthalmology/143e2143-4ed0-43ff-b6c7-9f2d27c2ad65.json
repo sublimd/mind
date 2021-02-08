@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.viralConjunctivitis",
+      "explanation": "",
+      "label": "Virale Konjunktivitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteBlepharitis",
+      "explanation": "",
+      "label": "Akute Blepharitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Allergische_Rhinokonjunktivitis"
+        }
+      },
+      "diagnosisId": "D.allergicRhinoconjunctivitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Niesen</li></ul>",
+      "label": "Allergische Rhinokonjunktivitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.allergicConjunctivitis",
+      "explanation": "",
+      "label": "Allergische Konjunktivitis",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.foreignBodyInConjunctiva",
+      "explanation": "<ul><li>Probleme, welche durch <i>Allergische Konjunktivitis</i> besser erklärt sind: Lidschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Konjunktivaler Fremdkörper</i> erhöhen würden: Fremdkörpergefühl im Auge</li></ul>",
+      "label": "Konjunktivaler Fremdkörper",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (19) bei Juckreiz in beiden Augen.<br /><br />Zusätzlich berichtet der Patient über eine Augenrötung seit neun Tagen sowie wässrigen Ausfluss aus dem Auge, eine beidseitige Lidschwellung und Sehstörungen.<br /><br />Die Sehstörung sei schleichend aufgetreten. Der Patient beschreibt ein Verschwommensehen.<br /><br /> Allergien auf Umweltfaktoren (Pollen, Katzenhaare etc.) werden bejaht.<br /><br />Rhinorrhoe, eine nasale Obstruktion, Augenschmerzen, Halsschmerzen und ein Fremdkörpergefühl im Auge werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "143e2143-4ed0-43ff-b6c7-9f2d27c2ad65",
+  "topic": "ophthalmology"
+}

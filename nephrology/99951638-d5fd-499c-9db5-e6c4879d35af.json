@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.malignantNeoplasmOfBladder",
+      "label": "Blasenkarzinom",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.gonococcalUrethritis",
+      "label": "Gonokokken-Urethritis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.urolithiasis",
+      "label": "Urolithiasis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.epididymitis",
+      "label": "Epididymitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acutePyelonephritis",
+      "label": "Akute Pyelonephritis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (76) bei Hämaturie seit neun Tagen.<br /><br />Es seien Blutkoagel im Urin vorhanden.<br /><br />Zusätzlich berichtet der Patient über Dysurie, eine vermehrte Müdigkeit und Nachtschweiss.<br /><br />Flankenschmerzen, Schüttelfrost, Hodenschmerzen, Leistenschmerzen, eine Schwellung oder Vergrösserung des Hodens und ein Gewichtsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 72py (30 Zigaretten täglich während 48 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "99951638-d5fd-499c-9db5-e6c4879d35af",
+  "topic": "nephrology"
+}

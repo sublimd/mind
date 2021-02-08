@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.vertebralFracture",
+      "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Wirbelkörperfraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, kein Auslöser</li></ul>",
+      "label": "Wirbelkörperfraktur",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypercalcemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
+      "label": "Hyperkalzämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myelodysplastisches_Syndrom"
+        }
+      },
+      "diagnosisId": "D.myelodysplasticSyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li></ul>",
+      "label": "Myelodysplastisches Syndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Tumorhyperkalz%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypercalcemiaOfMalignancy",
+      "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tumorhyperkalzämie</i> erhöhen würden: Muskelschwäche, Nausea, Erbrechen, Obstipation, Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "label": "Tumorhyperkalzämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Multiples_Myelom"
+        }
+      },
+      "diagnosisId": "D.multipleMyeloma",
+      "explanation": "",
+      "label": "Multiples Myelom",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (59) bei einer vermehrten Müdigkeit seit vier Monaten.<br /><br />Zusätzlich berichtet die Patientin über Rückenschmerzen.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Dyspnoe, Fieber, Schlafstörungen, Nausea, Kopfschmerzen, Erbrechen, ein Gewichtsverlust, Polyurie, eine depressive Stimmung, ein vermehrtes Durstgefühl, Nachtschweiss, Sensibilitätsstörungen und Unfall werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 62py (30 Zigaretten täglich während 41 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Sekt und Spirituosen).",
+  "id": "6623801d-b701-4025-bd4b-3fb918a7aca2",
+  "topic": "hematology"
+}

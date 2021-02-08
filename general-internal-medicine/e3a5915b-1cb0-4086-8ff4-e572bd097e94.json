@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.polycysticKidneyDisease",
+      "label": "Polyzystische Nierenerkrankung (PKD)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.renalArteryStenosis",
+      "label": "Nierenarterienstenose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.pheochromocytoma",
+      "label": "Phäochromozytom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.essentialHypertension",
+      "label": "Essentielle Hypertonie",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.hypercortisolism",
+      "label": "Cushing Syndrom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (65) bei erhöhten Blutdruckwerten seit fünf Monaten.<br /><br />Kopfschmerzen, Thoraxschmerzen, Schwindel, Schlafstörungen, eine Gewichtszunahme, Palpitationen und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "e3a5915b-1cb0-4086-8ff4-e572bd097e94",
+  "topic": "general-internal-medicine"
+}

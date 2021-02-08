@@ -1,0 +1,62 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vorhofflattern"
+        }
+      },
+      "diagnosisId": "D.atrialFlutter",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vorhofflattern</i> erhöhen würden: Schwindel, Dyspnoe</li></ul>",
+      "label": "Vorhofflattern",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperparathyreoidismus"
+        }
+      },
+      "diagnosisId": "D.hyperparathyroidism",
+      "explanation": "",
+      "label": "Hyperparathyroidismus",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Eisenmangelan%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.ironDeficiencyAnemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li></ul>",
+      "label": "Eisenmangelanämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mikrozyt%C3%A4re_An%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.anemiaMacrocytic",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "label": "Makrozytäre Anämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sinustachykardie"
+        }
+      },
+      "diagnosisId": "D.sinusTachycardia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Müdigkeit, Muskelschwäche</li></ul>",
+      "label": "Sinustachykardie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (52) bei Nausea seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über Obstipation, eine vermehrte Müdigkeit, eine Muskelschwäche und Palpitationen (Ausstrahlung des Herzschlags).<br /><br />Die Müdigkeit sei am Abend am stärksten ausgeprägt.<br /><br />Bauchschmerzen, Diarrhoe, Schwindel, Kopfschmerzen, Synkopen und Thoraxschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 20py (20 Zigaretten täglich während 20 Jahren). Kein Alkoholkonsum.",
+  "id": "a5cacfa5-17c5-4c42-8b1a-d18bb2267de1",
+  "topic": "endocrinology"
+}

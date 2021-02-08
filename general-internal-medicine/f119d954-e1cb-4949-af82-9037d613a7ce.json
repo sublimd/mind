@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.motionSickness",
+      "label": "Reisekrankheit",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.vestibularMigraine",
+      "label": "Vestibuläre Migräne",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.anemiaMacrocytic",
+      "label": "Makrozytäre Anämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.orthostaticDysregulation",
+      "label": "Orthostatische Dysregulation",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.vestibularNeuritis",
+      "label": "Neuritis vestibularis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (42) bei intermittierendem Schwindel seit sechs Wochen.<br /><br />Verstärkung des Schwindels nach schnellem Aufstehen. Linderung des Schwindels beim sich Hinlegen.<br /><br />Zusätzlich berichtet die Patientin über Nausea und Sehstörungen.<br /><br />Kürzliche Schiffsreisen, Erbrechen, Kopfschmerzen, Palpitationen, ein Bewusstseinsverlust, eine Hörminderung, eine Photophobie, eine Phonophobie und Ausfluss aus dem Ohr werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1 x im Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "f119d954-e1cb-4949-af82-9037d613a7ce",
+  "topic": "general-internal-medicine"
+}

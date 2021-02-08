@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.ironDeficiencyAnemia",
+      "label": "Eisenmangelanämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hashimotoThyroiditis",
+      "label": "Hashimoto Thyreoditis",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.hypercalcemiaOfMalignancy",
+      "label": "Tumorhyperkalzämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hyperkalemia",
+      "label": "Hyperkaliämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hypokalemia",
+      "label": "Hypokaliämie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (45) bei Obstipation seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Menstruationsbeschwerden, eine Unterschenkelschwellung und Palpitationen.<br /><br />Eine Kälteintoleranz, eine Gewichtszunahme, Bauchschmerzen, Nausea, Erbrechen, Polyurie, eine Verwirrtheit und ein vermehrtes Durstgefühl werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "1285cd1d-d705-44ac-8d67-0dfdf70cc43f",
+  "topic": "general-internal-medicine"
+}

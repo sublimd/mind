@@ -1,0 +1,50 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Bakterielle_Vaginose"
+        }
+      },
+      "diagnosisId": "D.bacterialVaginosis",
+      "explanation": "",
+      "label": "Bakterielle Vaginose",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.chlamydialCervicitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chlamydien-Zervizitis</i> erhöhen würden: vaginale Blutung, Probleme beim Geschlechtsverkehr, Dysurie, Pollakisurie</li></ul>",
+      "label": "Chlamydien-Zervizitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.atrophicVaginitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atrophe Vaginitis</i> erhöhen würden: Probleme beim Geschlechtsverkehr, vaginale Blutung</li></ul>",
+      "label": "Atrophe Vaginitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteAdnexitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Bakterielle Vaginose</i> besser erklärt sind: vaginaler Juckreiz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Adnexitis</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost</li></ul>",
+      "label": "Akute Adnexitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pelvic_inflammatory_disease"
+        }
+      },
+      "diagnosisId": "D.pelvicInflammatoryDisease",
+      "explanation": "<ul><li>Probleme, welche durch <i>Bakterielle Vaginose</i> besser erklärt sind: vaginaler Juckreiz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost, Menstruationsbeschwerden, vaginale Blutung, Probleme beim Geschlechtsverkehr, Dysurie</li></ul>",
+      "label": "Pelvic Inflammatory Disease",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (37) bei vaginalem Ausfluss seit fünf Tagen.<br /><br />Die Patientin beschreibt den Ausfluss als weisslich und fötide.<br /><br />Zusätzlich berichtet die Patientin über vaginalen Juckreiz.<br /><br />Probleme beim Geschlechtsverkehr, Dysurie, unerwartete vaginale Blutungen, Bauchschmerzen, Fieber und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "d1e5bedb-51bf-4de7-98f5-9c40e19317fd",
+  "topic": "gynecology"
+}

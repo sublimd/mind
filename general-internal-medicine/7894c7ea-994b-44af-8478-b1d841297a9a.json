@@ -1,0 +1,31 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.acuteLaryngitis",
+      "label": "Akute Laryngitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hivPrimoInfection",
+      "label": "HIV-Primoinfektion",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.measles",
+      "label": "Masern",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.viralPharyngitis",
+      "label": "Virale Pharyngitis",
+      "isCorrect": true
+    },
+    {
+      "label": "Euthyreote Struma",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (66) bei Halsschmerzen seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Fieber, eine vermehrte Müdigkeit, Gliederschmerzen, einen vergrösserten Lymphknoten im Halsbereich und Husten.<br /><br />Dysphagie, Rhinorrhoe, Dysphonie, Diarrhoe, Kopfschmerzen, eine Augenrötung und Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 48py (30 Zigaretten täglich während 32 Jahren). Alkoholkonsum 2 - 3 x / Woche, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "7894c7ea-994b-44af-8478-b1d841297a9a",
+  "topic": "general-internal-medicine"
+}

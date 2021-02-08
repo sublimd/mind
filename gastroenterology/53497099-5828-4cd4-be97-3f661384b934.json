@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.acuteCholecystitis",
+      "label": "Akute Cholezystitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.thyroidStorm",
+      "label": "Thyreotoxische Krise",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.spontaneousBacterialPeritonitis",
+      "label": "Spontan bakterielle Peritonitis (SBP)",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.acuteDiverticulitis",
+      "label": "Akute Divertikulitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.sepsis",
+      "label": "Sepsis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (74) bei Fieber seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über diffuse Bauchschmerzen und eine Verwirrtheit.<br /><br />Verstärkung der Bauchschmerzen bei Erschütterungen. Linderung der Bauchschmerzen bei ruhigem Liegen.<br /><br />Nausea, Erbrechen, Diarrhoe, Odynophagie, Husten, Dyspnoe, Tachykardien, Flankenschmerzen, Dysurie, Schüttelfrost und ein kürzlicher Bewusstseinsverlust werden verneint. <h2>Diagnoseliste</h2>- Leberzirrhose<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "53497099-5828-4cd4-be97-3f661384b934",
+  "topic": "gastroenterology"
+}

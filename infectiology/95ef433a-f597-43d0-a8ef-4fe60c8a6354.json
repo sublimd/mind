@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.typhus",
+      "label": "Fleckfieber",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.dengueFever",
+      "label": "Dengue Fieber",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.rockyMountainSpottedFever",
+      "label": "Rocky-Mountains-Fleckfieber",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hivPrimoInfection",
+      "label": "HIV-Primoinfektion",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.malaria",
+      "label": "Malaria",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (63) bei Fieber seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über ein erythematöses Exanthem, Gliederschmerzen und Nausea.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br />Bauchschmerzen, Diarrhoe, Halsschmerzen, Odynophagie, Husten, Dyspnoe, Kopfschmerzen, Flankenschmerzen, Dysurie, Appetitverlust und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "95ef433a-f597-43d0-a8ef-4fe60c8a6354",
+  "topic": "infectiology"
+}

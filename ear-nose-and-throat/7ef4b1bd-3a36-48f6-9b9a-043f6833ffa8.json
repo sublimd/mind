@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Granulomatose_mit_Polyangiitis"
+        }
+      },
+      "diagnosisId": "D.granulomatosisWithPolyangiitis",
+      "explanation": "<ul><li><i>Fremdkörper in der Nase</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Granulomatose mit Polyangiitis</i> erhöhen würden: Husten, Hämoptoe, Dyspnoe, Fieber</li></ul>",
+      "label": "Granulomatose mit Polyangiitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypochondrie"
+        }
+      },
+      "diagnosisId": "D.hypochondriasis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Fremdkörper in der Nase</i> besser erklärt sind: Rhinorrhoe</li></ul>",
+      "label": "Hypochondrie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.intranasalForeignBody",
+      "explanation": "",
+      "label": "Fremdkörper in der Nase",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktischer_Schock"
+        }
+      },
+      "diagnosisId": "D.anaphylacticShock",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktischer Schock</i> erhöhen würden: niedrige Blutdruckwerte, Tachykardien, Schwindel, Hautveränderungen, Pruritus, Hautschwellung, Nausea, Erbrechen, Bauchschmerzen, Diarrhoe, Synkope, Bewusstseinsverlust</li></ul>",
+      "label": "Anaphylaktischer Schock",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.chronicRhinoSinusitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische Rhinosinusitis</i> erhöhen würden: Kopfschmerzen, Gesichtsschmerzen</li></ul>",
+      "label": "Chronische Rhinosinusitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (8) bei nasaler Obstruktion und Rhinorrhoe aus dem linken Nasenloch seit drei Tagen.<br /><br />Kopfschmerzen, Dyspnoe, Hautveränderungen, Nachtschweiss und Nasenbluten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Kein Alkoholkonsum.",
+  "id": "7ef4b1bd-3a36-48f6-9b9a-043f6833ffa8",
+  "topic": "ear-nose-and-throat"
+}

@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Interstitielle_Lungenerkrankung"
+        }
+      },
+      "diagnosisId": "D.interstitialLungDisease",
+      "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li></ul>",
+      "label": "Interstitielle Lungenerkrankung",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pleuraerguss"
+        }
+      },
+      "diagnosisId": "D.pleuralEffusion",
+      "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pleuraerguss</i> erhöhen würden: Thoraxschmerzen</li></ul>",
+      "label": "Pleuraerguss",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vocal_Cord_Dysfunction"
+        }
+      },
+      "diagnosisId": "D.vocalCordDysfunctionSyndrome",
+      "explanation": "",
+      "label": "Vocal Cord Dysfunction (VCD)",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Atelektase"
+        }
+      },
+      "diagnosisId": "D.atelectasis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li></ul>",
+      "label": "Atelektase",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.upperAirwayInfection",
+      "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Fieber, Schüttelfrost, Gliederschmerzen</li></ul>",
+      "label": "Viraler Infekt der oberen Atemwege",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (42) bei Dyspnoe seit sechs Tagen.<br /><br />Zusätzlich berichtet die Patientin über Husten und Dysphonie.<br /><br />Thoraxschmerzen, Fieber, Rhinorrhoe, Halsschmerzen und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "deeb22ff-8415-4ab4-b5b7-4c6f560ec416",
+  "topic": "ear-nose-and-throat"
+}

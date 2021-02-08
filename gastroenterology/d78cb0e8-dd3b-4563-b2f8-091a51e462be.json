@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.analSkinTags",
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Marisken</i> erhöhen würden: analer Juckreiz</li></ul>",
+      "label": "Marisken",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.rectocele",
+      "explanation": "<ul><li>Symptome, welche durch <i>Perianalthrombose</i> besser erklärt sind: anale Schmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Rektozele</i> erhöhen würden: Rückenschmerzen, Stuhlinkontinenz</li></ul>",
+      "label": "Rektozele",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.proctitis",
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Diarrhoe, Hämatochezie, Bauchschmerzen</li></ul>",
+      "label": "Proktitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.analCancer",
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Hämatochezie, analer Juckreiz</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "label": "Analkarzinom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.perianalVeinThrombosis",
+      "explanation": "",
+      "label": "Perianalthrombose",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (54) bei analen Schmerzen seit fünf Stunden.<br /><br />Zusätzlich berichtet die Patientin über Obstipation.<br /><br />Hämatochezie, analer Juckreiz, Bauchschmerzen, eine Stuhlinkontinenz und Rückenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Wein).",
+  "id": "d78cb0e8-dd3b-4563-b2f8-091a51e462be",
+  "topic": "gastroenterology"
+}

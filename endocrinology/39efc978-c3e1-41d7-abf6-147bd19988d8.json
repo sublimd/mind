@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.viralPharyngitis",
+      "label": "Virale Pharyngitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.upperAirwayInfection",
+      "label": "Viraler Infekt der oberen Atemwege",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.infectiousMononucleosis",
+      "label": "Infektiöse Mononukleose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.myocarditis",
+      "label": "Myokarditis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.subacuteThyroiditis",
+      "label": "Subakute granulomatöse Thyreoiditis de Quervain",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (46) bei Halsschmerzen seit vier Wochen.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, eine schmerzhafte Halsschwellung, Fieber, Gliederschmerzen, einen Appetitverlust und Palpitationen.<br /><br />Der Kontakt zu kranken Personen wird verneint. <br /><br />Schüttelfrost, vergrösserte Lymphknoten, Rhinorrhoe, Husten, Dysphonie, Dysphagie und Odynophagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "39efc978-c3e1-41d7-abf6-147bd19988d8",
+  "topic": "endocrinology"
+}

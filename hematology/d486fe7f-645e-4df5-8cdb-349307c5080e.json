@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.uremia",
+      "label": "Urämisches Syndrom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.rheumatoidArthritis",
+      "label": "Rheumatoide Arthritis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.bronchiectasis",
+      "label": "Bronchiektasen",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acutePericarditis",
+      "label": "Akute Perikarditis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.primaryMyelofibrosis",
+      "label": "Primäre Myelofibrose (PMF)",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (71) bei einer vermehrten Müdigkeit seit drei Monaten.<br /><br />Zusätzlich berichtet der Patient über Fieber und Pruritus.<br /><br />Dyspnoe, Schlafstörungen, Schüttelfrost, Gelenkschmerzen, ein Gewichtsverlust, Bauchschmerzen, Thoraxschmerzen, vergrösserte Lymphknoten, Nachtschweiss, Hand- und Handgelenksschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 22py (10 Zigaretten täglich während 43 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "d486fe7f-645e-4df5-8cdb-349307c5080e",
+  "topic": "hematology"
+}

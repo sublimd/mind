@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.irritableBowelSyndrome",
+      "label": "Colon irritabile",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.whippleDisease",
+      "label": "Whipple-Krankheit",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.ulcerativeColitis",
+      "label": "Colitis ulcerosa",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.crohnsDisease",
+      "label": "M. Crohn",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.colorectalCancer",
+      "label": "Kolonkarzinom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (60) bei Diarrhoe seit drei Wochen.<br /><br />Zusätzlich berichtet der Patient über Bauchschmerzen, einen Gewichtsverlust, Steatorrhoe und Gelenkschmerzen.<br /><br />Der Patient arbeite als Landwirt.<br /><br />Nausea, Erbrechen, Fieber, Blähungen, Hämatochezie, Obstipation, Schüttelfrost und eine Stuhlinkontinenz werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "1ee2f92c-adae-4a44-bfbc-93f359a869fb",
+  "topic": "infectiology"
+}

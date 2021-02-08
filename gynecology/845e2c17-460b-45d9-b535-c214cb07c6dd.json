@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.tuboOvarianAbscess",
+      "label": "Tuboovarialabszess",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.endometrialCarcinoma",
+      "label": "Endometriumkarzinom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.malignantNeoplasmOfOvary",
+      "label": "Ovarialkarzinom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteDiverticulitis",
+      "label": "Akute Divertikulitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hydrosalpinx",
+      "label": "Hydrosalpinx",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (38) bei Bauchschmerzen im linken Unterbauch seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Fieber, vaginalen Ausfluss, Menstruationsbeschwerden, Rückenschmerzen und Nausea.<br /><br />Erbrechen, Diarrhoe, Obstipation, Blähungen, Dysurie, ein Gewichtsverlust, Probleme beim Geschlechtsverkehr, Hämatochezie und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "845e2c17-460b-45d9-b535-c214cb07c6dd",
+  "topic": "gynecology"
+}

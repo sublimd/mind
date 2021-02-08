@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.migraineHeadache",
+      "label": "Migräne",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteViralMeningitis",
+      "label": "Akute virale Meningitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.japaneseEncephalitisVirus",
+      "label": "Japanische Enzephalitis",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.otogenicMeningitis",
+      "label": "Otogene Meningitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.tickborneEncephalitis",
+      "label": "Frühsommer-Meningoencephalitis (FSME)",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (45) bei einer Photophobie seit sechs Tagen.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br />Dysarthrie, Sehstörungen, Schwindel, eine Hörminderung und Kopfschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 3 x / Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "83b77d58-12b1-4443-95f4-289ce02e418d",
+  "topic": "general-internal-medicine"
+}

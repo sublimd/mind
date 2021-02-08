@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
+        }
+      },
+      "diagnosisId": "D.erysipelas",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chikungunya Fieber</i> besser erklärt sind: Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautüberwärmung, Hautschwellung, Beinschwellung, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Erysipel",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chikungunyafieber"
+        }
+      },
+      "diagnosisId": "D.chikungunyaFever",
+      "explanation": "",
+      "label": "Chikungunya Fieber",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.lymeBorreliosisStage1",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "label": "Lyme Borreliose Stadium 1",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.hivPrimoInfection",
+      "explanation": "<ul><li><i>Chikungunya Fieber</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Dysphagie, Halsschmerzen, Odynophagie, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Konsum von intravenösen Drogen, ungeschützter Geschlechtsverkehr, mehrere Sexualpartner, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
+      "label": "HIV-Primoinfektion",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Masern"
+        }
+      },
+      "diagnosisId": "D.measles",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Masern</i> erhöhen würden: Dysphagie, Halsschmerzen, Odynophagie</li></ul>",
+      "label": "Masern",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (34) bei Fieber seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Gliederschmerzen und eine erythematöse Hautveränderung.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht. Der Erhalt von Bluttransfusionen wird bejaht.<br /><br /> Ein spezifischer Auslöser für die Hautveränderung sei der Patientin nicht aufgefallen. Kontakt zu mehreren Sexualpartnern in den letzten Monaten wird verneint. <br /><br />Bauchschmerzen, Diarrhoe, Halsschmerzen, Odynophagie, Husten, Dysphagie, Kopfschmerzen, vergrösserte Lymphknoten, Flankenschmerzen, Dysurie und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "fec4a742-5d52-45bd-8bed-c4e725742006",
+  "topic": "infectiology"
+}

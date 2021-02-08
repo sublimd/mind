@@ -1,0 +1,27 @@
+{
+  "answers": [
+    {
+      "label": "Obstruktive Uropathie (Harnstau)",
+      "isCorrect": false
+    },
+    {
+      "label": "Akute Divertikulitis",
+      "isCorrect": false
+    },
+    {
+      "label": "Urolithiasis",
+      "isCorrect": false
+    },
+    {
+      "label": "Zyste des Ausführungsgangs der Skene-Drüse",
+      "isCorrect": true
+    },
+    {
+      "label": "Gonokokken-Urethritis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (62) bei Dysurie seit zwei Tagen.<br /><br />Die Patientin berichtet über ein Nachtröpfeln nach der Miktion.<br /><br /> Sexuelle Aktivität wird verneint. <br /><br />Hämaturie, Bauchschmerzen, Flankenschmerzen, Fieber, urethraler Ausfluss, Pollakisurie, eine allgemeine Müdigkeit und Nykturie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 60py (30 Zigaretten täglich während 40 Jahren). Alkoholkonsum 2 - 3 x / Woche, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "5f448614-9396-43ef-9de2-7550227979ca",
+  "topic": "general-internal-medicine"
+}

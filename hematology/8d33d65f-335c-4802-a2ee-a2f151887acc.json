@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.infectiousMononucleosis",
+      "label": "Infektiöse Mononukleose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteLymphoblasticLeukemia",
+      "label": "Akute lymphatische Leukämie",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.lymeBorreliosisStage1",
+      "label": "Lyme Borreliose Stadium 1",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteRhinoSinusitis",
+      "label": "Akute Rhinosinusitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.lymphoma",
+      "label": "Lymphom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (15) bei Fieber seit einer Woche.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, einen Gewichtsverlust und Nasenbluten.<br /><br />Bauchschmerzen, Diarrhoe, Hautveränderungen, Odynophagie, Husten, Dysphagie, Dyspnoe, Kopfschmerzen, vergrösserte Lymphknoten, Gliederschmerzen, Flankenschmerzen, eine nasale Obstruktion, Dysurie und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x oder mehr die Woche, jeweils 2 - 3 Standardgetränke / Tag.",
+  "id": "8d33d65f-335c-4802-a2ee-a2f151887acc",
+  "topic": "hematology"
+}

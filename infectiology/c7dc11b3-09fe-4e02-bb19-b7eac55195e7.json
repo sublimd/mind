@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.pseudoCroup",
+      "label": "Laryngitis subglottica (Pseudokrupp)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.qFever",
+      "label": "Q Fieber",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.tickborneEncephalitis",
+      "label": "Frühsommer-Meningoencephalitis (FSME)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.typhoidFever",
+      "label": "Typhus abdominalis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteBronchitis",
+      "label": "Akute Bronchitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (65) bei Fieber seit sechs Tagen.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Kopfschmerzen, Halsschmerzen, Gliederschmerzen und Husten.<br /><br />Der Patient arbeite als Bauer mit Rindern.<br /><br />Bauchschmerzen, Nausea, Diarrhoe, Odynophagie, Dysphagie, Dyspnoe, Rhinorrhoe, Flankenschmerzen, Dysurie, Schüttelfrost und Dysphonie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "c7dc11b3-09fe-4e02-bb19-b7eac55195e7",
+  "topic": "infectiology"
+}

@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polyzystische_Nierenerkrankung"
+        }
+      },
+      "diagnosisId": "D.polycysticKidneyDisease",
+      "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polyzystische Nierenerkrankung (PKD)</i> erhöhen würden: Erhöhter Blutdruck</li></ul>",
+      "label": "Polyzystische Nierenerkrankung (PKD)",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Nierensch%C3%A4digung"
+        }
+      },
+      "diagnosisId": "D.acuteKidneyInjury",
+      "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Schwellung der Unterschenkel, Oligurie, Polyurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Akute Nierenschädigung",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.malignantNeoplasmOfKidney",
+      "explanation": "",
+      "label": "Nierenkarzinom",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Immunthrombozytopenie"
+        }
+      },
+      "diagnosisId": "D.immuneThrombocytopenia",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Immunthrombozytopenie (ITP)</i> erhöhen würden: Zahnfleischbluten, Nasenbluten, Hautveränderungen, Kopfschmerzen</li></ul>",
+      "label": "Immunthrombozytopenie (ITP)",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Prostatahyperplasie"
+        }
+      },
+      "diagnosisId": "D.benignProstaticHyperplasia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prostatahyperplasie</i> erhöhen würden: Dysurie, Pollakisurie, Nykturie, Urininkontinenz</li></ul>",
+      "label": "Prostatahyperplasie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (80) bei Hämaturie seit einem Monat.<br /><br />Es seien Blutkoagel im Urin vorhanden.<br /><br />Zusätzlich berichtet der Patient über Fieber.<br /><br />Eine Strahlenexposition wird bejaht.<br /><br />Dysurie, eine allgemeine Müdigkeit, Flankenschmerzen, eine Hautschwellung, eine Schwellung der Unterschenkel, Oligurie, Hautveränderungen, eine Schwellung oder Vergrösserung des Hodens und erhöhte Blutdruckwerte werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "a3faf390-7d8b-4850-b939-16cdc99f0de1",
+  "topic": "nephrology"
+}

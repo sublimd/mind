@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.folateDeficiency",
+      "label": "Folsäuremangel",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.concussion",
+      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteCoronarySyndrome",
+      "label": "Myokardinfarkt",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.orthostaticDysregulation",
+      "label": "Orthostatische Dysregulation",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.menieresDisease",
+      "label": "M. Menière",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (40) bei Schwindel seit sieben Tagen.<br /><br />Verstärkung des Schwindels nach schnellem Aufstehen. Linderung des Schwindels beim sich Hinlegen.<br /><br />Zusätzlich berichtet der Patient über Nausea.<br /><br />Erbrechen, Dyspnoe, Kopfschmerzen, Palpitationen, eine kürzlicher Bewusstseinsverlust, Amnesie, eine Hörminderung, Sehstörungen, eine Hyperhidrose und Ausfluss aus dem Ohr werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 11py (20 Zigaretten täglich während 11 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein).",
+  "id": "999390c3-0362-4ff3-b8b6-7f52c183b29b",
+  "topic": "general-internal-medicine"
+}

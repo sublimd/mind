@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenembolie"
+        }
+      },
+      "diagnosisId": "D.pulmonaryEmbolism",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Bronchitis</i> besser erklärt sind: Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenembolie</i> erhöhen würden: Thoraxschmerzen</li></ul>",
+      "label": "Lungenembolie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Bronchialkarzinom"
+        }
+      },
+      "diagnosisId": "D.malignantNeoplasmOfLung",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Bronchitis</i> besser erklärt sind: Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenkarzinom</i> erhöhen würden: allgemeine Müdigkeit, Gewichtsverlust</li></ul>",
+      "label": "Lungenkarzinom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Bronchitis"
+        }
+      },
+      "diagnosisId": "D.acuteBronchitis",
+      "explanation": "",
+      "label": "Akute Bronchitis",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Granulomatose_mit_Polyangiitis"
+        }
+      },
+      "diagnosisId": "D.granulomatosisWithPolyangiitis",
+      "explanation": "<ul><li><i>Akute Bronchitis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Granulomatose mit Polyangiitis</i> erhöhen würden: Rhinorrhoe</li></ul>",
+      "label": "Granulomatose mit Polyangiitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.upperAirwayInfection",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Bronchitis</i> besser erklärt sind: Hämoptoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie</li></ul>",
+      "label": "Viraler Infekt der oberen Atemwege",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (39) bei Husten mit Auswurf seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe, Gliederschmerzen und Hämoptoe.<br /><br />Es komme jeweils zu einem Pfeifen beim Ausatmen.<br /><br />Fieber, eine allgemeine Müdigkeit, Rhinorrhoe, eine nasale Obstruktion, Halsschmerzen, Odynophagie, Thoraxschmerzen, Orthopnoe und saures Aufstossen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 11py (10 Zigaretten täglich während 21 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "867cd557-91e1-42bd-8930-3e554f20890d",
+  "topic": "pneumology"
+}

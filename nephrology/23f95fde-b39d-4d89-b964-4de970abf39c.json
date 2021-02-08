@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.urolithiasis",
+      "label": "Urolithiasis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.membranousGlomerulonephritis",
+      "label": "Membranöse Glomerulonephritis",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.chronicKidneyDisease",
+      "label": "Chronische Niereninsuffizienz",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.myelodysplasticSyndrome",
+      "label": "Myelodysplastisches Syndrom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.stablePelvicRingFracture",
+      "label": "Stabile Beckenringfraktur",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (61) bei Hämaturie seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über eine beidseitige Unterschenkelschwellung.<br /><br />Dysurie, Flankenschmerzen, Fieber, Nausea, Erbrechen, Oligurie, erhöhte Blutdruckwerte und Hämatochezie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 39py (30 Zigaretten täglich während 26 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "23f95fde-b39d-4d89-b964-4de970abf39c",
+  "topic": "nephrology"
+}

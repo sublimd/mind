@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cushing-Syndrom"
+        }
+      },
+      "diagnosisId": "D.hypercortisolism",
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetes insipidus centralis</i> besser erklärt sind: Nykturie, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhter Blutdruck, erektile Dysfunktion, Schwellung der Unterschenkel, Rückenschmerzen</li></ul>",
+      "label": "Cushing Syndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkali%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hyperkalemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetes insipidus centralis</i> besser erklärt sind: Nykturie, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkaliämie</i> erhöhen würden: Muskelschwäche</li></ul>",
+      "label": "Hyperkaliämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Diabetes_insipidus_centralis"
+        }
+      },
+      "diagnosisId": "D.diabetesInsipidusCentralis",
+      "explanation": "",
+      "label": "Diabetes insipidus centralis",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.diabeticKetoacidosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetes insipidus centralis</i> besser erklärt sind: Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Diabetische Ketoazidose</i> erhöhen würden: Bauchschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Diabetische Ketoazidose</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Diabetische Ketoazidose",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperglyk%C3%A4misches_Koma"
+        }
+      },
+      "diagnosisId": "D.comaDiabeticum",
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetes insipidus centralis</i> besser erklärt sind: Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperglykämisches Koma</i> erhöhen würden: Bewusstseinsverlust, Synkope, Somnolenz, Bauchschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperglykämisches Koma</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Hyperglykämisches Koma",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (29) bei Polyurie seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über ein vermehrtes Durstgefühl, Nykturie und Nausea.<br /><br />Eine allgemeine Müdigkeit, Lähmungserscheinungen, Bauchschmerzen, ein kürzlicher Bewusstseinsverlust und Sensibilitätsstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 13py (20 Zigaretten täglich während 13 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "a0aa6413-9176-4753-a1a1-181adcf51d2d",
+  "topic": "endocrinology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.diabeticKetoacidosis",
+      "label": "Diabetische Ketoazidose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.whiplashInjury",
+      "label": "Distorsionstrauma der Halswirbelsäule",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.radialNerveLesion",
+      "label": "Läsion des N. radialis",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.comaDiabeticum",
+      "label": "Hyperglykämisches Koma",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hypophosphatemia",
+      "label": "Hypophosphatämie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (58) bei Sensibilitätsstörungen im Bereich der oberen Extremität beidseits seit fünf Tagen.<br /><br />Zusätzlich berichtet der Patient über eine Muskelschwäche im Bereich der oberen Extremität beidseits.<br /><br />Operationen in den letzten drei Monaten werden bejaht.<br /><br />Rückenschmerzen, Krampfanfälle, Nausea, Bauchschmerzen und ein vermehrtes Durstgefühl werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "52c56105-8946-4a41-8dfd-df9574c923c9",
+  "topic": "general-internal-medicine"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.cardiogenicSyncope",
+      "label": "Kardiogene Synkope",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.septicShock",
+      "label": "Septischer Schock",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.anaphylacticShock",
+      "label": "Anaphylaktischer Schock",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.takotsuboCardiomyopathy",
+      "label": "Stress-Kardiomyopathie (Tako-Tsubo-Syndrom)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.atrialFlutter",
+      "label": "Vorhofflattern",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (82) bei Hypotonie seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine erythematöse Hautveränderung, Dyspnoe, Nausea und eine Synkope.<br /><br />Eine Urininkontinenz, eine allgemeine Müdigkeit, Oligurie, Schwindel, Kopfschmerzen, Tachykardien, Thoraxschmerzen, Schüttelfrost und Palpitationen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "68687771-380c-40d4-b0cb-a699a68bb242",
+  "topic": "general-internal-medicine"
+}

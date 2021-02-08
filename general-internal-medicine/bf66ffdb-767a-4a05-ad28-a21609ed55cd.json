@@ -1,0 +1,27 @@
+{
+  "answers": [
+    {
+      "label": "Instabilität des Sprunggelenks",
+      "isCorrect": false
+    },
+    {
+      "label": "Spondylitis ankylosans",
+      "isCorrect": false
+    },
+    {
+      "label": "Sprunggelenksarthrose",
+      "isCorrect": true
+    },
+    {
+      "label": "Tendinitis der Achillessehne",
+      "isCorrect": false
+    },
+    {
+      "label": "Gichtarthritis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (53) bei Fussgelenksschmerzen seit einem Monat.<br /><br />Im Zusammenhang mit den Fussgelenksschmerzen sei es ausserdem zu einer Fusssteifigkeit gekommen. Verstärkung bzw. Auslösung der Schmerzen am Fussgelenk bei Bewegung.<br />Eine morgendliche Fusssteifigkeit wird bejaht.<br /><br /> Fieber, eine Fussschwellung oder eine Fussrötung im Zusammenhang mit den Schmerzen am Fussgelenk wird verneint. <br /><br />Eine Schwellung der Unterschenkel, Knieschmerzen und Handgelenksschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 20py (20 Zigaretten täglich während 20 Jahren). Alkoholkonsum 2 - 3 x / Woche, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "bf66ffdb-767a-4a05-ad28-a21609ed55cd",
+  "topic": "general-internal-medicine"
+}

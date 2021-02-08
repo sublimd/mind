@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.familialMediterraneanFever",
+      "label": "Familiäres Mittelmeerfieber",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.typhoidFever",
+      "label": "Typhus abdominalis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteHepatitisA",
+      "label": "Akute Hepatitis A-Infektion",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.sickleCellCrisis",
+      "label": "Sichelzellkrise",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.polyarteritisNodosa",
+      "label": "Polyarteriitis nodosa",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (26) bei Fieber seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Bauchschmerzen, Gelenkschmerzen, atemabhängige Thoraxschmerzen und eine erythematöse Hautveränderung.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Nausea, Diarrhoe, Odynophagie, Husten, Dyspnoe, Kopfschmerzen, Gliederschmerzen, Flankenschmerzen, Dysurie, Schüttelfrost und Sehstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "3f0018ae-a77f-40b9-b2d7-96a7cf21f4fd",
+  "topic": "genetic-disorders"
+}

@@ -1,0 +1,27 @@
+{
+  "answers": [
+    {
+      "label": "Akute lymphatische Leukämie",
+      "isCorrect": true
+    },
+    {
+      "label": "Primäre Myelofibrose (PMF)",
+      "isCorrect": false
+    },
+    {
+      "label": "Morbus Castleman",
+      "isCorrect": false
+    },
+    {
+      "label": "Urethrakarzinom",
+      "isCorrect": false
+    },
+    {
+      "label": "Harnwegsinfekt",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (9) bei Fieber seit einer Woche.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit und einen Gewichtsverlust.<br /><br />Nasenbluten, vergrösserte Lymphknoten, Gliederschmerzen, Dyspnoe, Kopfschmerzen, Schüttelfrost, Odynophagie, Husten, Bauchschmerzen, Diarrhoe, Flankenschmerzen, Dysurie, Orthopnoe, Palpitationen, Tachykardien, eine Schwellung der Unterschenkel und eine Beinschwellung werden verneint.",
+  "id": "73538888-5156-4550-b9fc-1b2e67345ba3",
+  "topic": "general-internal-medicine"
+}

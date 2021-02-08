@@ -1,0 +1,62 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Neuritis_vestibularis"
+        }
+      },
+      "diagnosisId": "D.vestibularNeuritis",
+      "explanation": "",
+      "label": "Neuritis vestibularis",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Benigner_paroxysmaler_Lagerungsschwindel"
+        }
+      },
+      "diagnosisId": "D.benignParoxysmalPositionalVertigo",
+      "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
+      "label": "Benigner paroxysmaler Lagerungsschwindel",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Reisekrankheit"
+        }
+      },
+      "diagnosisId": "D.motionSickness",
+      "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
+      "label": "Reisekrankheit",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Orthostatische_Dysregulation"
+        }
+      },
+      "diagnosisId": "D.orthostaticDysregulation",
+      "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
+      "label": "Orthostatische Dysregulation",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      },
+      "diagnosisId": "D.migraineHeadache",
+      "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Kopfschmerzen, Photophobie, Phonophobie</li></ul>",
+      "label": "Migräne",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (26) bei Schwindel seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über Nausea und eine Ataxie.<br /><br />Kopfschmerzen, ein kürzlicher Bewusstseinsverlust, eine Hörminderung, Sehstörungen und Ausfluss aus dem Ohr werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 15py (30 Zigaretten täglich während 10 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "df6ac4f3-d1db-4fc7-bc05-ec7070b857bc",
+  "topic": "neurology"
+}

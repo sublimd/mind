@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.placentaPrevia",
+      "label": "Placenta praevia",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.uterinePolyp",
+      "label": "Korpuspolyp",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.cervicalCarcinoma",
+      "label": "Zervixkarzinom",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.tuboOvarianAbscess",
+      "label": "Tuboovarialabszess",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.vulvaCarcinoma",
+      "label": "Vulvakarzinom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (45) bei intermittierenden vaginalen Blutungen seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Probleme beim Geschlechtsverkehr.<br /><br />Die Patientin gibt an unter Schmierblutungen während dem Geschlechtsverkehr zu leiden.<br /><br />Vaginaler Ausfluss, eine allgemeine Müdigkeit, ein Gewichtsverlust, Fieber, Schüttelfrost, Dysurie, Bauchschmerzen, Rückenschmerzen und Schmerzen im Genitalbereich werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "782860f9-1b49-433d-9a90-372d2aaa16a1",
+  "topic": "general-internal-medicine"
+}

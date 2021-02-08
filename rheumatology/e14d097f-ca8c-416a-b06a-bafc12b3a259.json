@@ -1,0 +1,50 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.lumbarVertebralSyndrome",
+      "explanation": "",
+      "label": "Lumbovertebrales Syndrom",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Spondylitis_ankylosans"
+        }
+      },
+      "diagnosisId": "D.ankylosingSpondilitis",
+      "explanation": "<ul><li><i>Lumbovertebrales Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Spondylitis ankylosans</i> erhöhen würden: Hüftschmerzen, Schulterschmerzen, Gelenkschmerzen, Fussgelenksschmerzen, Ellbogenschmerzen, Knieschmerzen, Fussschmerzen</li></ul>",
+      "label": "Spondylitis ankylosans",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.stablePelvicRingFracture",
+      "explanation": "<ul><li><i>Lumbovertebrales Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Beckenringfraktur</i> erhöhen würden: Bauchschmerzen, Schmerzen im Genitalbereich, Unfall, Sensibilitätsstörungen, Unfall</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Beckenringfraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der unteren Extremität, Vorangehendes Trauma</li></ul>",
+      "label": "Stabile Beckenringfraktur",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Herpes_Zoster"
+        }
+      },
+      "diagnosisId": "D.herpesZoster",
+      "explanation": "<ul><li><i>Lumbovertebrales Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes zoster</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Herpes zoster</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Herpes zoster",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.lumbarSpondylogenicSyndrome",
+      "explanation": "<ul></ul>",
+      "label": "Lumbospondylogenes Syndrom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (52) bei Rückenschmerzen lumbal seit einem Tag.<br /><br />Sensibilitätsstörungen, Lähmungserscheinungen, Hüftschmerzen, Unfall, Beinschmerzen, eine Stuhlinkontinenz und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "e14d097f-ca8c-416a-b06a-bafc12b3a259",
+  "topic": "rheumatology"
+}

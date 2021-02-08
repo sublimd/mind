@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polyneuropathie"
+        }
+      },
+      "diagnosisId": "D.polyneuropathy",
+      "explanation": "<ul><li>Probleme, welche durch <i>Kryoglobulinämie</i> besser erklärt sind: Hautveränderungen, Gelenkschmerzen</li></ul>",
+      "label": "Polyneuropathie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypomagnesi%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypomagnesemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Kryoglobulinämie</i> besser erklärt sind: Hautveränderungen, Gelenkschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypomagnesiämie</i> erhöhen würden: Tremor, Muskelkrämpfe, Krampfanfall, Verwirrtheit</li></ul>",
+      "label": "Hypomagnesiämie",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
+      "explanation": "<ul><li>Probleme, welche durch <i>Kryoglobulinämie</i> besser erklärt sind: Hautveränderungen, Gelenkschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Bekannter Diabetes mellitus</li></ul>",
+      "label": "Hyperosmolare hyperglykämische Entgleisung",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.zikaVirus",
+      "explanation": "<ul><li>Probleme, welche durch <i>Kryoglobulinämie</i> besser erklärt sind: Muskelschwäche</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Zika Virus Infektion</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zika Virus Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Zika Virus Infektion",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Kryoglobulin%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.cryoglobulinemia",
+      "explanation": "",
+      "label": "Kryoglobulinämie",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (53) bei Sensibilitätsstörungen und Muskelschwäche am linken Unterschenkel seit zehn Tagen.<br /><br />Zusätzlich berichtet der Patient über eine Hautveränderung und Gelenkschmerzen.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Rückenschmerzen, Nausea, Erbrechen, Krampfanfälle, Handschmerzen und Hämaturie werden verneint. <h2>Diagnoseliste</h2>- Akute HIV-Infektion<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 32py (20 Zigaretten täglich während 32 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "bf27263c-4315-4a19-8180-0e2c443dc81c",
+  "topic": "hematology"
+}

@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.tuboOvarianAbscess",
+      "explanation": "<ul><li><i>Atrophe Vaginitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Atrophe Vaginitis</i> besser erklärt sind: vaginaler Juckreiz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tuboovarialabszess</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost</li></ul>",
+      "label": "Tuboovarialabszess",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.chlamydialCervicitis",
+      "explanation": "",
+      "label": "Chlamydien-Zervizitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.atrophicVaginitis",
+      "explanation": "",
+      "label": "Atrophe Vaginitis",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pelvic_inflammatory_disease"
+        }
+      },
+      "diagnosisId": "D.pelvicInflammatoryDisease",
+      "explanation": "<ul><li>Probleme, welche durch <i>Atrophe Vaginitis</i> besser erklärt sind: vaginaler Juckreiz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost</li></ul>",
+      "label": "Pelvic Inflammatory Disease",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteAdnexitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Atrophe Vaginitis</i> besser erklärt sind: vaginaler Juckreiz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Adnexitis</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost</li></ul>",
+      "label": "Akute Adnexitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (78) bei vaginaler Blutung.<br /><br />Zusätzlich berichtet die Patientin über einen vaginalen Juckreiz seit zwei Monaten sowie Probleme beim Geschlechtsverkehr.<br /><br />Bauchschmerzen, vaginaler Ausfluss, Dysurie, Schüttelfrost, Pollakisurie, Nausea und Hämaturie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "6eb9b9e7-be89-47c5-8dcd-e9d85aa2bcc1",
+  "topic": "gynecology"
+}

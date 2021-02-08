@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.benignAdnexalTumor",
+      "explanation": "",
+      "label": "Benigner Adnextumor",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteAppendicitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Appendizitis</i> erhöhen würden: Fieber, Nausea, Erbrechen, Appetitverlust</li></ul>",
+      "label": "Akute Appendizitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Aszites"
+        }
+      },
+      "diagnosisId": "D.ascites",
+      "explanation": "<ul><li>Probleme, welche durch <i>Benigner Adnextumor</i> besser erklärt sind: Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aszites</i> erhöhen würden: Gewichtszunahme, Dyspnoe</li></ul>",
+      "label": "Aszites",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Colitis_ulcerosa"
+        }
+      },
+      "diagnosisId": "D.ulcerativeColitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Diarrhoe, Gewichtsverlust</li></ul>",
+      "label": "Colitis ulcerosa",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Harnwegsinfekt"
+        }
+      },
+      "diagnosisId": "D.urinaryTractInfection",
+      "explanation": "<ul><li>Probleme, welche durch <i>Benigner Adnextumor</i> besser erklärt sind: Obstipation</li></ul>",
+      "label": "Harnwegsinfekt",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (52) bei Unterbauchschmerzen (bis VAS 3/10) seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über eine Obstipation sowie Blähungen.<br /><br />Letzter Stuhlgang vor mehreren Tagen.<br /><br />Nausea, Erbrechen, Fieber, Diarrhoe, Dyspnoe, Dysurie, Pollakisurie, vaginaler Ausfluss, Hämatochezie, Meläna und eine Gewichtszunahme werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "2459ca9d-2ff0-46fe-94d6-263fa4df1da2",
+  "topic": "gynecology"
+}

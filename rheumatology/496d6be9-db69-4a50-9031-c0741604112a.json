@@ -1,0 +1,42 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.adipositas",
+      "explanation": "",
+      "label": "Adipositas",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.meniscusLesion",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Meniskusläsion</i> erhöhen würden: Knieschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Meniskusläsion</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "label": "Meniskusläsion",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.iliotibialBandSyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Gonarthrose</i> besser erklärt sind: Kniesteifigkeit</li></ul>",
+      "label": "Ilio-tibiales Bandsyndrom (Läuferknie)",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.gonarthrosis",
+      "explanation": "",
+      "label": "Gonarthrose",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.kneeContusion",
+      "explanation": "<ul><li>Probleme, welche durch <i>Gonarthrose</i> besser erklärt sind: Kniesteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Kniekontusion</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "label": "Kniekontusion",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (65) bei atraumatischen, linksseitigen Knieschmerzen seit vier Wochen.<br /><br />Verstärkung bzw. Auslösung der Knieschmerzen bei Bewegung.<br /><br />Zusätzlich berichtet die Patientin über eine Kniesteifigkeit.<br /><br />Eine Knieschwellung, eine Knierötung, saures Aufstossen, Fieber, Dyspnoe, eine Hyperhidrose und ein gesteigerter Appetit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "496d6be9-db69-4a50-9031-c0741604112a",
+  "topic": "rheumatology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.rupturedAbdominalAorticAneurysm",
+      "label": "Rupturiertes abdominales Aortenaneurysma",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.urolithiasis",
+      "label": "Urolithiasis",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.testicularTorsion",
+      "label": "Hodentorsion",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acutePyelonephritis",
+      "label": "Akute Pyelonephritis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.renalInfarction",
+      "label": "Niereninfarkt",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (19) bei Flankenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Nausea und Hodenschmerzen.<br /><br />Fieber, Dysurie, Hämaturie, Bauchschmerzen, niedrige Blutdruckwerte, Leistenschmerzen und eine Schwellung oder Vergrösserung des Hodens werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "70a42ab4-3e81-47c3-a853-700f55408aca",
+  "topic": "general-internal-medicine"
+}

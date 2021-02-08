@@ -1,0 +1,62 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rocky-Mountain-Fleckfieber"
+        }
+      },
+      "diagnosisId": "D.rockyMountainSpottedFever",
+      "explanation": "<ul><li><i>Dengue Fieber</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rocky-Mountains-Fleckfieber</i> erhöhen würden: Nausea, Erbrechen, Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Rocky-Mountains-Fleckfieber</i> erhöhen würden: Reisen nach Nordamerika in den letzten sechs Monaten</li></ul>",
+      "label": "Rocky-Mountains-Fleckfieber",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
+        }
+      },
+      "diagnosisId": "D.erysipelas",
+      "explanation": "<ul><li>Probleme, welche durch <i>Dengue Fieber</i> besser erklärt sind: Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautüberwärmung, Hautschwellung, vergrösserter Lymphknoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Erysipel",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Denguefieber"
+        }
+      },
+      "diagnosisId": "D.dengueFever",
+      "explanation": "",
+      "label": "Dengue Fieber",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Dermatomyositis"
+        }
+      },
+      "diagnosisId": "D.dermatomyositis",
+      "explanation": "<ul><li><i>Dengue Fieber</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dermatomyositis</i> erhöhen würden: Muskelschwäche</li></ul>",
+      "label": "Dermatomyositis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
+        }
+      },
+      "diagnosisId": "D.malaria",
+      "explanation": "<ul><li>Probleme, welche durch <i>Dengue Fieber</i> besser erklärt sind: Hautveränderungen</li></ul>",
+      "label": "Malaria",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (49) bei Fieber seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über eine erythematöse Hautveränderung und Gliederschmerzen.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br /> Reisen nach Nordamerika in den letzten sechs Monaten werden verneint. <br /><br />Bauchschmerzen, Nausea, Diarrhoe, Odynophagie, Husten, Dyspnoe, Kopfschmerzen, eine Hautschwellung, Thoraxschmerzen, Flankenschmerzen, Dysurie, eine Hautüberwärmung, Schüttelfrost und Lähmungserscheinungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 21py (30 Zigaretten täglich während 14 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "80987572-9cad-486c-97a4-93564bcd56fa",
+  "topic": "infectiology"
+}

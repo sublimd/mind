@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.ulcusCruris",
+      "label": "Ulcus cruris",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.thrombophlebitis",
+      "label": "Thrombophlebitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.stasisDermatitis",
+      "label": "Stauungsekzem",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.deepVeinThrombosis",
+      "label": "Tiefe Venenthrombose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.lues",
+      "label": "Lues",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (73) bei einer offenen Wunde am rechten Unterschenkel seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über eine erythematöse Hautveränderung und eine rechtsseitige Unterschenkelschwellung.<br /><br />Vergrösserte Lymphknoten, Fieber und Wadenschmerzen werden verneint. <h2>Diagnoseliste</h2>- Periphere arterielle Verschlusskrankheit (PAVK)<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "4de9a982-b214-4aac-aee9-bbda0835c186",
+  "topic": "general-internal-medicine"
+}

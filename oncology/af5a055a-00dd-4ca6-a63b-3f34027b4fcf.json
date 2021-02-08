@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.lumbarVertebralSyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens</li></ul>",
+      "label": "Lumbovertebrales Syndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Epididymitis"
+        }
+      },
+      "diagnosisId": "D.epididymitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Hodenschmerzen, Leistenschmerzen, Bauchschmerzen</li></ul>",
+      "label": "Epididymitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.lumbarSpondylogenicSyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens</li></ul>",
+      "label": "Lumbospondylogenes Syndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.seminomaOfTestis",
+      "explanation": "",
+      "label": "Hodenkarzinom (Seminom)",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.malignantNeoplasmOfKidney",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
+      "label": "Nierenkarzinom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (43) bei einer Hodenschwellung seit fünf Monaten.<br /><br />Zusätzlich berichtet der Patient über Rückenschmerzen.<br /><br />Hodenschmerzen, Leistenschmerzen, Fieber, Bauchschmerzen, Nausea, Müdigkeit, eine erektile Dysfunktion, Hämaturie, Dysurie, Nykturie und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 9py (20 Zigaretten täglich während 9 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "af5a055a-00dd-4ca6-a63b-3f34027b4fcf",
+  "topic": "oncology"
+}

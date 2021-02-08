@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Leberzirrhose"
+        }
+      },
+      "diagnosisId": "D.liverCirrhosis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gewichtsverlust, Appetitverlust, Ikterus, Pruritus</li></ul>",
+      "label": "Leberzirrhose",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mallory-Weiss-Syndrom"
+        }
+      },
+      "diagnosisId": "D.malloryWeissSyndrome",
+      "explanation": "",
+      "label": "Mallory-Weiss Syndrom",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteDisseminatedIntravascularCoagulation",
+      "explanation": "<ul><li><i>Mallory-Weiss Syndrom</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute disseminierte intravasale Gerinnung (DIC)</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost</li></ul>",
+      "label": "Akute disseminierte intravasale Gerinnung (DIC)",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronische_myeloische_Leuk%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.chronicMyeloidLeukemia",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall, Fieber, Nachtschweiss, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "label": "Chronische myeloische Leukämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/%C3%96sophagusvarizenblutung"
+        }
+      },
+      "diagnosisId": "D.esophagealVaricealBleeding",
+      "explanation": "<ul><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Bauchschmerzen</li></ul>",
+      "label": "Oesophagusvarizen-Blutung",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (22) bei Hämatemesis vor drei Stunden.<br /><br />Zusätzlich berichtet die Patientin über epigastrische Bauchschmerzen.<br /><br />Zahnfleischbluten, Fieber, Meläna und Hämatochezie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "85ed37ec-c9e7-45eb-86ae-80822d57354a",
+  "topic": "gastroenterology"
+}

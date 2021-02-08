@@ -1,0 +1,27 @@
+{
+  "answers": [
+    {
+      "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
+      "isCorrect": false
+    },
+    {
+      "label": "Leberzirrhose",
+      "isCorrect": false
+    },
+    {
+      "label": "Von-Willebrand-Krankheit",
+      "isCorrect": false
+    },
+    {
+      "label": "Immunthrombozytopenie (ITP)",
+      "isCorrect": true
+    },
+    {
+      "label": "Chronische myeloische Leukämie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (76) bei Zahnfleischbluten seit acht Tagen.<br /><br />Zusätzlich berichtet der Patient über bläuliche Hautveränderungen, eine vermehrte Müdigkeit, Kopfschmerzen und Fieber.<br /><br />Hämatemesis, Nachtschweiss, ein Gewichtsverlust, vergrösserte Lymphknoten, eine Hyperhidrose und Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 21py (10 Zigaretten täglich während 42 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "89520698-4668-4bd3-b98e-ff5fd394556d",
+  "topic": "general-internal-medicine"
+}

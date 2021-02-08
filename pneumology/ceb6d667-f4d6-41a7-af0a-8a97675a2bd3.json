@@ -1,0 +1,62 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Granulomatose_mit_Polyangiitis"
+        }
+      },
+      "diagnosisId": "D.granulomatosisWithPolyangiitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Granulomatose mit Polyangiitis</i> erhöhen würden: Rhinorrhoe</li></ul>",
+      "label": "Granulomatose mit Polyangiitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pancoast-Tumor"
+        }
+      },
+      "diagnosisId": "D.pancoastTumor",
+      "explanation": "",
+      "label": "Pancoast-Tumor",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungentuberkulose"
+        }
+      },
+      "diagnosisId": "D.pulmonaryTuberculosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungentuberkulose</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lungentuberkulose</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Lungentuberkulose",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenkarzinom"
+        }
+      },
+      "diagnosisId": "D.anginaPectorisStable",
+      "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen</li></ul>",
+      "label": "Lungenkarzinom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenmetastase"
+        }
+      },
+      "diagnosisId": "D.lungMetastasis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen</li></ul>",
+      "label": "Lungenmetastasen",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (76) bei Schulterschmerzen seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Husten, Dyspnoe und Hämoptoe.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Eine Schulterschwellung, eine Schultersteifigkeit, Fieber, Thoraxschmerzen, Gelenkschmerzen, Nachtschweiss, Dysphonie, hängende Augenlider, Hämaturie und Rhinorrhoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "ceb6d667-f4d6-41a7-af0a-8a97675a2bd3",
+  "topic": "pneumology"
+}

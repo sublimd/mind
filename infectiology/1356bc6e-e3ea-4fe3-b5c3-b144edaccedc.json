@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.erythemaNodosum",
+      "label": "Erythema nodosum",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.thrombophlebitis",
+      "label": "Thrombophlebitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.visceralLeishmaniasis",
+      "label": "Leishmaniose",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.analAbscess",
+      "label": "Analabszess",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.chikungunyaFever",
+      "label": "Chikungunya Fieber",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (54) bei einer scharf begrenzten Hautveränderung mit Schwellung am linken Oberarm seit einer Woche.<br /><br />Zusätzlich berichtet der Patient über Fieber.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br /> Eine Exposition gegenüber Stechmücken und der Erhalt von Bluttransfusionen wird verneint. <br /><br />Pruritus, Nausea und anale Schmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "1356bc6e-e3ea-4fe3-b5c3-b144edaccedc",
+  "topic": "infectiology"
+}

@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.malignantNeoplasmOfStomach",
+      "explanation": "",
+      "label": "Magenkarzinom",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.duodenalUlcer",
+      "explanation": "<ul><li>Symptome, welche durch <i>Magenkarzinom</i> besser erklärt sind: Blähungen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Ulcus duodeni</i> erhöhen würden: Nausea, Erbrechen, Appetitverlust, Hämatemesis</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ulcus duodeni</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "label": "Ulcus duodeni",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.foodAllergy",
+      "explanation": "<ul><li>Symptome, welche durch <i>Magenkarzinom</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
+      "label": "Nahrungsmittelallergie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.coprostasis",
+      "explanation": "<ul><li>Symptome, welche durch <i>Magenkarzinom</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Koprostase</i> erhöhen würden: Obstipation, Nausea, Appetitverlust</li></ul>",
+      "label": "Koprostase",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.chronicPancreatitis",
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Chronische Pankreatitis</i> erhöhen würden: Diarrhoe, Steatorrhoe, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Pankreatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "label": "Chronische Pankreatitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (79) bei Bauchschmerzen epigastrisch seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über einen Gewichtsverlust und Blähungen.<br /><br />Nausea, Erbrechen, Fieber, Diarrhoe, ein Appetitverlust, Obstipation, eine allgemeine Müdigkeit, Dyspnoe, Pruritus, vaginaler Ausfluss, Hämatochezie, Husten, Meläna und Dysphagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 23py (10 Zigaretten täglich während 46 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier und Wein).",
+  "id": "59a0cca5-417d-4e6b-afb7-15d9552e2b3f",
+  "topic": "gastroenterology"
+}

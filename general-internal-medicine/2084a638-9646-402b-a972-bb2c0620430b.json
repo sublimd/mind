@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.entropion",
+      "label": "Entropium",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.paroxysmalHemicrania",
+      "label": "Paroxysmale Hemikranie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.ocularRosacea",
+      "label": "Okuläre Rosazea",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteBlepharitis",
+      "label": "Akute Blepharitis",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.allergicRhinoconjunctivitis",
+      "label": "Allergische Rhinokonjunktivitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (20) bei einer Augenschwellung.<br /><br />Zusätzlich berichtet die Patientin über wässrigen Ausfluss aus dem Auge und eine Augenrötung.<br /><br />Augenschmerzen, Sehstörungen, Juckreiz in den Augen, Rhinorrhoe, ein Fremdkörpergefühl im Auge, Kopfschmerzen und übermässiger Tränenfluss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 4py (20 Zigaretten täglich während 4 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "2084a638-9646-402b-a972-bb2c0620430b",
+  "topic": "general-internal-medicine"
+}

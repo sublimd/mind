@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.hypokalemia",
+      "label": "Hypokaliämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.colorectalCancer",
+      "label": "Kolonkarzinom",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.proctitis",
+      "label": "Akute Divertikulitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hemorrhoids",
+      "label": "Hämorrhoiden",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteAppendicitis",
+      "label": "Akute Appendizitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (58) bei Obstipation seit einem Monat.<br /><br />Zusätzlich berichtet der Patient über Hämatochezie, Bauchschmerzen und Fieber.<br /><br />Ein Gewichtsverlust, eine allgemeine Müdigkeit, Nausea, Erbrechen, Polyurie, ein vermehrtes Durstgefühl, anale Schmerzen und Oligurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 41py (20 Zigaretten täglich während 41 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "a856c64d-40b6-4c9b-9a59-be1e3d673442",
+  "topic": "general-internal-medicine"
+}

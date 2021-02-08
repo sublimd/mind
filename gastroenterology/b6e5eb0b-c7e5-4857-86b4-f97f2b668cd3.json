@@ -1,0 +1,62 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Magenkarzinom"
+        }
+      },
+      "diagnosisId": "D.malignantNeoplasmOfStomach",
+      "explanation": "<ul><li>Symptome, welche durch <i>Oesophagusdivertikel</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Magenkarzinom</i> erhöhen würden: Bauchschmerzen, retrosternales Brennen, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Magenkarzinom</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "label": "Magenkarzinom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/%C3%96sophagusdivertikel"
+        }
+      },
+      "diagnosisId": "D.esophagealDiverticulum",
+      "explanation": "",
+      "label": "Oesophagusdivertikel",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperthyreose"
+        }
+      },
+      "diagnosisId": "D.hyperthyroidism",
+      "explanation": "<ul><li>Symptome, welche durch <i>Oesophagusdivertikel</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
+      "label": "Hyperthyreose",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Basedow"
+        }
+      },
+      "diagnosisId": "D.gravesDisease",
+      "explanation": "<ul><li>Symptome, welche durch <i>Oesophagusdivertikel</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
+      "label": "Morbus Basedow",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schilddr%C3%BCsenkarzinom"
+        }
+      },
+      "diagnosisId": "D.malignantNeoplasmOfThyroidGland",
+      "explanation": "<ul><li>Symptome, welche durch <i>Oesophagusdivertikel</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Schilddrüsenkarzinom</i> erhöhen würden: Halsschwellung,  Dysphonie, Husten, Dyspnoe</li></ul>",
+      "label": "Schilddrüsenkarzinom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (42) bei Dysphagie seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über einen Gewichtsverlust und Thoraxschmerzen im Bereich des Sternums.<br /><br />Ein allgemeines Schwächegefühl, vergrösserte Lymphknoten, Husten, Erbrechen, retrosternales Brennen, saures Aufstossen, eine Hyperhidrose und eine Halsschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 8py (10 Zigaretten täglich während 16 Jahren). Alkoholkonsum 1x die Woche, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "b6e5eb0b-c7e5-4857-86b4-f97f2b668cd3",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
+      "label": "Hyperosmolare hyperglykämische Entgleisung",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.syndromeOfInappropriateAntidiureticHormoneSecretion",
+      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hypertensiveCrisis",
+      "label": "Hypertensiver Notfall",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.epiduralHematoma",
+      "label": "Epiduralhämatom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.transientGlobalAmnesia",
+      "label": "Transiente Globale Amnesie (TGA)",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (65) bei einer Verwirrtheit seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über eine Amnesie, leichte Kopfschmerzen, Nausea und Parästhesien.<br /><br />Ein Bewusstseinsverlust, Sehstörungen, Fieber, Lähmungserscheinungen, Bauchschmerzen, Polyurie, Angstzustände, ein Harnverhalt und Dysurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 47py (20 Zigaretten täglich während 47 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "a086fadb-1885-4dde-a747-2469e658ef12",
+  "topic": "neurology"
+}

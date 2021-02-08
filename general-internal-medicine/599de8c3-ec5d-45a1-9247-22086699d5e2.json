@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.erythemaInfectiosum",
+      "label": "Ringelröteln (Erythema infectiosum)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.epidemicParotitis",
+      "label": "Parotitis epidemica (Mumps)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.rheumaticFever",
+      "label": "Rheumatisches Fieber",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.sickleCellCrisis",
+      "label": "Sichelzellkrise",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.viralConjunctivitis",
+      "label": "Virale Konjunktivitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei Fieber seit sieben Wochen.<br /><br />Zusätzlich berichtet der Patient über Gelenkschmerzen, Halsschmerzen und Kopfschmerzen.<br /><br />Hautveränderungen, Schüttelfrost, Odynophagie, Husten, Dyspnoe, Bauchschmerzen, Diarrhoe, Flankenschmerzen, Dysurie, vergrösserte Lymphknoten, Sehstörungen, Fussschmerzen und eine Augenrötung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "599de8c3-ec5d-45a1-9247-22086699d5e2",
+  "topic": "general-internal-medicine"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.primaryAdrenalInsufficiency",
+      "label": "Primäre Nebennierenrindeninsuffizienz (M. Addison)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.malignantNeoplasmOfOvary",
+      "label": "Ovarialkarzinom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.pregnancy",
+      "label": "Schwangerschaft",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.pelvicInflammatoryDisease",
+      "label": "Pelvic Inflammatory Disease",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hypercortisolism",
+      "label": "Cushing Syndrom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (27) bei einem Ausbleiben der Periode.<br /><br />Zusätzlich berichtet die Patientin über Nausea, eine vermehrte Müdigkeit, intermittierende leichte vaginale Blutungen und Bauchschmerzen.<br /><br />Rückenschmerzen, Schwindel, Polyurie und ein Gewichtsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "84c194bc-939a-412a-9239-0f8885e9985f",
+  "topic": "general-internal-medicine"
+}

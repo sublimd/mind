@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.antralGCellHyperplasia",
+      "label": "Antrale G-Zell-Hyperplasie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.diaphragmaticHernia",
+      "label": "Hiatushernie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.gastrooesophagealRefluxDisease",
+      "label": "Gastroösophageale Refluxkrankheit",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.hypertensivePeristalsis",
+      "label": "Hyperkontraktiler Oesophagus",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.men1",
+      "label": "Multiple endokrine Neoplasie (MEN 1)",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (57) bei retrosternalem Brennen seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen epigastrisch.<br /><br />Ein Gewichtsverlust, Nausea, Husten, Erbrechen, Diarrhoe und Sensibilitätsstörungen werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "0e758795-6e26-41b8-afea-937cb6da5e98",
+  "topic": "general-internal-medicine"
+}

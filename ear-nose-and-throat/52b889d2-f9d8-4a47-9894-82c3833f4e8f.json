@@ -1,0 +1,50 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.acuteBacterialMeningitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Meningitis</i> erhöhen würden: Nackensteifigkeit, Fieber, Verwirrtheit, Amnesie, Kopfschmerzen</li></ul>",
+      "label": "Akute bakterielle Meningitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/M._Meni%C3%A8re"
+        }
+      },
+      "diagnosisId": "D.menieresDisease",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Menière</i> erhöhen würden: Schwindel, Tinnitus, Nausea, Erbrechen, Hyperhidrose</li></ul>",
+      "label": "M. Menière",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.ototoxicHearingLoss",
+      "explanation": "<ul><li><i>Cerumen obturans</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ototoxischer Hörverlust</i> erhöhen würden: Schwindel, Tinnitus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ototoxischer Hörverlust</i> erhöhen würden: Einnahme von ototoxischen Medikamenten</li></ul>",
+      "label": "Ototoxischer Hörverlust",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.cerumenObturans",
+      "explanation": "",
+      "label": "Cerumen obturans",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akustikusneurinom"
+        }
+      },
+      "diagnosisId": "D.acousticNeuroma",
+      "explanation": "<ul><li><i>Cerumen obturans</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akustikusneurinom</i> erhöhen würden: Tinnitus, Schwindel, Ataxie</li></ul>",
+      "label": "Akustikusneurinom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (29) bei einer Hörminderung seit vier Wochen.<br /><br /> Die Einnahme von ototoxischen Medikamenten wird verneint. <br /><br />Ohrenschmerzen, Schwindel, Ausfluss aus dem Ohr, Tinnitus, Kopfschmerzen und Erbrechen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "52b889d2-f9d8-4a47-9894-82c3833f4e8f",
+  "topic": "ear-nose-and-throat"
+}

@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Subduralh%C3%A4matom"
+        }
+      },
+      "diagnosisId": "D.subduralHematoma",
+      "explanation": "<ul><li><i>Presbyopie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subduralhämatom</i> erhöhen würden: Bewusstseinsverlust, Synkope, Somnolenz, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subduralhämatom</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "label": "Subduralhämatom",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.vestibularMigraine",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vestibuläre Migräne</i> erhöhen würden: Schwindel, Photophobie, Phonophobie, Tinnitus, Hörminderung, Nausea, Erbrechen</li></ul>",
+      "label": "Vestibuläre Migräne",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Subarachnoidalblutung"
+        }
+      },
+      "diagnosisId": "D.subarachnoidHemorrhage",
+      "explanation": "<ul><li><i>Presbyopie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Nackenschmerzen, Nackensteifigkeit, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "label": "Subarachnoidalblutung",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Presbyopie"
+        }
+      },
+      "diagnosisId": "D.presbyopia",
+      "explanation": "",
+      "label": "Presbyopie",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Epiduralh%C3%A4matom"
+        }
+      },
+      "diagnosisId": "D.epiduralHematoma",
+      "explanation": "<ul><li><i>Presbyopie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: Bewusstseinsverlust, Synkope, Somnolenz, Nausea, Erbrechen, Verwirrtheit, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "label": "Epiduralhämatom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (54) bei Sehstörungen seit zwei Monaten.<br /><br />Die Patientin beschreibt ein Verschwommensehen.<br /><br />Zusätzlich berichtet die Patientin über Kopfschmerzen.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Ein kürzlicher Bewusstseinsverlust, Synkopen, Schwindel, Erbrechen, eine Photophobie und Fieber werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "98832347-ea45-46aa-b0d5-7bcd7e1641d9",
+  "topic": "ophthalmology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.vestibularMigraine",
+      "label": "Vestibuläre Migräne",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.subarachnoidHemorrhage",
+      "label": "Subarachnoidalblutung",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.concussion",
+      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.neoplasticMeningitis",
+      "label": "Meningeosis neoplastica",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.ironDeficiencyAnemia",
+      "label": "Eisenmangelanämie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (44) bei Schwindel seit fünf Stunden.<br /><br />Die Patientin beschreibt den Schwindel als Drehschwindel. Verstärkung des Schwindels nach schnellen Änderungen der Körperposition.<br /><br />Zusätzlich berichtet die Patientin über pulsierende Kopfschmerzen, eine Photophobie, eine Phonophobie und Nausea.<br /><br />Verschlimmerung der Kopfschmerzen bei körperlicher Anstrengung. Linderung der Kopfschmerzen beim Liegen in einem abgedunkelten Raum.<br /><br />Sehstörungen, eine Hörminderung, Ausfluss aus dem Ohr, Krampfanfälle, eine Verwirrtheit, eine kürzlicher Bewusstseinsverlust und eine Somnolenz werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 14py (10 Zigaretten täglich während 28 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "16ae9e99-9ed4-42b4-a156-6e30da70587f",
+  "topic": "general-internal-medicine"
+}

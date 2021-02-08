@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.whiplashInjury",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Nackenschmerzen, Sensibilitätsstörungen, Muskelschwäche</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "label": "Distorsionstrauma der Halswirbelsäule",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
+        }
+      },
+      "diagnosisId": "D.erysipelas",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Erysipel",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Herpes_Zoster"
+        }
+      },
+      "diagnosisId": "D.herpesZoster",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes zoster</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Herpes zoster</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Herpes zoster",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.rotatorCuffTendinitis",
+      "explanation": "",
+      "label": "Tendinitis der Rotatorenmanschette",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polymyalgia_rheumatica"
+        }
+      },
+      "diagnosisId": "D.polymyalgiaRheumatica",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polymyalgia rheumatica</i> erhöhen würden: Appetitverlust, Gewichtsverlust</li></ul>",
+      "label": "Polymyalgia rheumatica",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei konstanten Schulterschmerzen seit fünf Tagen.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Eine Schulterschwellung, Hautveränderungen, eine Schultersteifigkeit, Fieber, eine Schulterrötung, Nackenschmerzen und Rückenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 72py (30 Zigaretten täglich während 48 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "05a625ac-b578-4501-bf08-d8ab085ecbe2",
+  "topic": "rheumatology"
+}

@@ -1,0 +1,50 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.acuteOtitisMedia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Mastoiditis</i> besser erklärt sind: Leistungsabfall, Hautveränderung, Hautschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Otitis media</i> erhöhen würden: Hörminderung</li></ul>",
+      "label": "Akute Otitis media",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteRhinoSinusitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Mastoiditis</i> besser erklärt sind: Hautveränderungen, Hautschwellung, Ausfluss aus dem Ohr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Kopfschmerzen, Gesichtsschmerzen</li></ul>",
+      "label": "Akute Rhinosinusitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mastoiditis"
+        }
+      },
+      "diagnosisId": "D.mastoiditis",
+      "explanation": "",
+      "label": "Mastoiditis",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      },
+      "diagnosisId": "D.infectiousMononucleosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Mastoiditis</i> besser erklärt sind: Ohrenschmerzen, Hautschwellung, Ausfluss aus dem Ohr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten, Kopfschmerzen</li></ul>",
+      "label": "Infektiöse Mononukleose",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteParotitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Mastoiditis</i> besser erklärt sind: Ohrenschmerzen, Ausfluss aus dem Ohr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Parotitis acuta</i> erhöhen würden: Gesichtsschmerzen</li></ul>",
+      "label": "Parotitis acuta",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (16) bei einem Leistungsabfall seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über eine Hautveränderung und -schwellung an der linken Kopfseite, Fieber, linksseitige Ohrenschmerzen und Ausfluss aus dem Ohr.<br /><br />Kopfschmerzen, Schüttelfrost, Halsschmerzen, Odynophagie und eine Hörminderung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 2py (20 Zigaretten täglich während 2 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "c1d06246-8638-4f10-a0ed-e70218c482ab",
+  "topic": "ear-nose-and-throat"
+}

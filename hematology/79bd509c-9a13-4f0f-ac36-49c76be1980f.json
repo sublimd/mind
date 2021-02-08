@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Leberzirrhose"
+        }
+      },
+      "diagnosisId": "D.liverCirrhosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Polycythämia vera</i> besser erklärt sind: Nachtschweiss, Kopfschmerzen, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "label": "Leberzirrhose",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronische_myeloische_Leuk%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.chronicMyeloidLeukemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Polycythämia vera</i> besser erklärt sind: Kopfschmerzen, Schwindel, Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "label": "Chronische myeloische Leukämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Arteriitis_temporalis"
+        }
+      },
+      "diagnosisId": "D.temporalArteritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Polycythämia vera</i> besser erklärt sind: Schwindel, Bauchschmerzen, Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Arteriitis temporalis</i> erhöhen würden: Fieber</li></ul>",
+      "label": "Arteriitis temporalis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polycythaemia_vera"
+        }
+      },
+      "diagnosisId": "D.polycythemiaVera",
+      "explanation": "",
+      "label": "Polycythämia vera",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.chronicHepatitisB",
+      "explanation": "<ul><li>Probleme, welche durch <i>Polycythämia vera</i> besser erklärt sind: Nachtschweiss, Kopfschmerzen, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Nausea, Erbrechen, Appetitverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit, mehrere Sexualpartner, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
+      "label": "Chronische Hepatitis B-Infektion",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (74) bei einer vermehrten Müdigkeit seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Nachtschweiss, einen Gewichtsverlust, Kopfschmerzen, Schwindel, Bauchschmerzen im linken Oberbauch und Pruritus.<br /><br /> Der Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit und sexuelle Aktivität mit einem potenziell HIV-positiven Partner werden verneint. <br /><br />Dyspnoe, Fieber, Schlafstörungen, ein Appetitverlust, eine depressive Stimmung, ein Ikterus, Sehstörungen, Zahnfleischbluten und Hämatemesis werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier).",
+  "id": "79bd509c-9a13-4f0f-ac36-49c76be1980f",
+  "topic": "hematology"
+}

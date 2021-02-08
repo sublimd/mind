@@ -1,0 +1,27 @@
+{
+  "answers": [
+    {
+      "label": "Akute Adnexitis",
+      "isCorrect": false
+    },
+    {
+      "label": "Vaginale Mykose",
+      "isCorrect": false
+    },
+    {
+      "label": "Tuboovarialabszess",
+      "isCorrect": false
+    },
+    {
+      "label": "Bakterielle Vaginose",
+      "isCorrect": false
+    },
+    {
+      "label": "HSV-Zervizitis",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (53) bei vaginalem Ausfluss seit einem Tag.<br /><br />Die Patientin beschreibt den Ausfluss als gelblich.<br /><br />Zusätzlich berichtet die Patientin über eine vaginale Blutung.<br /><br />Vaginaler Juckreiz, Dysurie, Bauchschmerzen, Fieber, Zyklusstörungen (Menstruationsstörungen), ein Gewichtsverlust und ein unerfüllter Kinderwunsch werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 3 x / Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "1e513873-a099-4b77-bfbd-29c8ed237419",
+  "topic": "general-internal-medicine"
+}

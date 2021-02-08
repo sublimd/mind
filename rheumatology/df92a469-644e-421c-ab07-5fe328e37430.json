@@ -1,0 +1,50 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.lumbarVertebralSyndrome",
+      "explanation": "<ul></ul>",
+      "label": "Lumbovertebrales Syndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Spondylitis_ankylosans"
+        }
+      },
+      "diagnosisId": "D.ankylosingSpondilitis",
+      "explanation": "<ul><li><i>Lumbospondylogenes Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Spondylitis ankylosans</i> erhöhen würden: Gelenkschmerzen, Fussgelenksschmerzen, Ellbogenschmerzen, Knieschmerzen, Fussschmerzen</li></ul>",
+      "label": "Spondylitis ankylosans",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.lumbarSpondylogenicSyndrome",
+      "explanation": "",
+      "label": "Lumbospondylogenes Syndrom",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Coxarthrose"
+        }
+      },
+      "diagnosisId": "D.hipOsteoarthritis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Coxarthrose</i> erhöhen würden: Hüftsteifigkeit</li></ul>",
+      "label": "Coxarthrose",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.menopause",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Menstruationsbeschwerden, Ausbleiben der Periode, Wärmeintoleranz, Nachtschweiss, Schlafstörungen, Probleme beim Geschlechtsverkehr, vaginaler Juckreiz</li></ul>",
+      "label": "Klimakterisches Syndrom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (65) bei Rückenschmerzen lumbal seit sieben Tagen.<br /><br />Zusätzlich berichtet die Patientin über Rückenschmerzen.<br /><br />Fieber, Menstruationsbeschwerden, Gelenkschmerzen, eine Stuhlinkontinenz, Ausbleiben der Periode, Schulterschmerzen und ein Harnverhalt werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 51py (30 Zigaretten täglich während 34 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "df92a469-644e-421c-ab07-5fe328e37430",
+  "topic": "rheumatology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.acuteTubularNecrosis",
+      "label": "Akute Tubulusnekrose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.urethralStricture",
+      "label": "Urethrastriktur",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.transverseMyelitis",
+      "label": "Transverse Myelitis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.intestinalParasitosis",
+      "label": "Darmparasitose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.perinephricAbscess",
+      "label": "Perinephrischer Abszess",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (62) bei Dysurie seit drei Wochen.<br /><br />Der Patient berichtet über einen abgeschwächten Harnstrahl.<br /><br />Bauchschmerzen, Fieber, Hämaturie, Flankenschmerzen, urethraler Ausfluss, eine erektile Dysfunktion, Rückenschmerzen und Lähmungserscheinungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "783db1c4-f020-4671-bc3a-21bda39e295a",
+  "topic": "general-internal-medicine"
+}

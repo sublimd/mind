@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Prostatakarzinom"
+        }
+      },
+      "diagnosisId": "D.malignantNeoplasmOfProstate",
+      "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Flankenschmerzen</li></ul>",
+      "label": "Prostatakarzinom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Nierensch%C3%A4digung"
+        }
+      },
+      "diagnosisId": "D.acuteKidneyInjury",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Oligurie, Polyurie</li></ul>",
+      "label": "Akute Nierenschädigung",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Epididymitis"
+        }
+      },
+      "diagnosisId": "D.epididymitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Hodenschmerzen</li></ul>",
+      "label": "Epididymitis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Orchitis"
+        }
+      },
+      "diagnosisId": "D.orchitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Orchitis</i> erhöhen würden: Hodenschmerzen, Nausea</li></ul>",
+      "label": "Orchitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.malignantNeoplasmOfKidney",
+      "explanation": "",
+      "label": "Nierenkarzinom",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (81) bei Hämaturie seit zwei Monaten.<br /><br />Es seien Blutkoagel im Urin vorhanden.<br /><br />Zusätzlich berichtet der Patient über Flankenschmerzen und Fieber.<br /><br />Dysurie, Poly- oder Oligurie, eine allgemeine Müdigkeit, Schüttelfrost, Nausea, eine Schwellung der Unterschenkel, Hodenschmerzen und eine Schwellung oder Vergrösserung des Hodens werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 63py (20 Zigaretten täglich während 63 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "f0e9d27d-1c7c-4885-acd1-920b9e4abd09",
+  "topic": "nephrology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.rheumatoidArthritis",
+      "label": "Rheumatoide Arthritis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.lungAbscess",
+      "label": "Lungenabszess",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteMyeloidLeukemia",
+      "label": "Akute myeloische Leukämie",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.chronicMyeloidLeukemia",
+      "label": "Chronische myeloische Leukämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hashimotoThyroiditis",
+      "label": "Hashimoto Thyreoditis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (68) bei Fieber seit zwei Wochen.<br /><br />Zusätzlich berichtet der Patient über Nachtschweiss, eine vermehrte Müdigkeit, einen subkutanen Knoten im Halsbereich, Dyspnoe und Nausea.<br /><br />Bauchschmerzen, Diarrhoe, Odynophagie, Husten, Kopfschmerzen, Gliederschmerzen, Flankenschmerzen, Dysurie, Gelenkschmerzen, ein Gewichtsverlust, Schüttelfrost, Handschmerzen, eine Hyperhidrose und Nasenbluten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 78py (30 Zigaretten täglich während 52 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "37f243e5-2579-4fc7-a2ec-84b3d7dc1e0f",
+  "topic": "hematology"
+}

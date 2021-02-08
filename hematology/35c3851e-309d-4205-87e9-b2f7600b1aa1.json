@@ -1,0 +1,54 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.lymeBorreliosisStage1",
+      "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Hautveränderungen, Gelenkschmerzen, Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "label": "Lyme Borreliose Stadium 1",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Multiples_Myelom"
+        }
+      },
+      "diagnosisId": "D.multipleMyeloma",
+      "explanation": "",
+      "label": "Multiples Myelom",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenemphysem"
+        }
+      },
+      "diagnosisId": "D.pulmonaryEmphysema",
+      "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lungenemphysem</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "label": "Lungenemphysem",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.menopause",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Wärmeintoleranz, Nachtschweiss, Schlafstörungen</li></ul>",
+      "label": "Klimakterisches Syndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronische_myeloische_Leuk%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.chronicMyeloidLeukemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Nachtschweiss, Fieber</li></ul>",
+      "label": "Chronische myeloische Leukämie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (60) bei einer vermehrten Müdigkeit seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Rückenschmerzen und Kopfschmerzen.<br /><br /> Der Aufenthalt in Wäldern wird verneint. <br /><br />Dyspnoe, Fieber, Schlafstörungen, Schüttelfrost, Gewichtsänderungen, eine depressive Verstimmung, Hautveränderungen, Nachtschweiss, Sensibilitätsstörungen und Brustschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "35c3851e-309d-4205-87e9-b2f7600b1aa1",
+  "topic": "hematology"
+}

@@ -1,0 +1,62 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mesenterialinfarkt"
+        }
+      },
+      "diagnosisId": "D.mesenterialIschemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Magenkarzinom</i> besser erklärt sind: Gewichtsverlust, Meläna</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Mesenterialinfarkt</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "label": "Mesenterialinfarkt",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Magenkarzinom"
+        }
+      },
+      "diagnosisId": "D.malignantNeoplasmOfStomach",
+      "explanation": "",
+      "label": "Magenkarzinom",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypercalcemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Magenkarzinom</i> besser erklärt sind: Gewichtsverlust, Meläna</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "label": "Hyperkalzämie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pankreaskarzinom"
+        }
+      },
+      "diagnosisId": "D.malignantNeoplasmOfPancreas",
+      "explanation": "<ul><li>Probleme, welche durch <i>Magenkarzinom</i> besser erklärt sind: Meläna</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: Ikterus, Rückenschmerzen, Diarrhoe</li></ul>",
+      "label": "Pankreaskarzinom",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Alkoholische_Steatohepatitis"
+        }
+      },
+      "diagnosisId": "D.alcoholicLiverDisease",
+      "explanation": "<ul><li>Probleme, welche durch <i>Magenkarzinom</i> besser erklärt sind: Meläna</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Appetitverlust, Ikterus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "label": "Alkoholische Steatohepatitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (77) bei Bauchschmerzen epigastrisch seit einer Woche.<br /><br />Zusätzlich berichtet die Patientin über einen Gewichtsverlust, Nausea und Meläna.<br /><br />Erbrechen, Fieber, Diarrhoe, ein Appetitverlust, Obstipation, Blähungen, eine allgemeine Müdigkeit, vaginaler Ausfluss, Hämatochezie, Polyurie, Nykturie und Dysphagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 28py (10 Zigaretten täglich während 56 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "5d2c56c9-7231-49d6-831a-d21ea14d7ac6",
+  "topic": "gastroenterology"
+}

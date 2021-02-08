@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ambulant_erworbene_Pneumonie"
+        }
+      },
+      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
+      "explanation": "<ul><li>Probleme, welche durch <i>Salmonellen-Enteritis</i> besser erklärt sind: Hämatochezie, Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Husten, Dyspnoe, Thoraxschmerzen</li></ul>",
+      "label": "Ambulant erworbene Pneumonie",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Salmonellenenteritis"
+        }
+      },
+      "diagnosisId": "D.salmonellaEnteritis",
+      "explanation": "",
+      "label": "Salmonellen-Enteritis",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Colitis_ulcerosa"
+        }
+      },
+      "diagnosisId": "D.ulcerativeColitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Salmonellen-Enteritis</i> besser erklärt sind: Nausea, Kopfschmerzen</li></ul>",
+      "label": "Colitis ulcerosa",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.bacterialEnteritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Salmonellen-Enteritis</i> besser erklärt sind: Müdigkeit, Kopfschmerzen</li></ul>",
+      "label": "Bakterielle Enteritis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Virale_Gastroenteritis"
+        }
+      },
+      "diagnosisId": "D.viralGastroenteritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Salmonellen-Enteritis</i> besser erklärt sind: Müdigkeit, Hämatochezie, Kopfschmerzen</li></ul>",
+      "label": "Virale Gastroenteritis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (3) bei Diarrhoe seit sieben Tagen.<br /><br />Der Stuhl sei wässrig.<br /><br />Zusätzlich berichtet die Patientin über Nausea, eine vermehrte Müdigkeit, Bauchschmerzen im Oberbauch, Fieber, Hämatochezie und Kopfschmerzen.<br /><br />Kontakt mit kontaminiertem Wasser wird bejaht.<br /><br />Obstipation, Dyspnoe, Husten und Thoraxschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Kein Alkoholkonsum.",
+  "id": "a8a175da-1979-4365-bf82-20c9861c9aba",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,46 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Masern"
+        }
+      },
+      "diagnosisId": "D.measles",
+      "explanation": "<ul><li><i>Viraler Infekt der oberen Atemwege</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Masern</i> erhöhen würden: Hautveränderungen</li></ul>",
+      "label": "Masern",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.viralPharyngitis",
+      "explanation": "",
+      "label": "Virale Pharyngitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acuteLaryngitis",
+      "explanation": "<ul><li><i>Viraler Infekt der oberen Atemwege</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Viraler Infekt der oberen Atemwege</i> besser erklärt sind: nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie</li></ul>",
+      "label": "Akute Laryngitis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.upperAirwayInfection",
+      "explanation": "",
+      "label": "Viraler Infekt der oberen Atemwege",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.viralConjunctivitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Viraler Infekt der oberen Atemwege</i> besser erklärt sind: Husten, Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Konjunktivitis</i> erhöhen würden: Ausfluss aus dem Auge, Juckreiz im Auge, Sehstörungen</li></ul>",
+      "label": "Virale Konjunktivitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (69) bei Halsschmerzen.<br /><br />Zusätzlich berichtet die Patientin über klare Rhinorrhoe aus beiden Nasenlöchern seit vier Wochen sowie eine nasale Obstruktion, Husten und eine vermehrte Müdigkeit.<br /><br />Pro Hustenstoss komme jeweils weniger als ein Teelöffel Auswurf.<br /><br />Die Müdigkeit sei am Mittag am stärksten ausgeprägt.<br /><br />Gliederschmerzen, Dysphonie, Kopfschmerzen, Hautveränderungen, Dysphagie, Niesen, Thoraxschmerzen, Juckreiz in den Augen und Nasenbluten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 27py (10 Zigaretten täglich während 53 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "85455d92-6a1d-42e9-b24f-e71a40a21c16",
+  "topic": "pneumology"
+}

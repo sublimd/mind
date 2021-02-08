@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Thrombotisch-thrombozytopenische_Purpura"
+        }
+      },
+      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
+      "explanation": "<ul><li><i>Myelodysplastisches Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Nausea, Bauchschmerzen, Erbrechen, Schwindel</li></ul>",
+      "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      },
+      "diagnosisId": "D.infectiousMononucleosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, Kopfschmerzen</li></ul>",
+      "label": "Infektiöse Mononukleose",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myelodysplastisches_Syndrom"
+        }
+      },
+      "diagnosisId": "D.myelodysplasticSyndrome",
+      "explanation": "",
+      "label": "Myelodysplastisches Syndrom",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Arteriitis_temporalis"
+        }
+      },
+      "diagnosisId": "D.temporalArteritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Arteriitis temporalis</i> erhöhen würden: Kopfschmerzen</li></ul>",
+      "label": "Arteriitis temporalis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.acutePericarditis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Perikarditis</i> erhöhen würden: Thoraxschmerzen</li></ul>",
+      "label": "Akute Perikarditis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (63) bei einer vermehrten Müdigkeit seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Fieber und Nasenbluten.<br /><br />Dyspnoe, Schlafstörungen, Schüttelfrost, ein Gewichtsverlust, Halsschmerzen, Gliederschmerzen, vergrösserte Lymphknoten, Hautveränderungen und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "94d4db6e-4177-4ed5-8e34-841b6ec440fa",
+  "topic": "hematology"
+}

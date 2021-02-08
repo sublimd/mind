@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.tensionTypeHeadache",
+      "label": "Spannungstyp-Kopfschmerz",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hyponatremia",
+      "label": "Hyponatriämie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.acuteMountainSickness",
+      "label": "Akute Höhenkrankheit",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.obstructiveSleepApneaSyndrome",
+      "label": "Obstruktives Schlafapnoesyndrom (OSAS)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.facialSkullFracture",
+      "label": "Gesichtsschädelfraktur",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (48) bei Kopfschmerzen seit einer Bergtour auf 3800m vor fünf Stunden.<br /><br />Zusätzlich berichtet der Patient über Nausea.<br /><br />Ein Trauma wird verneint. <br /><br />Muskuläre Verspannungen, Erbrechen, eine allgemeine Müdigkeit, Sehstörungen, Fieber, eine Photophobie, eine Phonophobie, Lähmungserscheinungen, Sensibilitätsstörungen, Krampfanfälle, Gesichtsschmerzen und Schnarchen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "467d8653-d8d6-410a-ac4e-813e06e7b3e4",
+  "topic": "other"
+}

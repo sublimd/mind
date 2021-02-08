@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hirntumor"
+        }
+      },
+      "diagnosisId": "D.malignantNeoplasmOfBrain",
+      "explanation": "<ul><li><i>Hirnmetastasen</i> tritt statistisch häufiger auf</li></ul>",
+      "label": "Hirntumor",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Intrazerebrale_Blutung"
+        }
+      },
+      "diagnosisId": "D.intracerebralHemorrhage",
+      "explanation": "<ul><li><i>Hirnmetastasen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Bewusstseinsverlust, erhöhte Blutdruckwerte</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Kürzliches Schädeltrauma, Arterielle Hypertonie</li></ul>",
+      "label": "Intrazerebrale Blutung",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hirnmetastase"
+        }
+      },
+      "diagnosisId": "D.cerebralMetastasis",
+      "explanation": "",
+      "label": "Hirnmetastasen",
+      "isCorrect": true
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.simpleFocalEpilepticSeizure",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hirnmetastasen</i> besser erklärt sind: Kopfschmerzen, Dysarthrie</li></ul>",
+      "label": "Einfach fokaler epileptischer Anfall",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoglyk%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.hypoglykemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hirnmetastasen</i> besser erklärt sind: Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Tremor, Hyperhidrose, Nachtschweiss</li></ul>",
+      "label": "Hypoglykämie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (50) bei Sensibilitätsstörungen an der linken oberen Extremität seit 2 Wochen.<br /><br />Zusätzlich berichtet der Patient über dumpfe Kopfschmerzen seit fünf Monaten sowie Nausea, Dysarthrie und Sehstörungen an beiden Augen.<br /><br />Die Sehstörungen seien im Verlauf gleichbleibend. Der Patient beschreibt ein Flimmern.<br /><br /> Ein kürzliches Schädeltrauma wird verneint. <br /><br />Lähmungserscheinungen, ein kürzlicher Bewusstseinsverlust, Krampfanfälle, Aphasie, eine Photophobie, eine Phonophobie, erhöhte Blutdruckwerte, Fieber und Angstzustände werden verneint. <h2>Diagnoseliste</h2>- Bronchialkarzinom- Diabetes mellitus<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 18py (10 Zigaretten täglich während 35 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "e871bc71-87e1-4522-89a3-3f383ed0295d",
+  "topic": "neurology"
+}

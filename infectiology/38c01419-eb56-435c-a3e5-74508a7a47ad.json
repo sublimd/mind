@@ -1,0 +1,62 @@
+{
+  "answers": [
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Masern"
+        }
+      },
+      "diagnosisId": "D.measles",
+      "explanation": "",
+      "label": "Masern",
+      "isCorrect": true
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      },
+      "diagnosisId": "D.typhoidFever",
+      "explanation": "<ul><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, nasale Obstruktion</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Typhus abdominalis",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Analabszess"
+        }
+      },
+      "diagnosisId": "D.analAbscess",
+      "explanation": "<ul><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Analabszess</i> erhöhen würden: anale Schmerzen, Hautschwellung, vergrösserter Lymphknoten, Hautabszess</li></ul>",
+      "label": "Analabszess",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Denguefieber"
+        }
+      },
+      "diagnosisId": "D.dengueFever",
+      "explanation": "<ul><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, nasale Obstruktion, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Gliederschmerzen, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "label": "Dengue Fieber",
+      "isCorrect": false
+    },
+    {
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Tular%C3%A4mie"
+        }
+      },
+      "diagnosisId": "D.tularemia",
+      "explanation": "<ul><li><i>Masern</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tularämie</i> erhöhen würden: Appetitverlust, Nausea, Erbrechen</li></ul>",
+      "label": "Tularämie",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (20) bei einem Exanthem am Rücken seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Fieber, Dysphagie, Schüttelfrost, eine nasale Obstruktion und Diarrhoe.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Pruritus, eine Hautschwellung, vergrösserte Lymphknoten, eine allgemeine Müdigkeit, Husten, Kopfschmerzen, Erbrechen, Nausea, Gliederschmerzen und Obstipation werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "38c01419-eb56-435c-a3e5-74508a7a47ad",
+  "topic": "infectiology"
+}

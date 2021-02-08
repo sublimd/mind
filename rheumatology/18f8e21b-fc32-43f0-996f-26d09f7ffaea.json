@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.acuteTubularNecrosis",
+      "label": "Akute Tubulusnekrose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.bakersCystRuptured",
+      "label": "Rupturierte Baker Zyste",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.nonseminomaOfTestis",
+      "label": "Hodenkarzinom (Non-Seminom)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.kneeContusion",
+      "label": "Kniekontusion",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.distalFibularFracture",
+      "label": "Distale Fibulafraktur",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (33) bei einer Hautschwellung popliteal links seit vier Tagen.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Fieber, Pruritus, Polyurie, Oligurie, eine Schwellung oder Vergrösserung des Hodens und eine Schwellung der Unterschenkel werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 1py (20 Zigaretten täglich während 1 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "18f8e21b-fc32-43f0-996f-26d09f7ffaea",
+  "topic": "rheumatology"
+}

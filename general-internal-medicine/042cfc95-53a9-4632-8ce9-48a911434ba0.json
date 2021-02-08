@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.radialTunnelSyndrome",
+      "label": "Radialtunnelsyndrom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.tricepsTendinopathy",
+      "label": "Tendinitis der distalen Trizepssehne",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.looseBodiesElbow",
+      "label": "Freie Gelenkkörper im Ellbogen",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.distalBicepsTendonTendinopathy",
+      "label": "Tendinitis der distalen Bizepssehne",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.osteochondritisDissecans",
+      "label": "Osteochondritis dissecans",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (33) bei Ellbogenschmerzen seit sechs Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Hautschwellung am anterioren linken Ellbogen.<br /><br />Hautveränderungen, Fieber, eine Ellbogenschwellung, eine Ellbogenrötung, eine Ellbogensteifigkeit, Knieschmerzen, eine Knieschwellung und eine Schwellung der Unterschenkel werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 3 x / Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "042cfc95-53a9-4632-8ce9-48a911434ba0",
+  "topic": "general-internal-medicine"
+}

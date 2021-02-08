@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.rightSidedHeartFailure",
+      "label": "Rechtsherzinsuffizienz",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.bicuspidAorticValve",
+      "label": "Bikuspide Aortenklappe",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.corPulmonale",
+      "label": "Cor pulmonale",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
+      "label": "AV-Block II°, Mobitz II",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.anemiaMacrocytic",
+      "label": "Makrozytäre Anämie",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (73) bei einer vermehrten Müdigkeit seit drei Monaten.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe.<br /><br />Fieber, Husten, Schlafstörungen, Kopfschmerzen, ein Gewichtsverlust, Schwindel, Thoraxschmerzen, Palpitationen, ein Appetitverlust, eine Schwellung der Unterschenkel, Synkopen und Nachtschweiss werden verneint. <h2>Diagnoseliste</h2>- Multiples Myelom<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "34c14d48-141e-4e17-9a38-82caba5a2ee5",
+  "topic": "hematology"
+}

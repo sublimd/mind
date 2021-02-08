@@ -1,0 +1,27 @@
+{
+  "answers": [
+    {
+      "label": "Mechanischer Ileus",
+      "isCorrect": false
+    },
+    {
+      "label": "Intestinale Pseudoobstruktion (Ogilvie-Syndrom)",
+      "isCorrect": false
+    },
+    {
+      "label": "Schwangerschaftscholestase",
+      "isCorrect": false
+    },
+    {
+      "label": "Ulcus duodeni",
+      "isCorrect": true
+    },
+    {
+      "label": "Mallory-Weiss Syndrom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (51) bei Bauchschmerzen im Oberbauch seit drei Tagen.<br /><br />Im Zusammenhang mit den Bauchschmerzen sei es ausserdem zu Nausea gekommen.<br /><br />Zusätzlich berichtet die Patientin über Hämatemesis.<br /><br />Fieber, Diarrhoe, Obstipation, Hämatochezie oder Meläna im Zusammenhang mit den Bauchschmerzen wird verneint. <br /><br />Appetitverlust, ein Gewichtsverlust, Blähungen, ein Ikterus und Pruritus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 9py (10 Zigaretten täglich während 17 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "3d58ee20-3a3e-432d-9664-1d26d6d67bc8",
+  "topic": "general-internal-medicine"
+}

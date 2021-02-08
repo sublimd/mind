@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.rhabdomyosarcoma",
+      "label": "Rhabdomyosarkom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.lupusNephritis",
+      "label": "Lupusnephritis",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.myelodysplasticSyndrome",
+      "label": "Myelodysplastisches Syndrom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.angiomyolipoma",
+      "label": "Angiomyolipom",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.bartterSyndrome",
+      "label": "Bartter Syndrom",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (51) bei Hämaturie seit acht Tagen.<br /><br />Dysurie, Flankenschmerzen, Fieber, eine Schwellung der Unterschenkel, Oligurie, ein Gewichtsverlust, Nachtschweiss und erhöhte Blutdruckwerte werden verneint. <h2>Diagnoseliste</h2>- Systemischer Lupus erythematodes<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "90a41a81-ec74-49b1-92ae-016792c31a7f",
+  "topic": "general-internal-medicine"
+}

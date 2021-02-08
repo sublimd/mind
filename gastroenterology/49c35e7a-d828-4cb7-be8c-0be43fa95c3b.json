@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.hypertensiveLowerEsophagealSphincter",
+      "label": "Hyperkontraktiler unterer Ösophagussphinkter",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.infectiousMononucleosis",
+      "label": "Infektiöse Mononukleose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.functionalDyspepsia",
+      "label": "Funktionelle Dyspepsie",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.transientIschemicAttack",
+      "label": "Transitorische ischämische Attacke (TIA)",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.oesophagealCandidiasis",
+      "label": "Soorösophagitis",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (67) bei Dysphagie seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über saures Aufstossen.<br /><br />Ein allgemeines Schwächegefühl, Kopfschmerzen, Husten, Thoraxschmerzen, Erbrechen, Sensibilitätsstörungen, ein Gewichtsverlust, Odynophagie und Halsschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "49c35e7a-d828-4cb7-be8c-0be43fa95c3b",
+  "topic": "gastroenterology"
+}

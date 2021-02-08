@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.corPulmonale",
+      "label": "Cor pulmonale",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.nash",
+      "label": "Nicht-alkoholische Steatohepatitis (NASH)",
+      "isCorrect": true
+    },
+    {
+      "diagnosisId": "D.gastricMucosaAssociatedLymphoidTissueLymphoma",
+      "label": "MALT-Lymphom des Magens",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
+      "label": "Hyperosmolare hyperglykämische Entgleisung",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.rightSidedHeartFailure",
+      "label": "Rechtsherzinsuffizienz",
+      "isCorrect": false
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (59) bei einer vermehrten Müdigkeit seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Bauchschmerzen im rechten Oberbauch.<br /><br />Dyspnoe, Fieber, Schlafstörungen, Nausea, ein Gewichtsverlust, ein Appetitverlust, Unterschenkeloedeme, Nachtschweiss und eine Gewichtszunahme werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Kein Alkoholkonsum.",
+  "id": "4e2a83ab-b83a-4511-b908-3adbc8a6807c",
+  "topic": "gastroenterology"
+}

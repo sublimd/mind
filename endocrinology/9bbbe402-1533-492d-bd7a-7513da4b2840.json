@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "diagnosisId": "D.hypothyroidism",
+      "label": "Hypothyreose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.pulmonaryValveStenosis",
+      "label": "Pulmonalklappenstenose",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.rightSidedHeartFailure",
+      "label": "Rechtsherzinsuffizienz",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hashimotoThyroiditis",
+      "label": "Hashimoto Thyreoditis",
+      "isCorrect": false
+    },
+    {
+      "diagnosisId": "D.hypercortisolism",
+      "label": "Cushing Syndrom",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (33) bei einer Gewichtszunahme in den letzten Wochen.<br /><br />Zusätzlich berichtet der Patient über erhöhte Blutdruckwerte, eine vermehrte Müdigkeit, erektile Dysfunktion, eine beidseitige Unterschenkelschwellung, Rückenschmerzen und Polyurie.<br /><br />Bauchschmerzen, Kopfschmerzen, Palpitationen, Obstipation, eine Kälteintoleranz, Nykturie und Schlafstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "9bbbe402-1533-492d-bd7a-7513da4b2840",
+  "topic": "endocrinology"
+}

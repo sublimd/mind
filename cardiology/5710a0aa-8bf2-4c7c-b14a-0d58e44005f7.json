@@ -1,0 +1,42 @@
+{
+  "answers": [
+    {
+      "references": {},
+      "diagnosisId": "D.hyperventilationSyndrome",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperventilationssyndrom</i> erhöhen würden: Sensibilitätsstörungen, Schwindel, Muskelkrämpfe</li></ul>",
+      "label": "Hyperventilationssyndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.sepsis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sepsis</i> erhöhen würden: Fieber, Schüttelfrost, Schwindel</li></ul>",
+      "label": "Sepsis",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anämie im Rahmen chronischer Erkrankung</i> erhöhen würden: Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall</li></ul>",
+      "label": "Anämie im Rahmen chronischer Erkrankung",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.sickSinusSyndrome",
+      "explanation": "<ul><li><i>Vorhofflimmern</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sick-Sinus-Syndrom</i> erhöhen würden: Schwindel, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Sick-Sinus-Syndrom</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "label": "Sick-Sinus-Syndrom",
+      "isCorrect": false
+    },
+    {
+      "references": {},
+      "diagnosisId": "D.atrialFibrillation",
+      "explanation": "",
+      "label": "Vorhofflimmern",
+      "isCorrect": true
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (60) bei Palpitationen seit acht Tagen.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe.<br /><br />Schwindel, Thoraxschmerzen, Fieber, Schüttelfrost, Synkopen, Kopfschmerzen, Muskelkrämpfe und eine Wärmeintoleranz werden verneint. <h2>Diagnoseliste</h2>- Mitralklappen-Insuffizienz<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "5710a0aa-8bf2-4c7c-b14a-0d58e44005f7",
+  "topic": "cardiology"
+}
