@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.acuteTracheitis",
-      "label": "Akute Tracheitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Tracheitis"
     },
     {
       "diagnosisId": "D.eosinophilicGranulomatosisWithPolyangiitis",
-      "label": "Eosinophile Granulomatose mit Polyangiitis (EGPA)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Eosinophile Granulomatose mit Polyangiitis (EGPA)"
     },
     {
       "diagnosisId": "D.influenza",
-      "label": "Influenza",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Influenza"
     },
     {
       "diagnosisId": "D.nocardiosis",
-      "label": "Nokardiose",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Nokardiose"
     },
     {
       "diagnosisId": "D.sarcoidosis",
-      "label": "Sarkoidose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sarkoidose"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (25) bei Fieber seit sieben Tagen.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Dyspnoe, Husten, Thoraxschmerzen, Nachtschweiss und Hämoptoe.<br /><br />Verstärkung der Thoraxschmerzen durch tiefe Inspiration.<br /><br />Ein Immundefekt wird bejaht.<br /><br />Bauchschmerzen, Diarrhoe, Odynophagie, Kopfschmerzen, Rhinorrhoe, Gliederschmerzen, Flankenschmerzen, Dysurie und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 2py (10 Zigaretten täglich während 4 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",

@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.cholangitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cholangitis</i> erhöhen würden: Ikterus, Nausea, Erbrechen, Hypotonie</li></ul>",
+      "isCorrect": false,
+      "label": "Cholangitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Cholangitis"
         }
-      },
-      "diagnosisId": "D.cholangitis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cholangitis</i> erhöhen würden: Ikterus, Nausea, Erbrechen, Hypotonie</li></ul>",
-      "label": "Cholangitis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.viralGastroenteritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Peritonitis</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Gastroenteritis</i> erhöhen würden: Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Gastroenteritis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Virale_Gastroenteritis"
         }
-      },
-      "diagnosisId": "D.viralGastroenteritis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Akute Peritonitis</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Gastroenteritis</i> erhöhen würden: Nausea, Erbrechen</li></ul>",
-      "label": "Virale Gastroenteritis",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acutePeritonitis",
       "explanation": "",
+      "isCorrect": true,
       "label": "Akute Peritonitis",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.pseudomembranousColitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Peritonitis</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Kürzliche Verwendung von Antibiotika, Hospitalisation in den letzten drei Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Pseudomembranöse Kolitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Pseudomembran%C3%B6se_Kolitis"
         }
-      },
-      "diagnosisId": "D.pseudomembranousColitis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Akute Peritonitis</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Kürzliche Verwendung von Antibiotika, Hospitalisation in den letzten drei Monaten</li></ul>",
-      "label": "Pseudomembranöse Kolitis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Peritonitis</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Husten, Dyspnoe, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Ambulant_erworbene_Pneumonie"
         }
-      },
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
-      "explanation": "<ul><li>Probleme, welche durch <i>Akute Peritonitis</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Husten, Dyspnoe, Thoraxschmerzen</li></ul>",
-      "label": "Ambulant erworbene Pneumonie",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (30) bei stechenden Bauchschmerzen seit zwei Tagen.<br /><br />Verstärkung der Bauchschmerzen bei Erschütterungen. Linderung der Bauchschmerzen bei ruhigem Liegen.<br /><br />Zusätzlich berichtet der Patient über Fieber, Diarrhoe und eine Verwirrtheit.<br /><br /> Eine Hospitalisation in den letzten drei Monaten wird verneint. Die kürzliche Verwendung von Antibiotika wird verneint. <br /><br />Nausea, Erbrechen, Obstipation, Schüttelfrost, Dyspnoe, niedrige Blutdruckwerte, Hämatochezie und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",

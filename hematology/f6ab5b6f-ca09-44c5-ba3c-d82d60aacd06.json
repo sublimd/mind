@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.autonomousThyroidNodules",
-      "label": "Hyperthyreose bei Schilddrüsenautonomie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperthyreose bei Schilddrüsenautonomie"
     },
     {
       "diagnosisId": "D.lues",
-      "label": "Lues",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lues"
     },
     {
       "diagnosisId": "D.chronicLymphaticLeukemia",
-      "label": "Chronische lymphatische Leukämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische lymphatische Leukämie"
     },
     {
       "diagnosisId": "D.rhabdomyosarcoma",
-      "label": "Rhabdomyosarkom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rhabdomyosarkom"
     },
     {
       "diagnosisId": "D.nonHodgkinLymphoma",
-      "label": "Non-Hodgkin Lymphom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Non-Hodgkin Lymphom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei einem Knoten submandibulär links seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Nachtschweiss, Fieber und einen Gewichtsverlust.<br /><br /> Ungeschützter Geschlechtsverkehr in der Vergangenheit wird verneint. Der Erhalt von Bluttransfusionen wird verneint. <br /><br />Hautveränderungen, Müdigkeit, Pruritus und eine Wärmeintoleranz werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Sekt).",

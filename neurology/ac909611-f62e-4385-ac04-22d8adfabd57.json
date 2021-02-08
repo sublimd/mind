@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.panarteritisNodosa",
-      "label": "Panarteriitis nodosa",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Panarteriitis nodosa"
     },
     {
       "diagnosisId": "D.vestibularMigraine",
-      "label": "Vestibuläre Migräne",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Vestibuläre Migräne"
     },
     {
       "diagnosisId": "D.cerebralMetastasis",
-      "label": "Hirnmetastasen",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hirnmetastasen"
     },
     {
       "diagnosisId": "D.neoplasticMeningitis",
-      "label": "Meningeosis neoplastica",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Meningeosis neoplastica"
     },
     {
       "diagnosisId": "D.trigeminalNeuralgia",
-      "label": "Trigeminusneuralgie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Trigeminusneuralgie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (46) bei Kopfschmerzen seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Fieber, Nausea und Sensibilitätsstörungen an der linken oberen Extremität.<br /><br />Erbrechen, eine Verwirrtheit, Sehstörungen, Fieber, eine Photophobie, eine Phonophobie, Lähmungserscheinungen, Dysphagie, Thoraxschmerzen, Dysarthrie, Krampfanfälle und eine Hörminderung werden verneint. <h2>Diagnoseliste</h2>- Kolonkarzinom<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Sekt).",

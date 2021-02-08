@@ -1,47 +1,47 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.menopause",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Menstruationsbeschwerden, Ausbleiben der Periode, Wärmeintoleranz, Nachtschweiss, Probleme beim Geschlechtsverkehr, vaginaler Juckreiz</li></ul>",
+      "isCorrect": false,
       "label": "Klimakterisches Syndrom",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.hepaticEncephalopathy",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Verwirrtheit, Krampfanfall, Angstzustände</li></ul>",
+      "isCorrect": false,
+      "label": "Hepatische Enzephalopathie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hepatische_Enzephalopathie"
         }
-      },
-      "diagnosisId": "D.hepaticEncephalopathy",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Verwirrtheit, Krampfanfall, Angstzustände</li></ul>",
-      "label": "Hepatische Enzephalopathie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hypercortisolism",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhter Blutdruck, Menstruationsbeschwerden, Ausbleiben der Periode,  Schwellung der Unterschenkel, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Cushing Syndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Cushing-Syndrom"
         }
-      },
-      "diagnosisId": "D.hypercortisolism",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhter Blutdruck, Menstruationsbeschwerden, Ausbleiben der Periode,  Schwellung der Unterschenkel, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
-      "label": "Cushing Syndrom",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.majorDepressiveEpisode",
       "explanation": "",
+      "isCorrect": true,
       "label": "Ausgeprägte depressive Episode",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.alcoholUseDisorder",
       "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Alkoholüberkonsum</i> erhöhen würden: retrosternales Brennen, Thoraxschmerzen, saures Aufstossen, erhöhter Blutdruck, Angstzustände</li></ul>",
+      "isCorrect": false,
       "label": "Alkoholüberkonsum",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (58) bei einer depressiven Episode seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über Schlafstörungen und eine vermehrte Müdigkeit.<br /><br />Angstzustände, erhöhte Blutdruckwerte, Menstruationsbeschwerden und Rückenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",

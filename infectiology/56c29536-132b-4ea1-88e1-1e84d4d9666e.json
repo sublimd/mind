@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Leptospirose</i> besser erklärt sind: Kopfschmerzen, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Dyspnoe</li></ul>",
+      "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.tickborneEncephalitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Leptospirose</i> besser erklärt sind: Augenrötung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Frühsommer-Meningoencephalitis (FSME)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Fr%C3%BChsommer-Meningoenzephalitis"
         }
-      },
-      "diagnosisId": "D.tickborneEncephalitis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Leptospirose</i> besser erklärt sind: Augenrötung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
-      "label": "Frühsommer-Meningoencephalitis (FSME)",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.leptospirosisStage1",
       "explanation": "",
+      "isCorrect": true,
       "label": "Leptospirose",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.malaria",
+      "explanation": "<ul><li>Probleme, welche durch <i>Leptospirose</i> besser erklärt sind: Augenrötung</li></ul>",
+      "isCorrect": false,
+      "label": "Malaria",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
         }
-      },
-      "diagnosisId": "D.malaria",
-      "explanation": "<ul><li>Probleme, welche durch <i>Leptospirose</i> besser erklärt sind: Augenrötung</li></ul>",
-      "label": "Malaria",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.measles",
+      "explanation": "<ul><li>Probleme, welche durch <i>Leptospirose</i> besser erklärt sind: Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Masern",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Masern"
         }
-      },
-      "diagnosisId": "D.measles",
-      "explanation": "<ul><li>Probleme, welche durch <i>Leptospirose</i> besser erklärt sind: Kopfschmerzen</li></ul>",
-      "label": "Masern",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (28) bei Fieber seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Kopfschmerzen, Gliederschmerzen, eine Augenrötung, Diarrhoe und Husten.<br /><br />Ungewöhnlicher Kontakt zu Tieren und Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br />Bauchschmerzen, Odynophagie, Dysphagie, Dyspnoe, Rhinorrhoe, Flankenschmerzen, Dysurie, Gelenkschmerzen und Amnesie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

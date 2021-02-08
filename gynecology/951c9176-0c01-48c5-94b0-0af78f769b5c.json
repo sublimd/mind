@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.rightSidedHeartFailure",
-      "label": "Rechtsherzinsuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rechtsherzinsuffizienz"
     },
     {
       "diagnosisId": "D.urethralStricture",
-      "label": "Urethrastriktur",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Urethrastriktur"
     },
     {
       "diagnosisId": "D.acutePyelonephritis",
-      "label": "Akute Pyelonephritis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Pyelonephritis"
     },
     {
       "diagnosisId": "D.hypercalcemia",
-      "label": "Hyperkalzämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperkalzämie"
     },
     {
       "diagnosisId": "D.cystocele",
-      "label": "Zystozele",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Zystozele"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (70) bei Nykturie seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über eine Urininkontinenz.<br /><br />Dysurie, Hämaturie, eine Schwellung der Unterschenkel, Erbrechen, Nausea, ein Appetitverlust, Palpitationen und eine Gewichtszunahme werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.pseudomembranousColitis",
-      "label": "Pseudomembranöse Kolitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pseudomembranöse Kolitis"
     },
     {
       "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
-      "label": "Ambulant erworbene Pneumonie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie"
     },
     {
       "diagnosisId": "D.ulcerativeColitis",
-      "label": "Colitis ulcerosa",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Colitis ulcerosa"
     },
     {
       "diagnosisId": "D.lactoseIntolerance",
-      "label": "Laktoseintoleranz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Laktoseintoleranz"
     },
     {
       "diagnosisId": "D.irritableBowelSyndrome",
-      "label": "Colon irritabile",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Colon irritabile"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (27) bei Diarrhoe seit fünf Monaten.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen, einen Gewichtsverlust, eine vermehrte Müdigkeit und Fieber.<br /><br /> Der Konsum von Milchprodukten wird verneint. Die kürzliche Verwendung von Antibiotika wird verneint. <br /><br />Nausea, Erbrechen, Blähungen, Hämatochezie und Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

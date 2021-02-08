@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.meniscusLesion",
-      "label": "Meniskusläsion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Meniskusläsion"
     },
     {
       "diagnosisId": "D.iliotibialBandSyndrome",
-      "label": "Ilio-tibiales Bandsyndrom (Läuferknie)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ilio-tibiales Bandsyndrom (Läuferknie)"
     },
     {
       "diagnosisId": "D.psoriaticArthritis",
-      "label": "Psoriasis-Arthritis (PsA)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Psoriasis-Arthritis (PsA)"
     },
     {
       "diagnosisId": "D.gonarthrosis",
-      "label": "Gonarthrose",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Gonarthrose"
     },
     {
       "diagnosisId": "D.adipositas",
-      "label": "Adipositas",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Adipositas"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (62) bei linksseitigen Knieschmerzen seit zwei Monaten.<br /><br />Verstärkung bzw. Auslösung der Knieschmerzen bei Bewegung.<br /><br />Zusätzlich berichtet die Patientin über eine Kniesteifigkeit.<br /><br />Ein Trauma und regelmässige sportliche Aktivität werden verneint. <br /><br />Eine Knieschwellung, eine Knierötung, Handschmerzen, Fieber und Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

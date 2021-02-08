@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.pulmonaryEmbolism",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenembolie</i> erhöhen würden: Thoraxschmerzen, Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenembolie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Lungenembolie"
         }
-      },
-      "diagnosisId": "D.pulmonaryEmbolism",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenembolie</i> erhöhen würden: Thoraxschmerzen, Husten</li></ul>",
-      "label": "Lungenembolie",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.cocaineIntoxication",
       "explanation": "",
+      "isCorrect": true,
       "label": "Kokain-Intoxikation",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.atelectasis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atelektase</i> erhöhen würden: Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Atelektase",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Atelektase"
         }
-      },
-      "diagnosisId": "D.atelectasis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atelektase</i> erhöhen würden: Husten</li></ul>",
-      "label": "Atelektase",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.atrialFibrillation",
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Vorhofflimmern",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Vorhofflimmern"
         }
-      },
-      "diagnosisId": "D.atrialFibrillation",
-      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
-      "label": "Vorhofflimmern",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.pheochromocytoma",
+      "explanation": "<ul><li><i>Kokain-Intoxikation</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Kokain-Intoxikation</i> besser erklärt sind: Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Phäochromozytom</i> erhöhen würden: Kopfschmerzen, Hyperhidrose, Wärmeintoleranz</li></ul>",
+      "isCorrect": false,
+      "label": "Phäochromozytom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Ph%C3%A4ochromozytom"
         }
-      },
-      "diagnosisId": "D.pheochromocytoma",
-      "explanation": "<ul><li><i>Kokain-Intoxikation</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Kokain-Intoxikation</i> besser erklärt sind: Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Phäochromozytom</i> erhöhen würden: Kopfschmerzen, Hyperhidrose, Wärmeintoleranz</li></ul>",
-      "label": "Phäochromozytom",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (31) bei akuter Tachykardie.<br /><br />Zusätzlich berichtet der Patient über erhöhte Blutdruckwerte und Dyspnoe.<br /><br />Eine allgemeine Müdigkeit, Thoraxschmerzen, Fieber, Synkopen, ein kürzlicher Bewusstseinsverlust, Husten, Angstzustände, Orthopnoe, Palpitationen und Hämoptoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 8py (30 Zigaretten täglich während 5 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",

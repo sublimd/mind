@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.hypercalcemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>GHB-Intoxikation</i> besser erklärt sind: Aggressivität, Bradykardien, Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.hypercalcemia",
-      "explanation": "<ul><li>Probleme, welche durch <i>GHB-Intoxikation</i> besser erklärt sind: Aggressivität, Bradykardien, Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
-      "label": "Hyperkalzämie",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.concussion",
       "explanation": "<ul><li>Probleme, welche durch <i>GHB-Intoxikation</i> besser erklärt sind: Aggressivität, Bradykardien</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Kürzliches Schädeltrauma</li></ul>",
+      "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.alcoholIntoxication",
+      "explanation": "<ul><li>Probleme, welche durch <i>GHB-Intoxikation</i> besser erklärt sind: Bradykardien, Amnesie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Alkohol-Intoxikation</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Alkohol-Intoxikation",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Alkoholintoxikation"
         }
-      },
-      "diagnosisId": "D.alcoholIntoxication",
-      "explanation": "<ul><li>Probleme, welche durch <i>GHB-Intoxikation</i> besser erklärt sind: Bradykardien, Amnesie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Alkohol-Intoxikation</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
-      "label": "Alkohol-Intoxikation",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.ghbIntoxication",
       "explanation": "",
+      "isCorrect": true,
       "label": "GHB-Intoxikation",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.comaDiabeticum",
+      "explanation": "<ul><li>Probleme, welche durch <i>GHB-Intoxikation</i> besser erklärt sind: Aggressivität, Bradykardien, Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperglykämisches Koma</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Bauchschmerzen, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperglykämisches Koma</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperglykämisches Koma",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperglyk%C3%A4misches_Koma"
         }
-      },
-      "diagnosisId": "D.comaDiabeticum",
-      "explanation": "<ul><li>Probleme, welche durch <i>GHB-Intoxikation</i> besser erklärt sind: Aggressivität, Bradykardien, Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperglykämisches Koma</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Bauchschmerzen, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperglykämisches Koma</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Hyperglykämisches Koma",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (39) bei akutem aggressiven Verhalten.<br /><br />Zusätzlich berichtet die Patientin über einen Bewusstseinsverlust sowie eine Verwirrtheit, Nausea, Bradykardien und eine Amnesie.<br /><br /> Ein kürzliches Schädeltrauma wird verneint. <br /><br />Krampfanfälle, Ataxie, niedrige Blutdruckwerte, Dyspnoe, Sehstörungen, Nykturie, Sensibilitätsstörungen, Bauchschmerzen und ein vermehrtes Durstgefühl werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 21py (30 Zigaretten täglich während 14 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

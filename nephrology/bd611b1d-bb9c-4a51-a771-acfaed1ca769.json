@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "<ul><li><i>Überaktive Blase</i> tritt statistisch häufiger auf</li><li><i>Nierenkarzinom</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Überaktive Blase</i> besser erklärt sind: Urininkontinenz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
+      "isCorrect": false,
       "label": "Nierenkarzinom",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.corpusLutealCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Überaktive Blase</i> besser erklärt sind: Urininkontinenz, Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Corpus luteum Zyste</i> erhöhen würden: Bauchschmerzen, Rückenschmerzen, Blähungen</li></ul>",
+      "isCorrect": false,
       "label": "Corpus luteum Zyste",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.urolithiasis",
+      "explanation": "<ul><li><i>Urolithiasis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Überaktive Blase</i> besser erklärt sind: Urininkontinenz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Urolithiasis</i> erhöhen würden: Flankenschmerzen, Bauchschmerzen, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Urolithiasis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Urolithiasis"
         }
-      },
-      "diagnosisId": "D.urolithiasis",
-      "explanation": "<ul><li><i>Urolithiasis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Überaktive Blase</i> besser erklärt sind: Urininkontinenz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Urolithiasis</i> erhöhen würden: Flankenschmerzen, Bauchschmerzen, Nausea, Erbrechen</li></ul>",
-      "label": "Urolithiasis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.overactiveBladder",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Überaktive Blase",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/%C3%9Cberaktive_Blase"
         }
-      },
-      "diagnosisId": "D.overactiveBladder",
-      "explanation": "",
-      "label": "Überaktive Blase",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.transverseMyelitis",
+      "explanation": "<ul><li><i>Überaktive Blase</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transverse Myelitis</i> erhöhen würden: Muskelschwäche, Beinschmerzen, Armschmerzen, Sensibilitätsstörungen, Rückenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Transverse Myelitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Transverse_Myelitis"
         }
-      },
-      "diagnosisId": "D.transverseMyelitis",
-      "explanation": "<ul><li><i>Überaktive Blase</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transverse Myelitis</i> erhöhen würden: Muskelschwäche, Beinschmerzen, Armschmerzen, Sensibilitätsstörungen, Rückenschmerzen</li></ul>",
-      "label": "Transverse Myelitis",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (52) bei Urininkontinenz.<br /><br />Zusätzlich berichtet die Patientin über Pollakisurie seit acht Tagen sowie Dysurie und Nykturie.<br /><br />Bauchschmerzen, Hämaturie, Rückenschmerzen und Obstipation werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Kein Alkoholkonsum.",

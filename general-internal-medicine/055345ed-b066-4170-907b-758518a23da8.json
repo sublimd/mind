@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.acutePericarditis",
-      "label": "Akute Perikarditis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Perikarditis"
     },
     {
       "diagnosisId": "D.metabolicAlkalosis",
-      "label": "Metabolische Alkalose",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Metabolische Alkalose"
     },
     {
       "diagnosisId": "D.hyperparathyroidism",
-      "label": "Hyperparathyroidismus",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperparathyroidismus"
     },
     {
       "diagnosisId": "D.hypocalcemia",
-      "label": "Hypokalzämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypokalzämie"
     },
     {
       "diagnosisId": "D.rightSidedHeartFailure",
-      "label": "Rechtsherzinsuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rechtsherzinsuffizienz"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (72) bei einer vermehrten Müdigkeit seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über Gliederschmerzen und Palpitationen.<br /><br />Polyurie, Kopfschmerzen, Sensibilitätsstörungen, Schlafstörungen, Fieber, ein Gewichtsverlust, Nachtschweiss, Dyspnoe, eine Schwellung der Unterschenkel und Angstzustände werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",

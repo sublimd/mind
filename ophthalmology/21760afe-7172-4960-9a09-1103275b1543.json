@@ -1,59 +1,59 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.ischemicStroke",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Muskelschwäche, Sensibilitätsstörungen, Dysarthrie, Aphasie</li></ul>",
+      "isCorrect": false,
+      "label": "Ischämischer Schlaganfall",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Isch%C3%A4mischer_Schlaganfall"
         }
-      },
-      "diagnosisId": "D.ischemicStroke",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Muskelschwäche, Sensibilitätsstörungen, Dysarthrie, Aphasie</li></ul>",
-      "label": "Ischämischer Schlaganfall",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.cataract",
+      "explanation": "<ul><li>Probleme, welche durch <i>Presbyopie</i> besser erklärt sind: Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Katarakt",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Katarakt"
         }
-      },
-      "diagnosisId": "D.cataract",
-      "explanation": "<ul><li>Probleme, welche durch <i>Presbyopie</i> besser erklärt sind: Kopfschmerzen</li></ul>",
-      "label": "Katarakt",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.migraineHeadache",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
         }
-      },
-      "diagnosisId": "D.migraineHeadache",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
-      "label": "Migräne",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hypertensiveCrisis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypertensiver_Notfall"
         }
-      },
-      "diagnosisId": "D.hypertensiveCrisis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
-      "label": "Hypertensiver Notfall",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.presbyopia",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Presbyopie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Presbyopie"
         }
-      },
-      "diagnosisId": "D.presbyopia",
-      "explanation": "",
-      "label": "Presbyopie",
-      "isCorrect": true
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (73) bei Sehstörungen seit einigen Jahren.<br /><br />Der Patient beschreibt ein Verschwommensehen.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen (bis VAS 4/10).<br /><br />Im Verlauf seien die Kopfschmerzen kommend und gehend.<br /><br />Eine Augenrötung, Nausea, Augenschmerzen, Erbrechen, Sensibilitätsstörungen, eine Photophobie, Lähmungserscheinungen, erhöhte Blutdruckwerte und Fieber werden verneint. <h2>Diagnoseliste</h2>- Chronische Niereninsuffizienz<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 83py (30 Zigaretten täglich während 55 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",

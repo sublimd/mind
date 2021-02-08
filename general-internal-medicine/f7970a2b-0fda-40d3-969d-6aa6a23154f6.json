@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.anteriorScleritis",
-      "label": "Skleritis anterior",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Skleritis anterior"
     },
     {
       "diagnosisId": "D.dacryocystitis",
-      "label": "Akute Dakryozystitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Dakryozystitis"
     },
     {
       "diagnosisId": "D.ocularRosacea",
-      "label": "Okuläre Rosazea",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Okuläre Rosazea"
     },
     {
       "diagnosisId": "D.foreignBodyInConjunctiva",
-      "label": "Konjunktivaler Fremdkörper",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Konjunktivaler Fremdkörper"
     },
     {
       "diagnosisId": "D.trichiasis",
-      "label": "Trichiasis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Trichiasis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (32) bei einer Augenrötung.<br /><br />Zusätzlich berichtet der Patient über wässrigen Ausfluss aus dem Auge und Augenschmerzen.<br /><br />Sehstörungen, Juckreiz in den Augen, Rhinorrhoe, Hautveränderungen, Kopfschmerzen, eine Augenschwellung und Gesichtsschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",

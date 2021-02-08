@@ -1,47 +1,47 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.acutePancreatitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Hepatitis C-Infektion</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pankreatitis</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Pankreatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Pankreatitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Akute_Pankreatitis"
         }
-      },
-      "diagnosisId": "D.acutePancreatitis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Hepatitis C-Infektion</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pankreatitis</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Pankreatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
-      "label": "Akute Pankreatitis",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.chronicHepatitisC",
       "explanation": "",
+      "isCorrect": true,
       "label": "Chronische Hepatitis C-Infektion",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteHepatitisA",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
       "label": "Akute Hepatitis A-Infektion",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.liverCirrhosis",
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Leberzirrhose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Leberzirrhose"
         }
-      },
-      "diagnosisId": "D.liverCirrhosis",
-      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
-      "label": "Leberzirrhose",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.primaryAdrenalInsufficiency",
       "explanation": "<ul><li><i>Chronische Hepatitis C-Infektion</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Primäre Nebennierenrindeninsuffizienz (M. Addison)</i> erhöhen würden: Hypotonie, Obstipation, Diarrhoe, Gelenkschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Primäre Nebennierenrindeninsuffizienz (M. Addison)",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (32) bei drückende Bauchschmerzen (bis VAS 4/10) im rechten Oberbauch seit einigen Monaten.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit seit vier Monaten sowie Nausea und einen Appetitverlust.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Fieber, Dyspnoe, ein Gewichtsverlust, Hautveränderungen, niedrige Blutdruckwerte, eine depressive Verstimmung, Gelenkschmerzen, Schlafstörungen und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

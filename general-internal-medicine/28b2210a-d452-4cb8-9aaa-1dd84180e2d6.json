@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.pulmonaryEmbolism",
-      "label": "Lungenembolie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenembolie"
     },
     {
       "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
-      "label": "AV-Block II°, Mobitz II",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "AV-Block II°, Mobitz II"
     },
     {
       "diagnosisId": "D.corPulmonale",
-      "label": "Cor pulmonale",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cor pulmonale"
     },
     {
       "diagnosisId": "D.situationalSyncope",
-      "label": "Situative Synkope",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Situative Synkope"
     },
     {
       "diagnosisId": "D.atrioventricularBlockThirdDegree",
-      "label": "AV-Block III°",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "AV-Block III°"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (46) bei einer Synkope vor vier Tagen.<br /><br />Die Patientin berichtet über Schwindel vor der Synkope.<br /><br />Zusätzlich berichtet die Patientin über Nausea.<br /><br />Dyspnoe, Palpitationen, Bradykardien und Orthopnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

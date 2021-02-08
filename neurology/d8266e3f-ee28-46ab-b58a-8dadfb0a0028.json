@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.migraineHeadache",
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: Bewusstseinsverlust, erhöhter Blutdruck</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
         }
-      },
-      "diagnosisId": "D.migraineHeadache",
-      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: Bewusstseinsverlust, erhöhter Blutdruck</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie</li></ul>",
-      "label": "Migräne",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.subduralHematoma",
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck, Dysarthrie</li></ul>",
+      "isCorrect": false,
+      "label": "Subduralhämatom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Subduralh%C3%A4matom"
         }
-      },
-      "diagnosisId": "D.subduralHematoma",
-      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck, Dysarthrie</li></ul>",
-      "label": "Subduralhämatom",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.concussion",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck, Dysarthrie</li></ul>",
+      "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.intracerebralHemorrhage",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Intrazerebrale Blutung",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Intrazerebrale_Blutung"
         }
-      },
-      "diagnosisId": "D.intracerebralHemorrhage",
-      "explanation": "",
-      "label": "Intrazerebrale Blutung",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.transientIschemicAttack",
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus, Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Transitorische ischämische Attacke (TIA)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Transitorische_isch%C3%A4mische_Attacke"
         }
-      },
-      "diagnosisId": "D.transientIschemicAttack",
-      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus, Nikotinabusus</li></ul>",
-      "label": "Transitorische ischämische Attacke (TIA)",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (71) bei einem Bewusstseinsverlust seit drei Stunden.<br /><br />Zuvor habe der Patient über Kopfschmerzen, erhöhte Blutdruckwerte, Dysarthrie, eine Muskelschwäche, Sensibilitätsstörungen, Nausea und Schwindel berichtet.<br /><br />Eine Verwirrtheit, Sehstörungen, Synkopen, Dysphagie, Nackensteifigkeit, eine Photophobie, Tinnitus und eine Phonophobie wurden verneint. <h2>Diagnoseliste</h2>- Essentielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

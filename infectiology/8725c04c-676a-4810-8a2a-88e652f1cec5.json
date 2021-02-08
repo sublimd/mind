@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.lymeBorreliosisStage3",
-      "label": "Lyme Borreliose Stadium 3",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 3"
     },
     {
       "diagnosisId": "D.lungAbscess",
-      "label": "Lungenabszess",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenabszess"
     },
     {
       "diagnosisId": "D.hivPrimoInfection",
-      "label": "HIV-Primoinfektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion"
     },
     {
       "diagnosisId": "D.fungalPneumonia",
-      "label": "Pilzpneumonie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pilzpneumonie"
     },
     {
       "diagnosisId": "D.leptospirosisStage2",
-      "label": "Leptospirose Stadium II",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Leptospirose Stadium II"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (58) bei Kopfschmerzen seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Fieber, Nackenschmerzen und Schüttelfrost. Der Patient arbeite als Tierarzt.<br /><br /> Ungeschützter Geschlechtsverkehr in den letzten Monaten und der Aufenthalt in Wäldern werden verneint.<br /><br />Nausea, Erbrechen, Sehstörungen, eine Photophobie, eine Phonophobie, Dyspnoe, Lähmungserscheinungen, Sensibilitätsstörungen, Bauchschmerzen, Thoraxschmerzen und Gelenkschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",

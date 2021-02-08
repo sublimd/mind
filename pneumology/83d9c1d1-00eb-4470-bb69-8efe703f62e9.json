@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.mitralValveStenosis",
+      "explanation": "<ul><li><i>COPD Exazerbation</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Mitralklappen-Stenose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Mitralklappenstenose"
         }
-      },
-      "diagnosisId": "D.mitralValveStenosis",
-      "explanation": "<ul><li><i>COPD Exazerbation</i> tritt statistisch häufiger auf</li></ul>",
-      "label": "Mitralklappen-Stenose",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.vocalCordDysfunctionSyndrome",
+      "explanation": "<ul><li><i>COPD Exazerbation</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vocal Cord Dysfunction (VCD)</i> erhöhen würden: Dysphonie</li></ul>",
+      "isCorrect": false,
+      "label": "Vocal Cord Dysfunction (VCD)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Vocal_Cord_Dysfunction"
         }
-      },
-      "diagnosisId": "D.vocalCordDysfunctionSyndrome",
-      "explanation": "<ul><li><i>COPD Exazerbation</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vocal Cord Dysfunction (VCD)</i> erhöhen würden: Dysphonie</li></ul>",
-      "label": "Vocal Cord Dysfunction (VCD)",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Ambulant_erworbene_Pneumonie"
         }
-      },
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
-      "label": "Ambulant erworbene Pneumonie",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.copdExacerbation",
       "explanation": "",
+      "isCorrect": true,
       "label": "COPD Exazerbation",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (56) bei Husten.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe seit drei Tagen.<br /><br />Fieber, Müdigkeit, Schüttelfrost, Thoraxschmerzen, Kopfschmerzen, Palpitationen, Ohrenschmerzen und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 36py (30 Zigaretten täglich während 24 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",

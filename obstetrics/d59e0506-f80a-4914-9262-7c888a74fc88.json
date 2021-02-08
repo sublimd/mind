@@ -1,43 +1,43 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.cholangitis",
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Cholangitis</i> erhöhen würden: Fieber, Hypotonie</li></ul>",
+      "isCorrect": false,
+      "label": "Cholangitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Cholangitis"
         }
-      },
-      "diagnosisId": "D.cholangitis",
-      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Cholangitis</i> erhöhen würden: Fieber, Hypotonie</li></ul>",
-      "label": "Cholangitis",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteHepatitisC",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis C-Infektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
+      "isCorrect": false,
       "label": "Akute Hepatitis C-Infektion",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteHepatitisB",
       "explanation": "<ul><li>Symptome, welche durch <i>Schwangerschaftscholestase</i> besser erklärt sind: Schlafstörungen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Akute Hepatitis B-Infektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit</li></ul>",
+      "isCorrect": false,
       "label": "Akute Hepatitis B-Infektion",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.intrahepaticCholestasisOfPregnancy",
       "explanation": "",
+      "isCorrect": true,
       "label": "Schwangerschaftscholestase",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.chronicHepatitisC",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis C-Infektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Appetitverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis C-Infektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit</li></ul>",
+      "isCorrect": false,
       "label": "Chronische Hepatitis C-Infektion",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (37) bei Pruritus seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen im rechten Oberbauch, Nausea, Schlafstörungen und einen Ikterus.<br /><br />Die Patientin gibt an, schwanger zu sein.<br /><br />Der Erhalt von Bluttransfusionen wird verneint. <br /><br />Hautveränderungen, eine allgemeine Müdigkeit, Fieber, niedrige Blutdruckwerte, ein Gewichtsverlust und Gelenkschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Kein Alkoholkonsum.",

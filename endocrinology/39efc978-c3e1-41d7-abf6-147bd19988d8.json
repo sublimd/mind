@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.viralPharyngitis",
-      "label": "Virale Pharyngitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis"
     },
     {
       "diagnosisId": "D.upperAirwayInfection",
-      "label": "Viraler Infekt der oberen Atemwege",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege"
     },
     {
       "diagnosisId": "D.infectiousMononucleosis",
-      "label": "Infektiöse Mononukleose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose"
     },
     {
       "diagnosisId": "D.myocarditis",
-      "label": "Myokarditis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myokarditis"
     },
     {
       "diagnosisId": "D.subacuteThyroiditis",
-      "label": "Subakute granulomatöse Thyreoiditis de Quervain",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Subakute granulomatöse Thyreoiditis de Quervain"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (46) bei Halsschmerzen seit vier Wochen.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, eine schmerzhafte Halsschwellung, Fieber, Gliederschmerzen, einen Appetitverlust und Palpitationen.<br /><br />Der Kontakt zu kranken Personen wird verneint. <br /><br />Schüttelfrost, vergrösserte Lymphknoten, Rhinorrhoe, Husten, Dysphonie, Dysphagie und Odynophagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",

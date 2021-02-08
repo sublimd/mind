@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hypercalcemia",
-      "label": "Hyperkalzämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperkalzämie"
     },
     {
       "diagnosisId": "D.drugInducedHypercalcemia",
-      "label": "Medikamenteninduzierte Hyperkalzämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hyperkalzämie"
     },
     {
       "diagnosisId": "D.hypercalcemiaOfMalignancy",
-      "label": "Tumorhyperkalzämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tumorhyperkalzämie"
     },
     {
       "diagnosisId": "D.cardiogenicShock",
-      "label": "Kardiogener Schock",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kardiogener Schock"
     },
     {
       "diagnosisId": "D.hyperglycemiaHyperosmolarState",
-      "label": "Hyperosmolare hyperglykämische Entgleisung",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperosmolare hyperglykämische Entgleisung"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (58) bei Polyurie seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Sehstörungen, einen Gewichtsverlust, Nausea, Dyspnoe und Bauchschmerzen.<br /><br />Appetitverlust, Obstipation und niedrige Blutdruckwerte werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein).",

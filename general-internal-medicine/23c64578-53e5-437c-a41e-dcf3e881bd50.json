@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.pulmonaryTuberculosis",
-      "label": "Lungentuberkulose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungentuberkulose"
     },
     {
       "diagnosisId": "D.acuteHypersensitivityPneumonitis",
-      "label": "Exogen-allergische Alveolitis (akut)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Exogen-allergische Alveolitis (akut)"
     },
     {
       "diagnosisId": "D.superiorVenaCavaSyndrome",
-      "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)"
     },
     {
       "diagnosisId": "D.pulmonaryFibrosis",
-      "label": "Lungenfibrose",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lungenfibrose"
     },
     {
       "diagnosisId": "D.granulomatosisWithPolyangiitis",
-      "label": "Granulomatose mit Polyangiitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Granulomatose mit Polyangiitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (52) bei Dyspnoe seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Husten.<br /><br />Thoraxschmerzen, paroxysmale nächtliche Dyspnoe, Fieber, Gliederschmerzen und Hämoptoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 19py (20 Zigaretten täglich während 19 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

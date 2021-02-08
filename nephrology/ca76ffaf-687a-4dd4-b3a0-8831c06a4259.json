@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.obstructiveUropathy",
-      "label": "Obstruktive Uropathie (Harnstau)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Obstruktive Uropathie (Harnstau)"
     },
     {
       "diagnosisId": "D.acuteTubulointerstitialNephritis",
-      "label": "Akute tubulointerstitielle Nephritis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute tubulointerstitielle Nephritis"
     },
     {
       "diagnosisId": "D.acutePyelonephritis",
-      "label": "Akute Pyelonephritis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Pyelonephritis"
     },
     {
       "diagnosisId": "D.rupturedAbdominalAorticAneurysm",
-      "label": "Rupturiertes abdominales Aortenaneurysma",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rupturiertes abdominales Aortenaneurysma"
     },
     {
       "diagnosisId": "D.urolithiasis",
-      "label": "Urolithiasis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Urolithiasis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (52) bei Flankenschmerzen seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Nausea und Nykturie.<br /><br />Eine geringe körperliche Aktivität wird bejaht.<br /><br />Fieber, Dysurie, Hämaturie, Bauchschmerzen, Schwindel, Polyurie, Oligurie und Gelenkschmerzen werden verneint. <h2>Diagnoseliste</h2>- M. Crohn<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein und Sekt).",

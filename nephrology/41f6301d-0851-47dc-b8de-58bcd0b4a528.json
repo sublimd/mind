@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.epididymitis",
-      "label": "Epididymitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Epididymitis"
     },
     {
       "diagnosisId": "D.urinaryTractInfection",
-      "label": "Harnwegsinfekt",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Harnwegsinfekt"
     },
     {
       "diagnosisId": "D.acuteProstatitis",
-      "label": "Akute Prostatitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Prostatitis"
     },
     {
       "diagnosisId": "D.hemorrhagicCystitis",
-      "label": "Hämorrhagische Zystitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hämorrhagische Zystitis"
     },
     {
       "diagnosisId": "D.malignantNeoplasmOfProstate",
-      "label": "Prostatakarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Prostatakarzinom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (32) bei Dysurie seit zwei Wochen.<br /><br />Zusätzlich berichtet der Patient über Hämaturie und Hämatospermie.<br /><br />Bauchschmerzen, Nykturie, Fieber, Flankenschmerzen, urethraler Ausfluss, eine erektile Dysfunktion, Hodenschmerzen, Leistenschmerzen und eine Schwellung oder Vergrösserung des Hodens werden verneint. <h2>Diagnoseliste</h2>- Zustand nach Chlamydien-Urethritis<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",

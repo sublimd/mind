@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.obstructiveSleepApneaSyndrome",
-      "label": "Obstruktives Schlafapnoesyndrom (OSAS)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Obstruktives Schlafapnoesyndrom (OSAS)"
     },
     {
       "diagnosisId": "D.essentialHypertension",
-      "label": "Essentielle Hypertonie",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Essentielle Hypertonie"
     },
     {
       "diagnosisId": "D.primaryHyperaldosteronism",
-      "label": "Primärer Hyperaldosteronismus (Conn-Syndrom)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Primärer Hyperaldosteronismus (Conn-Syndrom)"
     },
     {
       "diagnosisId": "D.polycysticKidneyDisease",
-      "label": "Polyzystische Nierenerkrankung (PKD)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Polyzystische Nierenerkrankung (PKD)"
     },
     {
       "diagnosisId": "D.renalArteryStenosis",
-      "label": "Nierenarterienstenose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nierenarterienstenose"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (35) bei erhöhten Blutdruckwerten seit sechs Wochen.<br /><br />Kopfschmerzen, Thoraxschmerzen, Schwindel, Bauchschmerzen, Lähmungserscheinungen und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 8py (10 Zigaretten täglich während 16 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",

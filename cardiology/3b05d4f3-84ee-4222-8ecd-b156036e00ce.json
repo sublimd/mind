@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.myocarditis",
-      "label": "Myokarditis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myokarditis"
     },
     {
       "diagnosisId": "D.corPulmonale",
-      "label": "Cor pulmonale",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cor pulmonale"
     },
     {
       "diagnosisId": "D.pulmonaryEdema",
-      "label": "Lungenödem",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenödem"
     },
     {
       "diagnosisId": "D.cardiacTamponade",
-      "label": "Perikardtamponade",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Perikardtamponade"
     },
     {
       "diagnosisId": "D.leftSidedHeartFailure",
-      "label": "Linksherzinsuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Linksherzinsuffizienz"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (59) bei Dyspnoe seit einem Tag.<br /><br />Verschlimmerung der Dyspnoe bei körperlicher Anstrengung.<br /><br />Zusätzlich berichtet der Patient über Schwindel, drückenden Thoraxschmerzen, Husten, eine vermehrte Müdigkeit und eine beidseitige Unterschenkelschwellung.<br /><br />Verstärkung des Schwindels bei körperlicher Anstrengung.<br /><br />Tachykardien, Fieber, Synkopen, ein Bewusstseinsverlust, eine Gewichtszunahme, Nykturie, Orthopnoe und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Diagnoseliste</h2>- Myokardinfarkt<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",

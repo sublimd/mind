@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
       "explanation": "",
+      "isCorrect": true,
       "label": "Anämie im Rahmen chronischer Erkrankung",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.bicuspidAorticValve",
+      "explanation": "<ul><li><i>Anämie im Rahmen chronischer Erkrankung</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Bikuspide Aortenklappe",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Bikuspide_Aortenklappe"
         }
-      },
-      "diagnosisId": "D.bicuspidAorticValve",
-      "explanation": "<ul><li><i>Anämie im Rahmen chronischer Erkrankung</i> tritt statistisch häufiger auf</li></ul>",
-      "label": "Bikuspide Aortenklappe",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Bauchschmerzen, Appetitverlust, Gewichtsverlust, Nausea, Erbrechen, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
+      "isCorrect": false,
       "label": "Medikamenteninduzierte Hepatotoxizität",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.gilbertsSyndrome",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Meulengracht</i> erhöhen würden: Ikterus</li></ul>",
+      "isCorrect": false,
+      "label": "M. Meulengracht",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Meulengracht"
         }
-      },
-      "diagnosisId": "D.gilbertsSyndrome",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Meulengracht</i> erhöhen würden: Ikterus</li></ul>",
-      "label": "M. Meulengracht",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.herpesLabialis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes labialis</i> erhöhen würden: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Herpes labialis</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Herpes labialis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Herpes_labialis"
         }
-      },
-      "diagnosisId": "D.herpesLabialis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes labialis</i> erhöhen würden: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Herpes labialis</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Herpes labialis",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (75) bei einer vermehrten Müdigkeit seit sechs Monaten.<br /><br /> Eine Therapie mit Analgetika wird verneint. <br /><br />Dyspnoe, Fieber, Schlafstörungen, Kopfschmerzen, ein Gewichtsverlust, Bauchschmerzen, Palpitationen, Schwindel, ein Appetitverlust, eine depressive Stimmung, Pruritus, ein kürzlicher Bewusstseinsverlust und Nachtschweiss werden verneint. <h2>Diagnoseliste</h2>- Rheumatoide Arthritis<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 44py (20 Zigaretten täglich während 44 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein).",

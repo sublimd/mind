@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hypercortisolism",
-      "label": "Cushing Syndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cushing Syndrom"
     },
     {
       "diagnosisId": "D.chronicTubulointerstitialNephritis",
-      "label": "Chronische tubulointerstitielle Nephritis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chronische tubulointerstitielle Nephritis"
     },
     {
       "diagnosisId": "D.acuteTubulointerstitialNephritis",
-      "label": "Akute tubulointerstitielle Nephritis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute tubulointerstitielle Nephritis"
     },
     {
       "diagnosisId": "D.diabeticNephropathy",
-      "label": "Diabetische Nephropathie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Diabetische Nephropathie"
     },
     {
       "diagnosisId": "D.hypokalemia",
-      "label": "Hypokaliämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypokaliämie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (74) bei einem allgemeinen Schwächegefühl seit sechs Wochen.<br /><br />Zusätzlich berichtet der Patient über Nausea, Oligurie, Hämaturie, eine beidseitige Unterschenkelschwellung und erhöhte Blutdruckwerte.<br /><br />Dyspnoe, Fieber, ein Gewichtsverlust, Schlafstörungen, Muskelkrämpfe, Pruritus und eine Gewichtszunahme werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.splenicAbscess",
-      "label": "Milzabszess",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Milzabszess"
     },
     {
       "diagnosisId": "D.gallbladderEmpyema",
-      "label": "Gallenblasenempyem",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Gallenblasenempyem"
     },
     {
       "diagnosisId": "D.echinococcosisOfLiver",
-      "label": "Echinokokkose der Leber",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Echinokokkose der Leber"
     },
     {
       "diagnosisId": "D.paracetamolIntoxication",
-      "label": "Akute Paracetamol-Intoxikation",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Paracetamol-Intoxikation"
     },
     {
       "diagnosisId": "D.acuteProstatitis",
-      "label": "Akute Prostatitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Prostatitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei Bauchschmerzen im rechten Oberbauch seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Fieber, Schüttelfrost, Nausea und Pruritus.<br /><br />Erbrechen, Diarrhoe, ein Appetitverlust, Obstipation, ein Ikterus, Tachykardien, Hämatochezie, Meläna, eine Urininkontinenz und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",

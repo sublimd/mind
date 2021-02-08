@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.tibialFracture",
-      "label": "Tibiafraktur",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tibiafraktur"
     },
     {
       "diagnosisId": "D.thrombophlebitis",
-      "label": "Thrombophlebitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Thrombophlebitis"
     },
     {
       "diagnosisId": "D.compartmentSyndrome",
-      "label": "Kompartmentsyndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kompartmentsyndrom"
     },
     {
       "diagnosisId": "D.chronicVenousInsufficiency",
-      "label": "Chronisch venöse Insuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz"
     },
     {
       "diagnosisId": "D.deepVeinThrombosis",
-      "label": "Tiefe Venenthrombose",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Tiefe Venenthrombose"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (51) bei einer rechtsseitigen Unterschenkelschwellung seit fünf Tagen.<br /><br />Zusätzlich berichtet der Patient über Schmerzen und eine Hautüberwärmung.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Varizen, Fussschmerzen, Hautveränderungen, Dyspnoe und Sensibilitätsstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",

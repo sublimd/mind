@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.foodAllergy",
-      "label": "Nahrungsmittelallergie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie"
     },
     {
       "diagnosisId": "D.bacterialOvergrowthSyndrome",
-      "label": "Dünndarmfehlbesiedlung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Dünndarmfehlbesiedlung"
     },
     {
       "diagnosisId": "D.benignAdnexalTumor",
-      "label": "Benigner Adnextumor",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Benigner Adnextumor"
     },
     {
       "diagnosisId": "D.malignantNeoplasmOfStomach",
-      "label": "Magenkarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Magenkarzinom"
     },
     {
       "diagnosisId": "D.diverticularBleeding",
-      "label": "Divertikelblutung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Divertikelblutung"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (63) bei Bauchschmerzen im linken Unterbauch seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über Blähungen und Obstipation.<br /><br />Nausea, Erbrechen, Fieber, Diarrhoe, ein Gewichtsverlust, vaginaler Ausfluss, Hämatochezie, Synkopen und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",

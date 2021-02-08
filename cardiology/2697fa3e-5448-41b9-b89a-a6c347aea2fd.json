@@ -1,55 +1,55 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
       "explanation": "",
+      "isCorrect": false,
       "label": "AV-Block II°, Mobitz II",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.mitralValveProlapse",
+      "explanation": "<ul><li><i>Aortenklappenstenose</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Mitralklappenprolaps Syndrom (Barlow-Syndrom)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Mitralklappenprolapssyndrom"
         }
-      },
-      "diagnosisId": "D.mitralValveProlapse",
-      "explanation": "<ul><li><i>Aortenklappenstenose</i> tritt statistisch häufiger auf</li></ul>",
-      "label": "Mitralklappenprolaps Syndrom (Barlow-Syndrom)",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.ventricularTachycardia",
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ventrikuläre Tachykardie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Ventrikul%C3%A4re_Tachykardie"
         }
-      },
-      "diagnosisId": "D.ventricularTachycardia",
-      "explanation": "",
-      "label": "Ventrikuläre Tachykardie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.anginaPectorisStable",
+      "explanation": "<ul><li>Probleme, welche durch <i>Aortenklappenstenose</i> besser erklärt sind: Synkope</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Tabakrauchkonsum, Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Stabile Angina pectoris",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Stabile_Angina_Pectoris"
         }
-      },
-      "diagnosisId": "D.anginaPectorisStable",
-      "explanation": "<ul><li>Probleme, welche durch <i>Aortenklappenstenose</i> besser erklärt sind: Synkope</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Tabakrauchkonsum, Diabetes mellitus, Arterielle Hypertonie</li></ul>",
-      "label": "Stabile Angina pectoris",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.aorticStenosis",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Aortenklappenstenose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Aortenklappenstenose"
         }
-      },
-      "diagnosisId": "D.aorticStenosis",
-      "explanation": "",
-      "label": "Aortenklappenstenose",
-      "isCorrect": true
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (75) bei Schwindel seit einem Monat.<br /><br />Verstärkung des Schwindels bei körperlicher Anstrengung.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe, eine Synkope, Thoraxschmerzen (bis VAS 8/10) und Palpitationen.<br /><br />Verschlimmerung der Thoraxschmerzen sowie der Dyspnoe bei körperlicher Anstrengung.<br /><br />Kurz bevor es zur Synkope gekommen ist, habe sich die Patientin körperlich angestrengt. Die Patientin berichtet über ein Schwächegefühl vor der Synkope. Kein postiktaler Dämmerzustand.<br /><br />Die Palpitationen würden etwa monatlich auftreten.<br /><br />Nausea, Erbrechen, Kopfschmerzen, Tachykardien, eine Hörminderung, Sehstörungen und Orthopnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",

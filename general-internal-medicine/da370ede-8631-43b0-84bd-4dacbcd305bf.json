@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.transverseMyelitis",
-      "label": "Transverse Myelitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Transverse Myelitis"
     },
     {
       "diagnosisId": "D.proximalHumeralFracture",
-      "label": "Proximale Humerusfraktur",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Proximale Humerusfraktur"
     },
     {
       "diagnosisId": "D.ischemicStroke",
-      "label": "Ischämischer Schlaganfall",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ischämischer Schlaganfall"
     },
     {
       "diagnosisId": "D.polyneuropathy",
-      "label": "Polyneuropathie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Polyneuropathie"
     },
     {
       "diagnosisId": "D.thoracicOutletSyndrome",
-      "label": "Thoracic Outlet Syndrome (TOS)",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Thoracic Outlet Syndrome (TOS)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei linksseitigen Armschmerzen seit drei Monaten.<br /><br />Zusätzlich berichtet der Patient über eine Muskelschwäche, eine Armschwellung und Sensibilitätsstörungen an der linken oberen Extremität.<br /><br />Hautveränderungen, Nackenschmerzen und Dysarthrie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",

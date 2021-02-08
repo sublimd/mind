@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.urethralStricture",
-      "label": "Urethrastriktur",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Urethrastriktur"
     },
     {
       "diagnosisId": "D.benignProstaticHyperplasia",
-      "label": "Prostatahyperplasie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Prostatahyperplasie"
     },
     {
       "diagnosisId": "D.urolithiasis",
-      "label": "Urolithiasis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Urolithiasis"
     },
     {
       "diagnosisId": "D.chlamydialUrethritis",
-      "label": "Chlamydien Urethritis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chlamydien Urethritis"
     },
     {
       "diagnosisId": "D.urinaryTractInfection",
-      "label": "Harnwegsinfekt",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Harnwegsinfekt"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (39) bei Dysurie seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über urethralen Ausfluss.<br /><br />Harnwegsinfekte in der Vergangenheit werden verneint.<br /><br />Bauchschmerzen, Fieber, eine Urininkontinenz, Hämaturie und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Wein).",

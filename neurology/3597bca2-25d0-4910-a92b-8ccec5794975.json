@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.ironDeficiencyAnemia",
-      "label": "Eisenmangelanämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie"
     },
     {
       "diagnosisId": "D.lymeBorreliosisStage1",
-      "label": "Lyme Borreliose Stadium 1",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 1"
     },
     {
       "diagnosisId": "D.tickborneEncephalitis",
-      "label": "Frühsommer-Meningoencephalitis (FSME)",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Frühsommer-Meningoencephalitis (FSME)"
     },
     {
       "diagnosisId": "D.syndromeOfInappropriateAntidiureticHormoneSecretion",
-      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)"
     },
     {
       "diagnosisId": "D.anemiaMacrocytic",
-      "label": "Makrozytäre Anämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (28) bei Kopfschmerzen seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Fieber, Gliederschmerzen, eine Verwirrtheit und Schwindel.<br /><br />Der Aufenthalt in Wäldern wird bejaht.<br /><br /> Ein vegetarischer Ernährungsstil wird verneint. <br /><br />Nausea, Erbrechen, Sehstörungen, ein Bewusstseinsverlust, eine Photophobie, Nackenschmerzen, eine Phonophobie, Dyspnoe, Lähmungserscheinungen, Sensibilitätsstörungen, Hautveränderungen, Nackensteifigkeit, Tachykardien, Thoraxschmerzen, Dysarthrie, eine Hörminderung und Diarrhoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 18py (30 Zigaretten täglich während 12 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",

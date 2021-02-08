@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.migraineHeadache",
-      "label": "Migräne",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Migräne"
     },
     {
       "diagnosisId": "D.transientIschemicAttack",
-      "label": "Transitorische ischämische Attacke (TIA)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Transitorische ischämische Attacke (TIA)"
     },
     {
       "diagnosisId": "D.wernickesEncephalopathy",
-      "label": "Wernicke-Enzephalopathie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Wernicke-Enzephalopathie"
     },
     {
       "diagnosisId": "D.cerebralMetastasis",
-      "label": "Hirnmetastasen",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hirnmetastasen"
     },
     {
       "diagnosisId": "D.amyotrophicLateralSclerosis",
-      "label": "Amyotrophe Lateralsklerose (ALS)",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Amyotrophe Lateralsklerose (ALS)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei einer Muskelschwäche an der unteren Extremität seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über Dysphagie, Dyspnoe, Sehstörungen und eine vermehrte Müdigkeit.<br /><br />Sensibilitätsstörungen, Rückenschmerzen, Nausea, Kopfschmerzen, Dysarthrie, eine Photophobie und Fieber werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",

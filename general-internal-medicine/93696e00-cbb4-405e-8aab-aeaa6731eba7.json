@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.cyclicalVomitingSyndrome",
-      "label": "Syndrom des zyklischen Erbrechens",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Syndrom des zyklischen Erbrechens"
     },
     {
       "diagnosisId": "D.malignantNeoplasmOfOesophagus",
-      "label": "Oesophaguskarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Oesophaguskarzinom"
     },
     {
       "diagnosisId": "D.esophagealPerforation",
-      "label": "Oesophagusperforation",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Oesophagusperforation"
     },
     {
       "diagnosisId": "D.alcoholIntoxication",
-      "label": "Alkohol-Intoxikation",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Alkohol-Intoxikation"
     },
     {
       "diagnosisId": "D.eosinophilicEsophagitis",
-      "label": "Eosinophile Ösophagitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Eosinophile Ösophagitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (35) bei retrosternalem Brennen seit drei Wochen.<br /><br />Zusätzlich berichtet der Patient über Bauchschmerzen epigastrisch, Dysphagie und Nausea.<br /><br />Ein Gewichtsverlust, Erbrechen, Dyspnoe, Odynophagie, Hämatemesis und saures Aufstossen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",

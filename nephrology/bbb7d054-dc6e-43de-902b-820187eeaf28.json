@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.hypokalemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Urämisches Syndrom</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.hypokalemia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Urämisches Syndrom</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
-      "label": "Hypokaliämie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hyperparathyroidism",
+      "explanation": "<ul><li>Probleme, welche durch <i>Urämisches Syndrom</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperparathyroidismus</i> erhöhen würden: Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperparathyroidismus",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperparathyreoidismus"
         }
-      },
-      "diagnosisId": "D.hyperparathyroidism",
-      "explanation": "<ul><li>Probleme, welche durch <i>Urämisches Syndrom</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperparathyroidismus</i> erhöhen würden: Obstipation</li></ul>",
-      "label": "Hyperparathyroidismus",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.pregnancy",
+      "explanation": "<ul><li>Probleme, welche durch <i>Urämisches Syndrom</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schwangerschaft</i> erhöhen würden: Ausbleiben der Periode</li></ul>",
+      "isCorrect": false,
+      "label": "Schwangerschaft",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Schwangerschaft"
         }
-      },
-      "diagnosisId": "D.pregnancy",
-      "explanation": "<ul><li>Probleme, welche durch <i>Urämisches Syndrom</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schwangerschaft</i> erhöhen würden: Ausbleiben der Periode</li></ul>",
-      "label": "Schwangerschaft",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hypercalcemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Urämisches Syndrom</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.hypercalcemia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Urämisches Syndrom</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Obstipation</li></ul>",
-      "label": "Hyperkalzämie",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.uremia",
       "explanation": "",
+      "isCorrect": true,
       "label": "Urämisches Syndrom",
-      "isCorrect": true
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (53) bei Pruritus seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Nausea, Polyurie und eine vermehrte Müdigkeit.<br /><br /> Eine Einschlafneigung tagsüber wird verneint. <br /><br />Hautveränderungen, Bauchschmerzen, eine Schwellung der Unterschenkel, ein Ausbleiben der Periode, Dyspnoe, Angstzustände, Palpitationen und Obstipation werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

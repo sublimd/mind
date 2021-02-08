@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.rheumaticFever",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rheumatisches Fieber",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Rheumatisches_Fieber"
         }
-      },
-      "diagnosisId": "D.rheumaticFever",
-      "explanation": "",
-      "label": "Rheumatisches Fieber",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.myocarditis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Palpitationen, Tachykardien, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Myokarditis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
         }
-      },
-      "diagnosisId": "D.myocarditis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Palpitationen, Tachykardien, Thoraxschmerzen</li></ul>",
-      "label": "Myokarditis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.infectiousMononucleosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Rheumatisches Fieber</i> besser erklärt sind: Schwindel, Gelenkschmerzen, Schwellung der Unterschenkel</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
         }
-      },
-      "diagnosisId": "D.infectiousMononucleosis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Rheumatisches Fieber</i> besser erklärt sind: Schwindel, Gelenkschmerzen, Schwellung der Unterschenkel</li></ul>",
-      "label": "Infektiöse Mononukleose",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.sickleCellCrisis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rheumatisches Fieber</i> besser erklärt sind: Schwellung der Unterschenkel, Halsschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sichelzellkrise</i> erhöhen würden: Gliederschmerzen, Dyspnoe, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
       "label": "Sichelzellkrise",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Probleme, welche durch <i>Rheumatisches Fieber</i> besser erklärt sind: Schwindel, Schwellung der Unterschenkel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Husten, Dyspnoe</li></ul>",
+      "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (19) bei Schwindel seit drei Wochen.<br /><br />Der Schwindel trete vor allem bei körperlicher Anstrengung auf.<br /><br />Zusätzlich berichtet der Patient über Fieber seit zwei Wochen sowie eine vermehrte Müdigkeit, Gelenkschmerzen, eine beidseitige Unterschenkelschwellung und Halsschmerzen.<br /><br />Dyspnoe, Kopfschmerzen, Tachykardien, Bauchschmerzen, Husten, Hautveränderungen, Schüttelfrost, Dysphagie, Flankenschmerzen, Gliederschmerzen, vergrösserte Lymphknoten, Odynophagie und Dysurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein).",

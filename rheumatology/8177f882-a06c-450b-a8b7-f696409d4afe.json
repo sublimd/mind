@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.carotidArteryAneurysm",
-      "label": "Aneurysma der Arteria carotis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Aneurysma der Arteria carotis"
     },
     {
       "diagnosisId": "D.whiplashInjury",
-      "label": "Distorsionstrauma der Halswirbelsäule",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Distorsionstrauma der Halswirbelsäule"
     },
     {
       "diagnosisId": "D.cervicalSpondylosis",
-      "label": "Zervikale Spondylose",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Zervikale Spondylose"
     },
     {
       "diagnosisId": "D.cervicalSpineSprain",
-      "label": "Nackenschmerzen (Myalgie)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nackenschmerzen (Myalgie)"
     },
     {
       "diagnosisId": "D.spinalCordInfarction",
-      "label": "Akute spinale Ischämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute spinale Ischämie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (80) bei Nackenschmerzen im Bereich der Halswirbelsäule seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über eine Muskelschwäche und Sensibilitätsstörungen an der oberen Extremität.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Fieber, Thoraxschmerzen, vergrösserte Lymphknoten, eine Halsschwellung, Dysarthrie und Raumforderung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 58py (20 Zigaretten täglich während 58 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",

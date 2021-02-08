@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.foodAllergy",
-      "label": "Nahrungsmittelallergie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie"
     },
     {
       "diagnosisId": "D.celiacDisease",
-      "label": "Zöliakie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zöliakie"
     },
     {
       "diagnosisId": "D.coprostasis",
-      "label": "Koprostase",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Koprostase"
     },
     {
       "diagnosisId": "D.lymphocyticColitis",
-      "label": "Lymphozytäre Kolitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lymphozytäre Kolitis"
     },
     {
       "diagnosisId": "D.lactoseIntolerance",
-      "label": "Laktoseintoleranz",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Laktoseintoleranz"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (38) bei Diarrhoe seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Blähungen.<br /><br />Erbrechen, ein Gewichtsverlust, Fieber, Hämatochezie, Bauchschmerzen, Hautveränderungen, Nausea, Dyspnoe und Appetitverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 3 x / Woche, jeweils 1 - 2 Standardgetränke / Tag.",

@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.vibrioEnteritis",
       "explanation": "",
+      "isCorrect": true,
       "label": "Vibrio-Gastroenteritis",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.mesenterialIschemia",
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Mesenterialinfarkt</i> erhöhen würden: Nikotinabusus, Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Mesenterialinfarkt",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Mesenterialinfarkt"
         }
-      },
-      "diagnosisId": "D.mesenterialIschemia",
-      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Mesenterialinfarkt</i> erhöhen würden: Nikotinabusus, Diabetes mellitus, Arterielle Hypertonie</li></ul>",
-      "label": "Mesenterialinfarkt",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Appetitverlust, Gewichtsverlust, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
+      "isCorrect": false,
       "label": "Medikamenteninduzierte Hepatotoxizität",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.ulcerativeColitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Vibrio-Gastroenteritis</i> besser erklärt sind: Erbrechen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Colitis ulcerosa",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Colitis_ulcerosa"
         }
-      },
-      "diagnosisId": "D.ulcerativeColitis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Vibrio-Gastroenteritis</i> besser erklärt sind: Erbrechen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Gewichtsverlust</li></ul>",
-      "label": "Colitis ulcerosa",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.crohnsDisease",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Crohn</i> erhöhen würden: Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "M. Crohn",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Crohn"
         }
-      },
-      "diagnosisId": "D.crohnsDisease",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Crohn</i> erhöhen würden: Gewichtsverlust</li></ul>",
-      "label": "M. Crohn",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (51) bei Diarrhoe seit acht Tagen.<br /><br />Der Stuhl sei wässrig.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen, Erbrechen und Fieber.<br /><br />Der Konsum von ungewöhlichen Nahrungsmitteln wird bejaht (Austern).<br /><br /> Eine Therapie mit Analgetika wird verneint. <br /><br />Ein Gewichtsverlust, Hämatochezie, Obstipation, Pruritus, Gliederschmerzen, eine Stuhlinkontinenz und ein Ikterus werden verneint. <h2>Diagnoseliste</h2>- Gonarthrose beidseits<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",

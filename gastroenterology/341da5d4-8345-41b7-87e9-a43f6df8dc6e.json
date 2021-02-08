@@ -3,32 +3,32 @@
     {
       "diagnosisId": "D.gastritis",
       "explanation": "",
-      "label": "Gastritis",
-      "isCorrect": true
+      "isCorrect": true,
+      "label": "Gastritis"
     },
     {
       "diagnosisId": "D.functionalDyspepsia",
       "explanation": "<ul><li>Symptome, welche durch <i>Gastritis</i> besser erklärt sind: Gewichtsverlust</li></ul>",
-      "label": "Funktionelle Dyspepsie",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Funktionelle Dyspepsie"
     },
     {
       "diagnosisId": "D.malignantNeoplasmOfPancreas",
       "explanation": "<ul><li><i>Gastritis</i> ist häufiger</li><li>Symptome, welche durch <i>Gastritis</i> besser erklärt sind: Blähungen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: allgemeines Schwächegefühl, Leistungsabfall, Ikterus, Rückenschmerzen, Diarrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: Nikotinabusus</li></ul>",
-      "label": "Pankreaskarzinom",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Pankreaskarzinom"
     },
     {
       "diagnosisId": "D.alcoholicLiverDisease",
       "explanation": "<ul><li><i>Gastritis</i> ist häufiger</li><li>Symptome, welche durch <i>Gastritis</i> besser erklärt sind: Blähungen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Ikterus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
-      "label": "Alkoholische Steatohepatitis",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Alkoholische Steatohepatitis"
     },
     {
       "diagnosisId": "D.gastricUlcer",
       "explanation": "<ul><li><i>Gastritis</i> ist häufiger</li><li>Symptome, welche durch <i>Gastritis</i> besser erklärt sind: Blähungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ulcus ventriculi</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
-      "label": "Ulcus ventriculi",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Ulcus ventriculi"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (64) bei brennenden Bauchschmerzen epigastrisch seit zehn Tagen.<br /><br />Zusätzlich berichtet die Patientin über Nausea, Erbrechen, einen Appetitverlust, einen Gewichtsverlust und Blähungen.<br /><br />Fieber, Diarrhoe, Obstipation, ein Ikterus, vaginaler Ausfluss, Rückenschmerzen, saures Aufstossen, Hämatochezie, Hämatemesis und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 x im Monat, jeweils 1 - 2 Standardgetränke / Tag.",

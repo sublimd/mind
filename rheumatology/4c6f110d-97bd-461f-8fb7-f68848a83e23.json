@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hipDysplasia",
-      "label": "Hüftdysplasie",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hüftdysplasie"
     },
     {
       "diagnosisId": "D.psoasHematoma",
-      "label": "Psoashämatom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Psoashämatom"
     },
     {
       "diagnosisId": "D.inguinalHernia",
-      "label": "Inguinalhernie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Inguinalhernie"
     },
     {
       "diagnosisId": "D.hipContusion",
-      "label": "Hüftkontusion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hüftkontusion"
     },
     {
       "diagnosisId": "D.hipOsteoarthritis",
-      "label": "Coxarthrose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Coxarthrose"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (19) bei linksseitigen Leistenschmerzen seit einem halben Jahr.<br /><br />Zusätzlich berichtet der Patient über lumbale Rückenschmerzen.<br /><br />Eine Therapie mit blutverdünnenden Medikamenten wird verneint. Ein kürzliches Trauma wird verneint. <br /><br />Eine Hüftsteifigkeit, Fieber, Bauchschmerzen, Hodenschmerzen, Dysurie, Flankenschmerzen und eine Beinschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",

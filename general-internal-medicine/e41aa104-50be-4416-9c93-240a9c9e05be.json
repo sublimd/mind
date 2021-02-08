@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.tularemia",
-      "label": "Tularämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tularämie"
     },
     {
       "diagnosisId": "D.pediculosisCapitis",
-      "label": "Pediculosis capitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pediculosis capitis"
     },
     {
       "diagnosisId": "D.foodIntoxication",
-      "label": "Nahrungsmittelvergiftung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelvergiftung"
     },
     {
       "diagnosisId": "D.roseolaInfantum",
-      "label": "Roseola infantum (Exanthema subitum)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Roseola infantum (Exanthema subitum)"
     },
     {
       "diagnosisId": "D.kikuchisDisease",
-      "label": "Kikuchi-Fujimoto-Syndrom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Kikuchi-Fujimoto-Syndrom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (33) bei einem vergrösserten Lymphknoten nuchal seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Fieber, Gelenkschmerzen, Nausea und Diarrhoe.<br /><br />Eine allgemeine Müdigkeit, ein Gewichtsverlust, Nachtschweiss, Pruritus, Gliederschmerzen, eine Augenrötung, Husten, Rhinorrhoe, Bauchschmerzen und Thoraxschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt und Spirituosen).",

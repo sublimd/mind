@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.premenstrualSyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Brustabszess</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: Bauchschmerzen, depressive Verstimmung, Angstzustände, Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Prämenstruelles Syndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Pr%C3%A4menstruelles_Syndrom"
         }
-      },
-      "diagnosisId": "D.premenstrualSyndrome",
-      "explanation": "<ul><li>Probleme, welche durch <i>Brustabszess</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: Bauchschmerzen, depressive Verstimmung, Angstzustände, Blähungen</li></ul>",
-      "label": "Prämenstruelles Syndrom",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.infectiousMononucleosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Brustabszess</i> besser erklärt sind: Knoten in der Brust, Brustschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
         }
-      },
-      "diagnosisId": "D.infectiousMononucleosis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Brustabszess</i> besser erklärt sind: Knoten in der Brust, Brustschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
-      "label": "Infektiöse Mononukleose",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.breastCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Brustabszess</i> besser erklärt sind: Fieber</li></ul>",
+      "isCorrect": false,
       "label": "Brustzyste",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.breastCancer",
+      "explanation": "<ul><li>Probleme, welche durch <i>Brustabszess</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mammakarzinom</i> erhöhen würden: vergrösserter Lymphknoten, Hautveränderung der Brust</li></ul>",
+      "isCorrect": false,
+      "label": "Mammakarzinom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Mammakarzinom"
         }
-      },
-      "diagnosisId": "D.breastCancer",
-      "explanation": "<ul><li>Probleme, welche durch <i>Brustabszess</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mammakarzinom</i> erhöhen würden: vergrösserter Lymphknoten, Hautveränderung der Brust</li></ul>",
-      "label": "Mammakarzinom",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.breastAbscess",
       "explanation": "",
+      "isCorrect": true,
       "label": "Brustabszess",
-      "isCorrect": true
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (24) bei linksseitigen Brustschmerzen.<br /><br />Zusätzlich berichtet die Patientin über einen Knoten in der Brust seit neun Tagen und Fieber.<br /><br />Hautveränderungen an der Brust, Angstzustände, ein allgemeines Schwächegefühl, vergrösserte Lymphknoten, Ausfluss aus der Brust, Halsschmerzen und Odynophagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 3py (30 Zigaretten täglich während 2 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",

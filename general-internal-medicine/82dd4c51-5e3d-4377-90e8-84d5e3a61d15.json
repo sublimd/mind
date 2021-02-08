@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Akute Nierenschädigung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Nierenschädigung"
     },
     {
-      "label": "Hyperparathyroidismus",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperparathyroidismus"
     },
     {
-      "label": "Paralytischer Ileus",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Paralytischer Ileus"
     },
     {
-      "label": "Diabetische Ketoazidose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Diabetische Ketoazidose"
     },
     {
-      "label": "Akute Divertikulitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (22) bei Polyurie seit drei Monaten.<br /><br />Zusätzlich berichtet der Patient über Nausea, Obstipation und Bauchschmerzen.<br /><br />Eine allgemeine Müdigkeit, Lähmungserscheinungen, Palpitationen, Nykturie, eine kürzlicher Bewusstseinsverlust, Oligurie, Muskelkrämpfe und Gliederschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.colorectalCancer",
-      "label": "Kolonkarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kolonkarzinom"
     },
     {
       "diagnosisId": "D.gastricUlcer",
-      "label": "Ulcus ventriculi",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ulcus ventriculi"
     },
     {
       "diagnosisId": "D.acuteHepaticFailure",
-      "label": "Akutes Leberversagen",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akutes Leberversagen"
     },
     {
       "diagnosisId": "D.drugInducedLiverInjury",
-      "label": "Medikamenteninduzierte Hepatotoxizität",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hepatotoxizität"
     },
     {
       "diagnosisId": "D.crohnsDisease",
-      "label": "M. Crohn",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "M. Crohn"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (74) bei Bauchschmerzen im Oberbauch seit sieben Tagen.<br /><br />Zusätzlich berichtet die Patientin über Nausea, einen Appetitverlust, Hämatemesis, einen Gewichtsverlust und Meläna.<br /><br />Fieber, Diarrhoe, Obstipation, Pruritus und ein Ikterus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

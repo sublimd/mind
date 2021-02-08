@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.postictalState",
-      "label": "Postiktaler Zustand",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Postiktaler Zustand"
     },
     {
       "diagnosisId": "D.insulinoma",
-      "label": "Insulinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Insulinom"
     },
     {
       "diagnosisId": "D.toxicConjunctivitis",
-      "label": "Toxische Konjunktivitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Toxische Konjunktivitis"
     },
     {
       "diagnosisId": "D.breastCancer",
-      "label": "Mammakarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mammakarzinom"
     },
     {
       "diagnosisId": "D.fibroadenoma",
-      "label": "Fibroadenom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Fibroadenom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (26) bei einem Knoten in der Brust seit vier Tagen.<br /><br />Brustschmerzen, Hautveränderungen an der Brust, Ausfluss aus der Brust und vergrösserte Lymphknoten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein und Spirituosen).",

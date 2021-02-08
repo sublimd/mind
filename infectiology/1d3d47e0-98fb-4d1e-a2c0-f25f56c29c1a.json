@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.ulcusMolle",
+      "explanation": "<ul><li><i>Lues</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ulcus molle</i> erhöhen würden: Dysurie</li></ul>",
+      "isCorrect": false,
+      "label": "Ulcus molle",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Ulcus_molle"
         }
-      },
-      "diagnosisId": "D.ulcusMolle",
-      "explanation": "<ul><li><i>Lues</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ulcus molle</i> erhöhen würden: Dysurie</li></ul>",
-      "label": "Ulcus molle",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.goiter",
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde, Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Struma",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Struma"
         }
-      },
-      "diagnosisId": "D.goiter",
-      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde, Hautveränderungen</li></ul>",
-      "label": "Struma",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.lymphogranulomaInguinale",
+      "explanation": "<ul><li><i>Lues</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lymphogranuloma inguinale</i> erhöhen würden: Leistenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Lymphogranuloma inguinale",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Lymphogranuloma_inguinale"
         }
-      },
-      "diagnosisId": "D.lymphogranulomaInguinale",
-      "explanation": "<ul><li><i>Lues</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lymphogranuloma inguinale</i> erhöhen würden: Leistenschmerzen</li></ul>",
-      "label": "Lymphogranuloma inguinale",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.streptococcalTonsillitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde, Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Streptokokkentonsillitis</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Streptokokkentonsillitis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.lues",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lues",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Lues"
         }
-      },
-      "diagnosisId": "D.lues",
-      "explanation": "",
-      "label": "Lues",
-      "isCorrect": true
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (60) bei einem vergrösserten Lymphknoten inguinal rechts.<br /><br />Zusätzlich berichtet der Patient über eine offene Wunde im Genitalbereich mit rötlicher Hautveränderung seit zwei Wochen.<br /><br /> Der Kontakt zu mehreren Sexualpartnern in den letzten Monaten wird bejaht.<br /><br />Leistenschmerzen, Odynophagie, Halsschmerzen, eine Hautschwellung und Obstipation werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",

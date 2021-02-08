@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.pulmonaryEmbolism",
-      "label": "Akute Lungenembolie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Lungenembolie"
     },
     {
       "diagnosisId": "D.foodIntolerance",
-      "label": "Nahrungsmittelunverträglichkeit",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelunverträglichkeit"
     },
     {
       "diagnosisId": "D.pheochromocytoma",
-      "label": "Sinustachykardie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sinustachykardie"
     },
     {
       "diagnosisId": "D.sepsis",
-      "label": "Sepsis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sepsis"
     },
     {
       "diagnosisId": "D.amphetamineIntoxication",
-      "label": "Amphetaminintoxikation",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Amphetaminintoxikation"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (43) bei Tachykardien seit sechs Stunden.<br /><br />Zusätzlich berichtet die Patientin über Tremor, erhöhte Blutdruckwerte und Kopfschmerzen.<br /><br />Eine allgemeine Müdigkeit, Schwindel, Thoraxschmerzen, Fieber, ein Bewusstseinsverlust, Erbrechen, eine Hyperhidrose und Palpitationen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",

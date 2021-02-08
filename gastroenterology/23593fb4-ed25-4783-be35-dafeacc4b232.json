@@ -1,47 +1,47 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.chronicHepatitisB",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
+      "isCorrect": false,
       "label": "Chronische Hepatitis B-Infektion",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.alcoholicLiverDisease",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Alkoholische Steatohepatitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Alkoholische_Steatohepatitis"
         }
-      },
-      "diagnosisId": "D.alcoholicLiverDisease",
-      "explanation": "",
-      "label": "Alkoholische Steatohepatitis",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteHepatitisB",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Hepatitis B-Infektion</i> erhöhen würden: Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen, Konsum von intravenösen Drogen, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
+      "isCorrect": false,
       "label": "Akute Hepatitis B-Infektion",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteHepatitisC",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen, Konsum von intravenösen Drogen, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
+      "isCorrect": false,
       "label": "Akute Hepatitis C-Infektion",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.choledocholithiasis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Alkoholische Steatohepatitis</i> besser erklärt sind: Müdigkeit, Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Choledocholithiasis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Choledocholithiasis"
         }
-      },
-      "diagnosisId": "D.choledocholithiasis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Alkoholische Steatohepatitis</i> besser erklärt sind: Müdigkeit, Fieber</li></ul>",
-      "label": "Choledocholithiasis",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (42) bei drückenden Bauchschmerzen (bis VAS 3/10) im rechten Oberbauch.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit seit drei Monaten sowie Nausea, einen Ikterus und leichtes Fieber.<br /><br />Die Müdigkeit sei abends am stärksten ausgeprägt.<br /><br /> Ungeschützter Geschlechtsverkehr, Drogenkonsum und der Erhalt von Bluttransfusionen werden verneint.<br /><br />Ein Gewichtsverlust, Pruritus, eine depressive Verstimmung, Gelenkschmerzen, Schlafstörungen und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 7py (10 Zigaretten täglich während 14 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",

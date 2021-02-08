@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hypoglykemia",
-      "label": "Hypoglykämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypoglykämie"
     },
     {
       "diagnosisId": "D.hordeolum",
-      "label": "Hordeolum",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hordeolum"
     },
     {
       "diagnosisId": "D.keratoconus",
-      "label": "Keratokonus",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Keratokonus"
     },
     {
       "diagnosisId": "D.presbyopia",
-      "label": "Presbyopie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Presbyopie"
     },
     {
       "diagnosisId": "D.hypertensiveCrisis",
-      "label": "Hypertensiver Notfall",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (27) bei Sehstörungen seit vier Monaten.<br /><br />Augenschmerzen, eine Augenrötung, Kopfschmerzen, eine Photophobie, Fieber, Palpitationen, Schwindel und Erbrechen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",

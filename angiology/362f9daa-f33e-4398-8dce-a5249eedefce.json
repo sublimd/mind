@@ -3,32 +3,32 @@
     {
       "diagnosisId": "D.superiorVenaCavaSyndrome",
       "explanation": "",
-      "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)",
-      "isCorrect": true
+      "isCorrect": true,
+      "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)"
     },
     {
       "diagnosisId": "D.pleuralEffusion",
       "explanation": "<ul><li>Symptome, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Kopfschmerzen, Schwindel</li></ul>",
-      "label": "Pleuraerguss",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Pleuraerguss"
     },
     {
       "diagnosisId": "D.pulmonaryEmbolism",
       "explanation": "<ul><li>Symptome, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Kopfschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Lungenembolie</i> erhöhen würden: Orthopnoe, Hämoptoe</li></ul>",
-      "label": "Lungenembolie",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Lungenembolie"
     },
     {
       "diagnosisId": "D.acuteAsthma",
       "explanation": "<ul><li>Symptome, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Schwindel</li></ul>",
-      "label": "Akute Exazerbation eines Asthma bronchiale",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Akute Exazerbation eines Asthma bronchiale"
     },
     {
       "diagnosisId": "D.aorticInsufficiency",
       "explanation": "<ul><li>Symptome, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Kopfschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Aortenklappen-Insuffizienz</i> erhöhen würden: Palpitationen, Tachykardien, Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall, Orthopnoe, Schwellung der Unterschenkel</li></ul>",
-      "label": "Aortenklappen-Insuffizienz",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Aortenklappen-Insuffizienz"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (70) bei Dyspnoe seit vier Tagen.<br /><br />Zusätzlich berichtet der Patient über eine Hautschwellung im Gesicht, Thoraxschmerzen, Husten, Kopfschmerzen und Schwindel.<br /><br />Palpitationen, Fieber, Synkopen, Orthopnoe und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Diagnoseliste</h2>- Lungenkarzinom<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",

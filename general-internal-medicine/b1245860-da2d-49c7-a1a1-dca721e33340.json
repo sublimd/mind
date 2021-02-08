@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.mitralValveInsufficiency",
-      "label": "Mitralklappen-Insuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mitralklappen-Insuffizienz"
     },
     {
       "diagnosisId": "D.anginaPectorisStable",
-      "label": "Stabile Angina pectoris",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Stabile Angina pectoris"
     },
     {
       "diagnosisId": "D.mitralValveProlapse",
-      "label": "Mitralklappenprolaps Syndrom (Barlow-Syndrom)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mitralklappenprolaps Syndrom (Barlow-Syndrom)"
     },
     {
       "diagnosisId": "D.thalassemia",
-      "label": "Thalassämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Thalassämie"
     },
     {
       "diagnosisId": "D.corPulmonale",
-      "label": "Cor pulmonale",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Cor pulmonale"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (80) bei Dyspnoe seit fünf Monaten.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Schwindel, Thoraxschmerzen und Palpitationen.<br /><br />Synkopen, Appetitverlust, Husten, paroxysmale nächtliche Dyspnoe, Fieber, Fussschmerzen, Handschmerzen, Gliederschmerzen und Orthopnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",

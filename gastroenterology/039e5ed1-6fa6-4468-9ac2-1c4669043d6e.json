@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.hypokalemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Hepatitis C-Infektion</i> besser erklärt sind: Ikterus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.hypokalemia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Hepatitis C-Infektion</i> besser erklärt sind: Ikterus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
-      "label": "Hypokaliämie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.acuteKidneyInjury",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Hepatitis C-Infektion</i> besser erklärt sind: Ikterus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Schwellung der Unterschenkel, Oligurie, Polyurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Nierenschädigung",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Akute_Nierensch%C3%A4digung"
         }
-      },
-      "diagnosisId": "D.acuteKidneyInjury",
-      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Hepatitis C-Infektion</i> besser erklärt sind: Ikterus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Schwellung der Unterschenkel, Oligurie, Polyurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Akute Nierenschädigung",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.chronicHepatitisC",
       "explanation": "",
+      "isCorrect": true,
       "label": "Chronische Hepatitis C-Infektion",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteHepatitisA",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
       "label": "Akute Hepatitis A-Infektion",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.hyperparathyroidism",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Hepatitis C-Infektion</i> besser erklärt sind: Ikterus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperparathyroidismus</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperparathyroidismus",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperparathyreoidismus"
         }
-      },
-      "diagnosisId": "D.hyperparathyroidism",
-      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Hepatitis C-Infektion</i> besser erklärt sind: Ikterus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperparathyroidismus</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Obstipation</li></ul>",
-      "label": "Hyperparathyroidismus",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (50) bei Nausea seit einem halben Jahr.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit seit vier Monaten sowie einen Appetitverlust und einen Ikterus.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Bauchschmerzen, Fieber, Obstipation, ein Gewichtsverlust, Polyurie, Lähmungserscheinungen, Oligurie, eine depressive Verstimmung, Schlafstörungen und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 15py (20 Zigaretten täglich während 15 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

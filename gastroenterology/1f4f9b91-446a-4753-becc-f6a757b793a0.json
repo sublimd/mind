@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
+      "explanation": "<ul><li>Probleme, welche durch <i>Medikamenteninduzierte Hepatotoxizität</i> besser erklärt sind: Appetitverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Husten, Dyspnoe, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Ambulant_erworbene_Pneumonie"
         }
-      },
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
-      "explanation": "<ul><li>Probleme, welche durch <i>Medikamenteninduzierte Hepatotoxizität</i> besser erklärt sind: Appetitverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Husten, Dyspnoe, Thoraxschmerzen</li></ul>",
-      "label": "Ambulant erworbene Pneumonie",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.chronicHepatitisB",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen, Konsum von intravenösen Drogen, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
+      "isCorrect": false,
       "label": "Chronische Hepatitis B-Infektion",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.chronicMyeloidLeukemia",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Nachtschweiss</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische myeloische Leukämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Chronische_myeloische_Leuk%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.chronicMyeloidLeukemia",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Nachtschweiss</li></ul>",
-      "label": "Chronische myeloische Leukämie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hypercalcemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Medikamenteninduzierte Hepatotoxizität</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.hypercalcemia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Medikamenteninduzierte Hepatotoxizität</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
-      "label": "Hyperkalzämie",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "",
+      "isCorrect": true,
       "label": "Medikamenteninduzierte Hepatotoxizität",
-      "isCorrect": true
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (61) bei einer vermehrten Müdigkeit seit drei Wochen.<br /><br />Die Müdigkeit sei am Abend am stärksten ausgeprägt.<br /><br />Zusätzlich berichtet der Patient über dumpfe Bauchschmerzen (bis VAS 4/10) im rechten Oberbauch, einen Appetitverlust und Fieber.<br /><br />Aktuell hätten die Bauchschmerzen eine Intensität von VAS 2/10.<br /><br />Eine Therapie mit Analgetika (Paracetamol) wird bejaht.<br /><br /> Bluttransfusionen, Drogenkonsum und ungeschützter Geschlechtsverkehr in der Vergangenheit wird verneint. <br /><br />Schlafstörungen, Husten, Nausea, Polyurie, eine depressive Verstimmung, ein vermehrtes Durstgefühl, Diarrhoe, Nykturie und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 23py (10 Zigaretten täglich während 45 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein und Spirituosen).",

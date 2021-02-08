@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hyperglycemiaHyperosmolarState",
-      "label": "Hyperosmolare hyperglykämische Entgleisung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperosmolare hyperglykämische Entgleisung"
     },
     {
       "diagnosisId": "D.syndromeOfInappropriateAntidiureticHormoneSecretion",
-      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)"
     },
     {
       "diagnosisId": "D.hypertensiveCrisis",
-      "label": "Hypertensiver Notfall",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall"
     },
     {
       "diagnosisId": "D.epiduralHematoma",
-      "label": "Epiduralhämatom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Epiduralhämatom"
     },
     {
       "diagnosisId": "D.transientGlobalAmnesia",
-      "label": "Transiente Globale Amnesie (TGA)",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Transiente Globale Amnesie (TGA)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (65) bei einer Verwirrtheit seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über eine Amnesie, leichte Kopfschmerzen, Nausea und Parästhesien.<br /><br />Ein Bewusstseinsverlust, Sehstörungen, Fieber, Lähmungserscheinungen, Bauchschmerzen, Polyurie, Angstzustände, ein Harnverhalt und Dysurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 47py (20 Zigaretten täglich während 47 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",

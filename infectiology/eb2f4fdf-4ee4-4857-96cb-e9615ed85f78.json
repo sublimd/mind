@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.typhoidFever",
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Typhus abdominalis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
         }
-      },
-      "diagnosisId": "D.typhoidFever",
-      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
-      "label": "Typhus abdominalis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.tickborneEncephalitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Q Fieber</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Frühsommer-Meningoencephalitis (FSME)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Fr%C3%BChsommer-Meningoenzephalitis"
         }
-      },
-      "diagnosisId": "D.tickborneEncephalitis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Q Fieber</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
-      "label": "Frühsommer-Meningoencephalitis (FSME)",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.malaria",
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Malaria</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Malaria",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
         }
-      },
-      "diagnosisId": "D.malaria",
-      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Malaria</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
-      "label": "Malaria",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteLaryngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Q Fieber</i> besser erklärt sind: Kopfschmerzen, Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie</li></ul>",
+      "isCorrect": false,
       "label": "Akute Laryngitis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.qFever",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Q Fieber",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Q-Fieber"
         }
-      },
-      "diagnosisId": "D.qFever",
-      "explanation": "",
-      "label": "Q Fieber",
-      "isCorrect": true
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei Fieber seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Kopf-, Hals- und Gliederschmerzen, Husten und rechtsseitige Oberbauchschmerzen.<br /><br />Ungewöhnlicher Kontakt zu Tieren wird bejaht.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Nausea, Diarrhoe, Odynophagie, Dyspnoe, Rhinorrhoe, Flankenschmerzen, Dysurie, Schüttelfrost, Dysphonie, eine Hyperhidrose und Amnesie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",

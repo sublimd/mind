@@ -1,47 +1,47 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.gastricUlcer",
+      "explanation": "<ul><li>Probleme, welche durch <i>Medikamenteninduzierte Hepatotoxizität</i> besser erklärt sind: Müdigkeit, Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Ulcus ventriculi",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Ulcus_Ventriculi"
         }
-      },
-      "diagnosisId": "D.gastricUlcer",
-      "explanation": "<ul><li>Probleme, welche durch <i>Medikamenteninduzierte Hepatotoxizität</i> besser erklärt sind: Müdigkeit, Fieber</li></ul>",
-      "label": "Ulcus ventriculi",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "",
+      "isCorrect": true,
       "label": "Medikamenteninduzierte Hepatotoxizität",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.cholangitis",
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cholangitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Cholangitis"
         }
-      },
-      "diagnosisId": "D.cholangitis",
-      "explanation": "",
-      "label": "Cholangitis",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteAppendicitis",
       "explanation": "",
+      "isCorrect": false,
       "label": "Akute Appendizitis",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.drugInducedHypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Medikamenteninduzierte Hepatotoxizität</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "isCorrect": false,
       "label": "Medikamenteninduzierte Hyperkalzämie",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (78) bei drückenden Bauchschmerzen im rechten Oberbauch.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit seit fünf Wochen sowie einen Appetitverlust, Nausea und Fieber.<br /><br />Eine Therapie mit Analgetika wird bejaht.<br /><br />Diarrhoe, ein Gewichtsverlust, niedrige Blutdruckwerte, eine depressive Verstimmung, Hämatemesis, Meläna, ein vermehrtes Durstgefühl und Schlafstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Kein Alkoholkonsum.",

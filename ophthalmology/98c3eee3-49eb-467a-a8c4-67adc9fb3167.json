@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.dystonia",
+      "explanation": "<ul><li><i>Hypertensive Retinopathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie, Nackenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Dystonie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Dystonie"
         }
-      },
-      "diagnosisId": "D.dystonia",
-      "explanation": "<ul><li><i>Hypertensive Retinopathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie, Nackenschmerzen</li></ul>",
-      "label": "Dystonie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hypertensiveRetinopathy",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypertensive Retinopathie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypertensive_Retinopathie"
         }
-      },
-      "diagnosisId": "D.hypertensiveRetinopathy",
-      "explanation": "",
-      "label": "Hypertensive Retinopathie",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.sarcoidosis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Sarkoidose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Sarkoidose"
         }
-      },
-      "diagnosisId": "D.sarcoidosis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
-      "label": "Sarkoidose",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Augenrötung, Ausfluss aus dem Auge, Juckreiz im Auge, Augenschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: bekannte Allergie auf Umweltfaktoren</li></ul>",
+      "isCorrect": false,
       "label": "Allergische Konjunktivitis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.polycythemiaVera",
+      "explanation": "<ul><li><i>Hypertensive Retinopathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polycythämia vera</i> erhöhen würden: Nachtschweiss, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Polycythämia vera",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Polycythaemia_vera"
         }
-      },
-      "diagnosisId": "D.polycythemiaVera",
-      "explanation": "<ul><li><i>Hypertensive Retinopathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polycythämia vera</i> erhöhen würden: Nachtschweiss, Gewichtsverlust</li></ul>",
-      "label": "Polycythämia vera",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (80) bei Sehstörungen seit einem Monat.<br /><br /> Allergien auf Umweltfaktoren (Pollen, Katzenhaare etc.) werden verneint. <br /><br />Kopfschmerzen, eine Augenrötung, eine Photophobie, Fieber, Dyspnoe und ein Gewichtsverlust werden verneint. <h2>Diagnoseliste</h2>- Essentielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",

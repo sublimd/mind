@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Block II°, Mobitz II</i> erhöhen würden: Bradykardien, Synkope</li></ul>",
+      "isCorrect": false,
       "label": "AV-Block II°, Mobitz II",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
       "explanation": "<ul></ul>",
+      "isCorrect": false,
       "label": "Anämie im Rahmen chronischer Erkrankung",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.ironDeficiencyAnemia",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Eisenmangelanämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Eisenmangelan%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.ironDeficiencyAnemia",
-      "explanation": "",
-      "label": "Eisenmangelanämie",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.ventricularSeptalDefect",
+      "explanation": "<ul><li><i>Eisenmangelanämie</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Ventrikelseptumdefekt (VSD)‎",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Ventrikelseptumdefekt"
         }
-      },
-      "diagnosisId": "D.ventricularSeptalDefect",
-      "explanation": "<ul><li><i>Eisenmangelanämie</i> tritt statistisch häufiger auf</li></ul>",
-      "label": "Ventrikelseptumdefekt (VSD)‎",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.aorticInsufficiency",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aortenklappen-Insuffizienz</i> erhöhen würden: Palpitationen, Tachykardien, Orthopnoe, Husten, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Aortenklappen-Insuffizienz",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Aortenklappeninsuffizienz"
         }
-      },
-      "diagnosisId": "D.aorticInsufficiency",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aortenklappen-Insuffizienz</i> erhöhen würden: Palpitationen, Tachykardien, Orthopnoe, Husten, Thoraxschmerzen</li></ul>",
-      "label": "Aortenklappen-Insuffizienz",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (29) bei einer vermehrten Müdigkeit seit drei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe und Schwindel.<br /><br />Ein veganer Ernährungsstil wird bejaht.<br /><br />Fieber, Schlafstörungen, Husten, ein Gewichtsverlust, eine depressive Stimmung, eine Schwellung der Unterschenkel, Synkopen, Nachtschweiss und Bradykardien werden verneint. <h2>Diagnoseliste</h2>- Uterusmyom<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein).",

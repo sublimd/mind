@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Lungenmetastasen",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenmetastasen"
     },
     {
-      "label": "Lungentuberkulose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungentuberkulose"
     },
     {
-      "label": "Lungenkarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenkarzinom"
     },
     {
-      "label": "Lungenembolie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenembolie"
     },
     {
-      "label": "Pancoast-Tumor",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Pancoast-Tumor"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (48) bei Schulterschmerzen seit drei Monaten.<br /><br />Zusätzlich berichtet der Patient über Husten, einen Gewichtsverlust, Dyspnoe, Thoraxschmerzen und Hämoptoe.<br /><br /> Exposition gegenüber Asbest wird verneint. <br /><br />Dysphonie, Hängendes Augenlid, Fieber, eine Schulterschwellung, eine Schulterrötung, eine Schultersteifigkeit, Schüttelfrost, Nachtschweiss, eine allgemeine Müdigkeit, ein Leistungsabfall und ein allgemeines Schwächegefühl werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",

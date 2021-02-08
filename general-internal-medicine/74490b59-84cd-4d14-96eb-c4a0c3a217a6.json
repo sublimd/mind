@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.folliculitis",
-      "label": "Follikulitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Follikulitis"
     },
     {
       "diagnosisId": "D.lentigoSimplex",
-      "label": "Lentigo simplex",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lentigo simplex"
     },
     {
       "diagnosisId": "D.molluscumContagiosumInfection",
-      "label": "Molluscum contagiosum Infektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Molluscum contagiosum Infektion"
     },
     {
       "diagnosisId": "D.anaphylacticReaction",
-      "label": "Anaphylaktische Reaktion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Anaphylaktische Reaktion"
     },
     {
       "diagnosisId": "D.stomatitis",
-      "label": "Stomatitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Stomatitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (30) bei einer Hautveränderung an den Lippen seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Mundgeruch.<br /><br />Pruritus, eine Hautschwellung, Dyspnoe, Rhinorrhoe, eine Augenschwellung, Appetitverlust und Erhöhter Speichelfluss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.streptococcalTonsillitis",
-      "label": "Streptokokkentonsillitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Streptokokkentonsillitis"
     },
     {
       "diagnosisId": "D.erythemaInfectiosum",
-      "label": "Ringelröteln (Erythema infectiosum)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ringelröteln (Erythema infectiosum)"
     },
     {
       "diagnosisId": "D.influenza",
-      "label": "Influenza",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Influenza"
     },
     {
       "diagnosisId": "D.viralPharyngitis",
-      "label": "Virale Pharyngitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis"
     },
     {
       "diagnosisId": "D.myocarditis",
-      "label": "Myokarditis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myokarditis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (40) bei Halsschmerzen seit vier Tagen.<br /><br />Zusätzlich berichtet der Patient über Fieber und Kopfschmerzen.<br /><br />Vergrösserte Lymphknoten, eine allgemeine Müdigkeit, Gliederschmerzen, Rhinorrhoe, Nausea, Husten, Dysphonie, Pruritus, Husten, Gelenkschmerzen und Orthopnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",

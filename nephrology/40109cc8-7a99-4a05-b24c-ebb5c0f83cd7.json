@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.obstructiveUropathy",
+      "explanation": "<ul><li><i>Urolithiasis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Urolithiasis</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Obstruktive Uropathie (Harnstau)</i> erhöhen würden: Urininkontinenz</li></ul>",
+      "isCorrect": false,
+      "label": "Obstruktive Uropathie (Harnstau)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Obstruktive_Uropathie"
         }
-      },
-      "diagnosisId": "D.obstructiveUropathy",
-      "explanation": "<ul><li><i>Urolithiasis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Urolithiasis</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Obstruktive Uropathie (Harnstau)</i> erhöhen würden: Urininkontinenz</li></ul>",
-      "label": "Obstruktive Uropathie (Harnstau)",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "<ul><li><i>Urolithiasis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Urolithiasis</i> besser erklärt sind: Nausea</li></ul>",
+      "isCorrect": false,
       "label": "Nierenkarzinom",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.erysipelas",
+      "explanation": "<ul><li>Probleme, welche durch <i>Urolithiasis</i> besser erklärt sind: Nausea, Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Hautüberwärmung, Hautschwellung, Schwellung der Beine, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Erysipel",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
         }
-      },
-      "diagnosisId": "D.erysipelas",
-      "explanation": "<ul><li>Probleme, welche durch <i>Urolithiasis</i> besser erklärt sind: Nausea, Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Hautüberwärmung, Hautschwellung, Schwellung der Beine, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Erysipel",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.renalInfarction",
+      "explanation": "<ul><li><i>Urolithiasis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Urolithiasis</i> besser erklärt sind: Nykturie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Niereninfarkt</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Niereninfarkt",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Niereninfarkt"
         }
-      },
-      "diagnosisId": "D.renalInfarction",
-      "explanation": "<ul><li><i>Urolithiasis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Urolithiasis</i> besser erklärt sind: Nykturie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Niereninfarkt</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Niereninfarkt",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.urolithiasis",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Urolithiasis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Urolithiasis"
         }
-      },
-      "diagnosisId": "D.urolithiasis",
-      "explanation": "",
-      "label": "Urolithiasis",
-      "isCorrect": true
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (25) bei Flankenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Nausea, Nykturie und Fieber.<br /><br />Dysurie, Hautveränderungen, Hämaturie, eine Beinschwellung, eine Hautüberwärmung, Hodenschmerzen und eine Urininkontinenz werden verneint. <h2>Diagnoseliste</h2>- Hyperparathyroidismus<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

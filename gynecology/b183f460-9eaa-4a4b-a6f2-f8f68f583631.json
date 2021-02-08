@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hypercalcemia",
-      "label": "Hyperkalzämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperkalzämie"
     },
     {
       "diagnosisId": "D.benignSexCordStromalTumor",
-      "label": "Geschlechtsstrang-Gonadenstromatumor",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Geschlechtsstrang-Gonadenstromatumor"
     },
     {
       "diagnosisId": "D.cystadenoma",
-      "label": "Zystadenom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Zystadenom"
     },
     {
       "diagnosisId": "D.enterocele",
-      "label": "Enterozele",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Enterozele"
     },
     {
       "diagnosisId": "D.acuteDiverticulitis",
-      "label": "Divertikulitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Divertikulitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (66) bei Bauchschmerzen im linken Unterbauch seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Blähungen und Obstipation.<br /><br />Nausea, Erbrechen, Fieber, Diarrhoe, Pollakisurie, vaginaler Ausfluss, Rückenschmerzen, Hämatochezie, Meläna, Polyurie und eine Stuhlinkontinenz werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",

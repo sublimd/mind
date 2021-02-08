@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hypercalcemia",
-      "label": "Hyperkalzämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperkalzämie"
     },
     {
       "diagnosisId": "D.hyperparathyroidism",
-      "label": "Hyperparathyroidismus",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperparathyroidismus"
     },
     {
       "diagnosisId": "D.porphyria",
-      "label": "Porphyrie",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Porphyrie"
     },
     {
       "diagnosisId": "D.coprostasis",
-      "label": "Koprostase",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Koprostase"
     },
     {
       "diagnosisId": "D.diabeticKetoacidosis",
-      "label": "Diabetische Ketoazidose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Diabetische Ketoazidose"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (49) bei Bauchschmerzen im Oberbauch seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Nausea, erhöhte Blutdruckwerte, eine Muskelschwäche, Palpitationen und eine Obstipation.<br /><br />Erbrechen, Fieber, Diarrhoe, vaginaler Ausfluss, Hämatochezie, Meläna, Polyurie, ein vermehrtes Durstgefühl und Nykturie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein).",

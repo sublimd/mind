@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.upperAirwayInfection",
-      "label": "Viraler Infekt der oberen Atemwege",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege"
     },
     {
       "diagnosisId": "D.chronicMyeloidLeukemia",
-      "label": "Chronische myeloische Leukämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische myeloische Leukämie"
     },
     {
       "diagnosisId": "D.goodpastureSyndrom",
-      "label": "Goodpasture-Syndrom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Goodpasture-Syndrom"
     },
     {
       "diagnosisId": "D.chronicHypersensitivityPneumonitis",
-      "label": "Exogen-allergische Alveolitis (chronisch)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Exogen-allergische Alveolitis (chronisch)"
     },
     {
       "diagnosisId": "D.mitralValveInsufficiency",
-      "label": "Mitralklappen-Insuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mitralklappen-Insuffizienz"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (80) bei Hämoptoe seit zehn Tagen.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe, Husten, Hämaturie und ein allgemeines Schwächegefühl.<br /><br />Fieber, Thoraxschmerzen, ein Gewichtsverlust, Rhinorrhoe, Oligurie und Halsschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

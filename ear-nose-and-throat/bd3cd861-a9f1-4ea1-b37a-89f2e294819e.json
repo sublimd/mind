@@ -1,47 +1,47 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.chronicRhinoSinusitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Rhinosinusitis</i> besser erklärt sind: Fieber</li></ul>",
+      "isCorrect": false,
       "label": "Chronische Rhinosinusitis",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.viralConjunctivitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Rhinosinusitis</i> besser erklärt sind: Kopfschmerzen, Tinnitus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Konjunktivitis</i> erhöhen würden: Augenrötung, Ausfluss aus dem Auge, Juckreiz im Auge, Sehstörungen</li></ul>",
+      "isCorrect": false,
       "label": "Virale Konjunktivitis",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Rhinosinusitis</i> besser erklärt sind: Kopfschmerzen, Tinnitus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Halsschmerzen, Odynophagie, Dyspnoe, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.acuteRhinoSinusitis",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Rhinosinusitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Sinusitis"
         }
-      },
-      "diagnosisId": "D.acuteRhinoSinusitis",
-      "explanation": "",
-      "label": "Akute Rhinosinusitis",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.influenza",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Rhinosinusitis</i> besser erklärt sind: nasale Obstruktion, Tinnitus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Gliederschmerzen, Gelenkschmerzen, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
         }
-      },
-      "diagnosisId": "D.influenza",
-      "explanation": "<ul><li>Probleme, welche durch <i>Akute Rhinosinusitis</i> besser erklärt sind: nasale Obstruktion, Tinnitus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Gliederschmerzen, Gelenkschmerzen, Dyspnoe</li></ul>",
-      "label": "Influenza",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (24) bei purulenter, dickflüssiger Rhinorrhoe aus beiden Nasenlöchern seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über eine nasale Obstruktion sowie dumpfe Kopfschmerzen (bis VAS 4/10) frontal, Fieber und einen Tinnitus.<br /><br />Verschlimmerung der Kopfschmerzen beim Vorbeugen des Kopfes.<br /><br />Husten, Niesen, eine allgemeine Müdigkeit, Halsschmerzen, Gliederschmerzen, Dyspnoe, eine Hyposmie, Ohrenschmerzen, Mundgeruch, eine Hörminderung und Nasenbluten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 10py (20 Zigaretten täglich während 10 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Mechanischer Ileus",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mechanischer Ileus"
     },
     {
-      "label": "Intestinale Pseudoobstruktion (Ogilvie-Syndrom)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Intestinale Pseudoobstruktion (Ogilvie-Syndrom)"
     },
     {
-      "label": "Schwangerschaftscholestase",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Schwangerschaftscholestase"
     },
     {
-      "label": "Ulcus duodeni",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ulcus duodeni"
     },
     {
-      "label": "Mallory-Weiss Syndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mallory-Weiss Syndrom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (51) bei Bauchschmerzen im Oberbauch seit drei Tagen.<br /><br />Im Zusammenhang mit den Bauchschmerzen sei es ausserdem zu Nausea gekommen.<br /><br />Zusätzlich berichtet die Patientin über Hämatemesis.<br /><br />Fieber, Diarrhoe, Obstipation, Hämatochezie oder Meläna im Zusammenhang mit den Bauchschmerzen wird verneint. <br /><br />Appetitverlust, ein Gewichtsverlust, Blähungen, ein Ikterus und Pruritus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 9py (10 Zigaretten täglich während 17 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",

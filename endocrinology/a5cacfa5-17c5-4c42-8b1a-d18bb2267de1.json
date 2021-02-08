@@ -1,59 +1,59 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.atrialFlutter",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vorhofflattern</i> erhöhen würden: Schwindel, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Vorhofflattern",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Vorhofflattern"
         }
-      },
-      "diagnosisId": "D.atrialFlutter",
-      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vorhofflattern</i> erhöhen würden: Schwindel, Dyspnoe</li></ul>",
-      "label": "Vorhofflattern",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hyperparathyroidism",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperparathyroidismus",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperparathyreoidismus"
         }
-      },
-      "diagnosisId": "D.hyperparathyroidism",
-      "explanation": "",
-      "label": "Hyperparathyroidismus",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.ironDeficiencyAnemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li></ul>",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Eisenmangelan%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.ironDeficiencyAnemia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li></ul>",
-      "label": "Eisenmangelanämie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.anemiaMacrocytic",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Mikrozyt%C3%A4re_An%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.anemiaMacrocytic",
-      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
-      "label": "Makrozytäre Anämie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.sinusTachycardia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Müdigkeit, Muskelschwäche</li></ul>",
+      "isCorrect": false,
+      "label": "Sinustachykardie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Sinustachykardie"
         }
-      },
-      "diagnosisId": "D.sinusTachycardia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Müdigkeit, Muskelschwäche</li></ul>",
-      "label": "Sinustachykardie",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (52) bei Nausea seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über Obstipation, eine vermehrte Müdigkeit, eine Muskelschwäche und Palpitationen (Ausstrahlung des Herzschlags).<br /><br />Die Müdigkeit sei am Abend am stärksten ausgeprägt.<br /><br />Bauchschmerzen, Diarrhoe, Schwindel, Kopfschmerzen, Synkopen und Thoraxschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 20py (20 Zigaretten täglich während 20 Jahren). Kein Alkoholkonsum.",

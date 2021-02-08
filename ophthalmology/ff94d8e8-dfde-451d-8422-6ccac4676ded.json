@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.acuteAngleClosureGlaucoma",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge, Ausfluss aus dem Auge</li></ul>",
+      "isCorrect": false,
       "label": "Akutes Winkelblockglaukom",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.chalazion",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chalazion</i> erhöhen würden: Lidschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Chalazion",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Chalazion"
         }
-      },
-      "diagnosisId": "D.chalazion",
-      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chalazion</i> erhöhen würden: Lidschwellung</li></ul>",
-      "label": "Chalazion",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.bacterialKeratitis",
       "explanation": "",
+      "isCorrect": true,
       "label": "Akute bakterielle Keratitis",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.sarcoidosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge, Ausfluss aus dem Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Sarkoidose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Sarkoidose"
         }
-      },
-      "diagnosisId": "D.sarcoidosis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge, Ausfluss aus dem Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
-      "label": "Sarkoidose",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.herpesZosterOphthalmicus",
+      "explanation": "<ul><li><i>Akute bakterielle Keratitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge, Ausfluss aus dem Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Zoster ophthalmicus</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zoster ophthalmicus</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Zoster ophthalmicus",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Zoster_ophthalmicus"
         }
-      },
-      "diagnosisId": "D.herpesZosterOphthalmicus",
-      "explanation": "<ul><li><i>Akute bakterielle Keratitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge, Ausfluss aus dem Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Zoster ophthalmicus</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zoster ophthalmicus</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Zoster ophthalmicus",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (54) bei einer linksseitigen Augenrötung.<br /><br />Zusätzlich berichtet die Patientin über Augenschmerzen, ein Fremdkörpergefühl im Auge, Sehstörungen und Ausfluss aus dem Auge.<br /><br />Ein Immundefekt wird bejaht.<br /><br />Juckreiz in den Augen, eine Augenschwellung, Rhinorrhoe, Fieber, Kopfschmerzen und Nausea werden verneint. <h2>Diagnoseliste</h2>- Arterielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",

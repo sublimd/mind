@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.interstitialLungDisease",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Interstitielle Lungenerkrankung",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Interstitielle_Lungenerkrankung"
         }
-      },
-      "diagnosisId": "D.interstitialLungDisease",
-      "explanation": "",
-      "label": "Interstitielle Lungenerkrankung",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteLaryngitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie, Halsschmerzen, Odynophagie, Dysphagie, Fieber, Schüttelfrost, Rhinorrhoe</li></ul>",
+      "isCorrect": false,
       "label": "Akute Laryngitis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Ambulant_erworbene_Pneumonie"
         }
-      },
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Thoraxschmerzen</li></ul>",
-      "label": "Ambulant erworbene Pneumonie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.aorticInsufficiency",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aortenklappen-Insuffizienz</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Synkope, Bewusstseinsverlust, Orthopnoe, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Aortenklappen-Insuffizienz",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Aortenklappeninsuffizienz"
         }
-      },
-      "diagnosisId": "D.aorticInsufficiency",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aortenklappen-Insuffizienz</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Synkope, Bewusstseinsverlust, Orthopnoe, Thoraxschmerzen</li></ul>",
-      "label": "Aortenklappen-Insuffizienz",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.pulmonaryEmphysema",
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Interstitielle Lungenerkrankung</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenemphysem",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Lungenemphysem"
         }
-      },
-      "diagnosisId": "D.pulmonaryEmphysema",
-      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Interstitielle Lungenerkrankung</i> erhöhen würden: Nikotinabusus</li></ul>",
-      "label": "Lungenemphysem",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (61) bei Dyspnoe seit vier Monaten.<br /><br />Zusätzlich berichtet der Patient über trockenen Husten.<br /><br />Thoraxschmerzen, eine allgemeine Müdigkeit, Palpitationen, Fieber, Halsschmerzen und Dysphonie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",

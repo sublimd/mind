@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.familialMediterraneanFever",
-      "label": "Familiäres Mittelmeerfieber",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Familiäres Mittelmeerfieber"
     },
     {
       "diagnosisId": "D.typhoidFever",
-      "label": "Typhus abdominalis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Typhus abdominalis"
     },
     {
       "diagnosisId": "D.acuteHepatitisA",
-      "label": "Akute Hepatitis A-Infektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Hepatitis A-Infektion"
     },
     {
       "diagnosisId": "D.sickleCellCrisis",
-      "label": "Sichelzellkrise",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sichelzellkrise"
     },
     {
       "diagnosisId": "D.polyarteritisNodosa",
-      "label": "Polyarteriitis nodosa",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Polyarteriitis nodosa"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (26) bei Fieber seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Bauchschmerzen, Gelenkschmerzen, atemabhängige Thoraxschmerzen und eine erythematöse Hautveränderung.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Nausea, Diarrhoe, Odynophagie, Husten, Dyspnoe, Kopfschmerzen, Gliederschmerzen, Flankenschmerzen, Dysurie, Schüttelfrost und Sehstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",

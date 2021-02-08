@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.foodAllergy",
-      "label": "Nahrungsmittelallergie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie"
     },
     {
       "diagnosisId": "D.allergicRhinoconjunctivitis",
-      "label": "Allergische Rhinokonjunktivitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Allergische Rhinokonjunktivitis"
     },
     {
       "diagnosisId": "D.anaphylacticReaction",
-      "label": "Anaphylaktische Reaktion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Anaphylaktische Reaktion"
     },
     {
       "diagnosisId": "D.acuteRhinoSinusitis",
-      "label": "Akute Rhinosinusitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Rhinosinusitis"
     },
     {
       "diagnosisId": "D.allergicRhinitis",
-      "label": "Allergische Rhinitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Allergische Rhinitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (59) bei klarer Rhinorrhoe seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Niesen, eine nasale Obstruktion und Husten.<br /><br />Kopfschmerzen, eine Augenschwellung, Hautveränderungen, Pruritus, Erbrechen und Nasenbluten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",

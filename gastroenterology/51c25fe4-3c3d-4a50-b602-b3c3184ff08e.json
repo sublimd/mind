@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.lymeBorreliosisStage1",
-      "label": "Lyme Borreliose Stadium 1",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 1"
     },
     {
       "diagnosisId": "D.cholangitis",
-      "label": "Cholangitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cholangitis"
     },
     {
       "diagnosisId": "D.chronicHepatitisB",
-      "label": "Chronische Hepatitis B-Infektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische Hepatitis B-Infektion"
     },
     {
       "diagnosisId": "D.hepatitisE",
-      "label": "Hepatitis E",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hepatitis E"
     },
     {
       "diagnosisId": "D.typhoidFever",
-      "label": "Typhus abdominalis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Typhus abdominalis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (79) bei einer vermehrten Müdigkeit seit sieben Tagen.<br /><br />Zusätzlich berichtet der Patient über einen Appetitverlust, Nausea, Bauchschmerzen im rechten Oberbauch, Fieber und Gelenkschmerzen.<br /><br />Schlafstörungen, Schüttelfrost, ein Gewichtsverlust, Hautveränderungen, Pruritus, ein Ikterus, Nachtschweiss und niedrige Blutdruckwerte werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 1 - 2 Standardgetränke / Tag.",

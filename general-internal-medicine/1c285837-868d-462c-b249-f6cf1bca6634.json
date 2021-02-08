@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Streptokokkentonsillitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Streptokokkentonsillitis"
     },
     {
-      "label": "Morbus Still",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Morbus Still"
     },
     {
-      "label": "Hand-Fuss-Mund-Krankheit",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hand-Fuss-Mund-Krankheit"
     },
     {
-      "label": "HIV-Primoinfektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion"
     },
     {
-      "label": "Virale Pharyngitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (9) bei Halsschmerzen seit drei Wochen.<br /><br />Im Zusammenhang mit den Halsschmerzen sei es ausserdem zu Fieber gekommen.<br /><br />Zusätzlich berichtet die Patientin über eine Hautveränderung an den Händen und einen Appetitverlust.<br /><br /> Husten, Dysphonie, Rhinorrhoe oder Lymphadenopathien im Zusammenhang mit den Halsschmerzen werden verneint. <br /><br />Odynophagie, Dysphagie, Schüttelfrost, eine allgemeine Müdigkeit und ein Leistungsabfall werden verneint.",

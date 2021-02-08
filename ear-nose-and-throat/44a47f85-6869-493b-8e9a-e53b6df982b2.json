@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.mastoiditis",
+      "explanation": "<ul><li><i>Otitis externa diffusa</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Otitis externa diffusa</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mastoiditis</i> erhöhen würden: Leistungsabfall, Müdigkeit, allgemeines Schwächegefühl, Fieber, Hautschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Mastoiditis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Mastoiditis"
         }
-      },
-      "diagnosisId": "D.mastoiditis",
-      "explanation": "<ul><li><i>Otitis externa diffusa</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Otitis externa diffusa</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mastoiditis</i> erhöhen würden: Leistungsabfall, Müdigkeit, allgemeines Schwächegefühl, Fieber, Hautschwellung</li></ul>",
-      "label": "Mastoiditis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.otitisExternaDiffusa",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Otitis externa diffusa",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Otitis_externa_diffusa"
         }
-      },
-      "diagnosisId": "D.otitisExternaDiffusa",
-      "explanation": "",
-      "label": "Otitis externa diffusa",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Probleme, welche durch <i>Otitis externa diffusa</i> besser erklärt sind: Ausfluss aus dem Ohr, Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Husten, Dyspnoe</li></ul>",
+      "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteOtitisMedia",
       "explanation": "<ul><li>Probleme, welche durch <i>Otitis externa diffusa</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Otitis media</i> erhöhen würden: Hörminderung</li></ul>",
+      "isCorrect": false,
       "label": "Akute Otitis media",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.otitisMediaWithEffusion",
+      "explanation": "<ul><li>Probleme, welche durch <i>Otitis externa diffusa</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Seromukotympanon</i> erhöhen würden: Hörminderung</li></ul>",
+      "isCorrect": false,
+      "label": "Seromukotympanon",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Seromukotympanon"
         }
-      },
-      "diagnosisId": "D.otitisMediaWithEffusion",
-      "explanation": "<ul><li>Probleme, welche durch <i>Otitis externa diffusa</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Seromukotympanon</i> erhöhen würden: Hörminderung</li></ul>",
-      "label": "Seromukotympanon",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (55) bei linksseitigen Ohrenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Ausfluss aus dem Ohr und Pruritus.<br /><br />Eine Hörminderung, Fieber, Hautveränderungen, Schüttelfrost, Kopfschmerzen, Schwindel und Tinnitus werden verneint. <h2>Diagnoseliste</h2>- Chronische Niereninsuffizienz- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",

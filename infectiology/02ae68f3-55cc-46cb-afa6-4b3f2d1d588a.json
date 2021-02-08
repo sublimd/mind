@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.acuteBacterialMeningitis",
-      "label": "Akute bakterielle Meningitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute bakterielle Meningitis"
     },
     {
       "diagnosisId": "D.relapsingFever",
-      "label": "Rückfallfieber",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rückfallfieber"
     },
     {
       "diagnosisId": "D.foodIntoxication",
-      "label": "Nahrungsmittelvergiftung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelvergiftung"
     },
     {
       "diagnosisId": "D.acuteAppendicitis",
-      "label": "Akute Appendizitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Appendizitis"
     },
     {
       "diagnosisId": "D.abdominalAbscess",
-      "label": "Abdominaler Abszess",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Abdominaler Abszess"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (47) bei Fieber seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen, Bauchschmerzen, Gliederschmerzen, Nausea und Diarrhoe.<br /><br />Der Aufenthalt in Wäldern wird bejaht.<br /><br />Hautveränderungen, Odynophagie, Husten, Dyspnoe, Flankenschmerzen, Dysurie, ein Gewichtsverlust, Rückenschmerzen, Schüttelfrost, Nackensteifigkeit und eine Amnesie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein).",

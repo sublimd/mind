@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.autonomousThyroidNodules",
-      "label": "Hyperthyreose bei Schilddrüsenautonomie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperthyreose bei Schilddrüsenautonomie"
     },
     {
       "diagnosisId": "D.hyperglycemiaHyperosmolarState",
-      "label": "Hyperosmolare hyperglykämische Entgleisung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperosmolare hyperglykämische Entgleisung"
     },
     {
       "diagnosisId": "D.gravesDisease",
-      "label": "Morbus Basedow",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Morbus Basedow"
     },
     {
       "diagnosisId": "D.hypertensiveCrisis",
-      "label": "Hypertensiver Notfall",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall"
     },
     {
       "diagnosisId": "D.wernickesEncephalopathy",
-      "label": "Wernicke-Enzephalopathie",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Wernicke-Enzephalopathie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (59) bei einer Verwirrtheit seit neun Tagen.<br /><br />Zusätzlich wird über ein neu aufgetretens Schielen und Hyperhidrose berichtet.<br /><br />Erbrechen, Kopfschmerzen, erhöhte Blutdruckwerte, Fieber, Dyspnoe, Bauchschmerzen, Dysphagie, ein Gewichtsverlust, ein Harnverhalt, Dysurie, eine Hörminderung und eine Wärmeintoleranz werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 31py (20 Zigaretten täglich während 31 Jahren). Alkoholkonsum täglich, jeweils 7 - 8 Standardgetränke / Tag (Sekt).",

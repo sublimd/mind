@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.lumbarSpondylogenicSyndrome",
-      "label": "Lumbospondylogenes Syndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lumbospondylogenes Syndrom"
     },
     {
       "diagnosisId": "D.lumbarRadicularSyndrome",
-      "label": "Lumboradikuläres Syndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lumboradikuläres Syndrom"
     },
     {
       "diagnosisId": "D.urolithiasis",
-      "label": "Urolithiasis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Urolithiasis"
     },
     {
       "diagnosisId": "D.acutePyelonephritis",
-      "label": "Akute Pyelonephritis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Pyelonephritis"
     },
     {
       "diagnosisId": "D.spondylolysis",
-      "label": "Spondylolyse",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Spondylolyse"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (18) bei Flankenschmerzen ohne Ausstrahlung seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Nausea.<br /><br />Hodenschmerzen, Hämaturie, Nykturie, Fieber, Bauchschmerzen, Dysurie, Beinschmerzen, Sensibilitätsstörungen, Lähmungserscheinungen und Rückenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",

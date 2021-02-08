@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.hyperthyroidism",
+      "explanation": "<ul><li>Probleme, welche durch <i>Achalasie</i> besser erklärt sind: Thoraxschmerzen, retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperthyreose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperthyreose"
         }
-      },
-      "diagnosisId": "D.hyperthyroidism",
-      "explanation": "<ul><li>Probleme, welche durch <i>Achalasie</i> besser erklärt sind: Thoraxschmerzen, retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
-      "label": "Hyperthyreose",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.corPulmonale",
+      "explanation": "<ul><li>Probleme, welche durch <i>Achalasie</i> besser erklärt sind: Dysphagie</li></ul>",
+      "isCorrect": false,
+      "label": "Cor pulmonale",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Cor_pulmonale"
         }
-      },
-      "diagnosisId": "D.corPulmonale",
-      "explanation": "<ul><li>Probleme, welche durch <i>Achalasie</i> besser erklärt sind: Dysphagie</li></ul>",
-      "label": "Cor pulmonale",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.achalasia",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Achalasie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Achalasie"
         }
-      },
-      "diagnosisId": "D.achalasia",
-      "explanation": "",
-      "label": "Achalasie",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.alcoholUseDisorder",
       "explanation": "<ul><li>Probleme, welche durch <i>Achalasie</i> besser erklärt sind: Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Alkoholüberkonsum</i> erhöhen würden: Schlafstörungen, erhöhter Blutdruck, Angstzustände, depressive Stimmung</li></ul>",
+      "isCorrect": false,
       "label": "Alkoholüberkonsum",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.pharyngealCancer",
+      "explanation": "<ul><li><i>Pharynxkarzinom</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Achalasie</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pharynxkarzinom</i> erhöhen würden: vergrösserter Lymphknoten, Halsschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pharynxkarzinom</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Pharynxkarzinom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Pharynxkarzinom"
         }
-      },
-      "diagnosisId": "D.pharyngealCancer",
-      "explanation": "<ul><li><i>Pharynxkarzinom</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Achalasie</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pharynxkarzinom</i> erhöhen würden: vergrösserter Lymphknoten, Halsschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pharynxkarzinom</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
-      "label": "Pharynxkarzinom",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (54) bei Dysphagie seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Thoraxschmerzen im Bereich des Sternums, einen Gewichtsverlust und retrosternales Brennen.<br /><br />Ein allgemeines Schwächegefühl, vergrösserte Lymphknoten, Husten, Erbrechen, saures Aufstossen, Dyspnoe, eine Wärmeintoleranz und Angstzustände werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 84py (30 Zigaretten täglich während 56 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",

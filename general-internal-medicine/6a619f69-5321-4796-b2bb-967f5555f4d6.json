@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.presbyacusis",
-      "label": "Presbyakusis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Presbyakusis"
     },
     {
       "diagnosisId": "D.menieresDisease",
-      "label": "M. Menière",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "M. Menière"
     },
     {
       "diagnosisId": "D.acousticNeuroma",
-      "label": "Akustikusneurinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akustikusneurinom"
     },
     {
       "diagnosisId": "D.chronicOtitisMedia",
-      "label": "Chronische Otitis media",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische Otitis media"
     },
     {
       "diagnosisId": "D.vestibularMigraine",
-      "label": "Vestibuläre Migräne",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Vestibuläre Migräne"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (70) bei einer Hörminderung seit zwei Jahren.<br /><br />Zusätzlich berichtet die Patientin über Schwindel.<br /><br />Ohrenschmerzen, Ausfluss aus dem Ohr, Tinnitus, Erbrechen, Nausea, Kopfschmerzen und eine Photophobie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",

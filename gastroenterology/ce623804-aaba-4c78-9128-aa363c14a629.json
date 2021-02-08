@@ -1,47 +1,47 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.diverticularBleeding",
       "explanation": "",
+      "isCorrect": true,
       "label": "Divertikelblutung",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Divertikulitis</i> erhöhen würden: Bauchschmerzen, Nausea, Erbrechen, Fieber, Obstipation, Diarrhoe</li></ul>",
+      "isCorrect": false,
       "label": "Akute Divertikulitis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.perianalVeinThrombosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Divertikelblutung</i> besser erklärt sind: Blähungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Perianalthrombose</i> erhöhen würden: anale Schmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Perianalthrombose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Perianalthrombose"
         }
-      },
-      "diagnosisId": "D.perianalVeinThrombosis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Divertikelblutung</i> besser erklärt sind: Blähungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Perianalthrombose</i> erhöhen würden: anale Schmerzen</li></ul>",
-      "label": "Perianalthrombose",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hemorrhoids",
+      "explanation": "<ul><li>Probleme, welche durch <i>Divertikelblutung</i> besser erklärt sind: Blähungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hämorrhoiden</i> erhöhen würden: anale Schmerzen, analer Juckreiz</li></ul>",
+      "isCorrect": false,
+      "label": "Hämorrhoiden",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/H%C3%A4morrhoiden"
         }
-      },
-      "diagnosisId": "D.hemorrhoids",
-      "explanation": "<ul><li>Probleme, welche durch <i>Divertikelblutung</i> besser erklärt sind: Blähungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hämorrhoiden</i> erhöhen würden: anale Schmerzen, analer Juckreiz</li></ul>",
-      "label": "Hämorrhoiden",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.bowelPolyps",
       "explanation": "<ul><li>Probleme, welche durch <i>Divertikelblutung</i> besser erklärt sind: Blähungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Darmpolypen</i> erhöhen würden: Obstipation, Diarrhoe</li></ul>",
+      "isCorrect": false,
       "label": "Darmpolypen",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (72) bei Hämatochezie seit fünf Tagen.<br /><br />Zusätzlich berichtet der Patient über Blähungen.<br /><br />Obstipation, Bauchschmerzen, Diarrhoe, analer Juckreiz, Nausea, ein Gewichtsverlust und Synkopen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",

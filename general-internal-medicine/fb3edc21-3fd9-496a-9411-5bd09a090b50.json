@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.comaDiabeticum",
-      "label": "Hyperglykämisches Koma",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperglykämisches Koma"
     },
     {
       "diagnosisId": "D.migraineHeadache",
-      "label": "Migräne",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Migräne"
     },
     {
       "diagnosisId": "D.postictalState",
-      "label": "Postiktaler Zustand",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Postiktaler Zustand"
     },
     {
       "diagnosisId": "D.ischemicStroke",
-      "label": "Ischämischer Schlaganfall",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ischämischer Schlaganfall"
     },
     {
       "diagnosisId": "D.diabeticKetoacidosis",
-      "label": "Diabetische Ketoazidose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Diabetische Ketoazidose"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (67) bei einer Muskelschwäche seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Sensibilitätsstörungen, Dysarthrie und einen Bewusstseinsverlust.<br /><br />Schwindel, Sehstörungen, Nausea, Kopfschmerzen, Fieber, Rückenschmerzen, ein Gewichtsverlust, Bauchschmerzen, Polyurie und Krampfanfälle werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 18py (20 Zigaretten täglich während 18 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

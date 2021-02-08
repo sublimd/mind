@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.carpalTunnelSyndrome",
-      "label": "Karpaltunnelsyndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Karpaltunnelsyndrom"
     },
     {
       "diagnosisId": "D.perniciousAnemia",
-      "label": "Perniziöse Anämie",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Perniziöse Anämie"
     },
     {
       "diagnosisId": "D.hyperparathyroidism",
-      "label": "Hyperparathyroidismus",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperparathyroidismus"
     },
     {
       "diagnosisId": "D.respiratoryAcidosis",
-      "label": "Respiratorische Azidose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Respiratorische Azidose"
     },
     {
       "diagnosisId": "D.lacticAcidosis",
-      "label": "Laktatazidose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Laktatazidose"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (29) bei einer vermehrten Müdigkeit seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Sensibilitätsstörungen an den Händen, Dyspnoe, Palpitationen und eine Muskelschwäche.<br /><br />Fieber, Nausea, Erbrechen, Schlafstörungen, ein Gewichtsverlust, Bauchschmerzen, Polyurie, ein Ikterus, Nachtschweiss, Veränderungen der Mundschleimhaut und eine Zungenschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",

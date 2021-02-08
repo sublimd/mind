@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.hypercalcemiaOfMalignancy",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Tumorhyperkalzämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Tumorhyperkalz%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.hypercalcemiaOfMalignancy",
-      "explanation": "",
-      "label": "Tumorhyperkalzämie",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.ischemicStroke",
+      "explanation": "<ul><li>Probleme, welche durch <i>Tumorhyperkalzämie</i> besser erklärt sind: Polyurie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Sensibilitätsstörungen, Dysarthrie, Aphasie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Diabetes mellitus, Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Ischämischer Schlaganfall",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Isch%C3%A4mischer_Schlaganfall"
         }
-      },
-      "diagnosisId": "D.ischemicStroke",
-      "explanation": "<ul><li>Probleme, welche durch <i>Tumorhyperkalzämie</i> besser erklärt sind: Polyurie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Sensibilitätsstörungen, Dysarthrie, Aphasie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Diabetes mellitus, Nikotinabusus</li></ul>",
-      "label": "Ischämischer Schlaganfall",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.hypertensiveEncephalopathy",
       "explanation": "<ul><li>Probleme, welche durch <i>Tumorhyperkalzämie</i> besser erklärt sind: Polyurie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensive Enzephalopathie</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Enzephalopathie</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
       "label": "Hypertensive Enzephalopathie",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.concussion",
       "explanation": "<ul><li>Probleme, welche durch <i>Tumorhyperkalzämie</i> besser erklärt sind: Polyurie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Amnesie, Bewusstseinsverlust, Synkope, Somnolenz, Kopfschmerzen, Unfall, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Schädeltrauma</li></ul>",
+      "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.hyperkalemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Tumorhyperkalzämie</i> besser erklärt sind: Verwirrtheit</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkaliämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperkali%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.hyperkalemia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Tumorhyperkalzämie</i> besser erklärt sind: Verwirrtheit</li></ul>",
-      "label": "Hyperkaliämie",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (74) bei einer Muskelschwäche seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Polyurie und eine Verwirrtheit.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Sensibilitätsstörungen, Rückenschmerzen, Nausea, Unfall, Kopfschmerzen, eine allgemeine Müdigkeit, Synkopen, Obstipation, Palpitationen, Sehstörungen, Bauchschmerzen, eine depressive Stimmung und Fieber werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",

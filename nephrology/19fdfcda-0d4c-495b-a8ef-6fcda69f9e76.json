@@ -1,55 +1,55 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.atrioventricularBlockThirdDegree",
       "explanation": "<ul><li>Probleme, welche durch <i>Chronische Niereninsuffizienz</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Block III°</i> erhöhen würden: Schwindel, Palpitationen, Bradykardien</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>AV-Block III°</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
       "label": "AV-Block III°",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.ironDeficiencyAnemia",
+      "explanation": "<ul><li><i>Eisenmangelanämie</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Chronische Niereninsuffizienz</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Eisenmangelan%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.ironDeficiencyAnemia",
-      "explanation": "<ul><li><i>Eisenmangelanämie</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Chronische Niereninsuffizienz</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
-      "label": "Eisenmangelanämie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.buddChiariSyndrome",
+      "explanation": "<ul><li><i>Chronische Niereninsuffizienz</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Budd-Chiari-Syndrom</i> erhöhen würden: Ikterus, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Budd-Chiari-Syndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Budd-Chiari-Syndrom"
         }
-      },
-      "diagnosisId": "D.buddChiariSyndrome",
-      "explanation": "<ul><li><i>Chronische Niereninsuffizienz</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Budd-Chiari-Syndrom</i> erhöhen würden: Ikterus, Bauchschmerzen</li></ul>",
-      "label": "Budd-Chiari-Syndrom",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.chronicKidneyDisease",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chronische Niereninsuffizienz",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Chronische_Niereninsuffizienz"
         }
-      },
-      "diagnosisId": "D.chronicKidneyDisease",
-      "explanation": "",
-      "label": "Chronische Niereninsuffizienz",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.hypercalcemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Niereninsuffizienz</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.hypercalcemia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Niereninsuffizienz</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
-      "label": "Hyperkalzämie",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (60) bei einer vermehrten Müdigkeit seit einem Monat.<br /><br />Zusätzlich berichtet der Patient über Nausea und Pruritus.<br /><br />Dyspnoe, Fieber, Schlafstörungen, ein Gewichtsverlust, Bauchschmerzen, Palpitationen, eine depressive Stimmung, Muskelkrämpfe, Nachtschweiss und Geschmacksstörung werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.myocarditis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit, Nackenschmerzen, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Palpitationen, Tachykardien, Schwellung der Unterschenkel, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Myokarditis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
         }
-      },
-      "diagnosisId": "D.myocarditis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit, Nackenschmerzen, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Palpitationen, Tachykardien, Schwellung der Unterschenkel, Thoraxschmerzen</li></ul>",
-      "label": "Myokarditis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.ironDeficiencyAnemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Fieber, Gliederschmerzen, Nackensteifigkeit, Nackenschmerzen, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Eisenmangelan%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.ironDeficiencyAnemia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Fieber, Gliederschmerzen, Nackensteifigkeit, Nackenschmerzen, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
-      "label": "Eisenmangelanämie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.infectiousMononucleosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit, Nackenschmerzen, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
         }
-      },
-      "diagnosisId": "D.infectiousMononucleosis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit, Nackenschmerzen, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
-      "label": "Infektiöse Mononukleose",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteViralMeningitis",
       "explanation": "",
+      "isCorrect": true,
       "label": "Akute virale Meningitis",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackenschmerzen, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (20) bei Kopfschmerzen seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Fieber, Gliederschmerzen, eine Verwirrtheit, Nackenschmerzen mit Nackensteifigkeit und eine Hörminderung.<br /><br /> Der Aufenthalt in Wäldern wird verneint. <br /><br />Nausea, Erbrechen, Schwindel, Sehstörungen, ein kürzlicher Bewusstseinsverlust, Schüttelfrost, eine Photophobie, eine Phonophobie, Lähmungserscheinungen, Sensibilitätsstörungen, Husten, Tachykardien, Thoraxschmerzen, Palpitationen und Diarrhoe werden verneint. <h2>Diagnoseliste</h2>- Zoster ophthalmicus<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",

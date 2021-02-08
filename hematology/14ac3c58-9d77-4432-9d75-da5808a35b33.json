@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.ironDeficiencyAnemia",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Eisenmangelanämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Eisenmangelan%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.ironDeficiencyAnemia",
-      "explanation": "",
-      "label": "Eisenmangelanämie",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.hashimotoThyroiditis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hashimoto-Thyreoiditis</i> erhöhen würden: Obstipation, Kälteintoleranz, Gewichtszunahme</li></ul>",
+      "isCorrect": false,
+      "label": "Hashimoto-Thyreoiditis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hashimoto-Thyreoiditis"
         }
-      },
-      "diagnosisId": "D.hashimotoThyroiditis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hashimoto-Thyreoiditis</i> erhöhen würden: Obstipation, Kälteintoleranz, Gewichtszunahme</li></ul>",
-      "label": "Hashimoto-Thyreoiditis",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
       "explanation": "",
+      "isCorrect": false,
       "label": "Anämie im Rahmen chronischer Erkrankung",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.pulmonaryEdema",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenödem</i> erhöhen würden: Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenödem",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Lungen%C3%B6dem"
         }
-      },
-      "diagnosisId": "D.pulmonaryEdema",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenödem</i> erhöhen würden: Husten</li></ul>",
-      "label": "Lungenödem",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.overweight",
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Übergewicht",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/%C3%9Cbergewicht"
         }
-      },
-      "diagnosisId": "D.overweight",
-      "explanation": "",
-      "label": "Übergewicht",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (18) bei einer vermehrten Müdigkeit seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe.<br /><br />Fieber, Schlafstörungen, ein Gewichtsverlust, Thoraxschmerzen, eine depressive Verstimmung, Obstipation, Nachtschweiss, und Knieschmerzen werden verneint. <h2>Diagnoseliste</h2>- Hypermenorrhoe<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein und Sekt).",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.epididymitis",
-      "label": "Epididymitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Epididymitis"
     },
     {
       "diagnosisId": "D.spermatocele",
-      "label": "Spermatozele",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Spermatozele"
     },
     {
       "diagnosisId": "D.inguinalHernia",
-      "label": "Akuter Harnverhalt",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akuter Harnverhalt"
     },
     {
       "diagnosisId": "D.malignantNeoplasmOfKidney",
-      "label": "Nierenkarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nierenkarzinom"
     },
     {
       "diagnosisId": "D.testicularTorsion",
-      "label": "Hodentorsion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hodentorsion"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (68) bei einer Hodenschwellung seit zehn Tagen.<br /><br />Hodenschmerzen, Flankenschmerzen, Hämaturie, Bauchschmerzen, Nausea und Fieber werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",

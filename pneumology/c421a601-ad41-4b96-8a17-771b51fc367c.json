@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.foreignBodyAtelectasis",
-      "label": "Atelektase durch Fremdkörper",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Atelektase durch Fremdkörper"
     },
     {
       "diagnosisId": "D.thymoma",
-      "label": "Thymom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Thymom"
     },
     {
       "diagnosisId": "D.fungalPneumonia",
-      "label": "Pilzpneumonie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pilzpneumonie"
     },
     {
       "diagnosisId": "D.cardiacTamponade",
-      "label": "Perikardtamponade",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Perikardtamponade"
     },
     {
       "diagnosisId": "D.pulmonaryInfarction",
-      "label": "Lungeninfarkt",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lungeninfarkt"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (54) bei Thoraxschmerzen seit zwei Tagen.<br /><br />Verstärkung der Thoraxschmerzen durch tiefe Inspiration.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe, Husten und Hämoptoe.<br /><br />Schwindel, Fieber, Schüttelfrost, erhöhte Blutdruckwerte und Kopfschmerzen werden verneint. <h2>Diagnoseliste</h2>- Lungenembolie vor zwei Wochen<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

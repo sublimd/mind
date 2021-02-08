@@ -1,55 +1,55 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.acuteAsthma",
       "explanation": "<ul><li>Probleme, welche durch <i>Perikardtamponade</i> besser erklärt sind: Schwindel, Schwellung der Unterschenkel, Tachykardien</li></ul>",
+      "isCorrect": false,
       "label": "Akute Exazerbation eines Asthma bronchiale",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.anginaPectorisStable",
+      "explanation": "<ul><li>Probleme, welche durch <i>Perikardtamponade</i> besser erklärt sind: Husten, Schwellung der Unterschenkel, Tachykardien</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Stabile Angina pectoris",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Stabile_Angina_Pectoris"
         }
-      },
-      "diagnosisId": "D.anginaPectorisStable",
-      "explanation": "<ul><li>Probleme, welche durch <i>Perikardtamponade</i> besser erklärt sind: Husten, Schwellung der Unterschenkel, Tachykardien</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
-      "label": "Stabile Angina pectoris",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.cardiacTamponade",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Perikardtamponade",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Perikardtamponade"
         }
-      },
-      "diagnosisId": "D.cardiacTamponade",
-      "explanation": "",
-      "label": "Perikardtamponade",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.atrialFibrillation",
+      "explanation": "<ul><li>Probleme, welche durch <i>Perikardtamponade</i> besser erklärt sind: Husten, Schwellung der Unterschenkel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Vorhofflimmern",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Vorhofflimmern"
         }
-      },
-      "diagnosisId": "D.atrialFibrillation",
-      "explanation": "<ul><li>Probleme, welche durch <i>Perikardtamponade</i> besser erklärt sind: Husten, Schwellung der Unterschenkel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
-      "label": "Vorhofflimmern",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.myocarditis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Perikardtamponade</i> besser erklärt sind: Schwindel, Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Myokarditis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
         }
-      },
-      "diagnosisId": "D.myocarditis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Perikardtamponade</i> besser erklärt sind: Schwindel, Husten</li></ul>",
-      "label": "Myokarditis",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (80) bei Dyspnoe seit einem Tag.<br /><br />Verschlimmerung der Dyspnoe bei körperlicher Anstrengung.<br /><br />Zusätzlich berichtet die Patientin über Schwindel, Thoraxschmerzen, Husten, eine beidseitige Unterschenkelschwellung und Tachykardien.<br /><br />Verstärkung des Schwindels bei körperlicher Anstrengung.<br /><br />Als mögliche Auslöser der Thoraxschmerzen nennt die Patientin körperliche Anstrengung.<br /><br />Eine allgemeine Müdigkeit, Palpitationen, Fieber, Bauchschmerzen, Synkopen, Erbrechen, Nykturie und Orthopnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 64py (20 Zigaretten täglich während 64 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",

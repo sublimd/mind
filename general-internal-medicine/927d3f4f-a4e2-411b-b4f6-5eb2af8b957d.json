@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.keratoconjunctivitisSicca",
-      "label": "Keratokonjunktivitis sicca",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Keratokonjunktivitis sicca"
     },
     {
       "diagnosisId": "D.cerebralMetastasis",
-      "label": "Hirnmetastasen",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hirnmetastasen"
     },
     {
       "diagnosisId": "D.pterygium",
-      "label": "Pterygium",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pterygium"
     },
     {
       "diagnosisId": "D.insulinoma",
-      "label": "Insulinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Insulinom"
     },
     {
       "diagnosisId": "D.wetAgeRelatedMacularDegeneration",
-      "label": "Feuchte altersbedingte Makuladegeneration",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Feuchte altersbedingte Makuladegeneration"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (66) bei Sehstörungen seit zwei Monaten.<br /><br />Die Patientin beschreibt ein Verschwommensehen.<br /><br />Kopfschmerzen, eine Augenrötung, Krampfanfälle, Augenschmerzen, Nausea, eine Photophobie und Fieber werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

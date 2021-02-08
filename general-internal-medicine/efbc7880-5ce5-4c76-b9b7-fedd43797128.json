@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Metabolische Azidose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Metabolische Azidose"
     },
     {
-      "label": "Metabolische Alkalose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Metabolische Alkalose"
     },
     {
-      "label": "Diabetische Ketoazidose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Diabetische Ketoazidose"
     },
     {
-      "label": "Diabetes insipidus centralis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Diabetes insipidus centralis"
     },
     {
-      "label": "Diabetes mellitus Typ 1",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Diabetes mellitus Typ 1"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (65) bei Polyurie seit vier Monaten.<br /><br />Zusätzlich berichtet die Patientin über ein vermehrtes Durstgefühl, Nykturie und Nausea.<br /><br />Ein Gewichtsverlust, Appetitverlust, Obstipation, Lähmungserscheinungen, Verwirrtheit und eine kürzlicher Bewusstseinsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 46py (20 Zigaretten täglich während 46 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",

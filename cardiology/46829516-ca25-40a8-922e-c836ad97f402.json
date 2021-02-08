@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.rhythmogenicSyncope",
-      "label": "Rhythmogene Synkope",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rhythmogene Synkope"
     },
     {
       "diagnosisId": "D.hyponatremia",
-      "label": "Hyponatriämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyponatriämie"
     },
     {
       "diagnosisId": "D.complexFocalEpilepticSeizure",
-      "label": "Komplex fokaler epileptischer Anfall",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Komplex fokaler epileptischer Anfall"
     },
     {
       "diagnosisId": "D.vasovagalSyncope",
-      "label": "Vasovagale Synkope",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Vasovagale Synkope"
     },
     {
       "diagnosisId": "D.concussion",
-      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei einer Synkope vor einer Stunde.<br /><br />Der Patient berichtet über Palpitationen vor der Synkope.<br /><br />Nausea, Erbrechen und Kopfschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein). <h2>Familienanamnese</h2><strong>Plötzlicher Todesfall</strong>.",

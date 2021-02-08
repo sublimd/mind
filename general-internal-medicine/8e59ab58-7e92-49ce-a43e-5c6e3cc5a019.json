@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.sarcoidosis",
-      "label": "Sarkoidose",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Sarkoidose"
     },
     {
       "diagnosisId": "D.chronicHypersensitivityPneumonitis",
-      "label": "Exogen-allergische Alveolitis (chronisch)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Exogen-allergische Alveolitis (chronisch)"
     },
     {
       "diagnosisId": "D.pulmonaryFibrosis",
-      "label": "Lungenfibrose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenfibrose"
     },
     {
       "diagnosisId": "D.lymphoma",
-      "label": "Lymphom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lymphom"
     },
     {
       "diagnosisId": "D.granulomatosisWithPolyangiitis",
-      "label": "Granulomatose mit Polyangiitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Granulomatose mit Polyangiitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (42) bei Dyspnoe seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Husten, eine erythematöse Hautveränderung an der unteren Extremität beidseits, einen Gewichtsverlust, eine Augenrötung und eine vermehrte Müdigkeit.<br /><br />Fieber, Thoraxschmerzen, paroxysmale nächtliche Dyspnoe, Appetitverlust, Nachtschweiss, Gelenkschmerzen und Hämoptoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",

@@ -1,47 +1,47 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "",
+      "isCorrect": true,
       "label": "Allergische Konjunktivitis",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.viralConjunctivitis",
       "explanation": "",
+      "isCorrect": false,
       "label": "Virale Konjunktivitis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.chalazion",
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chalazion",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Chalazion"
         }
-      },
-      "diagnosisId": "D.chalazion",
-      "explanation": "",
-      "label": "Chalazion",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.allergicRhinoconjunctivitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Niesen</li></ul>",
+      "isCorrect": false,
+      "label": "Allergische Rhinokonjunktivitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Allergische_Rhinokonjunktivitis"
         }
-      },
-      "diagnosisId": "D.allergicRhinoconjunctivitis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Niesen</li></ul>",
-      "label": "Allergische Rhinokonjunktivitis",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.foreignBodyInConjunctiva",
       "explanation": "",
+      "isCorrect": false,
       "label": "Konjunktivaler Fremdkörper",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (67) bei einer beidseitigen Augenrötung.<br /><br />Zusätzlich berichtet der Patient über wässrigen Ausfluss aus den Augen, Juckreiz, eine beidseitige Augenschwellung und Sehstörungen.<br /><br />Allergien auf Umweltfaktoren (Pollen, Katzenhaare etc.) werden bejaht.<br /><br />Augenschmerzen, Rhinorrhoe, ein Fremdkörpergefühl im Auge, Odynophagie und Halsschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier und Wein).",

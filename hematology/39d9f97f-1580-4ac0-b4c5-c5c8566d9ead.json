@@ -1,55 +1,55 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.acuteDisseminatedIntravascularCoagulation",
       "explanation": "<ul><li>Probleme, welche durch <i>Immunthrombozytopenie (ITP)</i> besser erklärt sind: Kopfschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Akute disseminierte intravasale Gerinnung (DIC)",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
+      "explanation": "<ul><li><i>Immunthrombozytopenie (ITP)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Nausea, Bauchschmerzen, Erbrechen, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Thrombotisch-thrombozytopenische_Purpura"
         }
-      },
-      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
-      "explanation": "<ul><li><i>Immunthrombozytopenie (ITP)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Nausea, Bauchschmerzen, Erbrechen, Schwindel</li></ul>",
-      "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.immuneThrombocytopenia",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Immunthrombozytopenie (ITP)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Immunthrombozytopenie"
         }
-      },
-      "diagnosisId": "D.immuneThrombocytopenia",
-      "explanation": "",
-      "label": "Immunthrombozytopenie (ITP)",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.liverCirrhosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Immunthrombozytopenie (ITP)</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Gewichtsverlust, Appetitverlust, Ikterus, Pruritus, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Leberzirrhose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Leberzirrhose"
         }
-      },
-      "diagnosisId": "D.liverCirrhosis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Immunthrombozytopenie (ITP)</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Gewichtsverlust, Appetitverlust, Ikterus, Pruritus, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
-      "label": "Leberzirrhose",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.acuteMyeloidLeukemia",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute myeloische Leukämie</i> erhöhen würden: Nachtschweiss</li></ul>",
+      "isCorrect": false,
+      "label": "Akute myeloische Leukämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Akute_myeloische_Leuk%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.acuteMyeloidLeukemia",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute myeloische Leukämie</i> erhöhen würden: Nachtschweiss</li></ul>",
-      "label": "Akute myeloische Leukämie",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (52) bei multiplen bläulichen Hautveränderungen an den Armen.<br /><br />Zusätzlich berichtet der Patient über Zahnfleischbluten seit sieben Tagen sowie eine vermehrte Müdigkeit und dumpfe Kopfschmerzen (bis VAS 5/10).<br /><br />Im Verlauf seien die Kopfschmerzen gleichbleibend. Die Kopfschmerzen hätten aktuell eine Intensität von VAS 1/10.<br /><br /> Keine Einschlafneigung tagsüber. <br /><br />Fieber, Schüttelfrost, Bauchschmerzen, Nausea, Nachtschweiss und Hämatemesis werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",

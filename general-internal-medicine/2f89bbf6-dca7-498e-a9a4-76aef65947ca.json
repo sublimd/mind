@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.sickSinusSyndrome",
-      "label": "Sick-Sinus-Syndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sick-Sinus-Syndrom"
     },
     {
       "diagnosisId": "D.polycythemiaVera",
-      "label": "Polycythämia vera",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Polycythämia vera"
     },
     {
       "diagnosisId": "D.acuteViralMeningitis",
-      "label": "Akute virale Meningitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute virale Meningitis"
     },
     {
       "diagnosisId": "D.cerebralMetastasis",
-      "label": "Hirnmetastasen",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hirnmetastasen"
     },
     {
       "diagnosisId": "D.syndromeOfInappropriateAntidiureticHormoneSecretion",
-      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (58) bei Kopfschmerzen seit vier Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Fieber, Verwirrtheit, Nackensteifigkeit, Schwindel und Sehstörungen.<br /><br />Nausea, Erbrechen, eine kürzlicher Bewusstseinsverlust, Synkopen, eine Photophobie, Nackenschmerzen, eine Phonophobie, Lähmungserscheinungen, Sensibilitätsstörungen, Husten, Tachykardien, Thoraxschmerzen, Palpitationen, eine Hörminderung, Gliederschmerzen und Diarrhoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein).",

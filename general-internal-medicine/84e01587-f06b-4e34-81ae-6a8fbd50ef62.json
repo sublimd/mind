@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Choledocholithiasis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Choledocholithiasis"
     },
     {
-      "label": "Akute Hepatitis C-Infektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Hepatitis C-Infektion"
     },
     {
-      "label": "Akute Cholezystitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Cholezystitis"
     },
     {
-      "label": "Chronische Niereninsuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische Niereninsuffizienz"
     },
     {
-      "label": "Schwangerschaftscholestase",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Schwangerschaftscholestase"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (40) bei Pruritus seit vier Tagen.<br /><br />Im Zusammenhang mit dem Pruritus sei es ausserdem zu Bauchschmerzen im rechten Oberbauch gekommen.<br /><br />Zusätzlich berichtet die Patientin über Nausea und Schlafstörungen.<br /><br />Die Patientin gibt an, schwanger zu sein.<br /><br /> Ein Exanthem oder Müdigkeit im Zusammenhang mit dem Pruritus wird verneint. Der Konsum von intravenösen Drogen und der Erhalt von Bluttransfusionen wird verneint. <br /><br />Ein Ikterus, Fieber, Schüttelfrost, ein Leistungsabfall, ein allgemeines Schwächegefühl und Gelenkschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 21py (30 Zigaretten täglich während 14 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",

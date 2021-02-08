@@ -3,32 +3,32 @@
     {
       "diagnosisId": "D.reactiveArthritis",
       "explanation": "",
-      "label": "Reaktive Arthritis",
-      "isCorrect": true
+      "isCorrect": true,
+      "label": "Reaktive Arthritis"
     },
     {
       "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Hautveränderungen, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Kopfschmerzen, Gliederschmerzen, Nackensteifigkeit, Appetitverlust, Gewichtsverlust, vergrösserter Lymphknoten, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
-      "label": "Lyme Borreliose Stadium 1",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 1"
     },
     {
       "diagnosisId": "D.malaria",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Malaria</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Malaria</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
-      "label": "Malaria",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Malaria"
     },
     {
       "diagnosisId": "D.chikungunyaFever",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Chikungunya Fieber</i> erhöhen würden: Fieber, Schüttelfrost, Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chikungunya Fieber</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
-      "label": "Chikungunya Fieber",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Chikungunya Fieber"
     },
     {
       "diagnosisId": "D.bacterialEndocarditis",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Bakterielle Endokarditis</i> erhöhen würden: Fieber, Schüttelfrost, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Dyspnoe, Palpitationen, Tachykardien, Thoraxschmerzen, Nachtschweiss, Hyperhidrose</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Bakterielle Endokarditis</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Bakterielle Endokarditis",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Bakterielle Endokarditis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (44) bei Gelenkschmerzen seit einer Woche.<br /><br /> Der Aufenthalt in Wäldern und Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Fieber, Kopfschmerzen, Rückenschmerzen, Nausea und Gliederschmerzen werden verneint. <h2>Diagnoseliste</h2>- M. Crohn<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",

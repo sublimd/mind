@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.pseudoCroup",
-      "label": "Laryngitis subglottica (Pseudokrupp)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Laryngitis subglottica (Pseudokrupp)"
     },
     {
       "diagnosisId": "D.qFever",
-      "label": "Q Fieber",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Q Fieber"
     },
     {
       "diagnosisId": "D.tickborneEncephalitis",
-      "label": "Frühsommer-Meningoencephalitis (FSME)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Frühsommer-Meningoencephalitis (FSME)"
     },
     {
       "diagnosisId": "D.typhoidFever",
-      "label": "Typhus abdominalis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Typhus abdominalis"
     },
     {
       "diagnosisId": "D.acuteBronchitis",
-      "label": "Akute Bronchitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Bronchitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (65) bei Fieber seit sechs Tagen.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Kopfschmerzen, Halsschmerzen, Gliederschmerzen und Husten.<br /><br />Der Patient arbeite als Bauer mit Rindern.<br /><br />Bauchschmerzen, Nausea, Diarrhoe, Odynophagie, Dysphagie, Dyspnoe, Rhinorrhoe, Flankenschmerzen, Dysurie, Schüttelfrost und Dysphonie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",

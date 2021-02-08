@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
-      "label": "Ambulant erworbene atypische Pneumonie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ambulant erworbene atypische Pneumonie"
     },
     {
       "diagnosisId": "D.otitisExternaCircumscripta",
-      "label": "Otitis externa circumscripta",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Otitis externa circumscripta"
     },
     {
       "diagnosisId": "D.peritonsillarAbscess",
-      "label": "Peritonsillarabszess",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Peritonsillarabszess"
     },
     {
       "diagnosisId": "D.acuteOtitisMedia",
-      "label": "Akute Otitis media",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Otitis media"
     },
     {
       "diagnosisId": "D.auricularPerichondritis",
-      "label": "Perichondritis auricularis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Perichondritis auricularis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (20) bei Ohrenschmerzen seit drei Wochen.<br /><br />Zusätzlich berichtet die Patientin über eine Hörminderung und Fieber.<br /><br />Ausfluss aus dem Ohr, Schwindel, Tinnitus, Pruritus, Schüttelfrost, Odynophagie und Husten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",

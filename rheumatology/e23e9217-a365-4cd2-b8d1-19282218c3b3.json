@@ -1,47 +1,47 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.tenosynovitis",
       "explanation": "",
+      "isCorrect": true,
       "label": "Tendosynovitis",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.goutyArthritis",
       "explanation": "<ul><li><i>Gichtarthritis</i> kommt häufiger bei männlichen Patienten vor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gichtarthritis</i> erhöhen würden: Hautrötung, Handschwellung</li></ul>",
+      "isCorrect": false,
       "label": "Gichtarthritis",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.osMetacarpaleFracture",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Os metacarpale Fraktur</i> erhöhen würden: Handschmerzen, Unfall, Handschwellung, Hautschwellung, Unfall</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Os metacarpale Fraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der oberen Extremität, Vorangehendes Trauma</li></ul>",
+      "isCorrect": false,
       "label": "Os metacarpale Fraktur",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.rheumatoidArthritis",
+      "explanation": "<ul></ul>",
+      "isCorrect": false,
+      "label": "Rheumatoide Arthritis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Rheumatoide_Arthritis"
         }
-      },
-      "diagnosisId": "D.rheumatoidArthritis",
-      "explanation": "<ul></ul>",
-      "label": "Rheumatoide Arthritis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.scaphoidFracture",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Scaphoidfraktur</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "isCorrect": false,
+      "label": "Scaphoidfraktur",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Scaphoidfraktur"
         }
-      },
-      "diagnosisId": "D.scaphoidFracture",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Scaphoidfraktur</i> erhöhen würden: Kürzliches Trauma</li></ul>",
-      "label": "Scaphoidfraktur",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei dorsalen Handgelenksschmerzen seit vier Tagen.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Eine Handschwellung, eine Handrötung, eine Handsteifigkeit, Fieber, eine Schwellung der Unterschenkel oder andere Gelenkbeschwerden werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 54py (30 Zigaretten täglich während 36 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",

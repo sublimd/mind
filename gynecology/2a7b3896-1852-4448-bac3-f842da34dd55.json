@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.pulmonaryEmphysema",
+      "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: Knoten in der Brust, Hautveränderung der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenemphysem</i> erhöhen würden: Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenemphysem",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Lungenemphysem"
         }
-      },
-      "diagnosisId": "D.pulmonaryEmphysema",
-      "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: Knoten in der Brust, Hautveränderung der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenemphysem</i> erhöhen würden: Dyspnoe</li></ul>",
-      "label": "Lungenemphysem",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.breastCancer",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Mammakarzinom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Mammakarzinom"
         }
-      },
-      "diagnosisId": "D.breastCancer",
-      "explanation": "",
-      "label": "Mammakarzinom",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.breastCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: Hautveränderung der Brust, Müdigkeit</li></ul>",
+      "isCorrect": false,
       "label": "Brustzyste",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.breastAbscess",
       "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Brustabszess</i> erhöhen würden: Brustschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Brustabszess",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.ironDeficiencyAnemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: Knoten in der Brust, Hautveränderung der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Eisenmangelan%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.ironDeficiencyAnemia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: Knoten in der Brust, Hautveränderung der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
-      "label": "Eisenmangelanämie",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (51) bei einem Knoten in der linken Brust seit einem Monat.<br /><br />Der Knoten seien durch Selbstuntersuchung der Brust festgestellt worden.<br /><br />Zusätzlich berichtet die Patientin über einer Hautveränderung an der Brust und eine vermehrte Müdigkeit.<br /><br />Die Müdigkeit sei am Mittag am stärksten ausgeprägt.<br /><br /> Keine Einschlafneigung tagsüber. <br /><br />Brustschmerzen, Thoraxschmerzen, vergrösserte Lymphknoten, Fieber, Ausfluss aus der Brust, Palpitationen und Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 11py (10 Zigaretten täglich während 22 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",

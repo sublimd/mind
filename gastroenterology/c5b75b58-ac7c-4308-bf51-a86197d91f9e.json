@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.thyroidStorm",
-      "label": "Thyreotoxische Krise",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Thyreotoxische Krise"
     },
     {
       "diagnosisId": "D.biliaryLeak",
-      "label": "Gallengangsleckage",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Gallengangsleckage"
     },
     {
       "diagnosisId": "D.alcoholicLiverDisease",
-      "label": "Alkoholische Steatohepatitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Alkoholische Steatohepatitis"
     },
     {
       "diagnosisId": "D.cholangitis",
-      "label": "Cholangitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Cholangitis"
     },
     {
       "diagnosisId": "D.gallbladderEmpyema",
-      "label": "Gallenblasenempyem",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Gallenblasenempyem"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (52) bei Fieber seit sechs Tagen.<br /><br />Zusätzlich berichtet der Patient über Bauchschmerzen im rechten Oberbauch, einen Ikterus, Nausea und eine Verwirrtheit.<br /><br /> Operationen in den letzten drei Monaten werden verneint. <br /><br />Diarrhoe, Odynophagie, Husten, Dyspnoe, Tachykardien, Flankenschmerzen, Dysurie, niedrige Blutdruckwerte, ein Appetitverlust, ein Gewichtsverlust und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein und Sekt).",

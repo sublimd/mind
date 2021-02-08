@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.chondrocalcinosis",
-      "label": "CPP-Kristall-Arthritis (Pseudogicht)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "CPP-Kristall-Arthritis (Pseudogicht)"
     },
     {
       "diagnosisId": "D.goutyArthritis",
-      "label": "Gichtarthritis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Gichtarthritis"
     },
     {
       "diagnosisId": "D.wristGanglion",
-      "label": "Handgelenksganglion",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Handgelenksganglion"
     },
     {
       "diagnosisId": "D.psoriaticArthritis",
-      "label": "Psoriasis-Arthritis (PsA)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Psoriasis-Arthritis (PsA)"
     },
     {
       "diagnosisId": "D.scapholunateDissociation",
-      "label": "Skapholunäre Dissoziation",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Skapholunäre Dissoziation"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (63) bei Handgelenksschmerzen seit drei Wochen.<br /><br />Fieber, eine Handschwellung, eine Handrötung und eine Handsteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",

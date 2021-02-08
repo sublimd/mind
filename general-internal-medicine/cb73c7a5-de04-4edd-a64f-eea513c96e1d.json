@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.intestinalPseudoObstruction",
-      "label": "Intestinale Pseudoobstruktion (Ogilvie-Syndrom)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Intestinale Pseudoobstruktion (Ogilvie-Syndrom)"
     },
     {
       "diagnosisId": "D.migraineHeadache",
-      "label": "Migräne",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Migräne"
     },
     {
       "diagnosisId": "D.autonomicNeuropathy",
-      "label": "Autonome Neuropathie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Autonome Neuropathie"
     },
     {
       "diagnosisId": "D.hypercalcemia",
-      "label": "Hyperkalzämie",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperkalzämie"
     },
     {
       "diagnosisId": "D.cholelithiasis",
-      "label": "Cholelithiasis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cholelithiasis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei Nausea seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über Obstipation und ein vermehrtes Durstgefühl.<br /><br />Bauchschmerzen, Schwindel, eine allgemeine Müdigkeit, Palpitationen, Lähmungserscheinungen, eine Phonophobie, eine Urininkontinenz und ein Harnverhalt werden verneint. <h2>Diagnoseliste</h2>- Prostatakarzinom<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",

@@ -1,43 +1,43 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Kopfschmerzen, Ohrenschmerzen, Halsschmerzen, Gelenkschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.pulmonaryAspiration",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Aspirationspneumonie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Aspirationspneumonie"
         }
-      },
-      "diagnosisId": "D.pulmonaryAspiration",
-      "explanation": "",
-      "label": "Aspirationspneumonie",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.superiorVenaCavaSyndrome",
       "explanation": "<ul><li><i>Aspirationspneumonie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> erhöhen würden: Hautschwellung, Schwellung der Arme, Thoraxschmerzen, Kopfschmerzen, Verwirrtheit, Sehstörungen, Schwindel</li></ul>",
+      "isCorrect": false,
       "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.viralPharyngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Virale Pharyngitis",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (7) bei produktivem Husten seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe, Fieber und Dysphonie.<br /><br />Der Patient könne kein Stockwerk ohne Pause hochsteigen.<br /><br />Thoraxschmerzen, Rhinorrhoe, Halsschmerzen, Odynophagie, Hämoptoe, Kopfschmerzen und saures Aufstossen werden verneint.",

@@ -1,47 +1,47 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.copdExacerbation",
       "explanation": "<ul><li>Probleme, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Schwindel</li></ul>",
+      "isCorrect": false,
       "label": "COPD Exazerbation",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.superiorVenaCavaSyndrome",
       "explanation": "",
+      "isCorrect": true,
       "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.pneumothorax",
+      "explanation": "<ul><li>Probleme, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Pneumothorax",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Pneumothorax"
         }
-      },
-      "diagnosisId": "D.pneumothorax",
-      "explanation": "<ul><li>Probleme, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Kopfschmerzen</li></ul>",
-      "label": "Pneumothorax",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteAsthma",
       "explanation": "<ul><li>Probleme, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Schwindel</li></ul>",
+      "isCorrect": false,
       "label": "Akute Exazerbation eines Asthma bronchiale",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.preeclampsia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Husten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Präeklampsie</i> erhöhen würden: erhöhter Blutdruck, Gewichtszunahme, Sehstörungen, Bauchschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Präeklampsie</i> erhöhen würden: Schwangerschaft</li></ul>",
+      "isCorrect": false,
+      "label": "Präeklampsie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Pr%C3%A4eklampsie"
         }
-      },
-      "diagnosisId": "D.preeclampsia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Husten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Präeklampsie</i> erhöhen würden: erhöhter Blutdruck, Gewichtszunahme, Sehstörungen, Bauchschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Präeklampsie</i> erhöhen würden: Schwangerschaft</li></ul>",
-      "label": "Präeklampsie",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (55) bei Dyspnoe seit sieben Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Hautschwellung im Gesicht, Thoraxschmerzen, Husten, Kopfschmerzen und Schwindel.<br /><br />Fieber, eine Schwellung der Unterschenkel, Synkopen, eine Gewichtszunahme und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Diagnoseliste</h2>- Bronchuskarzinom- Arterielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 33py (30 Zigaretten täglich während 22 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",

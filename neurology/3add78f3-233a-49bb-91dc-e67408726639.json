@@ -1,39 +1,39 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.migraineHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
       "label": "Migräne",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.ischemicStroke",
       "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Sensibilitätsstörungen, Dysarthrie, Aphasie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "isCorrect": false,
       "label": "Ischämischer Schlaganfall",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.transientIschemicAttack",
       "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "isCorrect": false,
       "label": "Transitorische ischämische Attacke (TIA)",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.clusterHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cluster-Kopfschmerz</i> erhöhen würden: Ausfluss aus dem Auge</li></ul>",
+      "isCorrect": false,
       "label": "Cluster-Kopfschmerz",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.bellsPalsy",
       "explanation": "",
+      "isCorrect": true,
       "label": "Idiopathische Fazialisparese",
-      "isCorrect": true
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (67) bei einer Muskelschwäche der linken Gesichtshälfte seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Augentrockenheit und Kopfschmerzen.<br /><br />Sensibilitätsstörungen, Rückenschmerzen, Nausea, Erbrechen, Dysarthrie, eine Hörminderung und Fieber werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",

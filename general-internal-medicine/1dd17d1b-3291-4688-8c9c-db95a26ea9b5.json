@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Hypokaliämie",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypokaliämie"
     },
     {
-      "label": "Akute Divertikulitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
     },
     {
-      "label": "Ovarialzyste",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ovarialzyste"
     },
     {
-      "label": "Koprostase",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Koprostase"
     },
     {
-      "label": "Zystadenom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zystadenom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (60) bei Obstipation seit vier Tagen.<br /><br />Zusätzlich berichtet die Patientin über Palpitationen und Nausea.<br /><br />Erbrechen, Bauchschmerzen, Nykturie, eine kürzlicher Bewusstseinsverlust, eine depressive Stimmung und Angstzustände werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 3 x / Woche, jeweils 1 - 2 Standardgetränke / Tag.",

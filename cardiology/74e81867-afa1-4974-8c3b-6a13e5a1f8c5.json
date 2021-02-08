@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.anemiaMacrocytic",
-      "label": "Makrozytäre Anämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
     },
     {
       "diagnosisId": "D.bacterialEndocarditis",
-      "label": "Bakterielle Endokarditis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bakterielle Endokarditis"
     },
     {
       "diagnosisId": "D.tricuspidalValveInsufficiency",
-      "label": "Trikuspidalklappen-Insuffizienz",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Trikuspidalklappen-Insuffizienz"
     },
     {
       "diagnosisId": "D.copd",
-      "label": "COPD",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "COPD"
     },
     {
       "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
-      "label": "Anämie im Rahmen chronischer Erkrankung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Anämie im Rahmen chronischer Erkrankung"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (79) bei einer vermehrten Müdigkeit seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über Palpitationen, eine beidseitige Unterschenkelschwellung, Dyspnoe, Nykturie und Oberbauchschmerzen.<br /><br />Fieber, Schlafstörungen, Kopfschmerzen, ein Gewichtsverlust, Schwindel, Thoraxschmerzen, Synkopen, Nachtschweiss und eine Gewichtszunahme werden verneint. <h2>Diagnoseliste</h2>- Rheumatisches Fieber<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein).",

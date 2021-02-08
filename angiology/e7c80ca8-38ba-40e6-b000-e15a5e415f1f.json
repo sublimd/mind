@@ -1,55 +1,55 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.stasisDermatitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Tiefe Venenthrombose</i> besser erklärt sind: Beinschmerzen, Hautüberwärmung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stauungsekzem</i> erhöhen würden: Varizen</li></ul>",
+      "isCorrect": false,
       "label": "Stauungsekzem",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.chronicVenousInsufficiency",
+      "explanation": "<ul><li>Probleme, welche durch <i>Tiefe Venenthrombose</i> besser erklärt sind: Hautüberwärmung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronisch venöse Insuffizienz</i> erhöhen würden: Varizen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronisch venöse Insuffizienz</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Chronisch-ven%C3%B6se_Insuffizienz"
         }
-      },
-      "diagnosisId": "D.chronicVenousInsufficiency",
-      "explanation": "<ul><li>Probleme, welche durch <i>Tiefe Venenthrombose</i> besser erklärt sind: Hautüberwärmung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronisch venöse Insuffizienz</i> erhöhen würden: Varizen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronisch venöse Insuffizienz</i> erhöhen würden: Nikotinabusus</li></ul>",
-      "label": "Chronisch venöse Insuffizienz",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.varicoseVeins",
+      "explanation": "<ul><li>Probleme, welche durch <i>Tiefe Venenthrombose</i> besser erklärt sind: Hautüberwärmung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Varikosis</i> erhöhen würden: Varizen</li></ul>",
+      "isCorrect": false,
+      "label": "Varikosis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Varikosis"
         }
-      },
-      "diagnosisId": "D.varicoseVeins",
-      "explanation": "<ul><li>Probleme, welche durch <i>Tiefe Venenthrombose</i> besser erklärt sind: Hautüberwärmung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Varikosis</i> erhöhen würden: Varizen</li></ul>",
-      "label": "Varikosis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.erysipelas",
+      "explanation": "<ul><li>Probleme, welche durch <i>Tiefe Venenthrombose</i> besser erklärt sind: Unterschenkelschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Fieber, Schüttelfrost, vergrösserte Lymphknoten</li></ul>",
+      "isCorrect": false,
+      "label": "Erysipel",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
         }
-      },
-      "diagnosisId": "D.erysipelas",
-      "explanation": "<ul><li>Probleme, welche durch <i>Tiefe Venenthrombose</i> besser erklärt sind: Unterschenkelschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Fieber, Schüttelfrost, vergrösserte Lymphknoten</li></ul>",
-      "label": "Erysipel",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.deepVeinThrombosis",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Tiefe Venenthrombose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Tiefe_Venenthrombose"
         }
-      },
-      "diagnosisId": "D.deepVeinThrombosis",
-      "explanation": "",
-      "label": "Tiefe Venenthrombose",
-      "isCorrect": true
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (34) bei einer schmerzhaften, linksseitigen Unterschenkelschwellung seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Hautüberwärmung.<br /><br />Der Konsum von intravenösen Drogen in der Vergangenheit wird bejaht.<br /><br />Varizen, Dyspnoe, Schüttelfrost und vergrösserte Lymphknoten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Sekt).",

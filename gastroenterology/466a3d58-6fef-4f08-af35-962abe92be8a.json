@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.rupturedAbdominalAorticAneurysm",
       "explanation": "<ul><li><i>Mesenterialinfarkt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rupturiertes abdominales Aortenaneurysma</i> erhöhen würden: Rückenschmerzen, Flankenschmerzen, Dyspnoe</li></ul>",
+      "isCorrect": false,
       "label": "Rupturiertes abdominales Aortenaneurysma",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.mesenterialIschemia",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Mesenterialinfarkt",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Mesenterialinfarkt"
         }
-      },
-      "diagnosisId": "D.mesenterialIschemia",
-      "explanation": "",
-      "label": "Mesenterialinfarkt",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.nephroticSyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Mesenterialinfarkt</i> besser erklärt sind: Bauchschmerzen, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nephrotisches Syndrom</i> erhöhen würden: Schwellung der Unterschenkel, Dysurie</li></ul>",
+      "isCorrect": false,
+      "label": "Nephrotisches Syndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Nephrotisches_Syndrom"
         }
-      },
-      "diagnosisId": "D.nephroticSyndrome",
-      "explanation": "<ul><li>Probleme, welche durch <i>Mesenterialinfarkt</i> besser erklärt sind: Bauchschmerzen, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nephrotisches Syndrom</i> erhöhen würden: Schwellung der Unterschenkel, Dysurie</li></ul>",
-      "label": "Nephrotisches Syndrom",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
+      "explanation": "<ul><li><i>Mesenterialinfarkt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Thrombotisch-thrombozytopenische_Purpura"
         }
-      },
-      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
-      "explanation": "<ul><li><i>Mesenterialinfarkt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li></ul>",
-      "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteTrypanosomaCruziInfection",
       "explanation": "<ul><li><i>Mesenterialinfarkt</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Mesenterialinfarkt</i> besser erklärt sind: Bauchschmerzen, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Trypanosoma cruzi Infektion (Chagas)</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
       "label": "Akute Trypanosoma cruzi Infektion (Chagas)",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (61) bei Bauchschmerzen (bis VAS 10/10) seit fünf Stunden.<br /><br />Zusätzlich berichtet der Patient über Nausea.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Erbrechen, Fieber, Diarrhoe, Obstipation, Schwindel, ein kürzlicher Bewusstseinsverlust, Hämatochezie, Meläna, Flankenschmerzen und eine Schwellung der Unterschenkel werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 71py (30 Zigaretten täglich während 47 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",

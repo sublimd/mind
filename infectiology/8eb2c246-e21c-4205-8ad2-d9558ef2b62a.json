@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.typhoidFever",
-      "label": "Typhus abdominalis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Typhus abdominalis"
     },
     {
       "diagnosisId": "D.chikungunyaFever",
-      "label": "Chikungunya Fieber",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chikungunya Fieber"
     },
     {
       "diagnosisId": "D.infectiousMononucleosis",
-      "label": "Infektiöse Mononukleose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose"
     },
     {
       "diagnosisId": "D.lymeBorreliosisStage1",
-      "label": "Lyme Borreliose Stadium 1",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lyme Borreliose Stadium 1"
     },
     {
       "diagnosisId": "D.hivPrimoInfection",
-      "label": "HIV-Primoinfektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (29) bei einer erythematösen Hautveränderung rechten Oberbauch seit einer Woche.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Kopfschmerzen, Gliederschmerzen, Gelenkschmerzen und Appetitverlust.<br /><br />Der Aufenthalt in Wäldern wird bejaht.<br /><br />Kontakt mit kontaminiertem Wasser und eine Exposition gegenüber Stechmücken in einem tropischen Gebiet werden verneint. <br /><br />Pruritus, eine Hautschwellung, Fieber, Diarrhoe, Erbrechen, Halsschmerzen, Dysphagie und Nackensteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 9py (30 Zigaretten täglich während 6 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

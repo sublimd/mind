@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.bacterialEndocarditis",
-      "label": "Bakterielle Endokarditis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bakterielle Endokarditis"
     },
     {
       "diagnosisId": "D.hemorrhagicCystitis",
-      "label": "Hämorrhagische Zystitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hämorrhagische Zystitis"
     },
     {
       "diagnosisId": "D.hypercortisolism",
-      "label": "Cushing Syndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cushing Syndrom"
     },
     {
       "diagnosisId": "D.urinaryTractInfection",
-      "label": "Harnwegsinfekt",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Harnwegsinfekt"
     },
     {
       "diagnosisId": "D.igANephropathy",
-      "label": "IgA Nephropathie (M. Berger)",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "IgA Nephropathie (M. Berger)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (32) bei Hämaturie seit neun Tagen.<br /><br />Zusätzlich berichtet die Patientin über erhöhte Blutdruckwerte und eine beidseitige Unterschenkelschwellung.<br /><br />Eine kürzliche Erkältung wird bejaht.<br /><br />Pollakisurie, Dysurie, Nykturie, Flankenschmerzen, Fieber, eine Urininkontinenz, Schüttelfrost und Oligurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

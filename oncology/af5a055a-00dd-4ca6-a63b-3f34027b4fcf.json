@@ -1,43 +1,43 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.lumbarVertebralSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens</li></ul>",
+      "isCorrect": false,
       "label": "Lumbovertebrales Syndrom",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.epididymitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Hodenschmerzen, Leistenschmerzen, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Epididymitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Epididymitis"
         }
-      },
-      "diagnosisId": "D.epididymitis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Hodenschmerzen, Leistenschmerzen, Bauchschmerzen</li></ul>",
-      "label": "Epididymitis",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.lumbarSpondylogenicSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens</li></ul>",
+      "isCorrect": false,
       "label": "Lumbospondylogenes Syndrom",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.seminomaOfTestis",
       "explanation": "",
+      "isCorrect": true,
       "label": "Hodenkarzinom (Seminom)",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
+      "isCorrect": false,
       "label": "Nierenkarzinom",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (43) bei einer Hodenschwellung seit fünf Monaten.<br /><br />Zusätzlich berichtet der Patient über Rückenschmerzen.<br /><br />Hodenschmerzen, Leistenschmerzen, Fieber, Bauchschmerzen, Nausea, Müdigkeit, eine erektile Dysfunktion, Hämaturie, Dysurie, Nykturie und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 9py (20 Zigaretten täglich während 9 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein).",

@@ -1,47 +1,47 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.shoulderContusion",
       "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Hautschwellung, Schulterrötung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Schulterkontusion</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der oberen Extremität, Vorangehendes Trauma</li></ul>",
+      "isCorrect": false,
       "label": "Schulterkontusion",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.chondrocalcinosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Hautschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>CPP-Kristall-Arthritis (Pseudogicht)</i> erhöhen würden: Knieschmerzen, Knieschwellung, Knierötung, Hautüberwärmung</li></ul>",
+      "isCorrect": false,
       "label": "CPP-Kristall-Arthritis (Pseudogicht)",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.shoulderDislocation",
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Schulterrötung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schulterluxation</i> erhöhen würden: Muskelschwäche, Unfall</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Schulterluxation</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der oberen Extremität, Vorangehendes Trauma</li></ul>",
+      "isCorrect": false,
+      "label": "Schulterluxation",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Schulterluxation"
         }
-      },
-      "diagnosisId": "D.shoulderDislocation",
-      "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Schulterrötung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schulterluxation</i> erhöhen würden: Muskelschwäche, Unfall</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Schulterluxation</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der oberen Extremität, Vorangehendes Trauma</li></ul>",
-      "label": "Schulterluxation",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.erysipelas",
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Schulterrötung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Hautüberwärmung, Fieber, Schüttelfrost, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Erysipel",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
         }
-      },
-      "diagnosisId": "D.erysipelas",
-      "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Schulterrötung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Hautüberwärmung, Fieber, Schüttelfrost, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Erysipel",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.subacromialBursitis",
       "explanation": "",
+      "isCorrect": true,
       "label": "Subakromiale Bursitis",
-      "isCorrect": true
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (33) bei Schulterschmerzen seit zwei Tagen.<br /><br />Verstärkung bzw. Auslösung der Schulterschmerzen in Ruhe.<br /><br />Zusätzlich berichtet die Patientin über eine Hautschwellung an den Schultern und eine Schulterrötung.<br /><br /> Ein kürzliches Trauma und oberes Extremitätentrauma wird verneint. <br /><br />Eine Schulterschwellung, Lähmungserscheinungen, Hautveränderungen, eine Hautüberwärmung und Knieschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein und Spirituosen).",

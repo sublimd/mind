@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.hypovolemicShock",
+      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypovolämischer Schock</i> erhöhen würden: Schwindel, Dyspnoe, Bewusstseinsverlust, Nausea, Erbrechen, Oligurie</li></ul>",
+      "isCorrect": false,
+      "label": "Hypovolämischer Schock",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypovol%C3%A4mischer_Schock"
         }
-      },
-      "diagnosisId": "D.hypovolemicShock",
-      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypovolämischer Schock</i> erhöhen würden: Schwindel, Dyspnoe, Bewusstseinsverlust, Nausea, Erbrechen, Oligurie</li></ul>",
-      "label": "Hypovolämischer Schock",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.korsakoffsSyndrome",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Korsakow-Syndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Korsakow-Syndrom"
         }
-      },
-      "diagnosisId": "D.korsakoffsSyndrome",
-      "explanation": "",
-      "label": "Korsakow-Syndrom",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.sepsis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sepsis</i> erhöhen würden: Fieber, Schüttelfrost, Dyspnoe, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Sepsis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Sepsis"
         }
-      },
-      "diagnosisId": "D.sepsis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sepsis</i> erhöhen würden: Fieber, Schüttelfrost, Dyspnoe, Schwindel</li></ul>",
-      "label": "Sepsis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.cardiogenicShock",
+      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kardiogener Schock</i> erhöhen würden: Tachykardien, Palpitationen, Thoraxschmerzen, Bauchschmerzen, Dyspnoe, Bradykardien, Synkope, Bewusstseinsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Kardiogener Schock",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Kardiogener_Schock"
         }
-      },
-      "diagnosisId": "D.cardiogenicShock",
-      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kardiogener Schock</i> erhöhen würden: Tachykardien, Palpitationen, Thoraxschmerzen, Bauchschmerzen, Dyspnoe, Bradykardien, Synkope, Bewusstseinsverlust</li></ul>",
-      "label": "Kardiogener Schock",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acutePeritonitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Peritonitis</i> erhöhen würden: Bauchschmerzen, Fieber, Diarrhoe</li></ul>",
+      "isCorrect": false,
       "label": "Akute Peritonitis",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (77) bei einer Verwirrtheit seit vier Tagen.<br /><br />Zusätzlich berichtet der Patient über Ataxie und eine Hypotonie.<br /><br />Ein kürzlicher Bewusstseinsverlust, Sensibilitätsstörungen, Fieber, Tachykardien, Bauchschmerzen, Palpitationen und ein Harnverhalt werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",

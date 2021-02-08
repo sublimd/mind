@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.radialTunnelSyndrome",
-      "label": "Radialtunnelsyndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Radialtunnelsyndrom"
     },
     {
       "diagnosisId": "D.tricepsTendinopathy",
-      "label": "Tendinitis der distalen Trizepssehne",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tendinitis der distalen Trizepssehne"
     },
     {
       "diagnosisId": "D.looseBodiesElbow",
-      "label": "Freie Gelenkkörper im Ellbogen",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Freie Gelenkkörper im Ellbogen"
     },
     {
       "diagnosisId": "D.distalBicepsTendonTendinopathy",
-      "label": "Tendinitis der distalen Bizepssehne",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Tendinitis der distalen Bizepssehne"
     },
     {
       "diagnosisId": "D.osteochondritisDissecans",
-      "label": "Osteochondritis dissecans",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Osteochondritis dissecans"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (33) bei Ellbogenschmerzen seit sechs Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Hautschwellung am anterioren linken Ellbogen.<br /><br />Hautveränderungen, Fieber, eine Ellbogenschwellung, eine Ellbogenrötung, eine Ellbogensteifigkeit, Knieschmerzen, eine Knieschwellung und eine Schwellung der Unterschenkel werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 3 x / Woche, jeweils 3 - 4 Standardgetränke / Tag.",

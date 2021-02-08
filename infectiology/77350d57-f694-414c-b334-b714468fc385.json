@@ -1,55 +1,55 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.zikaVirus",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zika Virus Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
       "label": "Zika Virus Infektion",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.malaria",
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Malaria</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Malaria",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
         }
-      },
-      "diagnosisId": "D.malaria",
-      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Malaria</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
-      "label": "Malaria",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.rockyMountainSpottedFever",
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Rocky-Mountains-Fleckfieber</i> erhöhen würden: Reisen nach Amerika in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Rocky-Mountains-Fleckfieber",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Rocky-Mountain-Fleckfieber"
         }
-      },
-      "diagnosisId": "D.rockyMountainSpottedFever",
-      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Rocky-Mountains-Fleckfieber</i> erhöhen würden: Reisen nach Amerika in den letzten sechs Monaten</li></ul>",
-      "label": "Rocky-Mountains-Fleckfieber",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.relapsingFever",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rückfallfieber",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/R%C3%BCckfallfieber"
         }
-      },
-      "diagnosisId": "D.relapsingFever",
-      "explanation": "",
-      "label": "Rückfallfieber",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.herpesZosterOphthalmicus",
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Bauchschmerzen, Gliederschmerzen, Rigor</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zoster ophthalmicus</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Zoster ophthalmicus",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Zoster_ophthalmicus"
         }
-      },
-      "diagnosisId": "D.herpesZosterOphthalmicus",
-      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Bauchschmerzen, Gliederschmerzen, Rigor</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zoster ophthalmicus</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Zoster ophthalmicus",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (47) bei Fieber seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Kopf-, Bauch-, und Gliederschmerzen, Nausea, Rigor sowie eine Hautveränderung.<br /><br /> Auslandsreisen ausserhalb Europa in den letzten sechs Monaten werden verneint. <br /><br />Diarrhoe, Odynophagie, Husten, Dyspnoe, Flankenschmerzen, Dysurie, ein Appetitverlust, eine Verwirrtheit und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Spirituosen).",

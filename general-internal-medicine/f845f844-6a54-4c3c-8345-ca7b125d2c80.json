@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.herpesZoster",
-      "label": "Herpes zoster",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Herpes zoster"
     },
     {
       "diagnosisId": "D.acuteDiverticulitis",
-      "label": "Akute Divertikulitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
     },
     {
       "diagnosisId": "D.viralGastroenteritis",
-      "label": "Virale Gastroenteritis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Virale Gastroenteritis"
     },
     {
       "diagnosisId": "D.psoasHematoma",
-      "label": "Psoashämatom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Psoashämatom"
     },
     {
       "diagnosisId": "D.coprostasis",
-      "label": "Koprostase",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Koprostase"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (68) bei Bauchschmerzen seit fünf Tagen.<br /><br />Zusätzlich berichtet die Patientin über Fieber und Tachykardien.<br /><br />Eine Therapie mit blutverdünnenden Medikamenten wird bejaht.<br /><br />Nausea, Erbrechen, Diarrhoe, Obstipation, Hämatochezie, Meläna, vaginaler Ausfluss, Appetitverlust und Hautveränderungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Kein Alkoholkonsum.",

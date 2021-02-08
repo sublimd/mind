@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hydrocele",
-      "label": "Hydrozele",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hydrozele"
     },
     {
       "diagnosisId": "D.testicularVaricocele",
-      "label": "Varicocele testis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Varicocele testis"
     },
     {
       "diagnosisId": "D.epididymitis",
-      "label": "Epididymitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Epididymitis"
     },
     {
       "diagnosisId": "D.spermatocele",
-      "label": "Spermatozele",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Spermatozele"
     },
     {
       "diagnosisId": "D.nonseminomaOfTestis",
-      "label": "Hodenkarzinom (Non-Seminom)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hodenkarzinom (Non-Seminom)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (48) bei Hodenschmerzen seit sechs Tagen.<br /><br />Zusätzlich berichtet der Patient über eine Hodenschwellung und Nykturie.<br /><br />Bauchschmerzen, Nausea, Fieber, Flankenschmerzen, Hämaturie, Rückenschmerzen und ein Gewichtsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",

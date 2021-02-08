@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.anemiaMacrocytic",
-      "label": "Makrozytäre Anämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
     },
     {
       "diagnosisId": "D.centralSleepApneaSyndrome",
-      "label": "Zentrales Schlafapnoesyndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zentrales Schlafapnoesyndrom"
     },
     {
       "diagnosisId": "D.leftSidedHeartFailure",
-      "label": "Linksherzinsuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Linksherzinsuffizienz"
     },
     {
       "diagnosisId": "D.ironDeficiencyAnemia",
-      "label": "Eisenmangelanämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie"
     },
     {
       "diagnosisId": "D.obstructiveSleepApneaSyndrome",
-      "label": "Obstruktives Schlafapnoesyndrom (OSAS)",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Obstruktives Schlafapnoesyndrom (OSAS)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (73) bei einer vermehrten Müdigkeit seit sechs Monaten.<br /><br />Zusätzlich berichtet der Patient über Schnarchen, Schlafstörungen, erhöhte Blutdruckwerte und eine Tagesschläfrigkeit.<br /><br />Dyspnoe, Fieber, Kopfschmerzen, ein Gewichtsverlust, Palpitationen, Tachykardien, Schwindel, Nykturie und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",

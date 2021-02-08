@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.aorticInsufficiency",
-      "label": "Aortenklappen-Insuffizienz",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Aortenklappen-Insuffizienz"
     },
     {
       "diagnosisId": "D.mitralValveInsufficiency",
-      "label": "Mitralklappen-Insuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mitralklappen-Insuffizienz"
     },
     {
       "diagnosisId": "D.avNodalReentrantTachycardia",
-      "label": "AV-Knoten-Reentry-Tachykardie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "AV-Knoten-Reentry-Tachykardie"
     },
     {
       "diagnosisId": "D.atrioventricularBlockThirdDegree",
-      "label": "AV-Block III°",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "AV-Block III°"
     },
     {
       "diagnosisId": "D.anemiaMacrocytic",
-      "label": "Makrozytäre Anämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (80) bei Dyspnoe seit drei Monaten.<br /><br />Verschlimmerung der Dyspnoe beim Liegen in Rückenlage.<br /><br />Zusätzlich berichtet die Patientin über Palpitationen (sehr starke Herzschläge), eine vermehrte Müdigkeit, Husten mit Auswurf, Schwindel und Thoraxschmerzen.<br /><br />Eine Schwellung der Unterschenkel, paroxysmale nächtliche Dyspnoe, Fieber, Nausea, Kopfschmerzen und Bradykardien werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 3 x / Woche, jeweils 3 - 4 Standardgetränke / Tag.",

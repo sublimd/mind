@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hypercalcemia",
-      "label": "Hyperkalzämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperkalzämie"
     },
     {
       "diagnosisId": "D.tuboOvarianAbscess",
-      "label": "Tuboovarialabszess",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tuboovarialabszess"
     },
     {
       "diagnosisId": "D.gastrooesophagealRefluxDisease",
-      "label": "Gastroösophageale Refluxkrankheit",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Gastroösophageale Refluxkrankheit"
     },
     {
       "diagnosisId": "D.cholelithiasis",
-      "label": "Cholelithiasis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cholelithiasis"
     },
     {
       "diagnosisId": "D.abdominalAbscess",
-      "label": "Abdominaler Abszess",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Abdominaler Abszess"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (43) bei Bauchschmerzen im Oberbauch seit einer Woche.<br /><br />Zusätzlich berichtet die Patientin über Fieber und Nausea.<br /><br />Abdominale Eingriffe in der Vergangenheit werden bejaht.<br /><br />Diarrhoe, ein Gewichtsverlust, Appetitverlust, Schüttelfrost, Erbrechen, Obstipation, Hämatochezie, Meläna, vaginaler Ausfluss, Probleme beim Geschlechtsverkehr, retrosternales Brennen, Polyurie und Thoraxschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",

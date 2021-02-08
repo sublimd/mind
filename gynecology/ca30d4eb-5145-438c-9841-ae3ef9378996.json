@@ -1,47 +1,47 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.costochondritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Brustzyste</i> besser erklärt sind: Knoten in der Brust, Brustschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Costochondritis (Tietze-Syndrom)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Costochondritis"
         }
-      },
-      "diagnosisId": "D.costochondritis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Brustzyste</i> besser erklärt sind: Knoten in der Brust, Brustschmerzen</li></ul>",
-      "label": "Costochondritis (Tietze-Syndrom)",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.breastAbscess",
       "explanation": "<ul><li>Probleme, welche durch <i>Brustzyste</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Brustabszess</i> erhöhen würden: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Brustabszess</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "isCorrect": false,
       "label": "Brustabszess",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.breastCyst",
       "explanation": "",
+      "isCorrect": true,
       "label": "Brustzyste",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.breastCancer",
+      "explanation": "<ul><li>Probleme, welche durch <i>Brustzyste</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mammakarzinom</i> erhöhen würden: vergrösserter Lymphknoten bzw. subkutaner Knoten, Hautveränderung der Brust</li></ul>",
+      "isCorrect": false,
+      "label": "Mammakarzinom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Mammakarzinom"
         }
-      },
-      "diagnosisId": "D.breastCancer",
-      "explanation": "<ul><li>Probleme, welche durch <i>Brustzyste</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mammakarzinom</i> erhöhen würden: vergrösserter Lymphknoten bzw. subkutaner Knoten, Hautveränderung der Brust</li></ul>",
-      "label": "Mammakarzinom",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.musculoskelettalChestPain",
       "explanation": "<ul><li>Probleme, welche durch <i>Brustzyste</i> besser erklärt sind: Knoten in der Brust, Brustschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Muskuloskelettale Thoraxschmerzen",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (37) bei einem Knoten in der Brust seit fünf Wochen.<br /><br />Zusätzlich berichtet die Patientin über Brustschmerzen und Thoraxschmerzen.<br /><br />Hautveränderungen, Hautveränderungen an der Brust, vergrösserte Lymphknoten und Ausfluss aus der Brust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier).",

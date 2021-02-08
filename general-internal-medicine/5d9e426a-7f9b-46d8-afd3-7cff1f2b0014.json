@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.acuteLaryngitis",
-      "label": "Akute Laryngitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Laryngitis"
     },
     {
       "diagnosisId": "D.malignantNeoplasmOfThyroidGland",
-      "label": "Schilddrüsenkarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Schilddrüsenkarzinom"
     },
     {
       "diagnosisId": "D.pseudoCroup",
-      "label": "Laryngitis subglottica (Pseudokrupp)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Laryngitis subglottica (Pseudokrupp)"
     },
     {
       "diagnosisId": "D.epiglottitis",
-      "label": "Akute Epiglottitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Epiglottitis"
     },
     {
       "diagnosisId": "D.pulmonaryAspiration",
-      "label": "Aspirationspneumonie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Aspirationspneumonie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (68) bei Dysphonie seit fünf Tagen.<br /><br />Zusätzlich berichtet der Patient über Husten mit Auswurf, Halsschmerzen, Dyspnoe und einen vergrösserten Lymphknoten im Halsbereich.<br /><br />Dysphagie, Odynophagie, Fieber, eine allgemeine Müdigkeit, Gliederschmerzen, Rhinorrhoe, Tachykardien, ein Gewichtsverlust und eine Halsschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",

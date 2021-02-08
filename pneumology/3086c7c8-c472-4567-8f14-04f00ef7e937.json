@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.lymphoma",
-      "label": "Lymphom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lymphom"
     },
     {
       "diagnosisId": "D.pulmonaryEmbolism",
-      "label": "Lungenembolie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenembolie"
     },
     {
       "diagnosisId": "D.pseudoCroup",
-      "label": "Laryngitis subglottica (Pseudokrupp)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Laryngitis subglottica (Pseudokrupp)"
     },
     {
       "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
-      "label": "Ambulant erworbene atypische Pneumonie",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ambulant erworbene atypische Pneumonie"
     },
     {
       "diagnosisId": "D.brucellosis",
-      "label": "Brucellose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Brucellose"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (35) bei Fieber seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Husten ohne Auswurf, Dyspnoe und Kopfschmerzen.<br /><br />Bauchschmerzen, Diarrhoe, Odynophagie, vergrösserte Lymphknoten, Thoraxschmerzen, Flankenschmerzen, Dysurie, Rückenschmerzen, Schüttelfrost, Hämoptoe und Orthopnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",

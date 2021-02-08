@@ -1,55 +1,55 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.atrioventricularReentrantTachycardia",
       "explanation": "<ul><li>Probleme, welche durch <i>Pulmonalklappenstenose</i> besser erklärt sind: Schwellung der Unterschenkel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atrioventrikuläre Reentry-Tachykardie (AVRT)</i> erhöhen würden: Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Atrioventrikuläre Reentry-Tachykardie (AVRT)",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.chronicKidneyDisease",
+      "explanation": "<ul><li>Probleme, welche durch <i>Pulmonalklappenstenose</i> besser erklärt sind: Dyspnoe, Schwindel, Palpitationen</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische Niereninsuffizienz",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Chronische_Niereninsuffizienz"
         }
-      },
-      "diagnosisId": "D.chronicKidneyDisease",
-      "explanation": "<ul><li>Probleme, welche durch <i>Pulmonalklappenstenose</i> besser erklärt sind: Dyspnoe, Schwindel, Palpitationen</li></ul>",
-      "label": "Chronische Niereninsuffizienz",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.chronicVenousInsufficiency",
+      "explanation": "<ul><li>Probleme, welche durch <i>Pulmonalklappenstenose</i> besser erklärt sind: Dyspnoe, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Mitralklappenstenose"
         }
-      },
-      "diagnosisId": "D.chronicVenousInsufficiency",
-      "explanation": "<ul><li>Probleme, welche durch <i>Pulmonalklappenstenose</i> besser erklärt sind: Dyspnoe, Schwindel</li></ul>",
-      "label": "Chronisch venöse Insuffizienz",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.pulmonaryValveStenosis",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Pulmonalklappenstenose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Pulmonalklappenstenose"
         }
-      },
-      "diagnosisId": "D.pulmonaryValveStenosis",
-      "explanation": "",
-      "label": "Pulmonalklappenstenose",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.sepsis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Pulmonalklappenstenose</i> besser erklärt sind: Schwellung der Unterschenkel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sepsis</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
+      "label": "Sepsis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Sepsis"
         }
-      },
-      "diagnosisId": "D.sepsis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Pulmonalklappenstenose</i> besser erklärt sind: Schwellung der Unterschenkel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sepsis</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
-      "label": "Sepsis",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei einer beidseitigen Unterschenkelschwellung seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe, Schwindel und Palpitationen.<br /><br />Wadenschmerzen, Hautveränderungen, eine allgemeine Müdigkeit, ein Appetitverlust, eine Hautüberwärmung, Nausea, Nykturie, Orthopnoe, Bauchschmerzen, Fieber, Husten und Synkopen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",

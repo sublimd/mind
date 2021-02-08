@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.ectropion",
-      "label": "Ektropium",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ektropium"
     },
     {
       "diagnosisId": "D.hordeolum",
-      "label": "Hordeolum",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hordeolum"
     },
     {
       "diagnosisId": "D.acuteBlepharitis",
-      "label": "Akute Blepharitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Blepharitis"
     },
     {
       "diagnosisId": "D.chalazion",
-      "label": "Chalazion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chalazion"
     },
     {
       "diagnosisId": "D.foreignBodyInConjunctiva",
-      "label": "Konjunktivaler Fremdkörper",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Konjunktivaler Fremdkörper"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (80) bei einer Augenrötung.<br /><br />Zusätzlich berichtet der Patient über wässrigen Ausfluss aus dem Auge und Juckreiz.<br /><br />Sehstörungen, Augenschmerzen, Rhinorrhoe, Fieber, übermässiger Tränenfluss, eine Augenschwellung und ein Fremdkörpergefühl im Auge werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 30py (10 Zigaretten täglich während 60 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",

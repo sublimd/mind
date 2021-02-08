@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.allergicRhinoconjunctivitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Juckreiz im Auge, Augenrötung, Ausfluss aus dem Auge, Augenschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Allergische Rhinokonjunktivitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Allergische_Rhinokonjunktivitis"
         }
-      },
-      "diagnosisId": "D.allergicRhinoconjunctivitis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Juckreiz im Auge, Augenrötung, Ausfluss aus dem Auge, Augenschwellung</li></ul>",
-      "label": "Allergische Rhinokonjunktivitis",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteRhinoSinusitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: Kopfschmerzen, Gesichtsschmerzen, Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
       "label": "Akute Rhinosinusitis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.influenza",
+      "explanation": "<ul><li>Probleme, welche durch <i>Allergische Rhinitis</i> besser erklärt sind: nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen, Gliederschmerzen, Gelenkschmerzen, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
         }
-      },
-      "diagnosisId": "D.influenza",
-      "explanation": "<ul><li>Probleme, welche durch <i>Allergische Rhinitis</i> besser erklärt sind: nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen, Gliederschmerzen, Gelenkschmerzen, Dyspnoe</li></ul>",
-      "label": "Influenza",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.allergicRhinitis",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Allergische Rhinitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Allergische_Rhinitis"
         }
-      },
-      "diagnosisId": "D.allergicRhinitis",
-      "explanation": "",
-      "label": "Allergische Rhinitis",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.foodAllergy",
+      "explanation": "<ul><li>Probleme, welche durch <i>Allergische Rhinitis</i> besser erklärt sind: Niesen, Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Nausea, Erbrechen, Bauchschmerzen, Diarrhoe, Blähungen, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelallergie"
         }
-      },
-      "diagnosisId": "D.foodAllergy",
-      "explanation": "<ul><li>Probleme, welche durch <i>Allergische Rhinitis</i> besser erklärt sind: Niesen, Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Nausea, Erbrechen, Bauchschmerzen, Diarrhoe, Blähungen, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
-      "label": "Nahrungsmittelallergie",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (80) bei klarer Rhinorrhoe seit neun Tagen.<br /><br />Zusätzlich berichtet die Patientin über Niesen, eine nasale Obstruktion, Husten und eine vermehrte Müdigkeit.<br /><br />Fieber, Kopfschmerzen, Dyspnoe, Nausea und Nasenbluten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 26py (10 Zigaretten täglich während 51 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.lipoma",
-      "label": "Lipom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lipom"
     },
     {
       "diagnosisId": "D.lymphadenitis",
-      "label": "Lymphadenitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lymphadenitis"
     },
     {
       "diagnosisId": "D.vulvarInclusionCyst",
-      "label": "Einschlusszyste der Vulva",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Einschlusszyste der Vulva"
     },
     {
       "diagnosisId": "D.bacterialVaginosis",
-      "label": "Bakterielle Vaginose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bakterielle Vaginose"
     },
     {
       "diagnosisId": "D.hodgkinLymphoma",
-      "label": "Hodgkin Lymphom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hodgkin Lymphom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (35) bei einem Knoten im Genitalbereich seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Probleme beim Geschlechtsverkehr.<br /><br />Die Patientin gibt an unter Schmerzen während dem Geschlechtsverkehr zu leiden.<br /><br />Fieber, Nachtschweiss und Tachykardien werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

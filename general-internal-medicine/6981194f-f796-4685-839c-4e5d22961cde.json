@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.majorDepressiveEpisode",
       "explanation": "<ul><li>Probleme, welche durch <i>Alkoholüberkonsum</i> besser erklärt sind: retrosternales Brennen, erhöhter Blutdruck</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ausgeprägte depressive Episode</i> erhöhen würden: Gewichtsverlust, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li></ul>",
+      "isCorrect": false,
       "label": "Ausgeprägte depressive Episode",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.gastrooesophagealRefluxDisease",
+      "explanation": "<ul><li>Probleme, welche durch <i>Alkoholüberkonsum</i> besser erklärt sind: Schlafstörungen, erhöhter Blutdruck, depressive Verstimmung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gastroösophageale Refluxkrankheit</i> erhöhen würden: Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Gastroösophageale Refluxkrankheit",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Gastro%C3%B6sophageale_Refluxkrankheit"
         }
-      },
-      "diagnosisId": "D.gastrooesophagealRefluxDisease",
-      "explanation": "<ul><li>Probleme, welche durch <i>Alkoholüberkonsum</i> besser erklärt sind: Schlafstörungen, erhöhter Blutdruck, depressive Verstimmung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gastroösophageale Refluxkrankheit</i> erhöhen würden: Bauchschmerzen</li></ul>",
-      "label": "Gastroösophageale Refluxkrankheit",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.alcoholUseDisorder",
       "explanation": "",
+      "isCorrect": true,
       "label": "Alkoholüberkonsum",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.hypercortisolism",
+      "explanation": "<ul><li>Probleme, welche durch <i>Alkoholüberkonsum</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, Schwellung der Unterschenkel, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Cushing Syndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Cushing-Syndrom"
         }
-      },
-      "diagnosisId": "D.hypercortisolism",
-      "explanation": "<ul><li>Probleme, welche durch <i>Alkoholüberkonsum</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, Schwellung der Unterschenkel, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
-      "label": "Cushing Syndrom",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.obstructiveSleepApneaSyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Alkoholüberkonsum</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Schnarchen</li></ul>",
+      "isCorrect": false,
+      "label": "Obstruktives Schlafapnoesyndrom (OSAS)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Obstruktives_Schlafapnoesyndrom"
         }
-      },
-      "diagnosisId": "D.obstructiveSleepApneaSyndrome",
-      "explanation": "<ul><li>Probleme, welche durch <i>Alkoholüberkonsum</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Schnarchen</li></ul>",
-      "label": "Obstruktives Schlafapnoesyndrom (OSAS)",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (76) bei retrosternalem Brennen seit zwei Jahren.<br /><br />Zusätzlich berichtet die Patientin über Schlafstörungen sowie erhöhte Blutdruckwerte und eine depressive Verstimmung.<br /><br />Die durchschnittliche Schlafdauer betrage pro Nacht ca. 6 Stunden.<br /><br />Bauchschmerzen, Dysphagie, Angstzustände, ein Gewichtsverlust und Kopfschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 5 - 6 x / Woche, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.serialRibFracture",
-      "label": "Rippenserienfraktur",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rippenserienfraktur"
     },
     {
       "diagnosisId": "D.acuteAsthma",
-      "label": "Akute Exazerbation eines Asthma bronchiale",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Exazerbation eines Asthma bronchiale"
     },
     {
       "diagnosisId": "D.copdExacerbation",
-      "label": "COPD Exazerbation",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "COPD Exazerbation"
     },
     {
       "diagnosisId": "D.thymoma",
-      "label": "Thymom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Thymom"
     },
     {
       "diagnosisId": "D.pneumothorax",
-      "label": "Pneumothorax",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pneumothorax"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (50) bei Dyspnoe seit acht Tagen.<br /><br />Zusätzlich berichtet der Patient über Dysphagie, Thoraxschmerzen, Husten, eine Schwellung im Gesicht und an den Armen.<br /><br />Schwindel, Fieber, Synkopen und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",

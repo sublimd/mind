@@ -1,59 +1,59 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.cataract",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypermetropie</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Katarakt</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Katarakt",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Katarakt"
         }
-      },
-      "diagnosisId": "D.cataract",
-      "explanation": "<ul><li>Probleme, welche durch <i>Hypermetropie</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Katarakt</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Katarakt",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.transientIschemicAttack",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Muskelschwäche, Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus, Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Transitorische ischämische Attacke (TIA)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Transitorische_isch%C3%A4mische_Attacke"
         }
-      },
-      "diagnosisId": "D.transientIschemicAttack",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Muskelschwäche, Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus, Nikotinabusus</li></ul>",
-      "label": "Transitorische ischämische Attacke (TIA)",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.temporalArteritis",
+      "explanation": "<ul><li><i>Hypermetropie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Arteriitis temporalis</i> erhöhen würden: Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Arteriitis temporalis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Arteriitis_temporalis"
         }
-      },
-      "diagnosisId": "D.temporalArteritis",
-      "explanation": "<ul><li><i>Hypermetropie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Arteriitis temporalis</i> erhöhen würden: Fieber</li></ul>",
-      "label": "Arteriitis temporalis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.subarachnoidHemorrhage",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Nackenschmerzen, Nackensteifigkeit, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "isCorrect": false,
+      "label": "Subarachnoidalblutung",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Subarachnoidalblutung"
         }
-      },
-      "diagnosisId": "D.subarachnoidHemorrhage",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Nackenschmerzen, Nackensteifigkeit, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Kürzliches Trauma</li></ul>",
-      "label": "Subarachnoidalblutung",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hypermetropia",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypermetropie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypermetropie"
         }
-      },
-      "diagnosisId": "D.hypermetropia",
-      "explanation": "",
-      "label": "Hypermetropie",
-      "isCorrect": true
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (17) bei Sehstörungen seit vier Monaten.<br /><br />Die Patientin beschreibt ein Verschwommensehen.<br /><br />Zusätzlich berichtet die Patientin über Kopfschmerzen.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Ausfluss aus dem Auge, Nausea, ein kürzlicher Bewusstseinsverlust, Schwindel, Augenschmerzen, Erbrechen, eine Photophobie und Fieber werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein).",

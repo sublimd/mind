@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.pharyngealCancer",
-      "label": "Pharynxkarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pharynxkarzinom"
     },
     {
       "diagnosisId": "D.laryngealCancer",
-      "label": "Larynxkarzinom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Larynxkarzinom"
     },
     {
       "diagnosisId": "D.viralPharyngitis",
-      "label": "Virale Pharyngitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis"
     },
     {
       "diagnosisId": "D.acuteLaryngitis",
-      "label": "Akute Laryngitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Laryngitis"
     },
     {
       "diagnosisId": "D.peritonsillarAbscess",
-      "label": "Peritonsillarabszess",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Peritonsillarabszess"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei Dysphonie seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Husten, einen subkutanen Knoten im Halsbereich, Dyspnoe, Halsschmerzen und Ohrenschmerzen.<br /><br />Eine Strahlenexposition wird bejaht.<br /><br />Dysphagie, Odynophagie, Schüttelfrost, Gliederschmerzen und ein Gewichtsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 31py (20 Zigaretten täglich während 31 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",

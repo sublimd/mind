@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "M. Meulengracht",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "M. Meulengracht"
     },
     {
-      "label": "Gallengangsleckage",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Gallengangsleckage"
     },
     {
-      "label": "Ambulant erworbene Pneumonie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie"
     },
     {
-      "label": "Cholangiozelluläres Karzinom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Cholangiozelluläres Karzinom"
     },
     {
-      "label": "Ischämische Hepatitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ischämische Hepatitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (72) bei einem Ikterus seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über einen Gewichtsverlust, dumpfe Bauchschmerzen im rechten Oberbauch, eine vermehrte Müdigkeit, Fieber und Diarrhoe.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. Eine Therapie mit Analgetika wird verneint. <br /><br />Appetitverlust, Dyspnoe, Nausea, Erbrechen, eine kürzlicher Bewusstseinsverlust, Hautveränderungen und Verwirrtheit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 3 x / Woche, jeweils 3 - 4 Standardgetränke / Tag.",

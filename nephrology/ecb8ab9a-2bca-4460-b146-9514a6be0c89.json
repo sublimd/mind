@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.ulcusMolle",
-      "label": "Ulcus molle",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ulcus molle"
     },
     {
       "diagnosisId": "D.testicularVaricocele",
-      "label": "Varicocele testis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Varicocele testis"
     },
     {
       "diagnosisId": "D.testicularTorsion",
-      "label": "Hodentorsion",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hodentorsion"
     },
     {
       "diagnosisId": "D.spermatocele",
-      "label": "Spermatozele",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Spermatozele"
     },
     {
       "diagnosisId": "D.nonseminomaOfTestis",
-      "label": "Hodenkarzinom (Non-Seminom)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hodenkarzinom (Non-Seminom)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (64) bei Hodenschmerzen seit fünf Stunden.<br /><br />Zusätzlich berichtet der Patient über eine Hodenschwellung, Nausea, Fieber und Leistenschmerzen.<br /><br />Bauchschmerzen, Flankenschmerzen, Hämaturie, Rückenschmerzen und eine erektile Dysfunktion werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

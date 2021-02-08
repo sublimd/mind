@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.relapsingFever",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rückfallfieber",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/R%C3%BCckfallfieber"
         }
-      },
-      "diagnosisId": "D.relapsingFever",
-      "explanation": "",
-      "label": "Rückfallfieber",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.bacterialEnteritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Rigor, Hautveränderungen</li></ul>",
+      "isCorrect": false,
       "label": "Bakterielle Enteritis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.foodIntoxication",
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Kopfschmerzen, Gliederschmerzen, Rigor, Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Nahrungsmittelvergiftung",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelvergiftung"
         }
-      },
-      "diagnosisId": "D.foodIntoxication",
-      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Kopfschmerzen, Gliederschmerzen, Rigor, Hautveränderungen</li></ul>",
-      "label": "Nahrungsmittelvergiftung",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.dengueFever",
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Bauchschmerzen, Diarrhoe, Rigor</li></ul>",
+      "isCorrect": false,
+      "label": "Dengue Fieber",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Denguefieber"
         }
-      },
-      "diagnosisId": "D.dengueFever",
-      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Bauchschmerzen, Diarrhoe, Rigor</li></ul>",
-      "label": "Dengue Fieber",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.viralGastroenteritis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Rigor, Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Gastroenteritis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Virale_Gastroenteritis"
         }
-      },
-      "diagnosisId": "D.viralGastroenteritis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Rigor, Hautveränderungen</li></ul>",
-      "label": "Virale Gastroenteritis",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (39) bei Fieber seit vier Wochen.<br /><br />Zusätzlich berichtet der Patient über dumpfe Kopfschmerzen (bis VAS 2/10), Bauchschmerzen (bis VAS 10/10), Gliederschmerzen, Nausea, Diarrhoe, Rigor und eine Hautveränderung.<br /><br />Die aktuellen Kopfschmerzen hätten schleichend begonnen. Im Verlauf seien die Kopfschmerzen zunehmend geworden.<br /><br />Aktuell hätten die Bauchschmerzen eine Intensität von VAS 7/10.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br />Odynophagie, Husten, Dyspnoe, Flankenschmerzen, Dysurie, eine Verwirrtheit, Schüttelfrost und Hämatochezie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",

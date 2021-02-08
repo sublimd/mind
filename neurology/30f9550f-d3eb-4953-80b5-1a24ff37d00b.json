@@ -1,39 +1,39 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.drugInducedHypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
+      "isCorrect": false,
       "label": "Medikamenteninduzierte Hyperkalzämie",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
+      "isCorrect": false,
       "label": "Hyperkalzämie",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.hyperparathyroidism",
       "explanation": "<ul><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperparathyroidismus</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
+      "isCorrect": false,
       "label": "Hyperparathyroidismus",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.malignantNeoplasmOfBrain",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirntumor</i> erhöhen würden: Kopfschmerzen, Schwindel, Krampfanfall, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
       "label": "Hirntumor",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.dementiaAlzheimer",
       "explanation": "",
+      "isCorrect": true,
       "label": "Alzheimer-Demenz",
-      "isCorrect": true
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (73) bei einer Verwirrtheit seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über eine Amnesie und eine depressive Episode.<br /><br />Nausea, Erbrechen, Kopfschmerzen, Fieber, Bauchschmerzen, ein vermehrtes Durstgefühl, eine Hyposmie, ein Appetitverlust, ein Harnverhalt und Dysurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",

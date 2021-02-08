@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.foreignBodyAspiration",
-      "label": "Fremdkörper-Aspiration",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Fremdkörper-Aspiration"
     },
     {
       "diagnosisId": "D.aorticInsufficiency",
-      "label": "Aortenklappen-Insuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Aortenklappen-Insuffizienz"
     },
     {
       "diagnosisId": "D.sarcoidosis",
-      "label": "Sarkoidose",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Sarkoidose"
     },
     {
       "diagnosisId": "D.foreignBodyAtelectasis",
-      "label": "Atelektase durch Fremdkörper",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Atelektase durch Fremdkörper"
     },
     {
       "diagnosisId": "D.malignantNeoplasmOfLung",
-      "label": "Lungenkarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenkarzinom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (21) bei Dyspnoe seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über Husten und Thoraxschmerzen.<br /><br />Eine allgemeine Müdigkeit, Tachykardien, Schwindel, Fieber, Schüttelfrost, Hautveränderungen, ein Gewichtsverlust, Dysphonie und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein und Sekt).",

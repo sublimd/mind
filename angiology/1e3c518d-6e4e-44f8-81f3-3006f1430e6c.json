@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.retropharyngealAbscess",
-      "label": "Retropharyngealabszess",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Retropharyngealabszess"
     },
     {
       "diagnosisId": "D.dystonia",
-      "label": "Dystonie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Dystonie"
     },
     {
       "diagnosisId": "D.clavicleContusion",
-      "label": "Kontusion der Clavicula",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kontusion der Clavicula"
     },
     {
       "diagnosisId": "D.myopia",
-      "label": "Myopie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myopie"
     },
     {
       "diagnosisId": "D.vertebralArteryDissection",
-      "label": "Dissektion der Arteria vertebralis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Dissektion der Arteria vertebralis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei Nackenschmerzen seit 6 Stunden.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen.<br /><br />Der Patient berichtet über eine ausserordentliche körperliche Anstrengung vor Beginn der Beschwerden.<br /><br />Lähmungserscheinungen, Sensibilitätsstörungen, Schulterschmerzen, Fieber, Dysphagie, Odynophagie, Muskelkrämpfe, vergrösserte Lymphknoten, Tinnitus und hängende Augenlider werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

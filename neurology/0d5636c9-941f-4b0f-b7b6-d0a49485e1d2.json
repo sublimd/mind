@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.subarachnoidHemorrhage",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Meningitis</i> besser erklärt sind: Fieber, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: kürzliches Trauma</li></ul>",
+      "isCorrect": false,
+      "label": "Subarachnoidalblutung",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Subarachnoidalblutung"
         }
-      },
-      "diagnosisId": "D.subarachnoidHemorrhage",
-      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Meningitis</i> besser erklärt sind: Fieber, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: kürzliches Trauma</li></ul>",
-      "label": "Subarachnoidalblutung",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.tickborneEncephalitis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gliederschmerzen, Gelenkschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Frühsommer-Meningoencephalitis (FSME)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Fr%C3%BChsommer-Meningoenzephalitis"
         }
-      },
-      "diagnosisId": "D.tickborneEncephalitis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gliederschmerzen, Gelenkschmerzen</li></ul>",
-      "label": "Frühsommer-Meningoencephalitis (FSME)",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Meningitis</i> besser erklärt sind: Verwirrtheit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Hautveränderungen, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gliederschmerzen, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.intracerebralHemorrhage",
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Meningitis</i> besser erklärt sind: Fieber, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Bewusstseinsverlust, erhöhter Blutdruck, Dysarthrie, Aphasie, Muskelschwäche, Sensibilitätsstörungen, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: kürzliches Trauma, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Intrazerebrale Blutung",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Intrazerebrale_Blutung"
         }
-      },
-      "diagnosisId": "D.intracerebralHemorrhage",
-      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Meningitis</i> besser erklärt sind: Fieber, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Bewusstseinsverlust, erhöhter Blutdruck, Dysarthrie, Aphasie, Muskelschwäche, Sensibilitätsstörungen, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: kürzliches Trauma, Arterielle Hypertonie</li></ul>",
-      "label": "Intrazerebrale Blutung",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteBacterialMeningitis",
       "explanation": "",
+      "isCorrect": true,
       "label": "Akute bakterielle Meningitis",
-      "isCorrect": true
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (33) bei Kopfschmerzen.<br /><br />Zusätzlich berichtet der Patient über Fieber, Verwirrtheit, Nackensteifigkeit und eine Hörminderung.<br /><br /> Der Aufenthalt in Wäldern und ein kürzliches Schädeltrauma wird verneint. <br /><br />Nausea, Schwindel, Gelenkschmerzen, ein Bewusstseinsverlust, Sehstörungen, Sensibilitätsstörungen, Dysarthrie und Aphasie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.vulvovaginitisHerpetica",
-      "label": "Vulvovaginitis herpetica",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Vulvovaginitis herpetica"
     },
     {
       "diagnosisId": "D.menopause",
-      "label": "Klimakterisches Syndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Klimakterisches Syndrom"
     },
     {
       "diagnosisId": "D.trichomoniasisVaginalis",
-      "label": "Trichomoniasis vaginalis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Trichomoniasis vaginalis"
     },
     {
       "diagnosisId": "D.bacterialVaginosis",
-      "label": "Bakterielle Vaginose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bakterielle Vaginose"
     },
     {
       "diagnosisId": "D.atrophicVaginitis",
-      "label": "Atrophe Vaginitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Atrophe Vaginitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (45) bei vaginalem Juckreiz seit einer Woche.<br /><br />Zusätzlich berichtet die Patientin über Fieber.<br /><br />Vaginaler Ausfluss, Probleme beim Geschlechtsverkehr, Dysurie, Pollakisurie und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 10py (10 Zigaretten täglich während 20 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Sekt).",

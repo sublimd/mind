@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.acuteHepatitisA",
-      "label": "Akute Hepatitis A-Infektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Hepatitis A-Infektion"
     },
     {
       "diagnosisId": "D.acuteHepatitisC",
-      "label": "Akute Hepatitis C-Infektion",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Hepatitis C-Infektion"
     },
     {
       "diagnosisId": "D.chronicHypersensitivityPneumonitis",
-      "label": "Exogen-allergische Alveolitis (chronisch)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Exogen-allergische Alveolitis (chronisch)"
     },
     {
       "diagnosisId": "D.pulmonaryFibrosis",
-      "label": "Lungenfibrose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenfibrose"
     },
     {
       "diagnosisId": "D.gilbertsSyndrome",
-      "label": "M. Meulengracht",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "M. Meulengracht"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (34) bei einer vermehrten Müdigkeit seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über einen Ikterus und einen Gewichtsverlust.<br /><br />Die Patientin berichtet über ungeschützten Geschlechtsverkehr in der Vergangenheit.<br /><br />Dyspnoe, Fieber, Schlafstörungen, Husten, Bauchschmerzen, ein Appetitverlust, Hautveränderungen und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",

@@ -3,32 +3,32 @@
     {
       "diagnosisId": "D.acuteRhinoSinusitis",
       "explanation": "<ul><li>Symptome, welche durch <i>Frühsommer-Meningoencephalitis (FSME)</i> besser erklärt sind: Gliederschmerzen, Nackensteifigkeit, Bewusstseinsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe</li></ul>",
-      "label": "Akute Rhinosinusitis",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Akute Rhinosinusitis"
     },
     {
       "diagnosisId": "D.typhoidFever",
       "explanation": "<ul><li>Symptome, welche durch <i>Frühsommer-Meningoencephalitis (FSME)</i> besser erklärt sind: Nackensteifigkeit, Bewusstseinsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
-      "label": "Typhus abdominalis",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Typhus abdominalis"
     },
     {
       "diagnosisId": "D.tickborneEncephalitis",
       "explanation": "",
-      "label": "Frühsommer-Meningoencephalitis (FSME)",
-      "isCorrect": true
+      "isCorrect": true,
+      "label": "Frühsommer-Meningoencephalitis (FSME)"
     },
     {
       "diagnosisId": "D.influenza",
       "explanation": "<ul><li>Symptome, welche durch <i>Frühsommer-Meningoencephalitis (FSME)</i> besser erklärt sind: Nackensteifigkeit, Bewusstseinsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Dyspnoe, Halsschmerzen, Odynophagie, Dysphagie, Niesen</li></ul>",
-      "label": "Influenza",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Influenza"
     },
     {
       "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Symptome, welche durch <i>Frühsommer-Meningoencephalitis (FSME)</i> besser erklärt sind: Gliederschmerzen, Nackensteifigkeit, Bewusstseinsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Dyspnoe</li></ul>",
-      "label": "Ambulant erworbene atypische Pneumonie",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Ambulant erworbene atypische Pneumonie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (47) bei Kopfschmerzen seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Fieber, Gliederschmerzen, Nackensteifigkeit, Husten und einen Bewusstseinsverlust.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Nausea, Erbrechen, Sehstörungen, Rhinorrhoe, eine nasale Obstruktion, eine Photophobie, Nackenschmerzen, eine Phonophobie, Dyspnoe, Lähmungserscheinungen, Sensibilitätsstörungen, Dysarthrie, eine Hörminderung, Diarrhoe und Ohrenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

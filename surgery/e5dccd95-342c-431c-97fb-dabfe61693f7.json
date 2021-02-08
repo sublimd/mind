@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.bakersCystRuptured",
-      "label": "Rupturierte Baker Zyste",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rupturierte Baker Zyste"
     },
     {
       "diagnosisId": "D.abscess",
-      "label": "Abszess",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Abszess"
     },
     {
       "diagnosisId": "D.stasisDermatitis",
-      "label": "Stauungsekzem",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Stauungsekzem"
     },
     {
       "diagnosisId": "D.cutaneousLeishmaniasis",
-      "label": "Kutane Leishmaniose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kutane Leishmaniose"
     },
     {
       "diagnosisId": "D.distalBicepsTendonTendinopathy",
-      "label": "Tendinitis der distalen Bizepssehne",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tendinitis der distalen Bizepssehne"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (75) bei einer geröteten Hautschwellung am Rücken seit fünf Tagen.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Fieber, Pruritus, Gelenkschwellungen und eine Schwellung der Unterschenkel werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",

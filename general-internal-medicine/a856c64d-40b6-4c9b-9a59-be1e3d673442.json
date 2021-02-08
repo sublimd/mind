@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hypokalemia",
-      "label": "Hypokaliämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypokaliämie"
     },
     {
       "diagnosisId": "D.colorectalCancer",
-      "label": "Kolonkarzinom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Kolonkarzinom"
     },
     {
       "diagnosisId": "D.proctitis",
-      "label": "Akute Divertikulitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
     },
     {
       "diagnosisId": "D.hemorrhoids",
-      "label": "Hämorrhoiden",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hämorrhoiden"
     },
     {
       "diagnosisId": "D.acuteAppendicitis",
-      "label": "Akute Appendizitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Appendizitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (58) bei Obstipation seit einem Monat.<br /><br />Zusätzlich berichtet der Patient über Hämatochezie, Bauchschmerzen und Fieber.<br /><br />Ein Gewichtsverlust, eine allgemeine Müdigkeit, Nausea, Erbrechen, Polyurie, ein vermehrtes Durstgefühl, anale Schmerzen und Oligurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 41py (20 Zigaretten täglich während 41 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",

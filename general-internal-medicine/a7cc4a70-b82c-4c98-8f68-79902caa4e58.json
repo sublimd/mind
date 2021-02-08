@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.pelvicInflammatoryDisease",
-      "label": "Pelvic Inflammatory Disease",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease"
     },
     {
       "diagnosisId": "D.polycysticOvarySyndrome",
-      "label": "Polyzystisches Ovarialsyndrom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Polyzystisches Ovarialsyndrom"
     },
     {
       "diagnosisId": "D.uterinePolyp",
-      "label": "Korpuspolyp",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Korpuspolyp"
     },
     {
       "diagnosisId": "D.prolactinoma",
-      "label": "Prolaktinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Prolaktinom"
     },
     {
       "diagnosisId": "D.hyperprolactinemia",
-      "label": "Hyperprolaktinämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperprolaktinämie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (23) bei Menstruationsbeschwerden.<br /><br />Zusätzlich berichtet die Patientin über Haarausfall und ein erythematöses, pustulöses Exanthem im Gesicht.<br /><br />Bauchschmerzen, Probleme beim Geschlechtsverkehr, vaginaler Ausfluss und Ausfluss aus der Brust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",

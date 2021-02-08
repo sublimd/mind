@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.subduralHematoma",
-      "label": "Subduralhämatom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Subduralhämatom"
     },
     {
       "diagnosisId": "D.subarachnoidHemorrhage",
-      "label": "Subarachnoidalblutung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Subarachnoidalblutung"
     },
     {
       "diagnosisId": "D.intracerebralHemorrhage",
-      "label": "Intrazerebrale Blutung",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Intrazerebrale Blutung"
     },
     {
       "diagnosisId": "D.migraineHeadache",
-      "label": "Migräne",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Migräne"
     },
     {
       "diagnosisId": "D.concussion",
-      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (41) bei einem Bewusstseinsverlust seit zwei Stunden.<br /><br />Zuvor berichtete die Patientin über Kopfschmerzen, erhöhte Blutdruckwerte, Dysarthrie, eine Muskelschwäche, Nausea und Schwindel.<br /><br />Eine Therapie mit blutverdünnenden Medikamenten wird bejaht.<br /><br />Ein Trauma wird verneint. <h2>Diagnoseliste</h2>- Essentielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",

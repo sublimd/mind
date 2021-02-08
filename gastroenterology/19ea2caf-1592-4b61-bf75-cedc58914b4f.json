@@ -1,55 +1,55 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.proctitis",
       "explanation": "<ul><li><i>Perianalthrombose</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Diarrhoe, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Proktitis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.lymphogranulomaInguinale",
+      "explanation": "<ul><li><i>Perianalthrombose</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lymphogranuloma inguinale</i> erhöhen würden: Hautveränderungen, vergrösserte Lymphknoten, Fieber, Leistenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Lymphogranuloma inguinale",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Lymphogranuloma_inguinale"
         }
-      },
-      "diagnosisId": "D.lymphogranulomaInguinale",
-      "explanation": "<ul><li><i>Perianalthrombose</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lymphogranuloma inguinale</i> erhöhen würden: Hautveränderungen, vergrösserte Lymphknoten, Fieber, Leistenschmerzen</li></ul>",
-      "label": "Lymphogranuloma inguinale",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.coprostasis",
+      "explanation": "<ul>\\n<li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Koprostase</i> erhöhen würden: Obstipation, Bauchschmerzen</li>\\n</ul>",
+      "isCorrect": false,
+      "label": "Koprostase",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Analfissur"
         }
-      },
-      "diagnosisId": "D.coprostasis",
-      "explanation": "<ul>\\n<li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Koprostase</i> erhöhen würden: Obstipation, Bauchschmerzen</li>\\n</ul>",
-      "label": "Koprostase",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.perianalVeinThrombosis",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Perianalthrombose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Perianalthrombose"
         }
-      },
-      "diagnosisId": "D.perianalVeinThrombosis",
-      "explanation": "",
-      "label": "Perianalthrombose",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.analCancer",
+      "explanation": "<ul><li><i>Perianalthrombose</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Analkarzinom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Analkarzinom"
         }
-      },
-      "diagnosisId": "D.analCancer",
-      "explanation": "<ul><li><i>Perianalthrombose</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
-      "label": "Analkarzinom",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (47) bei analen Schmerzen seit fünf Tagen.<br /><br />Hämatochezie, analer Juckreiz, Obstipation, vergrösserte Lymphknoten, Hautveränderungen, Diarrhoe, Fieber und Bauchschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",

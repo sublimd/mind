@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.hypertensiveCrisis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie, Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypertensiver_Notfall"
         }
-      },
-      "diagnosisId": "D.hypertensiveCrisis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie, Nikotinabusus</li></ul>",
-      "label": "Hypertensiver Notfall",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.nonproliferativeDiabeticRetinopathy",
       "explanation": "",
+      "isCorrect": true,
       "label": "Nichtproliferative diabetische Retinopathie",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Augenrötung, Ausfluss aus dem Auge, Juckreiz im Auge, Augenschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Allergien auf Umweltfaktoren</li></ul>",
+      "isCorrect": false,
       "label": "Allergische Konjunktivitis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.gravesDisease",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Gewichtsverlust, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
+      "isCorrect": false,
+      "label": "Morbus Basedow",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Basedow"
         }
-      },
-      "diagnosisId": "D.gravesDisease",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Gewichtsverlust, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
-      "label": "Morbus Basedow",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.dystonia",
+      "explanation": "<ul><li><i>Nichtproliferative diabetische Retinopathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie, Nackenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Dystonie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Dystonie"
         }
-      },
-      "diagnosisId": "D.dystonia",
-      "explanation": "<ul><li><i>Nichtproliferative diabetische Retinopathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie, Nackenschmerzen</li></ul>",
-      "label": "Dystonie",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (66) bei Sehstörungen seit zwei Monaten.<br /><br /> Allergien auf Umweltfaktoren (Pollen, Katzenhaare etc.) werden verneint. <br /><br />Kopfschmerzen, eine Augenrötung, Augenschmerzen, Erbrechen, eine Photophobie, erhöhte Blutdruckwerte, Fieber und Dysphagie werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",

@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Brustzyste",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Brustzyste"
     },
     {
-      "label": "Brustabszess",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Brustabszess"
     },
     {
-      "label": "Brusthämatom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Brusthämatom"
     },
     {
-      "label": "Mammakarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mammakarzinom"
     },
     {
-      "label": "Papilläre apokrine Mammaveränderung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Papilläre apokrine Mammaveränderung"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (37) bei einem Knoten in der Brust seit einem Monat.<br /><br />Thoraxschmerzen, Ausfluss aus der Brust, Brustschmerzen, Hautveränderung der Brust, ein allgemeines Schwächegefühl, Fieber, vergrösserte Lymphknoten und Müdigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 32py (30 Zigaretten täglich während 21 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",

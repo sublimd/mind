@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.cerumenObturans",
-      "label": "Cerumen obturans",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cerumen obturans"
     },
     {
       "diagnosisId": "D.acuteRhinoSinusitis",
-      "label": "Akute Rhinosinusitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Rhinosinusitis"
     },
     {
       "diagnosisId": "D.otitisExternaDiffusa",
-      "label": "Otitis externa diffusa",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Otitis externa diffusa"
     },
     {
       "diagnosisId": "D.acuteOtitisMedia",
-      "label": "Akute Otitis media",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Otitis media"
     },
     {
       "diagnosisId": "D.auricularPerichondritis",
-      "label": "Perichondritis auricularis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Perichondritis auricularis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (25) bei Ohrenschmerzen seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über eine Hörminderung, Ausfluss aus dem Ohr und Fieber.<br /><br />Schwindel, Tinnitus, Gesichtsschmerzen, Kopfschmerzen, Pruritus und Hautveränderungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",

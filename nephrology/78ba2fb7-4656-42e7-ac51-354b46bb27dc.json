@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.testicularTorsion",
-      "label": "Hodentorsion",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hodentorsion"
     },
     {
       "diagnosisId": "D.rupturedAbdominalAorticAneurysm",
-      "label": "Rupturiertes abdominales Aortenaneurysma",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rupturiertes abdominales Aortenaneurysma"
     },
     {
       "diagnosisId": "D.hypokalemia",
-      "label": "Hypokaliämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypokaliämie"
     },
     {
       "diagnosisId": "D.urolithiasis",
-      "label": "Urolithiasis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Urolithiasis"
     },
     {
       "diagnosisId": "D.orthostaticDysregulation",
-      "label": "Orthostatische Dysregulation",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Orthostatische Dysregulation"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (58) bei Hodenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über eine Hodenschwellung und Nausea.<br /><br />Bauchschmerzen, Fieber, Flankenschmerzen, Hämaturie, Leistenschmerzen, Schwindel, eine kürzlicher Bewusstseinsverlust und Palpitationen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

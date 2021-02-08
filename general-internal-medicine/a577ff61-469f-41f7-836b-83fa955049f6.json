@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Colitis ulcerosa",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Colitis ulcerosa"
     },
     {
-      "label": "Akute Divertikulitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Divertikulitis"
     },
     {
-      "label": "Koprostase",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Koprostase"
     },
     {
-      "label": "Vibrio-Gastroenteritis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Vibrio-Gastroenteritis"
     },
     {
-      "label": "Urolithiasis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Urolithiasis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (63) bei konstanten Bauchschmerzen im linken Unterbauch seit fünf Tagen.<br /><br />Im Zusammenhang mit den Bauchschmerzen sei es ausserdem zu Fieber, Nausea und Diarrhoe gekommen.<br /><br />Zusätzlich berichtet der Patient über Dysurie.<br /><br />Erbrechen, Hämatochezie oder Meläna im Zusammenhang mit den Bauchschmerzen werden verneint. Eine geringe körperliche Aktivität wird verneint. <br /><br />Schüttelfrost, Appetitverlust, Blähungen, eine allgemeine Müdigkeit, ein Leistungsabfall, ein allgemeines Schwächegefühl, Polyurie und ein vermehrtes Durstgefühl werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 3 x / Woche, jeweils 1 - 2 Standardgetränke / Tag.",

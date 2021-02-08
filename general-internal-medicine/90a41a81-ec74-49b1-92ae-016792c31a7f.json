@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.rhabdomyosarcoma",
-      "label": "Rhabdomyosarkom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rhabdomyosarkom"
     },
     {
       "diagnosisId": "D.lupusNephritis",
-      "label": "Lupusnephritis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lupusnephritis"
     },
     {
       "diagnosisId": "D.myelodysplasticSyndrome",
-      "label": "Myelodysplastisches Syndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myelodysplastisches Syndrom"
     },
     {
       "diagnosisId": "D.angiomyolipoma",
-      "label": "Angiomyolipom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Angiomyolipom"
     },
     {
       "diagnosisId": "D.bartterSyndrome",
-      "label": "Bartter Syndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bartter Syndrom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (51) bei Hämaturie seit acht Tagen.<br /><br />Dysurie, Flankenschmerzen, Fieber, eine Schwellung der Unterschenkel, Oligurie, ein Gewichtsverlust, Nachtschweiss und erhöhte Blutdruckwerte werden verneint. <h2>Diagnoseliste</h2>- Systemischer Lupus erythematodes<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.acuteHepatitisC",
-      "label": "Akute Hepatitis C-Infektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Hepatitis C-Infektion"
     },
     {
       "diagnosisId": "D.acuteHepatitisB",
-      "label": "Akute Hepatitis B-Infektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Hepatitis B-Infektion"
     },
     {
       "diagnosisId": "D.uremia",
-      "label": "Urämisches Syndrom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Urämisches Syndrom"
     },
     {
       "diagnosisId": "D.acuteHepatitisA",
-      "label": "Akute Hepatitis A-Infektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Hepatitis A-Infektion"
     },
     {
       "diagnosisId": "D.primaryMyelofibrosis",
-      "label": "Primäre Myelofibrose (PMF)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Primäre Myelofibrose (PMF)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (54) bei Pruritus seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Polyurie, eine Unterschenkelschwellung und eine vermehrte Müdigkeit.<br /><br />Ungeschützter Geschlechtsverkehr in der Vergangenheit und Bluttransfusionen werden verneint.<br /><br />Hautveränderungen, Nausea, Bauchschmerzen, Dyspnoe, Fieber, ein Gewichtsverlust, ein Ikterus und Gelenkschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 27py (20 Zigaretten täglich während 27 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein).",

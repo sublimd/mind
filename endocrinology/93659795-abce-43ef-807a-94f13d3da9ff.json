@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.goiter",
-      "label": "Euthyreote Struma",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Euthyreote Struma"
     },
     {
       "diagnosisId": "D.hypercortisolism",
-      "label": "Cushing Syndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cushing Syndrom"
     },
     {
       "diagnosisId": "D.endometriosis",
-      "label": "Endometriose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Endometriose"
     },
     {
       "diagnosisId": "D.hashimotoThyroiditis",
-      "label": "Hashimoto-Thyreoiditis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hashimoto-Thyreoiditis"
     },
     {
       "diagnosisId": "D.ironDeficiencyAnemia",
-      "label": "Eisenmangelanämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (29) bei Obstipation seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Dyspnoe, eine Kälteintoleranz, Menstruationsbeschwerden und Bauchschmerzen.<br /><br /> Ein vegetarischer Ernährungsstil wird verneint. <br /><br />Nausea, Erbrechen, Palpitationen, vergrösserte Lymphknoten, und eine Halsschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",

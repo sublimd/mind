@@ -1,39 +1,39 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.foreignBodyInConjunctiva",
       "explanation": "<ul><li>Probleme, welche durch <i>Chalazion</i> besser erklärt sind: Lidschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Konjunktivaler Fremdkörper</i> erhöhen würden: Juckreiz im Auge</li></ul>",
+      "isCorrect": false,
       "label": "Konjunktivaler Fremdkörper",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.chalazion",
       "explanation": "",
+      "isCorrect": true,
       "label": "Chalazion",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.bacterialConjunctivitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Chalazion</i> besser erklärt sind: Lidschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Konjunktivitis</i> erhöhen würden: Augenschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Akute bakterielle Konjunktivitis",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.allergicRhinoconjunctivitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Juckreiz im Auge, Rhinorrhoe, nasale Obstruktion, Niesen</li></ul>",
+      "isCorrect": false,
       "label": "Allergische Rhinokonjunktivitis",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.viralConjunctivitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Chalazion</i> besser erklärt sind: Lidschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Konjunktivitis</i> erhöhen würden: Juckreiz im Auge, Fieber</li></ul>",
+      "isCorrect": false,
       "label": "Virale Konjunktivitis",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (31) bei einer linksseitigen Lidschwellung seit einer Woche.<br /><br />Zusätzlich berichtet der Patient über eine Augenrötung und wässrigen Ausfluss aus dem Auge.<br /><br />Juckreiz in den Augen, Augenschmerzen, Rhinorrhoe, eine nasale Obstruktion, Sehstörungen, Niesen, Fieber und Halsschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 9py (10 Zigaretten täglich während 17 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

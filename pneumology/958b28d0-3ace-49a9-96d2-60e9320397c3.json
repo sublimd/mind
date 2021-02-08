@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Fieber, Schüttelfrost, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.anginaPectorisStable",
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Stabile Angina pectoris",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Stabile_Angina_Pectoris"
         }
-      },
-      "diagnosisId": "D.anginaPectorisStable",
-      "explanation": "",
-      "label": "Stabile Angina pectoris",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.chronicHypersensitivityPneumonitis",
+      "explanation": "<ul><li><i>Chronisch obstruktive Lungenkrankheit (COPD)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Exogen-allergische Alveolitis (chronisch)</i> erhöhen würden: Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Exogen-allergische Alveolitis (chronisch)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Exogen-allergische_Alveolitis"
         }
-      },
-      "diagnosisId": "D.chronicHypersensitivityPneumonitis",
-      "explanation": "<ul><li><i>Chronisch obstruktive Lungenkrankheit (COPD)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Exogen-allergische Alveolitis (chronisch)</i> erhöhen würden: Gewichtsverlust</li></ul>",
-      "label": "Exogen-allergische Alveolitis (chronisch)",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.copd",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chronisch obstruktive Lungenkrankheit (COPD)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Chronisch_obstruktive_Lungenkrankheit"
         }
-      },
-      "diagnosisId": "D.copd",
-      "explanation": "",
-      "label": "Chronisch obstruktive Lungenkrankheit (COPD)",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteAsthma",
       "explanation": "",
+      "isCorrect": false,
       "label": "Akute Exazerbation eines Asthma bronchiale",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (47) bei Dyspnoe seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Husten und eine vermehrte Müdigkeit.<br /><br />Thoraxschmerzen, Fieber, Kopfschmerzen, Rhinorrhoe, ein Gewichtsverlust, eine nasale Obstruktion und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 42py (30 Zigaretten täglich während 28 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",

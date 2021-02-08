@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.hypercortisolism",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhter Blutdruck, Menstruationsbeschwerden, Ausbleiben der Periode, erektile Dysfunktion, Schwellung der Unterschenkel, Schwellung der Beine, Hautschwellung, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Cushing Syndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Cushing-Syndrom"
         }
-      },
-      "diagnosisId": "D.hypercortisolism",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhter Blutdruck, Menstruationsbeschwerden, Ausbleiben der Periode, erektile Dysfunktion, Schwellung der Unterschenkel, Schwellung der Beine, Hautschwellung, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
-      "label": "Cushing Syndrom",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.majorDepressiveEpisode",
       "explanation": "",
+      "isCorrect": true,
       "label": "Ausgeprägte depressive Episode",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.hepaticEncephalopathy",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Verwirrtheit, Krampfanfall, Angstzustände</li></ul>",
+      "isCorrect": false,
+      "label": "Hepatische Enzephalopathie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hepatische_Enzephalopathie"
         }
-      },
-      "diagnosisId": "D.hepaticEncephalopathy",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Verwirrtheit, Krampfanfall, Angstzustände</li></ul>",
-      "label": "Hepatische Enzephalopathie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hypercalcemia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Schlafstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.hypercalcemia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Schlafstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
-      "label": "Hyperkalzämie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.snoring",
+      "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: depressive Verstimmung</li></ul>",
+      "isCorrect": false,
+      "label": "Schnarchen",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Schnarchen"
         }
-      },
-      "diagnosisId": "D.snoring",
-      "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: depressive Verstimmung</li></ul>",
-      "label": "Schnarchen",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (41) bei einer depressiven Verstimmung seit vier Monaten, Schlafstörungen und einer vermehrten Müdigkeit.<br /><br />Eine Gewichtszunahme, ein vermehrtes Durstgefühl, Bauchschmerzen und Polyurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier).",

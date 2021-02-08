@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.infectiousMononucleosis",
-      "label": "Infektiöse Mononukleose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose"
     },
     {
       "diagnosisId": "D.acuteLymphoblasticLeukemia",
-      "label": "Akute lymphatische Leukämie",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute lymphatische Leukämie"
     },
     {
       "diagnosisId": "D.lymeBorreliosisStage1",
-      "label": "Lyme Borreliose Stadium 1",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 1"
     },
     {
       "diagnosisId": "D.acuteRhinoSinusitis",
-      "label": "Akute Rhinosinusitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Rhinosinusitis"
     },
     {
       "diagnosisId": "D.lymphoma",
-      "label": "Lymphom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lymphom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (15) bei Fieber seit einer Woche.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, einen Gewichtsverlust und Nasenbluten.<br /><br />Bauchschmerzen, Diarrhoe, Hautveränderungen, Odynophagie, Husten, Dysphagie, Dyspnoe, Kopfschmerzen, vergrösserte Lymphknoten, Gliederschmerzen, Flankenschmerzen, eine nasale Obstruktion, Dysurie und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x oder mehr die Woche, jeweils 2 - 3 Standardgetränke / Tag.",

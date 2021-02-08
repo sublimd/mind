@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Skleritis anterior",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Skleritis anterior"
     },
     {
-      "label": "Skleritis posterior",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Skleritis posterior"
     },
     {
-      "label": "Zoster ophthalmicus",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zoster ophthalmicus"
     },
     {
-      "label": "Sterile Augenentzündung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sterile Augenentzündung"
     },
     {
-      "label": "Akute Endophtalmitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Endophtalmitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (57) bei Augenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Sehstörungen und eine Augenrötung.<br /><br />Eine kürzliche Augenoperation wird bejaht.<br /><br />Ausfluss aus den Augen, Fremdkörpergefühl im Auge, Juckreiz in den Augen, Dyspnoe, Husten und Thoraxschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

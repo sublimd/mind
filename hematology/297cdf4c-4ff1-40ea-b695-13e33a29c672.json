@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hyponatremia",
-      "label": "Hyponatriämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyponatriämie"
     },
     {
       "diagnosisId": "D.fibromyalgia",
-      "label": "Fibromyalgie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Fibromyalgie"
     },
     {
       "diagnosisId": "D.multipleMyeloma",
-      "label": "Multiples Myelom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Multiples Myelom"
     },
     {
       "diagnosisId": "D.hypopituitarism",
-      "label": "Hypophysenvorderlappen-Insuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypophysenvorderlappen-Insuffizienz"
     },
     {
       "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
-      "label": "Anämie im Rahmen chronischer Erkrankung",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Anämie im Rahmen chronischer Erkrankung"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (48) bei einer vermehrten Müdigkeit seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen.<br /><br />Dyspnoe, Fieber, Schlafstörungen, Nausea, ein Gewichtsverlust, Palpitationen, Gliederschmerzen, eine depressive Stimmung, Nachtschweiss und Sensibilitätsstörungen werden verneint. <h2>Diagnoseliste</h2>- Rheumatoide Arthritis<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 45py (20 Zigaretten täglich während 45 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

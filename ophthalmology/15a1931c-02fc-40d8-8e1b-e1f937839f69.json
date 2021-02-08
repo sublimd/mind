@@ -1,59 +1,59 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.hordeolum",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Augenschmerzen, Augenschwellung, Augenrötung, Ausfluss aus dem Auge, Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Hordeolum",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hordeolum"
         }
-      },
-      "diagnosisId": "D.hordeolum",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Augenschmerzen, Augenschwellung, Augenrötung, Ausfluss aus dem Auge, Fieber</li></ul>",
-      "label": "Hordeolum",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.dystonia",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie</li></ul>",
+      "isCorrect": false,
+      "label": "Dystonie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Dystonie"
         }
-      },
-      "diagnosisId": "D.dystonia",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie</li></ul>",
-      "label": "Dystonie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hypertensiveCrisis",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie, Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypertensiver_Notfall"
         }
-      },
-      "diagnosisId": "D.hypertensiveCrisis",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie, Nikotinabusus</li></ul>",
-      "label": "Hypertensiver Notfall",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.keratoconus",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Keratokonus",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Keratokonus"
         }
-      },
-      "diagnosisId": "D.keratoconus",
-      "explanation": "",
-      "label": "Keratokonus",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.gravesDisease",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Gewichtsverlust, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
+      "isCorrect": false,
+      "label": "Morbus Basedow",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Basedow"
         }
-      },
-      "diagnosisId": "D.gravesDisease",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Gewichtsverlust, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
-      "label": "Morbus Basedow",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (28) bei Sehstörungen seit zwei Monaten.<br /><br />Kopfschmerzen, eine Augenrötung, Erbrechen, eine Augenschwellung, eine Photophobie, Dysphagie und Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

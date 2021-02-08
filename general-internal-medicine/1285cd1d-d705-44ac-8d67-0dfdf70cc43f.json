@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.ironDeficiencyAnemia",
-      "label": "Eisenmangelanämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie"
     },
     {
       "diagnosisId": "D.hashimotoThyroiditis",
-      "label": "Hashimoto Thyreoditis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hashimoto Thyreoditis"
     },
     {
       "diagnosisId": "D.hypercalcemiaOfMalignancy",
-      "label": "Tumorhyperkalzämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tumorhyperkalzämie"
     },
     {
       "diagnosisId": "D.hyperkalemia",
-      "label": "Hyperkaliämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperkaliämie"
     },
     {
       "diagnosisId": "D.hypokalemia",
-      "label": "Hypokaliämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypokaliämie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (45) bei Obstipation seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Menstruationsbeschwerden, eine Unterschenkelschwellung und Palpitationen.<br /><br />Eine Kälteintoleranz, eine Gewichtszunahme, Bauchschmerzen, Nausea, Erbrechen, Polyurie, eine Verwirrtheit und ein vermehrtes Durstgefühl werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",

@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.pregnancy",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schwangerschaft</i> erhöhen würden: Ausbleiben der Periode, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Schwangerschaft",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Schwangerschaft"
         }
-      },
-      "diagnosisId": "D.pregnancy",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schwangerschaft</i> erhöhen würden: Ausbleiben der Periode, Nausea, Erbrechen</li></ul>",
-      "label": "Schwangerschaft",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.uterinePolyp",
       "explanation": "",
+      "isCorrect": true,
       "label": "Korpuspolyp",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.pelvicInflammatoryDisease",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost, Dysurie</li></ul>",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Pelvic_inflammatory_disease"
         }
-      },
-      "diagnosisId": "D.pelvicInflammatoryDisease",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost, Dysurie</li></ul>",
-      "label": "Pelvic Inflammatory Disease",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteAdnexitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Adnexitis</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
       "label": "Akute Adnexitis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.spontaneousAbortion",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Spontanabort</i> erhöhen würden: Bauchschmerzen, Schmerzen im Genitalbereich</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Spontanabort</i> erhöhen würden: Schwangerschaft</li></ul>",
+      "isCorrect": false,
+      "label": "Spontanabort",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Spontanabort"
         }
-      },
-      "diagnosisId": "D.spontaneousAbortion",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Spontanabort</i> erhöhen würden: Bauchschmerzen, Schmerzen im Genitalbereich</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Spontanabort</i> erhöhen würden: Schwangerschaft</li></ul>",
-      "label": "Spontanabort",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (53) bei unerwarteten vaginalen Blutungen seit einem Monat.<br /><br />Die Patientin verneint die Möglichkeit einer Schwangerschaft.<br /><br />Bauchschmerzen, vaginaler Ausfluss, Dysurie, Probleme beim Geschlechtsverkehr, Fieber, Schüttelfrost und Nausea werden verneint. <h2>Diagnoseliste</h2>- Übergewicht<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Sekt und Spirituosen).",

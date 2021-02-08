@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.hypertensiveEncephalopathy",
       "explanation": "<ul><li>Probleme, welche durch <i>Phäochromozytom</i> besser erklärt sind: Palpitationen, Hyperhidrose</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensive Enzephalopathie</i> erhöhen würden: Verwirrtheit, Erbrechen, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Enzephalopathie</i> erhöhen würden: Bekannte arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
       "label": "Hypertensive Enzephalopathie",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.intracerebralHemorrhage",
+      "explanation": "<ul><li>Probleme, welche durch <i>Phäochromozytom</i> besser erklärt sind: Palpitationen, Hyperhidrose</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Bewusstseinsverlust, Dysarthrie, Aphasie, Muskelschwäche, Sensibilitätsstörungen, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Kürzliches Schädeltrauma, bekannte arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Intrazerebrale Blutung",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Intrazerebrale_Blutung"
         }
-      },
-      "diagnosisId": "D.intracerebralHemorrhage",
-      "explanation": "<ul><li>Probleme, welche durch <i>Phäochromozytom</i> besser erklärt sind: Palpitationen, Hyperhidrose</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Bewusstseinsverlust, Dysarthrie, Aphasie, Muskelschwäche, Sensibilitätsstörungen, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Kürzliches Schädeltrauma, bekannte arterielle Hypertonie</li></ul>",
-      "label": "Intrazerebrale Blutung",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.pheochromocytoma",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Phäochromozytom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Ph%C3%A4ochromozytom"
         }
-      },
-      "diagnosisId": "D.pheochromocytoma",
-      "explanation": "",
-      "label": "Phäochromozytom",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.cocaineIntoxication",
       "explanation": "<ul><li>Probleme, welche durch <i>Phäochromozytom</i> besser erklärt sind: Hyperhidrose</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Kokain-Intoxikation</i> erhöhen würden: Kokainkonsum</li></ul>",
+      "isCorrect": false,
       "label": "Kokain-Intoxikation",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.hypertensiveCrisis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Phäochromozytom</i> besser erklärt sind: Palpitationen, Hyperhidrose</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Bekannte arterielle Hypertonie, Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypertensiver_Notfall"
         }
-      },
-      "diagnosisId": "D.hypertensiveCrisis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Phäochromozytom</i> besser erklärt sind: Palpitationen, Hyperhidrose</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Bekannte arterielle Hypertonie, Tabakrauchkonsum</li></ul>",
-      "label": "Hypertensiver Notfall",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (18) bei erhöhten Blutdruckwerten seit einem Monat.<br /><br />Zusätzlich berichtet der Patient über Palpitationen, Kopfschmerzen und Hyperhidrose.<br /><br /> Ein kürzliches Schädeltrauma wird verneint. <br /><br />Thoraxschmerzen, Schwindel, Dyspnoe, Schlafstörungen, Nausea, Lähmungserscheinungen, eine allgemeine Müdigkeit und ein kürzlicher Bewusstseinsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier).",

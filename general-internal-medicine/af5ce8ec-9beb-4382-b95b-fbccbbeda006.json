@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.ironDeficiencyAnemia",
-      "label": "Eisenmangelanämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie"
     },
     {
       "diagnosisId": "D.polycythemiaVera",
-      "label": "Polycythämia vera",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Polycythämia vera"
     },
     {
       "diagnosisId": "D.anemiaMacrocytic",
-      "label": "Makrozytäre Anämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
     },
     {
       "diagnosisId": "D.corPulmonale",
-      "label": "Cor pulmonale",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Cor pulmonale"
     },
     {
       "diagnosisId": "D.cardiacTamponade",
-      "label": "Perikardtamponade",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Perikardtamponade"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (53) bei Dyspnoe seit fünf Monaten.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Schwindel, Thoraxschmerzen, eine beidseitige Unterschenkelschwellung und eine Synkope.<br /><br />Husten, Fieber, Kopfschmerzen, eine Gewichtszunahme, Appetitverlust, Nachtschweiss und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

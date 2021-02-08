@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.tuboOvarianAbscess",
-      "label": "Tuboovarialabszess",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tuboovarialabszess"
     },
     {
       "diagnosisId": "D.cervicalCarcinoma",
-      "label": "Zervixkarzinom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Zervixkarzinom"
     },
     {
       "diagnosisId": "D.uterineMyoma",
-      "label": "Uterusmyom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Uterusmyom"
     },
     {
       "diagnosisId": "D.endometrialCarcinoma",
-      "label": "Endometriumkarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Endometriumkarzinom"
     },
     {
       "diagnosisId": "D.bacterialVaginosis",
-      "label": "Bakterielle Vaginose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bakterielle Vaginose"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (65) bei unerwarteten vaginalen Blutungen seit fünf Monaten.<br /><br />Zusätzlich berichtet die Patientin über Probleme beim Geschlechtsverkehr und vaginalen Ausfluss.<br /><br />Die Patientin gibt an unter Schmierblutungen während dem Geschlechtsverkehr zu leiden.<br /><br />Einen frühen Beginn der sexuellen Aktivität (< 16 Jahre) wird bejaht.<br /><br />Bauchschmerzen, Dysurie, vaginaler Juckreiz, Fieber, Schüttelfrost, Rückenschmerzen, ein Gewichtsverlust und eine allgemeine Müdigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein und Spirituosen).",

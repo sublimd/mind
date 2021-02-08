@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.acuteDiverticulitis",
-      "label": "Akute Divertikulitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
     },
     {
       "diagnosisId": "D.hypercalcemia",
-      "label": "Hyperkalzämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperkalzämie"
     },
     {
       "diagnosisId": "D.pneumatosisCystoidesIntestinalis",
-      "label": "Pneumatosis cystoides intestinalis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pneumatosis cystoides intestinalis"
     },
     {
       "diagnosisId": "D.paralyticIleus",
-      "label": "Paralytischer Ileus",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Paralytischer Ileus"
     },
     {
       "diagnosisId": "D.coprostasis",
-      "label": "Koprostase",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Koprostase"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei Obstipation seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Bauchschmerzen, Blähungen, Nausea und einen Appetitverlust.<br /><br /> Abdominale Eingriffe und ein kürzliches Abdominaltrauma werden verneint. <br /><br />Erbrechen, ein vermehrtes Durstgefühl, Polyurie und Nykturie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 57py (30 Zigaretten täglich während 38 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",

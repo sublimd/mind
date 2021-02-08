@@ -3,32 +3,32 @@
     {
       "diagnosisId": "D.hypothyroidism",
       "explanation": "<ul><li>Symptome, welche durch <i>Hämochromatose</i> besser erklärt sind: Hautveränderungen, Fingerschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Hypothyreose</i> erhöhen würden: Obstipation, Dyspnoe, Kälteintoleranz, Gewichtszunahme, Menstruationsbeschwerden, Schwellung der Unterschenkel, Augenschwellung</li></ul>",
-      "label": "Hypothyreose",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Hypothyreose"
     },
     {
       "diagnosisId": "D.herpesLabialis",
       "explanation": "<ul><li>Symptome, welche durch <i>Hämochromatose</i> besser erklärt sind: Fingerschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Herpes labialis</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Herpes labialis",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Herpes labialis"
     },
     {
       "diagnosisId": "D.hemochromatosis",
       "explanation": "",
-      "label": "Hämochromatose",
-      "isCorrect": true
+      "isCorrect": true,
+      "label": "Hämochromatose"
     },
     {
       "diagnosisId": "D.erythemaNodosum",
       "explanation": "<ul><li>Symptome, welche durch <i>Hämochromatose</i> besser erklärt sind: Hautveränderungen, Fingerschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Erythema nodosum</i> erhöhen würden: Schwellung der Beine, Fieber</li></ul>",
-      "label": "Erythema nodosum",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Erythema nodosum"
     },
     {
       "diagnosisId": "D.liverCirrhosis",
       "explanation": "<ul><li>Symptome, welche durch <i>Hämochromatose</i> besser erklärt sind: Fingerschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Gewichtsverlust, Appetitverlust, Ikterus, Pruritus, Nausea, Muskelkrämpfe, Nasenbluten, Zahnfleischbluten, Bauchschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
-      "label": "Leberzirrhose",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Leberzirrhose"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei einer vermehrten Müdigkeit seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über eine bräunliche Hautveränderung und Fingerschmerzen.<br /><br />Fieber, Schlafstörungen, ein Gewichtsverlust, Bauchschmerzen, eine depressive Stimmung, eine Schwellung der Unterschenkel, Obstipation, Nachtschweiss und kutane Knötchen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 16py (10 Zigaretten täglich während 31 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

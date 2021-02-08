@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.lymeBorreliosisStage1",
-      "label": "Lyme Borreliose Stadium 1",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 1"
     },
     {
       "diagnosisId": "D.abscess",
-      "label": "Abszess",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Abszess"
     },
     {
       "diagnosisId": "D.salivaryGlandCarcinoma",
-      "label": "Speicheldrüsenkarzinom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Speicheldrüsenkarzinom"
     },
     {
       "diagnosisId": "D.lipoma",
-      "label": "Lipom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lipom"
     },
     {
       "diagnosisId": "D.gravesDisease",
-      "label": "Morbus Basedow",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Morbus Basedow"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (44) bei einem Knoten in der linken Gesichtshälfte seit fünf Monaten.<br /><br />Zusätzlich berichtet die Patientin über eine Muskelschwäche im Gesicht und einen Gewichtsverlust.<br /><br />Der Aufenthalt in Wäldern wird verneint. <br /><br />Hautveränderungen, Fieber, Gesichtsschmerzen, eine Hyperhidrose und eine Wärmeintoleranz werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein).",

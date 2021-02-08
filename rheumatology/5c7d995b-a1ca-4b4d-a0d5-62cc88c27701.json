@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.acuteRhinoSinusitis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Polymyalgia rheumatica</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Kopfschmerzen, Gesichtsschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Rhinosinusitis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Sinusitis"
         }
-      },
-      "diagnosisId": "D.acuteRhinoSinusitis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Polymyalgia rheumatica</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Kopfschmerzen, Gesichtsschmerzen</li></ul>",
-      "label": "Akute Rhinosinusitis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.overweight",
+      "explanation": "<ul><li>Probleme, welche durch <i>Polymyalgia rheumatica</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Übergewicht</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Übergewicht",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/%C3%9Cbergewicht"
         }
-      },
-      "diagnosisId": "D.overweight",
-      "explanation": "<ul><li>Probleme, welche durch <i>Polymyalgia rheumatica</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Übergewicht</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Übergewicht",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.polymyalgiaRheumatica",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Polymyalgia rheumatica",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Polymyalgia_rheumatica"
         }
-      },
-      "diagnosisId": "D.polymyalgiaRheumatica",
-      "explanation": "",
-      "label": "Polymyalgia rheumatica",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
       "explanation": "<ul><li>Probleme, welche durch <i>Polymyalgia rheumatica</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Block II°, Mobitz II</i> erhöhen würden: Schwindel, Bradykardien, Synkope, Dyspnoe</li></ul>",
+      "isCorrect": false,
       "label": "AV-Block II°, Mobitz II",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.copd",
+      "explanation": "<ul><li>Probleme, welche durch <i>Polymyalgia rheumatica</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronisch obstruktive Lungenkrankheit (COPD)</i> erhöhen würden: Dyspnoe, Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Chronisch obstruktive Lungenkrankheit (COPD)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Chronisch_obstruktive_Lungenkrankheit"
         }
-      },
-      "diagnosisId": "D.copd",
-      "explanation": "<ul><li>Probleme, welche durch <i>Polymyalgia rheumatica</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronisch obstruktive Lungenkrankheit (COPD)</i> erhöhen würden: Dyspnoe, Husten</li></ul>",
-      "label": "Chronisch obstruktive Lungenkrankheit (COPD)",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (61) bei einer vermehrten Müdigkeit.<br /><br />Die Müdigkeit sei am Vormittag am stärksten ausgeprägt.<br /><br />Zusätzlich berichtet der Patient über beidseitige Schulterschmerzen (VAS 5/10) seit sechs Monaten.<br /><br />Dyspnoe, Fieber, Kopfschmerzen, Thoraxschmerzen, eine depressive Verstimmung, Nachtschweiss, saures Aufstossen, eine Schulterschwellung, eine Schulterrötung und eine Schultersteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 14py (10 Zigaretten täglich während 28 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",

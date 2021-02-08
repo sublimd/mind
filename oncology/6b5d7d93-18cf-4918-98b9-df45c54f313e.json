@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.lumbarSpondylosis",
-      "label": "Lumbale Spondylose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lumbale Spondylose"
     },
     {
       "diagnosisId": "D.epididymitis",
-      "label": "Epididymitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Epididymitis"
     },
     {
       "diagnosisId": "D.seminomaOfTestis",
-      "label": "Hodenkarzinom (Seminom)",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hodenkarzinom (Seminom)"
     },
     {
       "diagnosisId": "D.malignantNeoplasmOfKidney",
-      "label": "Nierenkarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nierenkarzinom"
     },
     {
       "diagnosisId": "D.urolithiasis",
-      "label": "Urolithiasis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Urolithiasis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (27) bei einer Hodenschwellung seit drei Monaten.<br /><br />Zusätzlich berichtet der Patient über Hodenschmerzen.<br /><br />Fieber, Bauchschmerzen, Nausea, eine allgemeine Müdigkeit, eine erektile Dysfunktion, Hämaturie, Dysurie, Pollakisurie, Rückenschmerzen, ein Gewichtsverlust und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 6py (20 Zigaretten täglich während 6 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",

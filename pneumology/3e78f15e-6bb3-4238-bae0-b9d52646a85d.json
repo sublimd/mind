@@ -1,39 +1,39 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.mitralValveStenosis",
       "explanation": "<ul><li><i>Akute Exazerbation eines Asthma bronchiale</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
       "label": "Mitralklappen-Stenose",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.vocalCordDysfunctionSyndrome",
       "explanation": "<ul><li><i>Akute Exazerbation eines Asthma bronchiale</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vocal Cord Dysfunction (VCD)</i> erhöhen würden: Dysphonie</li></ul>",
+      "isCorrect": false,
       "label": "Vocal Cord Dysfunction (VCD)",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteAsthma",
       "explanation": "",
+      "isCorrect": true,
       "label": "Akute Exazerbation eines Asthma bronchiale",
-      "isCorrect": true
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.pulmonaryEdema",
       "explanation": "",
+      "isCorrect": false,
       "label": "Lungenödem",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen, Halsschmerzen, Gelenkschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (46) bei Dyspnoe mit expiratorischem Pfeifen seit vier Tagen.<br /><br />Zusätzlich berichtet die Patientin über Husten.<br /><br />Thoraxschmerzen, eine allgemeine Müdigkeit, Palpitationen, Fieber, Kopfschmerzen, Orthopnoe, Dysphonie, Ohrenschmerzen und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 23py (20 Zigaretten täglich während 23 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein und Spirituosen).",

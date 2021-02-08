@@ -2,8 +2,9 @@
   "answers": [
     {
       "diagnosisId": "D.osteomalacia",
-      "label": "Osteomalazie",
+      "explanation": "",
       "isCorrect": false,
+      "label": "Osteomalazie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Osteomalazie"
@@ -15,23 +16,27 @@
     },
     {
       "diagnosisId": "D.hyperphosphatemia",
-      "label": "Hyperphosphatämie",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperphosphatämie"
     },
     {
       "diagnosisId": "D.hypocalcemia",
-      "label": "Hypokalzämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypokalzämie"
     },
     {
       "diagnosisId": "D.chronicVenousInsufficiency",
-      "label": "Chronisch venöse Insuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz"
     },
     {
       "diagnosisId": "D.hypomagnesemia",
-      "label": "Hypomagnesiämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypomagnesiämie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (69) bei Muskelkrämpfen seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Sensibilitätsstörungen im Gesicht, Gelenkschmerzen und ein Exanthem.<br /><br />Beinschmerzen, Gliederschmerzen, Tremor und Krampfanfälle werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",

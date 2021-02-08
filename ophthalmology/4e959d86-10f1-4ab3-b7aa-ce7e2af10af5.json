@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.opticNeuritis",
-      "label": "Neuritis nervi optici (Retrobulbärneuritis)",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Neuritis nervi optici (Retrobulbärneuritis)"
     },
     {
       "diagnosisId": "D.chorioretinitis",
-      "label": "Chorioretinitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chorioretinitis"
     },
     {
       "diagnosisId": "D.allergicConjunctivitis",
-      "label": "Allergische Konjunktivitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Allergische Konjunktivitis"
     },
     {
       "diagnosisId": "D.viralConjunctivitis",
-      "label": "Virale Konjunktivitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Virale Konjunktivitis"
     },
     {
       "diagnosisId": "D.retinalDetachment",
-      "label": "Amotio retinae",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Amotio retinae"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (23) bei Sehstörungen am linken Auge seit fünf Tagen.<br /><br />Die Patientin beschreibt Lichtblitze.<br /><br />Zusätzlich berichtet die Patientin über Augenschmerzen.<br /><br /> Der Kontakt zu kranken Personen wird verneint. Allergien auf Umweltfaktoren (Pollen, Katzenhaare etc.) und eine Erkältung in den den letzten Tagen werden verneint. <br /><br />Kopfschmerzen, eine Augenrötung, Ausfluss aus dem Auge, Juckreiz in den Augen, eine Photophobie und Fieber werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",

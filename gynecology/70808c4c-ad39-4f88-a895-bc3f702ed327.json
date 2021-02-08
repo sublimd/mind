@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.pregnancy",
-      "label": "Schwangerschaft",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Schwangerschaft"
     },
     {
       "diagnosisId": "D.uterineMyoma",
-      "label": "Uterusmyom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Uterusmyom"
     },
     {
       "diagnosisId": "D.gonococcalCervicitis",
-      "label": "Gonokokken-Zervizitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Gonokokken-Zervizitis"
     },
     {
       "diagnosisId": "D.endometrialCarcinoma",
-      "label": "Endometriumkarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Endometriumkarzinom"
     },
     {
       "diagnosisId": "D.pelvicInflammatoryDisease",
-      "label": "Pelvic Inflammatory Disease",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2> Vorstellung der Patientin (38) bei vaginalem Ausfluss seit sechs Tagen.<br /><br />Die Patientin beschreibt den Ausfluss als gelblich.<br /><br />Zusätzlich berichtet die Patientin über eine unerwartete vaginale Blutung und vaginalen Juckreiz.<br /><br />Probleme beim Geschlechtsverkehr, Dysurie, Bauchschmerzen, Fieber, Menstruationsbeschwerden, Erbrechen und Nausea werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",

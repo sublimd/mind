@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.entropion",
-      "label": "Entropium",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Entropium"
     },
     {
       "diagnosisId": "D.herpesSimplexKeratitis",
-      "label": "Herpes-simplex Keratitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Herpes-simplex Keratitis"
     },
     {
       "diagnosisId": "D.bacterialKeratitis",
-      "label": "Akute bakterielle Keratitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute bakterielle Keratitis"
     },
     {
       "diagnosisId": "D.ectropion",
-      "label": "Ektropium",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ektropium"
     },
     {
       "diagnosisId": "D.intraocularForeignBody",
-      "label": "Offenwinkelglaukom (Glaucoma chronicum simplex)",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Offenwinkelglaukom (Glaucoma chronicum simplex)"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei einem Fremdkörpergefühl im Auge seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Augenrötung, übermässigen Tränenfluss, Augentrockenheit, Sehstörungen und Augenschmerzen.<br /><br />Eine Augenschwellung, Juckreiz in den Augen und Rhinorrhoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 3 x / Woche, jeweils 1 - 2 Standardgetränke / Tag.",

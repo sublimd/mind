@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.herpesSimplexVirusCervicitis",
-      "label": "HSV-Zervizitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "HSV-Zervizitis"
     },
     {
       "diagnosisId": "D.vaginalYeastInfection",
-      "label": "Vaginale Mykose",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Vaginale Mykose"
     },
     {
       "diagnosisId": "D.pelvicInflammatoryDisease",
-      "label": "Pelvic Inflammatory Disease",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease"
     },
     {
       "diagnosisId": "D.atrophicVaginitis",
-      "label": "Atrophe Vaginitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Atrophe Vaginitis"
     },
     {
       "diagnosisId": "D.acuteAdnexitis",
-      "label": "Akute Adnexitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Adnexitis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (21) bei vaginalem Juckreiz seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über vaginalen Ausfluss und Fieber.<br /><br />Die Patientin beschreibt den Ausfluss als weisslich. Die Beschaffenheit des Ausflusses sei cremig.<br /><br />Die Patientin berichtet von der kürzlichen Verwendung von Antibiotika.<br /><br />Probleme beim Geschlechtsverkehr, Dysurie, Menstruationsbeschwerden, Rückenschmerzen, Bauchschmerzen und Erbrechen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x die Woche, jeweils 3 - 4 Standardgetränke / Tag.",

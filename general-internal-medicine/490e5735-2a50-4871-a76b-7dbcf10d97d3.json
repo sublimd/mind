@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.epicondylitisLateralis",
-      "label": "Epicondylitis humeri lateralis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Epicondylitis humeri lateralis"
     },
     {
       "diagnosisId": "D.looseBodiesElbow",
-      "label": "Freie Gelenkkörper im Ellbogen",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Freie Gelenkkörper im Ellbogen"
     },
     {
       "diagnosisId": "D.ankylosingSpondilitis",
-      "label": "Spondylitis ankylosans",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Spondylitis ankylosans"
     },
     {
       "diagnosisId": "D.distalBicepsTendonTendinopathy",
-      "label": "Tendinitis der distalen Bizepssehne",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tendinitis der distalen Bizepssehne"
     },
     {
       "diagnosisId": "D.radialTunnelSyndrome",
-      "label": "Radialtunnelsyndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Radialtunnelsyndrom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (45) bei rechtsseitigen Ellbogenschmerzen seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über eine Ellbogenrötung.<br /><br />Die Patientin spiele regelmässig Tennis. <br /><br />Eine Ellbogenschwellung, Fieber und Rückenschmerzen werden verneint. <h2>Diagnoseliste</h2>- Übergewicht<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.concussion",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Amnesie, Bewusstseinsverlust, Synkope, Somnolenz, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Kürzliches Schädeltrauma</li></ul>",
+      "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.hypoglykemia",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Tremor, Hyperhidrose, Nachtschweiss</li></ul>",
+      "isCorrect": false,
+      "label": "Hypoglykämie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypoglyk%C3%A4mie"
         }
-      },
-      "diagnosisId": "D.hypoglykemia",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Tremor, Hyperhidrose, Nachtschweiss</li></ul>",
-      "label": "Hypoglykämie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.transientIschemicAttack",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Transitorische ischämische Attacke (TIA)",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Transitorische_isch%C3%A4mische_Attacke"
         }
-      },
-      "diagnosisId": "D.transientIschemicAttack",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Transitorische ischämische Attacke (TIA)",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.anaphylacticReaction",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypertensive Enzephalopathie</i> besser erklärt sind: Sehstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktische Reaktion</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktische Reaktion",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktische_Reaktion"
         }
-      },
-      "diagnosisId": "D.anaphylacticReaction",
-      "explanation": "<ul><li>Probleme, welche durch <i>Hypertensive Enzephalopathie</i> besser erklärt sind: Sehstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktische Reaktion</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
-      "label": "Anaphylaktische Reaktion",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.hypertensiveEncephalopathy",
       "explanation": "",
+      "isCorrect": true,
       "label": "Hypertensive Enzephalopathie",
-      "isCorrect": true
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (48) bei Verwirrtheit.<br /><br />Zusätzlich berichtet die Patientin über erhöhte Blutdruckwerte seit einem Tag sowie bohrende Kopfschmerzen (bis VAS 4/10), Erbrechen und Sehstörungen.<br /><br />Die Patientin beschreibt eine Diplopie.<br /><br /> Ein kürzliches Schädeltrauma wird verneint. <br /><br />Krampfanfälle, Schwindel, Tachykardien, Lähmungserscheinungen, Palpitationen und Thoraxschmerzen werden verneint. <h2>Diagnoseliste</h2>- Essentielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 23py (20 Zigaretten täglich während 23 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Sekt).",

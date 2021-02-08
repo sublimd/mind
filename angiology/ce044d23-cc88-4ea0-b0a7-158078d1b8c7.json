@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.compartmentSyndrome",
-      "label": "Kompartmentsyndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kompartmentsyndrom"
     },
     {
       "diagnosisId": "D.chronicVenousInsufficiency",
-      "label": "Chronisch venöse Insuffizienz",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chronisch venöse Insuffizienz"
     },
     {
       "diagnosisId": "D.deepVeinThrombosis",
-      "label": "Tiefe Venenthrombose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tiefe Venenthrombose"
     },
     {
       "diagnosisId": "D.tibialStressFracture",
-      "label": "Tibia-Stressfraktur",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tibia-Stressfraktur"
     },
     {
       "diagnosisId": "D.tibialFracture",
-      "label": "Tibiafraktur",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tibiafraktur"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei einer beidseitigen Unterschenkelschwellung seit sechs Wochen.<br /><br />Zusätzlich berichtet der Patient über Varizen, Beinschmerzen und ein erythematöses Exanthem an der unteren Extremität beidseits.<br /><br />Wadenschmerzen, Dyspnoe, Pruritus, eine Hautüberwärmung, Sensibilitätsstörungen und Lähmungserscheinungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",

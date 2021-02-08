@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.sarcoidosis",
-      "label": "Sarkoidose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sarkoidose"
     },
     {
       "diagnosisId": "D.tularemia",
-      "label": "Tularämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tularämie"
     },
     {
       "diagnosisId": "D.measles",
-      "label": "Masern",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Masern"
     },
     {
       "diagnosisId": "D.zikaVirus",
-      "label": "Zika Virus Infektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zika Virus Infektion"
     },
     {
       "diagnosisId": "D.hivPrimoInfection",
-      "label": "HIV-Primoinfektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (19) bei einer Hautveränderung am Rücken seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Fieber, Husten, eine Augenrötung und Diarrhoe.<br /><br />Pruritus, vergrösserte Lymphknoten, Bauchschmerzen, eine allgemeine Müdigkeit, Nausea, Gelenkschmerzen, eine nasale Obstruktion, Gliederschmerzen, Augenschmerzen und Dysphagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",

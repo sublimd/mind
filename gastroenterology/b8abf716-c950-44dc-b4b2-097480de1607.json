@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.urinaryTractInfection",
+      "explanation": "<ul><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Dysurie, Pollakisurie</li></ul>",
+      "isCorrect": false,
+      "label": "Harnwegsinfekt",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Harnwegsinfekt"
         }
-      },
-      "diagnosisId": "D.urinaryTractInfection",
-      "explanation": "<ul><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Dysurie, Pollakisurie</li></ul>",
-      "label": "Harnwegsinfekt",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.malloryWeissSyndrome",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Mallory-Weiss Syndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Mallory-Weiss-Syndrom"
         }
-      },
-      "diagnosisId": "D.malloryWeissSyndrome",
-      "explanation": "",
-      "label": "Mallory-Weiss Syndrom",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.urolithiasis",
+      "explanation": "<ul><li><i>Urolithiasis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li></ul>",
+      "isCorrect": false,
+      "label": "Urolithiasis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Urolithiasis"
         }
-      },
-      "diagnosisId": "D.urolithiasis",
-      "explanation": "<ul><li><i>Urolithiasis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li></ul>",
-      "label": "Urolithiasis",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.functionalCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Funktionelle Zyste des Ovars</i> erhöhen würden: Menstruationsbeschwerden, Ausbleiben der Periode</li></ul>",
+      "isCorrect": false,
       "label": "Funktionelle Zyste des Ovars",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.myelodysplasticSyndrome",
+      "explanation": "<ul><li><i>Mallory-Weiss Syndrom</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myelodysplastisches Syndrom</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myelodysplastisches Syndrom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Myelodysplastisches Syndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Myelodysplastisches_Syndrom"
         }
-      },
-      "diagnosisId": "D.myelodysplasticSyndrome",
-      "explanation": "<ul><li><i>Mallory-Weiss Syndrom</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myelodysplastisches Syndrom</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myelodysplastisches Syndrom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
-      "label": "Myelodysplastisches Syndrom",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (20) bei Hämatemesis vor fünf Stunden.<br /><br />Zusätzlich berichtet die Patientin über stechende Bauchschmerzen (bis VAS 10/10).<br /><br />Aktuell hätten die Bauchschmerzen eine Intensität von VAS 5/10.<br /><br />Fieber, Meläna, Schüttelfrost, Pollakisurie, Hämatochezie, saures Aufstossen, Dysurie und Nykturie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.cubitalTunnelSyndrome",
-      "label": "Kubitaltunnel-Syndrom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Kubitaltunnel-Syndrom"
     },
     {
       "diagnosisId": "D.simpleFocalEpilepticSeizure",
-      "label": "Einfach fokaler epileptischer Anfall",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Einfach fokaler epileptischer Anfall"
     },
     {
       "diagnosisId": "D.multipleSclerosis",
-      "label": "Multiple Sklerose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Multiple Sklerose"
     },
     {
       "diagnosisId": "D.lymeBorreliosisStage2",
-      "label": "Lyme Borreliose Stadium 2",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 2"
     },
     {
       "diagnosisId": "D.frostbite",
-      "label": "Erfrierung",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Erfrierung"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (34) bei Sensibilitätsstörungen an der linken Hand seit drei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Schmerzen am Unterarm.<br /><br />Lähmungserscheinungen, Rückenschmerzen, Augenschmerzen, Sehstörungen, Krampfanfälle und Verwirrtheit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",

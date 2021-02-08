@@ -1,51 +1,51 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.cataract",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Katarakt",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Katarakt"
         }
-      },
-      "diagnosisId": "D.cataract",
-      "explanation": "",
-      "label": "Katarakt",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.nonproliferativeDiabeticRetinopathy",
       "explanation": "",
+      "isCorrect": false,
       "label": "Nichtproliferative diabetische Retinopathie",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.hypermetropia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Katarakt</i> besser erklärt sind: Photophobie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypermetropie</i> erhöhen würden: Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hypermetropie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypermetropie"
         }
-      },
-      "diagnosisId": "D.hypermetropia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Katarakt</i> besser erklärt sind: Photophobie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypermetropie</i> erhöhen würden: Kopfschmerzen</li></ul>",
-      "label": "Hypermetropie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hypertensiveRetinopathy",
+      "explanation": "<ul><li>Probleme, welche durch <i>Katarakt</i> besser erklärt sind: Photophobie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Retinopathie</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensive Retinopathie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hypertensive_Retinopathie"
         }
-      },
-      "diagnosisId": "D.hypertensiveRetinopathy",
-      "explanation": "<ul><li>Probleme, welche durch <i>Katarakt</i> besser erklärt sind: Photophobie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Retinopathie</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
-      "label": "Hypertensive Retinopathie",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteBacterialMeningitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Meningitis</i> erhöhen würden: Nackensteifigkeit, Fieber, Verwirrtheit, Amnesie, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Akute bakterielle Meningitis",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (49) bei Sehstörungen seit einem Monat.<br /><br />Der Patient beschreibt ein Verschwommensehen.<br /><br />Zusätzlich berichtet der Patient über eine Photophobie.<br /><br />Kopfschmerzen, eine Augenrötung, Ausfluss aus dem Auge, Nausea, Augenschmerzen und Fieber werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein).",

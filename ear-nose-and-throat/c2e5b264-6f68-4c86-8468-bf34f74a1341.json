@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.upperAirwayInfection",
-      "label": "Viraler Infekt der oberen Atemwege",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege"
     },
     {
       "diagnosisId": "D.epiglottitis",
-      "label": "Akute Epiglottitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Epiglottitis"
     },
     {
       "diagnosisId": "D.ludwigAngina",
-      "label": "Ludwig-Angina",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ludwig-Angina"
     },
     {
       "diagnosisId": "D.pulmonaryAspiration",
-      "label": "Aspirationspneumonie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Aspirationspneumonie"
     },
     {
       "diagnosisId": "D.infectiousMononucleosis",
-      "label": "Infektiöse Mononukleose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (9) bei Dysphonie seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Halsschmerzen, Dyspnoe und Fieber.<br /><br />Dysphagie, Odynophagie, Husten, Gliederschmerzen, Schmerzen im Mund und eine nasale Obstruktion werden verneint.",

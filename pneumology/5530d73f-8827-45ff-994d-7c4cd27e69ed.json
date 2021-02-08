@@ -1,59 +1,59 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.hyperventilationSyndrome",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperventilationssyndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperventilationssyndrom"
         }
-      },
-      "diagnosisId": "D.hyperventilationSyndrome",
-      "explanation": "",
-      "label": "Hyperventilationssyndrom",
-      "isCorrect": true
+      }
     },
     {
+      "diagnosisId": "D.anginaPectorisStable",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperventilationssyndrom</i> besser erklärt sind: Sensibilitätsstörungen, Muskelkrämpfe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Stabile Angina pectoris",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Stabile_Angina_Pectoris"
         }
-      },
-      "diagnosisId": "D.anginaPectorisStable",
-      "explanation": "<ul><li>Probleme, welche durch <i>Hyperventilationssyndrom</i> besser erklärt sind: Sensibilitätsstörungen, Muskelkrämpfe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
-      "label": "Stabile Angina pectoris",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.pneumothorax",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperventilationssyndrom</i> besser erklärt sind: Sensibilitätsstörungen, Muskelkrämpfe</li></ul>",
+      "isCorrect": false,
+      "label": "Pneumothorax",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Pneumothorax"
         }
-      },
-      "diagnosisId": "D.pneumothorax",
-      "explanation": "<ul><li>Probleme, welche durch <i>Hyperventilationssyndrom</i> besser erklärt sind: Sensibilitätsstörungen, Muskelkrämpfe</li></ul>",
-      "label": "Pneumothorax",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.pulmonaryEmbolism",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperventilationssyndrom</i> besser erklärt sind: Sensibilitätsstörungen, Muskelkrämpfe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenembolie</i> erhöhen würden: Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenembolie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Lungenembolie"
         }
-      },
-      "diagnosisId": "D.pulmonaryEmbolism",
-      "explanation": "<ul><li>Probleme, welche durch <i>Hyperventilationssyndrom</i> besser erklärt sind: Sensibilitätsstörungen, Muskelkrämpfe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenembolie</i> erhöhen würden: Husten</li></ul>",
-      "label": "Lungenembolie",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.acuteCoronarySyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperventilationssyndrom</i> besser erklärt sind: Sensibilitätsstörungen, Muskelkrämpfe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Arterielle Hypertonie, Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Myokardinfarkt",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Akutes_Koronarsyndrom"
         }
-      },
-      "diagnosisId": "D.acuteCoronarySyndrome",
-      "explanation": "<ul><li>Probleme, welche durch <i>Hyperventilationssyndrom</i> besser erklärt sind: Sensibilitätsstörungen, Muskelkrämpfe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Arterielle Hypertonie, Diabetes mellitus</li></ul>",
-      "label": "Myokardinfarkt",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (19) bei perioralen Sensibilitätsstörungen seit drei Stunden.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe, Schwindel, Muskelkrämpfe an den Händen und stechende Thoraxschmerzen.<br /><br />Erbrechen, Synkopen, Palpitationen, Bauchschmerzen, eine Hyperhidrose, und Orthopnoe werden verneint. <h2>Diagnoseliste</h2>- St.n. Infektiöse Mononukleose<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 5py (20 Zigaretten täglich während 5 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

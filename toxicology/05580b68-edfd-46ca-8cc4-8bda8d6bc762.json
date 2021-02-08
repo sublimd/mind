@@ -1,47 +1,47 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.subarachnoidHemorrhage",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Kopfschmerzen, Unfall, Nackenschmerzen, Nackensteifigkeit, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Schädeltrauma</li></ul>",
+      "isCorrect": false,
+      "label": "Subarachnoidalblutung",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Subarachnoidalblutung"
         }
-      },
-      "diagnosisId": "D.subarachnoidHemorrhage",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Kopfschmerzen, Unfall, Nackenschmerzen, Nackensteifigkeit, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Schädeltrauma</li></ul>",
-      "label": "Subarachnoidalblutung",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.medicationInducedSomnolence",
       "explanation": "",
+      "isCorrect": true,
       "label": "Medikamenten-induzierte Somnolenz",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.epiduralHematoma",
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: Kopfschmerzen, Unfall, Nausea, Erbrechen, Verwirrtheit, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Schädeltrauma</li></ul>",
+      "isCorrect": false,
+      "label": "Epiduralhämatom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Epiduralh%C3%A4matom"
         }
-      },
-      "diagnosisId": "D.epiduralHematoma",
-      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: Kopfschmerzen, Unfall, Nausea, Erbrechen, Verwirrtheit, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Schädeltrauma</li></ul>",
-      "label": "Epiduralhämatom",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.opioidIntoxication",
       "explanation": "<ul></ul>",
+      "isCorrect": false,
       "label": "Opioid-Intoxikation",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.cocaineIntoxication",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kokain-Intoxikation</i> erhöhen würden: Tachykardien, Palpitationen, erhöhter Blutdruck, Kopfschmerzen, Krampfanfall, Dyspnoe, Thoraxschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Kokain-Intoxikation</i> erhöhen würden: Kokain</li></ul>",
+      "isCorrect": false,
       "label": "Kokain-Intoxikation",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (50) bei Somnolenz seit drei Tagen.<br /><br /> Ein kürzliches Schädeltrauma wird verneint. <br /><br />Nausea, Erbrechen, Unfall, Krampfanfälle und Synkopen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 26py (30 Zigaretten täglich während 17 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",

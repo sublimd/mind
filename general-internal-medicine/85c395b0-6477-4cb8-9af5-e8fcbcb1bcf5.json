@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.polycysticKidneyDisease",
-      "label": "Polyzystische Nierenerkrankung (PKD)",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Polyzystische Nierenerkrankung (PKD)"
     },
     {
       "diagnosisId": "D.malignantNeoplasmOfKidney",
-      "label": "Nierenkarzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nierenkarzinom"
     },
     {
       "diagnosisId": "D.angiomyolipoma",
-      "label": "Angiomyolipom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Angiomyolipom"
     },
     {
       "diagnosisId": "D.wilmsTumor",
-      "label": "Wilms-Tumor",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Wilms-Tumor"
     },
     {
       "diagnosisId": "D.placentalAbruption",
-      "label": "Abruptio placentae",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Abruptio placentae"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (29) bei Flankenschmerzen seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über erhöhte Blutdruckwerte und Hämaturie.<br /><br />Rückenschmerzen, Fieber, Nausea, Pollakisurie, Dysurie, Bauchschmerzen, Appetitverlust und Schmerzen im Genitalbereich werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",

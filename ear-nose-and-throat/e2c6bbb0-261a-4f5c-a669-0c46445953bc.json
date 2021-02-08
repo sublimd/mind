@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.chronicOtitisMedia",
-      "label": "Chronische Otitis media",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische Otitis media"
     },
     {
       "diagnosisId": "D.foreignBodyInExternalAuditoryCanal",
-      "label": "Fremdkörper im äusseren Gehörgang",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Fremdkörper im äusseren Gehörgang"
     },
     {
       "diagnosisId": "D.otitisExternaDiffusa",
-      "label": "Otitis externa diffusa",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Otitis externa diffusa"
     },
     {
       "diagnosisId": "D.acuteOtitisMedia",
-      "label": "Vestibuläre Neuritis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Vestibuläre Neuritis"
     },
     {
       "diagnosisId": "D.otitisMediaWithEffusion",
-      "label": "Seromukotympanon",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Seromukotympanon"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (45) bei rechtsseitigen Ohrenschmerzen seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Ausfluss aus dem Ohr, Pruritus im Ohr und eine Hörminderung.<br /><br />Eine Erkältung in den den letzten Tagen wird verneint. <br /><br />Fieber, Husten, Schwindel und Tinnitus werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

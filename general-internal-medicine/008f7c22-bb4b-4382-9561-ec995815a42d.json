@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Alkoholische Steatohepatitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Alkoholische Steatohepatitis"
     },
     {
-      "label": "Akute Nebenniereninsuffizienz",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Nebenniereninsuffizienz"
     },
     {
-      "label": "Salmonellen-Enteritis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Salmonellen-Enteritis"
     },
     {
-      "label": "Akute Hepatitis A-Infektion",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Hepatitis A-Infektion"
     },
     {
-      "label": "Akutes Leberversagen",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akutes Leberversagen"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (51) bei einer vermehrten Müdigkeit seit zwei Tagen.<br /><br />Im Zusammenhang mit der Müdigkeit sei es ausserdem zu Fieber gekommen.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen, Hypotonie und Nausea.<br /><br />Ein Ikterus, Schüttelfrost, Pruritus, Schwindel und Tachykardien werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 51py (30 Zigaretten täglich während 34 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",

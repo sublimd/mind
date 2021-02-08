@@ -1,51 +1,51 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.sickleCellCrisis",
       "explanation": "",
+      "isCorrect": true,
       "label": "Sichelzellkrise",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.rhizarthrosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Sichelzellkrise</i> besser erklärt sind: Dyspnoe, Fieber, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rhizarthrose</i> erhöhen würden: Handsteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Rhizarthrose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Rhizarthrose"
         }
-      },
-      "diagnosisId": "D.rhizarthrosis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Sichelzellkrise</i> besser erklärt sind: Dyspnoe, Fieber, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rhizarthrose</i> erhöhen würden: Handsteifigkeit</li></ul>",
-      "label": "Rhizarthrose",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.hyperventilationSyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Sichelzellkrise</i> besser erklärt sind: Handschmerzen, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperventilationssyndrom</i> erhöhen würden: Sensibilitätsstörungen, Muskelkrämpfe</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperventilationssyndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Hyperventilationssyndrom"
         }
-      },
-      "diagnosisId": "D.hyperventilationSyndrome",
-      "explanation": "<ul><li>Probleme, welche durch <i>Sichelzellkrise</i> besser erklärt sind: Handschmerzen, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperventilationssyndrom</i> erhöhen würden: Sensibilitätsstörungen, Muskelkrämpfe</li></ul>",
-      "label": "Hyperventilationssyndrom",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.sepsis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Sichelzellkrise</i> besser erklärt sind: Handschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Sepsis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Sepsis"
         }
-      },
-      "diagnosisId": "D.sepsis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Sichelzellkrise</i> besser erklärt sind: Handschmerzen</li></ul>",
-      "label": "Sepsis",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.tenosynovitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Sichelzellkrise</i> besser erklärt sind: Dyspnoe, Schwindel</li></ul>",
+      "isCorrect": false,
       "label": "Tendosynovitis",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (47) bei beidseitigen Handschmerzen seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe, Fieber und Schwindel.<br /><br />Eine Handschwellung, Sensibilitätsstörungen, eine Handsteifigkeit, eine allgemeine Müdigkeit, Schüttelfrost, Palpitationen, Kopfschmerzen, Sehstörungen und Fingerschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",

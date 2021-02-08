@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Anaphylaktischer Schock",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Anaphylaktischer Schock"
     },
     {
-      "label": "Nahrungsmittelallergie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie"
     },
     {
-      "label": "Pelvic Inflammatory Disease",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease"
     },
     {
-      "label": "Malaria",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Malaria"
     },
     {
-      "label": "Subphrenischer Abszess",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Subphrenischer Abszess"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (48) bei Bauchschmerzen im Oberbauch seit einem Tag.<br /><br />Im Zusammenhang mit den Bauchschmerzen sei es ausserdem zu Fieber gekommen.<br /><br />Zusätzlich berichtet die Patientin über Husten und Dyspnoe.<br /><br />Abdominale Eingriffe in der Vergangenheit werden bejaht.<br /><br />Nausea, Erbrechen, Diarrhoe, Obstipation, Hämatochezie, Meläna oder vaginaler Ausfluss im Zusammenhang mit den Bauchschmerzen wird verneint. <br /><br />Schüttelfrost, eine allgemeine Müdigkeit, Thoraxschmerzen, Hämoptoe, ein Leistungsabfall und ein allgemeines Schwächegefühl werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",

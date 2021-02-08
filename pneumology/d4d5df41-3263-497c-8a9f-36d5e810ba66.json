@@ -1,55 +1,55 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.sarcoidosis",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Sarkoidose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Sarkoidose"
         }
-      },
-      "diagnosisId": "D.sarcoidosis",
-      "explanation": "",
-      "label": "Sarkoidose",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteLaryngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Sarkoidose</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie, Halsschmerzen, Odynophagie, Dysphagie, Rhinorrhoe</li></ul>",
+      "isCorrect": false,
       "label": "Akute Laryngitis",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.goiter",
+      "explanation": "<ul><li>Probleme, welche durch <i>Sarkoidose</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Struma</i> erhöhen würden: Halsschwellung, vergrösserter Lymphknoten bzw. subkutaner Knoten, Hautschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Struma",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Struma"
         }
-      },
-      "diagnosisId": "D.goiter",
-      "explanation": "<ul><li>Probleme, welche durch <i>Sarkoidose</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Struma</i> erhöhen würden: Halsschwellung, vergrösserter Lymphknoten bzw. subkutaner Knoten, Hautschwellung</li></ul>",
-      "label": "Struma",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.pleuralEffusion",
+      "explanation": "<ul><li>Probleme, welche durch <i>Sarkoidose</i> besser erklärt sind: Hautveränderungen, Müdigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Pleuraerguss",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Pleuraerguss"
         }
-      },
-      "diagnosisId": "D.pleuralEffusion",
-      "explanation": "<ul><li>Probleme, welche durch <i>Sarkoidose</i> besser erklärt sind: Hautveränderungen, Müdigkeit</li></ul>",
-      "label": "Pleuraerguss",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
+      "explanation": "<ul><li>Probleme, welche durch <i>Sarkoidose</i> besser erklärt sind: Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Ambulant_erworbene_Pneumonie"
         }
-      },
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
-      "explanation": "<ul><li>Probleme, welche durch <i>Sarkoidose</i> besser erklärt sind: Hautveränderungen</li></ul>",
-      "label": "Ambulant erworbene Pneumonie",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (60) bei Dyspnoe seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Husten, eine erythematöse Hautveränderung an der unteren Extremität beidseits und eine vermehrte Müdigkeit.<br /><br />Thoraxschmerzen, Fieber, Schüttelfrost, Halsschmerzen, Dysphonie, eine Halsschwellung und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",

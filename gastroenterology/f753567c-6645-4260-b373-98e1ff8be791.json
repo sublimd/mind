@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.acuteAdnexitis",
-      "label": "Akute Adnexitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Adnexitis"
     },
     {
       "diagnosisId": "D.urolithiasis",
-      "label": "Urolithiasis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Urolithiasis"
     },
     {
       "diagnosisId": "D.acuteAppendicitis",
-      "label": "Akute Appendizitis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Appendizitis"
     },
     {
       "diagnosisId": "D.acuteDiverticulitis",
-      "label": "Akute Divertikulitis",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Divertikulitis"
     },
     {
       "diagnosisId": "D.pelvicInflammatoryDisease",
-      "label": "Pelvic Inflammatory Disease",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (59) bei konstanten Bauchschmerzen im linken Unterbauch seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Nausea, Fieber, Obstipation und Hämatochezie.<br /><br />Erbrechen, Diarrhoe, Appetitverlust, Blähungen, Schüttelfrost, Dysurie, vaginale Blutungen, vaginaler Ausfluss, Probleme beim Geschlechtsverkehr und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.anemiaMacrocytic",
-      "label": "Makrozytäre Anämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
     },
     {
       "diagnosisId": "D.acutePericarditis",
-      "label": "Akute Perikarditis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Perikarditis"
     },
     {
       "diagnosisId": "D.sickleCellCrisis",
-      "label": "Sichelzellkrise",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Sichelzellkrise"
     },
     {
       "diagnosisId": "D.thalassemia",
-      "label": "Thalassämie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Thalassämie"
     },
     {
       "diagnosisId": "D.rheumatoidArthritis",
-      "label": "Rheumatoide Arthritis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rheumatoide Arthritis"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (26) bei beidseitigen Handschmerzen seit sechs Tagen.<br /><br />Zusätzlich berichtet der Patient über Thoraxschmerzen, eine vermehrte Müdigkeit, Palpitationen, Fieber und Schwindel.<br /><br />Eine Handschwellung, eine Handsteifigkeit, Handgelenksschmerzen, vergrösserte Lymphknoten, Kopfschmerzen, Sehstörungen und eine Hyperhidrose werden verneint. <h2>Diagnoseliste</h2>- Sichelzellanämie<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 47 - 9 Standardgetränke / Tag (Wein und Sekt).",

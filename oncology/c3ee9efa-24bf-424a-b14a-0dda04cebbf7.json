@@ -1,39 +1,39 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
       "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens, Hodenschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Anämie im Rahmen chronischer Erkrankung",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.testicularTorsion",
       "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hodentorsion</i> erhöhen würden: Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
       "label": "Hodentorsion",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.inguinalHernia",
       "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Inguinalhernie</i> erhöhen würden: Leistenschmerzen</li></ul>",
+      "isCorrect": false,
       "label": "Inguinalhernie",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Hodenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
+      "isCorrect": false,
       "label": "Nierenkarzinom",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.seminomaOfTestis",
       "explanation": "",
+      "isCorrect": true,
       "label": "Hodenkarzinom (Seminom)",
-      "isCorrect": true
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (45) bei einer Hodenschwellung seit vier Monaten.<br /><br />Zusätzlich berichtet der Patient über Hodenschmerzen und eine vermehrte Müdigkeit.<br /><br />Fieber, Bauchschmerzen, Nausea, Hämaturie, ein Gewichtsverlust, Flankenschmerzen, Dyspnoe und Palpitationen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt und Spirituosen).",

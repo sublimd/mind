@@ -3,32 +3,32 @@
     {
       "diagnosisId": "D.renalInfarction",
       "explanation": "<ul><li><i>Choledocholithiasis</i> ist häufiger</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Niereninfarkt</i> erhöhen würden: Diabetes mellitus</li></ul>",
-      "label": "Niereninfarkt",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Niereninfarkt"
     },
     {
       "diagnosisId": "D.choledocholithiasis",
       "explanation": "",
-      "label": "Choledocholithiasis",
-      "isCorrect": true
+      "isCorrect": true,
+      "label": "Choledocholithiasis"
     },
     {
       "diagnosisId": "D.malignantNeoplasmOfPancreas",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: allgemeines Schwächegefühl, Leistungsabfall, Gewichtsverlust, Appetitverlust, Ikterus, Rückenschmerzen, Diarrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: Nikotinabusus</li></ul>",
-      "label": "Pankreaskarzinom",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Pankreaskarzinom"
     },
     {
       "diagnosisId": "D.bowelPerforation",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Darmperforation</i> erhöhen würden: Abdominale Eingriffe in der Vergangenheit, Koloskopie in der Vorgeschichte, kürzliches Abdominaltrauma</li></ul>",
-      "label": "Darmperforation",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Darmperforation"
     },
     {
       "diagnosisId": "D.malignantNeoplasmOfStomach",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Magenkarzinom</i> erhöhen würden: Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Magenkarzinom</i> erhöhen würden: Nikotinabusus, Übermässiger Alkoholkonsum</li></ul>",
-      "label": "Magenkarzinom",
-      "isCorrect": false
+      "isCorrect": false,
+      "label": "Magenkarzinom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (57) bei wellenförmigen Bauchschmerzen im rechten Oberbauch seit drei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Nausea.<br /><br /> Abdominale Eingriffe in der Vergangenheit werden verneint. Ein kürzliches Abdominaltrauma wird verneint. <br /><br />Erbrechen, Fieber, Diarrhoe, ein Appetitverlust, Obstipation, ein Ikterus, vaginaler Ausfluss, Hämatochezie, Meläna, Flankenschmerzen und Dysphagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",

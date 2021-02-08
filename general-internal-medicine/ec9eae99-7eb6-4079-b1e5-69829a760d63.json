@@ -1,24 +1,29 @@
 {
   "answers": [
     {
-      "label": "Hydrosalpinx",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hydrosalpinx"
     },
     {
-      "label": "Abruptio placentae",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Abruptio placentae"
     },
     {
-      "label": "Theca Lutein Zyste",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Theca Lutein Zyste"
     },
     {
-      "label": "Trichomoniasis vaginalis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Trichomoniasis vaginalis"
     },
     {
-      "label": "Pelvic Inflammatory Disease",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Pelvic Inflammatory Disease"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (28) bei Bauchschmerzen im Unterbauch seit einer Woche.<br /><br />Im Zusammenhang mit den Bauchschmerzen sei es ausserdem zu Fieber und vaginalem Ausfluss gekommen.<br /><br />Nausea, Erbrechen, Diarrhoe, Obstipation, Hämatochezie oder Meläna im Zusammenhang mit den Bauchschmerzen wird verneint. <br /><br />Zyklusstörungen (Menstruationsstörungen), Probleme beim Geschlechtsverkehr, Schmerzen im Genitalbereich, Rückenschmerzen, Vaginaler Juckreiz und Pollakisurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 3 x / Woche, jeweils 1 - 2 Standardgetränke / Tag.",

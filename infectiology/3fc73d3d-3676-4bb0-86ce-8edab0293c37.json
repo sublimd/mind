@@ -1,59 +1,59 @@
 {
   "answers": [
     {
+      "diagnosisId": "D.dengueFever",
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Dengue Fieber",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Denguefieber"
         }
-      },
-      "diagnosisId": "D.dengueFever",
-      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li></ul>",
-      "label": "Dengue Fieber",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.typhoidFever",
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Typhus abdominalis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
         }
-      },
-      "diagnosisId": "D.typhoidFever",
-      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li></ul>",
-      "label": "Typhus abdominalis",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.chikungunyaFever",
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Chikungunya Fieber",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Chikungunyafieber"
         }
-      },
-      "diagnosisId": "D.chikungunyaFever",
-      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li></ul>",
-      "label": "Chikungunya Fieber",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.infectiousMononucleosis",
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
         }
-      },
-      "diagnosisId": "D.infectiousMononucleosis",
-      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten, Kopfschmerzen</li></ul>",
-      "label": "Infektiöse Mononukleose",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.schistosomiasis",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Schistosomiasis",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Schistosomiasis"
         }
-      },
-      "diagnosisId": "D.schistosomiasis",
-      "explanation": "",
-      "label": "Schistosomiasis",
-      "isCorrect": true
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (25) bei einem erythematösen Exanthem seit vier Wochen.<br /><br />Zusätzlich berichtet die Patientin über Hämaturie, Pruritus, Schüttelfrost und Gliederschmerzen.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br />Fieber, Kopfschmerzen, Nausea und Gelenkschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 17py (30 Zigaretten täglich während 11 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",

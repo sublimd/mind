@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.corPulmonale",
-      "label": "Cor pulmonale",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cor pulmonale"
     },
     {
       "diagnosisId": "D.fibrolamellarCarcinoma",
-      "label": "Fibrolamelläres Karzinom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Fibrolamelläres Karzinom"
     },
     {
       "diagnosisId": "D.hepatitisE",
-      "label": "Hepatitis E",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hepatitis E"
     },
     {
       "diagnosisId": "D.gastricMucosaAssociatedLymphoidTissueLymphoma",
-      "label": "MALT-Lymphom des Magens",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "MALT-Lymphom des Magens"
     },
     {
       "diagnosisId": "D.liverMetastases",
-      "label": "Lebermetastasen",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lebermetastasen"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (80) bei einer vermehrten Müdigkeit seit einer Woche.<br /><br />Zusätzlich berichtet die Patientin über einen Appetitverlust, Nausea und Bauchschmerzen im rechten Oberbauch.<br /><br />Ein Gewichtsverlust, Fieber, ein Ikterus, Pruritus, Gelenkschmerzen, Schlafstörungen, Nachtschweiss, Schwindel, Dyspnoe, eine Schwellung der Unterschenkel und retrosternales Brennen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",

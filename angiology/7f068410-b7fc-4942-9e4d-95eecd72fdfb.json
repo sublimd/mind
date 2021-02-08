@@ -1,47 +1,47 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.vertebralArteryDissection",
       "explanation": "",
+      "isCorrect": true,
       "label": "Dissektion der Arteria vertebralis",
-      "isCorrect": true
+      "references": {}
     },
     {
+      "diagnosisId": "D.myopia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Dissektion der Arteria vertebralis</i> besser erklärt sind: Nackenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myopie</i> erhöhen würden: Sehstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Myopie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Myopie"
         }
-      },
-      "diagnosisId": "D.myopia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Dissektion der Arteria vertebralis</i> besser erklärt sind: Nackenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myopie</i> erhöhen würden: Sehstörungen</li></ul>",
-      "label": "Myopie",
-      "isCorrect": false
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.acuteBacterialMeningitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Meningitis</i> erhöhen würden: Nackensteifigkeit, Fieber, Verwirrtheit, Amnesie</li></ul>",
+      "isCorrect": false,
       "label": "Akute bakterielle Meningitis",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.clavicleContusion",
       "explanation": "<ul><li>Probleme, welche durch <i>Dissektion der Arteria vertebralis</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kontusion der Clavicula</i> erhöhen würden: Schulterschmerzen, Hautschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Kontusion der Clavicula</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "isCorrect": false,
       "label": "Kontusion der Clavicula",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.dystonia",
+      "explanation": "<ul><li>Probleme, welche durch <i>Dissektion der Arteria vertebralis</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie, Sehstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Dystonie",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Dystonie"
         }
-      },
-      "diagnosisId": "D.dystonia",
-      "explanation": "<ul><li>Probleme, welche durch <i>Dissektion der Arteria vertebralis</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie, Sehstörungen</li></ul>",
-      "label": "Dystonie",
-      "isCorrect": false
+      }
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (25) bei Nackenschmerzen (bis VAS 8/10) seit vier Tagen.<br /><br />Aktuelle Schmerzintensität von VAS 4/10.<br /><br />Zusätzlich berichtet der Patient über dumpfe Kopfschmerzen.<br /><br />Die aktuellen Kopfschmerzen hätten explosionsartig begonnen.<br /><br />Ein kürzliches Trauma, Lähmungserscheinungen, Sensibilitätsstörungen, Schulterschmerzen, Fieber, Sehstörungen, Nackensteifigkeit, vergrösserte Lymphknoten, Tinnitus und hängende Augenlider werden verneint. <h2>Diagnoseliste</h2>- Essentielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein).",

@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.leftSidedHeartFailure",
-      "label": "Linksherzinsuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Linksherzinsuffizienz"
     },
     {
       "diagnosisId": "D.chronicAsthma",
-      "label": "Chronisches Asthma bronchiale",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronisches Asthma bronchiale"
     },
     {
       "diagnosisId": "D.bicuspidAorticValve",
-      "label": "Bikuspide Aortenklappe",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bikuspide Aortenklappe"
     },
     {
       "diagnosisId": "D.ironDeficiencyAnemia",
-      "label": "Eisenmangelanämie",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Eisenmangelanämie"
     },
     {
       "diagnosisId": "D.centralSleepApneaSyndrome",
-      "label": "Zentrales Schlafapnoesyndrom",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zentrales Schlafapnoesyndrom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (44) bei einer vermehrten Müdigkeit seit drei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe und Kopfschmerzen.<br /><br />Fieber, Schlafstörungen, ein Gewichtsverlust, Schwindel, Thoraxschmerzen, Nachtschweiss, Synkopen und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 5py (10 Zigaretten täglich während 10 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

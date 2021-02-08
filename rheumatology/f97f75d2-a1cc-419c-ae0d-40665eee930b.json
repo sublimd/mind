@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.sickleCellCrisis",
-      "label": "Sichelzellkrise",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sichelzellkrise"
     },
     {
       "diagnosisId": "D.boneMetastasis",
-      "label": "Knochenmetastasen",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Knochenmetastasen"
     },
     {
       "diagnosisId": "D.muscleStrain",
-      "label": "Muskelzerrung",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Muskelzerrung"
     },
     {
       "diagnosisId": "D.temporalArteritis",
-      "label": "Arteriitis temporalis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Arteriitis temporalis"
     },
     {
       "diagnosisId": "D.polymyalgiaRheumatica",
-      "label": "Polymyalgia rheumatica",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Polymyalgia rheumatica"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (78) bei traumatischen rechtsseitigen Armschmerzen seit einem Tag.<br /><br />Eine Schwellung der Arme, Hautveränderungen, Fieber, Nackenschmerzen und ein Gewichtsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 25py (10 Zigaretten täglich während 49 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",

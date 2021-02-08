@@ -1,47 +1,47 @@
 {
   "answers": [
     {
-      "references": {},
       "diagnosisId": "D.whiplashInjury",
       "explanation": "<ul><li><i>Spannungstyp-Kopfschmerz</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Sensibilitätsstörungen, Muskelschwäche</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "isCorrect": false,
       "label": "Distorsionstrauma der Halswirbelsäule",
-      "isCorrect": false
+      "references": {}
     },
     {
+      "diagnosisId": "D.premenstrualSyndrome",
+      "explanation": "<ul><li>Probleme, welche durch <i>Spannungstyp-Kopfschmerz</i> besser erklärt sind: Nackenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: Bauchschmerzen, depressive Verstimmung, Angstzustände, Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Prämenstruelles Syndrom",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Pr%C3%A4menstruelles_Syndrom"
         }
-      },
-      "diagnosisId": "D.premenstrualSyndrome",
-      "explanation": "<ul><li>Probleme, welche durch <i>Spannungstyp-Kopfschmerz</i> besser erklärt sind: Nackenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: Bauchschmerzen, depressive Verstimmung, Angstzustände, Blähungen</li></ul>",
-      "label": "Prämenstruelles Syndrom",
-      "isCorrect": false
+      }
     },
     {
+      "diagnosisId": "D.tensionTypeHeadache",
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Spannungstyp-Kopfschmerz",
       "references": {
         "de": {
           "wikipedia": "https://de.wikipedia.org/wiki/Spannungskopfschmerz"
         }
-      },
-      "diagnosisId": "D.tensionTypeHeadache",
-      "explanation": "",
-      "label": "Spannungstyp-Kopfschmerz",
-      "isCorrect": true
+      }
     },
     {
-      "references": {},
       "diagnosisId": "D.vertebralArteryDissection",
       "explanation": "<ul><li><i>Spannungstyp-Kopfschmerz</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
       "label": "Dissektion der Arteria vertebralis",
-      "isCorrect": false
+      "references": {}
     },
     {
-      "references": {},
       "diagnosisId": "D.carotidArteryDissection",
       "explanation": "<ul><li><i>Spannungstyp-Kopfschmerz</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
       "label": "Dissektion der Arteria carotis",
-      "isCorrect": false
+      "references": {}
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (40) bei Kopfschmerzen (bis VAS 6/10) seit fünf Tagen.<br /><br />Im Verlauf seien die Kopfschmerzen kommend und gehend. Die Kopfschmerzen hätten aktuell eine Intensität von VAS 5/10.<br /><br />Zusätzlich berichtet die Patientin über Nackenschmerzen.<br /><br />Muskelverspannungen werden bejaht.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Erbrechen, Schwindel, Fieber, eine Photophobie, Lähmungserscheinungen, Sensibilitätsstörungen, Bauchschmerzen, Tinnitus, Angstzustände und Blähungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",

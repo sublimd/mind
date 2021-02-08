@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.gastrooesophagealRefluxDisease",
-      "label": "Gastroösophageale Refluxkrankheit",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Gastroösophageale Refluxkrankheit"
     },
     {
       "diagnosisId": "D.mesenterialIschemia",
-      "label": "Mesenterialinfarkt",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Mesenterialinfarkt"
     },
     {
       "diagnosisId": "D.acuteCoronarySyndrome",
-      "label": "Myokardinfarkt",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myokardinfarkt"
     },
     {
       "diagnosisId": "D.amoebiasis",
-      "label": "Amöbiasis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Amöbiasis"
     },
     {
       "diagnosisId": "D.focalNodularHyperplasia",
-      "label": "Fokale noduläre Hyperplasie",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Fokale noduläre Hyperplasie"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (59) bei Bauchschmerzen seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über Hämatochezie.<br /><br />Nausea, Erbrechen, Fieber, Diarrhoe, Obstipation, ein Gewichtsverlust, Thoraxschmerzen, retrosternales Brennen, Meläna und Dysphagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 39py (20 Zigaretten täglich während 39 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",

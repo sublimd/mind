@@ -2,28 +2,33 @@
   "answers": [
     {
       "diagnosisId": "D.hypothyroidism",
-      "label": "Hypothyreose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypothyreose"
     },
     {
       "diagnosisId": "D.pulmonaryValveStenosis",
-      "label": "Pulmonalklappenstenose",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pulmonalklappenstenose"
     },
     {
       "diagnosisId": "D.rightSidedHeartFailure",
-      "label": "Rechtsherzinsuffizienz",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rechtsherzinsuffizienz"
     },
     {
       "diagnosisId": "D.hashimotoThyroiditis",
-      "label": "Hashimoto Thyreoditis",
-      "isCorrect": false
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hashimoto Thyreoditis"
     },
     {
       "diagnosisId": "D.hypercortisolism",
-      "label": "Cushing Syndrom",
-      "isCorrect": true
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Cushing Syndrom"
     }
   ],
   "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (33) bei einer Gewichtszunahme in den letzten Wochen.<br /><br />Zusätzlich berichtet der Patient über erhöhte Blutdruckwerte, eine vermehrte Müdigkeit, erektile Dysfunktion, eine beidseitige Unterschenkelschwellung, Rückenschmerzen und Polyurie.<br /><br />Bauchschmerzen, Kopfschmerzen, Palpitationen, Obstipation, eine Kälteintoleranz, Nykturie und Schlafstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
