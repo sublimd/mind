@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhte Blutdruckwerte, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Transitorische ischämische Attacke (TIA)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Transitorische_isch%C3%A4mische_Attacke"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: Bewusstseinsverlust, erhöhte Blutdruckwerte</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hirnmetastasen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hirnmetastase"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Intrazerebrale Blutung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Intrazerebrale_Blutung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhte Blutdruckwerte, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Amnesie</li></ul>",
+      "isCorrect": false,
+      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei Sensibilitätsstörungen seit einigen Stunden.<br /><br />Zusätzlich berichtet der Patient über einen passageren Bewusstseinsverlust, sowie ziehende Kopfschmerzen (bis VAS 9/10), erhöhte Blutdruckwerte, Dysarthrie, eine Muskelschwäche, Nausea, Schwindel und Sehstörungen.<br /><br />Die aktuellen Kopfschmerzen hätten explosionsartig begonnen und aktuell eine Intensität von VAS 7/10. Im Verlauf seien die Kopfschmerzen zunehmend.<br /><br />Die Sehstörung sei plötzlich aufgetreten und im Verlauf gleichbleibend. <br /><br /> Ein kürzliches Trauma (Sturz) wird bejaht.<br /><br />Eine Verwirrtheit, Krampfanfälle, Synkopen, Dysphagie, eine Photophobie, eine Phonophobie und Nackensteifigkeit werden verneint. <h2>Diagnoseliste</h2>- Bekannte Migräne<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 30py (20 Zigaretten täglich während 30 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "00c94109-612f-426a-b313-ffe7a0dc1d4b",
+  "topic": "neurology"
+}

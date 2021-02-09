@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Bartholin-Zyste</i> besser erklärt sind: Schmerzen im Genitalbereich, Probleme beim Geschlechtsverkehr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atherom (Epidermoidzyste)</i> erhöhen würden: Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Atherom (Epidermoidzyste)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Atherom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Bartholin-Zyste</i> besser erklärt sind: Schmerzen im Genitalbereich, Probleme beim Geschlechtsverkehr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stauungsekzem</i> erhöhen würden: Hautveränderungen, Varizen</li></ul>",
+      "isCorrect": false,
+      "label": "Stauungsekzem",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Bartholin-Zyste</i> besser erklärt sind: Schmerzen im Genitalbereich, Probleme beim Geschlechtsverkehr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronisch venöse Insuffizienz</i> erhöhen würden: Varizen, Beinschmerzen, Wadenschmerzen, Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronisch venöse Insuffizienz</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronisch-ven%C3%B6se_Insuffizienz"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Bartholin-Zyste",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Bartholin-Zyste"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Bartholin-Zyste</i> besser erklärt sind: Schmerzen im Genitalbereich, Probleme beim Geschlechtsverkehr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Abszess</i> erhöhen würden: Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Abszess",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Abszess"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (82) bei einer Hautschwellung im Genitalbereich seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über genitale Schmerzen und Probleme beim Geschlechtsverkehr.<br /><br />Die Patientin gibt an unter Schmerzen während dem Geschlechtsverkehr zu leiden.<br /><br />Varizen, eine Beinschwellung, kutane Knötchen und eine Schwellung der Unterschenkel werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "bda73b44-ea85-4a8d-b347-d39453217967",
+  "topic": "gynecology"
+}

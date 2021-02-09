@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Augenschmerzen, Augenschwellung, Augenrötung, Ausfluss aus dem Auge, Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Hordeolum",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hordeolum"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie</li></ul>",
+      "isCorrect": false,
+      "label": "Dystonie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Dystonie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie, Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypertensiver_Notfall"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Keratokonus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Keratokonus"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Gewichtsverlust, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
+      "isCorrect": false,
+      "label": "Morbus Basedow",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Basedow"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (28) bei Sehstörungen seit zwei Monaten.<br /><br />Kopfschmerzen, eine Augenrötung, Erbrechen, eine Augenschwellung, eine Photophobie, Dysphagie und Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "15a1931c-02fc-40d8-8e1b-e1f937839f69",
+  "topic": "ophthalmology"
+}

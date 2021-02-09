@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Epididymitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Spermatozele"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akuter Harnverhalt"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nierenkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hodentorsion"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (68) bei einer Hodenschwellung seit zehn Tagen.<br /><br />Hodenschmerzen, Flankenschmerzen, Hämaturie, Bauchschmerzen, Nausea und Fieber werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "bf64bc87-9e5c-4de5-bc58-0018e0e7f997",
+  "topic": "general-internal-medicine"
+}

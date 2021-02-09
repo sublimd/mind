@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute bakterielle Meningitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rückfallfieber"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelvergiftung"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Appendizitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Abdominaler Abszess"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (47) bei Fieber seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen, Bauchschmerzen, Gliederschmerzen, Nausea und Diarrhoe.<br /><br />Der Aufenthalt in Wäldern wird bejaht.<br /><br />Hautveränderungen, Odynophagie, Husten, Dyspnoe, Flankenschmerzen, Dysurie, ein Gewichtsverlust, Rückenschmerzen, Schüttelfrost, Nackensteifigkeit und eine Amnesie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "02ae68f3-55cc-46cb-afa6-4b3f2d1d588a",
+  "topic": "infectiology"
+}

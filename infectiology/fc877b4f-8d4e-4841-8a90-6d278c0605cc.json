@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Typhus abdominalis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Schistosomiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schistosomiasis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Exanthem, Pruritus, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Bronchitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Bronchitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Exanthem, Gliederschmerzen, Husten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Cholezystitis</i> erhöhen würden: Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Cholezystitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Exanthem, Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Malaria",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (27) bei Fieber seit einigen Tagen.<br /><br />Zusätzlich berichtet die Patientin über ein juckendes Exanthem seit zwei Wochen sowie Gliederschmerzen, Husten und Bauchschmerzen.<br /><br />Der Husten sei meistens ohne Auswurf. Aktuell hätten die Bauchschmerzen eine Intensität von VAS 3/10.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br />Nausea, Erbrechen, Diarrhoe, eine allgemeine Müdigkeit, Hämoptoe, ein Ikterus und Hämaturie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 2py (10 Zigaretten täglich während 3 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "fc877b4f-8d4e-4841-8a90-6d278c0605cc",
+  "topic": "infectiology"
+}

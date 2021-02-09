@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chalazion</i> besser erklärt sind: Lidschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Konjunktivaler Fremdkörper</i> erhöhen würden: Juckreiz im Auge</li></ul>",
+      "isCorrect": false,
+      "label": "Konjunktivaler Fremdkörper",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chalazion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chalazion</i> besser erklärt sind: Lidschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Konjunktivitis</i> erhöhen würden: Augenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute bakterielle Konjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Juckreiz im Auge, Rhinorrhoe, nasale Obstruktion, Niesen</li></ul>",
+      "isCorrect": false,
+      "label": "Allergische Rhinokonjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chalazion</i> besser erklärt sind: Lidschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Konjunktivitis</i> erhöhen würden: Juckreiz im Auge, Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Konjunktivitis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (31) bei einer linksseitigen Lidschwellung seit einer Woche.<br /><br />Zusätzlich berichtet der Patient über eine Augenrötung und wässrigen Ausfluss aus dem Auge.<br /><br />Juckreiz in den Augen, Augenschmerzen, Rhinorrhoe, eine nasale Obstruktion, Sehstörungen, Niesen, Fieber und Halsschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 9py (10 Zigaretten täglich während 17 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "587708f5-30fb-4404-9fa0-e5c925ebab4f",
+  "topic": "ophthalmology"
+}

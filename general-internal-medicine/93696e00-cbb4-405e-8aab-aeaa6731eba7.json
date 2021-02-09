@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Syndrom des zyklischen Erbrechens"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Oesophaguskarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Oesophagusperforation"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Alkohol-Intoxikation"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Eosinophile Ösophagitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (35) bei retrosternalem Brennen seit drei Wochen.<br /><br />Zusätzlich berichtet der Patient über Bauchschmerzen epigastrisch, Dysphagie und Nausea.<br /><br />Ein Gewichtsverlust, Erbrechen, Dyspnoe, Odynophagie, Hämatemesis und saures Aufstossen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "93696e00-cbb4-405e-8aab-aeaa6731eba7",
+  "topic": "general-internal-medicine"
+}

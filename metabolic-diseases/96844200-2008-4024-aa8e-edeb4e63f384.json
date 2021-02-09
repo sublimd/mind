@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Porphyrie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypokaliämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cholelithiasis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Endometriose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Appendizitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (30) bei Bauchschmerzen im Oberbauch seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Nausea, erhöhte Blutdruckwerte, eine Muskelschwäche, Palpitationen und Obstipation.<br /><br />Erbrechen, Fieber, Diarrhoe, Appetitverlust, Probleme beim Geschlechtsverkehr, vaginaler Ausfluss, Hämatochezie, Meläna, Polyurie und Krampfanfälle werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "96844200-2008-4024-aa8e-edeb4e63f384",
+  "topic": "metabolic-diseases"
+}

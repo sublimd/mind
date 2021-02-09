@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cor pulmonale</i> erhöhen würden: Dyspnoe, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Schwindel, Schwellung der Unterschenkel, Schwellung der Beine</li></ul>",
+      "isCorrect": false,
+      "label": "Cor pulmonale",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cor_pulmonale"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Husten, Dyspnoe, Kopfschmerzen, Ohrenschmerzen, Halsschmerzen, Gelenkschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene atypische Pneumonie",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Muskuloskelettale Thoraxschmerzen",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Knoten-Reentry-Tachykardie</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "AV-Knoten-Reentry-Tachykardie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/AV-Knoten-Reentrytachykardie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Block II°, Mobitz II</i> erhöhen würden: Schwindel, Bradykardien, Synkope, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "AV-Block II°, Mobitz II",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (42) bei Thoraxschmerzen seit zwei Tagen.<br /><br />Verstärkung der Thoraxschmerzen durch Palpation der schmerzhaften Stelle.<br /><br />Schwindel, Tachykardien, Palpitationen, Nausea, Fieber, erhöhte Blutdruckwerte und Synkopen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "eb1efaeb-d705-4e01-9cee-1ca576a964f6",
+  "topic": "rheumatology"
+}

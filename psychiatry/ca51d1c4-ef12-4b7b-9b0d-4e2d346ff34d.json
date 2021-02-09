@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ausgeprägte depressive Episode",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> erhöhen würden: Schnarchen</li></ul>",
+      "isCorrect": false,
+      "label": "Obstruktives Schlafapnoesyndrom (OSAS)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Obstruktives_Schlafapnoesyndrom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Alkoholüberkonsum",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhter Blutdruck, erektile Dysfunktion, Schwellung der Unterschenkel, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Cushing Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cushing-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Hyperthyreose</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperthyreose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperthyreose"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (30) bei einer depressiven Episode seit vier Monaten.<br /><br />Zusätzlich berichtet der Patient über einen Gewichtsverlust, Schlafstörungen und eine vermehrte Müdigkeit.<br /><br />Kopfschmerzen, Angstzustände und erhöhte Blutdruckwerte werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "ca51d1c4-ef12-4b7b-9b0d-4e2d346ff34d",
+  "topic": "psychiatry"
+}

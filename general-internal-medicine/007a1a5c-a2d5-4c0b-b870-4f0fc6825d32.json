@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Dystonie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Dissektion der Arteria vertebralis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kontusion der Clavicula"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Retropharyngealabszess"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zervikale Spinalkanalstenose"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (28) bei Nackenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen.<br /><br />Ein hängendes Augenlid, Tinnitus, Fieber, vergrösserte Lymphknoten, Lähmungserscheinungen, Sensibilitätsstörungen, Dysphagie, Muskelkrämpfe, Schulterschmerzen, Halsschmerzen und Odynophagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "007a1a5c-a2d5-4c0b-b870-4f0fc6825d32",
+  "topic": "general-internal-medicine"
+}

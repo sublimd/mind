@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Prostatahyperplasie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Prostatahyperplasie</i> besser erklärt sind: Urininkontinenz</li></ul>",
+      "isCorrect": false,
+      "label": "Nierenkarzinom",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Prostatahyperplasie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Prostatahyperplasie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Prostatahyperplasie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Obstruktive Uropathie (Harnstau)</i> erhöhen würden: Flankenschmerzen, Bauchschmerzen, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Obstruktive Uropathie (Harnstau)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Obstruktive_Uropathie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Prostatahyperplasie</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Prostatakarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Prostatakarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Harnwegsinfekt</i> kommt häufiger bei weiblichen Patienten vor</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Harnwegsinfekt",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Harnwegsinfekt"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (62) bei Nykturie.<br /><br />Zusätzlich berichtet der Patient über Dysurie seit vier Wochen sowie Urininkontinenz und Hämaturie.<br /><br />Nausea, Bauchschmerzen, Flankenschmerzen, Fieber, ein Gewichtsverlust, urethraler Ausfluss und Rückenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 35py (20 Zigaretten täglich während 35 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "dccd5eb5-46e3-4416-9ce4-b84613c3c188",
+  "topic": "nephrology"
+}

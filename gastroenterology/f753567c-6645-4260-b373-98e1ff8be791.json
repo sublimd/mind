@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Adnexitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Urolithiasis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Appendizitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Divertikulitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (59) bei konstanten Bauchschmerzen im linken Unterbauch seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Nausea, Fieber, Obstipation und Hämatochezie.<br /><br />Erbrechen, Diarrhoe, Appetitverlust, Blähungen, Schüttelfrost, Dysurie, vaginale Blutungen, vaginaler Ausfluss, Probleme beim Geschlechtsverkehr und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "f753567c-6645-4260-b373-98e1ff8be791",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Atelektase durch Fremdkörper"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Vocal Cord Dysfunction (VCD)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kardiomyopathie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Silikose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Influenza"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (8) bei Husten mit eitrigem Auswurf seit einem Tag.<br /><br />Fieber, Thoraxschmerzen, Palpitationen, Hämoptoe, Dyspnoe, Rhinorrhoe, saures Aufstossen, Kopfschmerzen, Orthopnoe und Gelenkschmerzen werden verneint.",
+  "id": "78a7b572-5b11-4fff-ba3e-534f27b837ed",
+  "topic": "general-internal-medicine"
+}

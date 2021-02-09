@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hyperkalzämie",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperparathyroidismus</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperparathyroidismus",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirntumor</i> erhöhen würden: Kopfschmerzen, Schwindel, Krampfanfall, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Hirntumor",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Alzheimer-Demenz",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (73) bei einer Verwirrtheit seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über eine Amnesie und eine depressive Episode.<br /><br />Nausea, Erbrechen, Kopfschmerzen, Fieber, Bauchschmerzen, ein vermehrtes Durstgefühl, eine Hyposmie, ein Appetitverlust, ein Harnverhalt und Dysurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "30f9550f-d3eb-4953-80b5-1a24ff37d00b",
+  "topic": "neurology"
+}

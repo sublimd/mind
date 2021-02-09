@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Urethrastriktur"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Prostatitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nierenabszess"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Perinephrischer Abszess"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (54) bei Dysurie seit zehn Tagen.<br /><br />Zusätzlich berichtet der Patient über Fieber und Hämaturie.<br /><br />Harnwegsinfekte in der Vergangenheit werden verneint. <br /><br />Bauchschmerzen, Nykturie, Flankenschmerzen, Erbrechen, Hämatospermie, urethraler Ausfluss, eine erektile Dysfunktion und ein Gewichtsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "3c2b66c7-2091-46a3-9620-d7d8b07b0cf6",
+  "topic": "nephrology"
+}

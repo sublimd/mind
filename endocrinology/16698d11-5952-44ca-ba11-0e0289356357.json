@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Prolaktinom</i> besser erklärt sind: Sehstörungen, Probleme beim Geschlechtsverkehr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polyzystisches Ovarialsyndrom</i> erhöhen würden: unerfüllter Kinderwunsch, Haarausfall</li></ul>",
+      "isCorrect": false,
+      "label": "Polyzystisches Ovarialsyndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polyzystisches_Ovarialsyndrom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Prolaktinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Prolaktinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Prolaktinom</i> besser erklärt sind: Sehstörungen, Ausfluss aus der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost, Vaginaler Ausfluss, urethraler Ausfluss, Dysurie</li></ul>",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pelvic_inflammatory_disease"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Prolaktinom</i> besser erklärt sind: Sehstörungen, Ausfluss aus der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Wärmeintoleranz, Nachtschweiss, Schlafstörungen, vaginaler Juckreiz</li></ul>",
+      "isCorrect": false,
+      "label": "Klimakterisches Syndrom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Prolaktinom</i> besser erklärt sind: Sehstörungen, Ausfluss aus der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Adnexitis</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost, Vaginaler Ausfluss</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Adnexitis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (59) bei Menstruationsbeschwerden.<br /><br />Zusätzlich berichtet die Patientin über Sehstörungen, Probleme beim Geschlechtsverkehr und Ausfluss aus Brustdrüse.<br /><br />Die Patientin gibt an unter Schmerzen während dem Geschlechtsverkehr zu leiden.<br /><br />Fieber, Bauchschmerzen, Schüttelfrost, vaginaler Ausfluss, Kopfschmerzen und Nausea werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein).",
+  "id": "16698d11-5952-44ca-ba11-0e0289356357",
+  "topic": "endocrinology"
+}

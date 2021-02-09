@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Mundhöhlenkarzinom</i> besser erklärt sind: Halsschmerzen, Müdigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Morsicatio buccarum (Chronisches Wangenkauen)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Morsicatio_buccarum"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Mundhöhlenkarzinom</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Schmerzen im Mund</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene atypische Pneumonie",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Mundhöhlenkarzinom</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Schmerzen im Mund</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Fieber, Schüttelfrost, Dysphonie, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Mundhöhlenkarzinom</i> besser erklärt sind: Schmerzen im Mund</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Fieber, Schüttelfrost, Gliederschmerzen, Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit, mehrere Sexualpartner, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Mundhöhlenkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mundh%C3%B6hlenkarzinom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (76) bei Veränderungen der Mundschleimhaut seit vier Monaten.<br /><br />Zusätzlich berichtet der Patient über Schmerzen im Mund, Halsschmerzen und eine vermehrte Müdigkeit.<br /><br />Eine Strahlenexposition wird bejaht.<br /><br /> Ungeschützter Geschlechtsverkehr sowie Bluttransfusionen in der Vergangenheit werden verneint. <br /><br />Fieber, Dyspnoe, Gelenkschmerzen, Ohrenschmerzen, Kopfschmerzen, und Dysphonie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 30py (20 Zigaretten täglich während 30 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "e0fd6b77-d971-4ce3-926f-6c7e91e12125",
+  "topic": "ear-nose-and-throat"
+}

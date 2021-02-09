@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypertensiver Notfall",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypertensiver_Notfall"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Hypertensiver Notfall</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Hypertensiver Notfall</i> besser erklärt sind: Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Polyzystische Nierenerkrankung (PKD)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polyzystische_Nierenerkrankung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypertensiver Notfall</i> besser erklärt sind: Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Delir",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Delir"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypertensiver Notfall</i> besser erklärt sind: Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Alkoholüberkonsum</i> erhöhen würden: Schlafstörungen, Angstzustände, depressive Stimmung</li></ul>",
+      "isCorrect": false,
+      "label": "Alkoholüberkonsum",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypertensiver Notfall</i> besser erklärt sind: Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensive Nephropathie</i> erhöhen würden: Schwellung der Unterschenkel</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensive Nephropathie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypertensive_Nephropathie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (55) bei erhöhten Blutdruckwerten seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über akute Dyspnoe.<br /><br />Verschlimmerung der Dyspnoe beim Liegen in Rückenlage.<br /><br />Kopfschmerzen, Thoraxschmerzen, Schwindel, eine Verwirrtheit, Nausea, Sehstörungen, eine Schwellung der Unterschenkel, Tachykardien, Lähmungserscheinungen, retrosternales Brennen, Oligurie, Nasenbluten und Flankenschmerzen werden verneint. <h2>Diagnoseliste</h2>- Essentielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "e80f96e4-d34e-4207-a777-20685250db68",
+  "topic": "cardiology"
+}

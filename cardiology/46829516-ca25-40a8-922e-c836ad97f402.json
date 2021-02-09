@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rhythmogene Synkope"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyponatriämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Komplex fokaler epileptischer Anfall"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Vasovagale Synkope"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei einer Synkope vor einer Stunde.<br /><br />Der Patient berichtet über Palpitationen vor der Synkope.<br /><br />Nausea, Erbrechen und Kopfschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein). <h2>Familienanamnese</h2><strong>Plötzlicher Todesfall</strong>.",
+  "id": "46829516-ca25-40a8-922e-c836ad97f402",
+  "topic": "cardiology"
+}

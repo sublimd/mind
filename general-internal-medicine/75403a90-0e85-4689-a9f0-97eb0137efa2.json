@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute myeloische Leukämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Morbus Castleman"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Primäre Myelofibrose (PMF)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lues"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hodgkin Lymphom"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (13) bei einem vergrösserten Lymphknoten zervikal seit zwei Wochen.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Nachtschweiss, Fieber, einen Gewichtsverlust und Pruritus.<br /><br />Schüttelfrost, offene Wunden, Nausea und Nasenbluten werden verneint.",
+  "id": "75403a90-0e85-4689-a9f0-97eb0137efa2",
+  "topic": "general-internal-medicine"
+}

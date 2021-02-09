@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Thrombophlebitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kompartmentsyndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Tiefe Venenthrombose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Erysipel"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (81) bei einer linksseitigen Unterschenkelschwellung seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Beinschmerzen und eine lokale Hautüberwärmung.<br /><br />Varizen, Dyspnoe, ein Exanthem und Sensibilitätsstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 33py (10 Zigaretten täglich während 65 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "7c37739f-27cf-4839-8c4d-20acadeadd80",
+  "topic": "angiology"
+}

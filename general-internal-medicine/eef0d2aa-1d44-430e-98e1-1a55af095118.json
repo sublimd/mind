@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Karpaltunnelsyndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 3"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Panarteriitis nodosa"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypomagnesiämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ischämischer Schlaganfall"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (35) bei Sensibilitätsstörungen an der linken Hand seit drei Monaten.<br /><br />Lähmungserscheinungen, Rückenschmerzen, Armschmerzen, Kopfschmerzen, Gliederschmerzen und Fieber werden verneint. <h2>Diagnoseliste</h2>- Übergewicht<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "eef0d2aa-1d44-430e-98e1-1a55af095118",
+  "topic": "general-internal-medicine"
+}

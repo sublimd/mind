@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Anaphylaktische Reaktion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenembolie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypereosinophilie-Syndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (27) bei einer generalisierten erythematösen Hautveränderung seit fünf Stunden.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe, Nausea und erhöhte Blutdruckwerte.<br /><br />Die Patientin erwähnt eine kürzlich gestartete Therapie mit einem neuen Analgetikum.<br /><br />Fieber, Thoraxschmerzen, ein Gewichtsverlust und Orthopnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 1py (10 Zigaretten täglich während 2 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "c7e5439e-7c29-4440-ac89-6b8e519fdd0f",
+  "topic": "immunology"
+}

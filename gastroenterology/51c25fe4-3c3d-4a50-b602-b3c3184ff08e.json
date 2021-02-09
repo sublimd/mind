@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 1"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cholangitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische Hepatitis B-Infektion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hepatitis E"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Typhus abdominalis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (79) bei einer vermehrten Müdigkeit seit sieben Tagen.<br /><br />Zusätzlich berichtet der Patient über einen Appetitverlust, Nausea, Bauchschmerzen im rechten Oberbauch, Fieber und Gelenkschmerzen.<br /><br />Schlafstörungen, Schüttelfrost, ein Gewichtsverlust, Hautveränderungen, Pruritus, ein Ikterus, Nachtschweiss und niedrige Blutdruckwerte werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "51c25fe4-3c3d-4a50-b602-b3c3184ff08e",
+  "topic": "gastroenterology"
+}

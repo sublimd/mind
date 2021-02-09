@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cerumen obturans"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Rhinosinusitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Otitis externa diffusa"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Otitis media"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Perichondritis auricularis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (25) bei Ohrenschmerzen seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über eine Hörminderung, Ausfluss aus dem Ohr und Fieber.<br /><br />Schwindel, Tinnitus, Gesichtsschmerzen, Kopfschmerzen, Pruritus und Hautveränderungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "6859e7cf-ac21-49b3-9ad3-51a68bc89f58",
+  "topic": "general-internal-medicine"
+}

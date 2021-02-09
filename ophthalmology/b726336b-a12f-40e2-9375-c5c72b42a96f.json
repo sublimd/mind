@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Cluster-Kopfschmerz</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Akute bakterielle Konjunktivitis</i> besser erklärt sind: Augenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cluster-Kopfschmerz</i> erhöhen würden: Kopfschmerzen, Muskelschwäche</li></ul>",
+      "isCorrect": false,
+      "label": "Cluster-Kopfschmerz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cluster-Kopfschmerz"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Konjunktivitis</i> besser erklärt sind: Ausfluss aus dem Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Sarkoidose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sarkoidose"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute bakterielle Konjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Akute bakterielle Konjunktivitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Akute bakterielle Konjunktivitis</i> besser erklärt sind: Ausfluss aus dem Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Zika Virus Infektion</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zika Virus Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Zika Virus Infektion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Konjunktivitis</i> besser erklärt sind: Augenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Juckreiz im Auge, Rhinorrhoe, Augenschwellung, nasale Obstruktion, Niesen</li></ul>",
+      "isCorrect": false,
+      "label": "Allergische Rhinokonjunktivitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Allergische_Rhinokonjunktivitis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (48) bei einer beidseitigen Augenrötung.<br /><br />Zusätzlich berichtet die Patientin über eitrigen Ausfluss aus dem Auge und Augenschmerzen.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Juckreiz in den Augen, Sehstörungen, Rhinorrhoe, eine nasale Obstruktion, Fieber, Hautveränderungen und Kopfschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "b726336b-a12f-40e2-9375-c5c72b42a96f",
+  "topic": "ophthalmology"
+}

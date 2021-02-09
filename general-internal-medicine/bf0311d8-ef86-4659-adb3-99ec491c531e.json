@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lyme Borreliose Stadium 3"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sichelzellkrise"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Thalassämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperphosphatämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zika Virus Infektion"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (62) bei atraumatischen, linksseitigen Knieschmerzen seit zwei Wochen.<br /><br />Zusätzlich berichtet der Patient über Sensibilitätsstörungen an den Händen und Füssen, Palpitationen und Kopfschmerzen.<br /><br />Fieber, Gliederschmerzen, Bauchschmerzen, Handschmerzen und Fussschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "bf0311d8-ef86-4659-adb3-99ec491c531e",
+  "topic": "general-internal-medicine"
+}

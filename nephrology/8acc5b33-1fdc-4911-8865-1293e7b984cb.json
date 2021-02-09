@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Urethrastriktur"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Prostatahyperplasie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Urolithiasis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chlamydien Urethritis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Harnwegsinfekt"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (39) bei Dysurie seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über urethralen Ausfluss.<br /><br />Harnwegsinfekte in der Vergangenheit werden verneint.<br /><br />Bauchschmerzen, Fieber, eine Urininkontinenz, Hämaturie und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Wein).",
+  "id": "8acc5b33-1fdc-4911-8865-1293e7b984cb",
+  "topic": "nephrology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Sarkoidose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Exogen-allergische Alveolitis (chronisch)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenfibrose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lymphom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Granulomatose mit Polyangiitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (42) bei Dyspnoe seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Husten, eine erythematöse Hautveränderung an der unteren Extremität beidseits, einen Gewichtsverlust, eine Augenrötung und eine vermehrte Müdigkeit.<br /><br />Fieber, Thoraxschmerzen, paroxysmale nächtliche Dyspnoe, Appetitverlust, Nachtschweiss, Gelenkschmerzen und Hämoptoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "8e59ab58-7e92-49ce-a43e-5c6e3cc5a019",
+  "topic": "general-internal-medicine"
+}

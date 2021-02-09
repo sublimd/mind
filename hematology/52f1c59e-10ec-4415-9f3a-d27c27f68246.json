@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Block II°, Mobitz II</i> erhöhen würden: Bradykardien, Synkope</li></ul>",
+      "isCorrect": false,
+      "label": "AV-Block II°, Mobitz II",
+      "references": {}
+    },
+    {
+      "explanation": "<ul></ul>",
+      "isCorrect": false,
+      "label": "Anämie im Rahmen chronischer Erkrankung",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Eisenmangelanämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Eisenmangelan%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Eisenmangelanämie</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Ventrikelseptumdefekt (VSD)‎",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ventrikelseptumdefekt"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aortenklappen-Insuffizienz</i> erhöhen würden: Palpitationen, Tachykardien, Orthopnoe, Husten, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Aortenklappen-Insuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Aortenklappeninsuffizienz"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (29) bei einer vermehrten Müdigkeit seit drei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe und Schwindel.<br /><br />Ein veganer Ernährungsstil wird bejaht.<br /><br />Fieber, Schlafstörungen, Husten, ein Gewichtsverlust, eine depressive Stimmung, eine Schwellung der Unterschenkel, Synkopen, Nachtschweiss und Bradykardien werden verneint. <h2>Diagnoseliste</h2>- Uterusmyom<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "52f1c59e-10ec-4415-9f3a-d27c27f68246",
+  "topic": "hematology"
+}

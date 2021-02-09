@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Dermatomyositis</i> besser erklärt sind: Muskelschwäche</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Masern</i> erhöhen würden: Schüttelfrost</li></ul>",
+      "isCorrect": false,
+      "label": "Masern",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Masern"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Dermatomyositis</i> besser erklärt sind: Hautveränderungen, Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Dermatomyositis</i> besser erklärt sind: Muskelschwäche</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: vergrösserter Lymphknoten bzw. subkutaner Knoten, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Dermatomyositis</i> besser erklärt sind: Muskelschwäche</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Kopfschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit, mehrere Sexualpartner, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Dermatomyositis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Dermatomyositis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (68) bei einer erythematösen Hautveränderung.<br /><br />Zusätzlich berichtet die Patientin über eine Muskelschwäche an den Oberschenkeln seit einem Monat sowie Gliederschmerzen, eine vermehrte Müdigkeit und Dysphagie.<br /><br />Die Müdigkeit sei am Nachmittag am stärksten ausgeprägt.<br /><br /> Keine Einschlafneigung tagsüber. Der Konsum von intravenösen Drogen in der Vergangenheit und Kontakt zu mehreren Sexualpartnern in den letzten Monaten werden verneint. Der Erhalt von Bluttransfusionen wird verneint. <br /><br />Fieber, Schüttelfrost, Kopf- und Halsschmerzen, Rückenschmerzen, Sensibilitätsstörungen, Odynophagie, Handschmerzen und eine Handschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "ba3e1133-9944-4348-8eac-61e2d9c27fbb",
+  "topic": "immunology"
+}

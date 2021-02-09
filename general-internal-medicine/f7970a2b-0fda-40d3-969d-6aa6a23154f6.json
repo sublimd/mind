@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Skleritis anterior"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Dakryozystitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Okuläre Rosazea"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Konjunktivaler Fremdkörper"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Trichiasis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (32) bei einer Augenrötung.<br /><br />Zusätzlich berichtet der Patient über wässrigen Ausfluss aus dem Auge und Augenschmerzen.<br /><br />Sehstörungen, Juckreiz in den Augen, Rhinorrhoe, Hautveränderungen, Kopfschmerzen, eine Augenschwellung und Gesichtsschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "f7970a2b-0fda-40d3-969d-6aa6a23154f6",
+  "topic": "general-internal-medicine"
+}

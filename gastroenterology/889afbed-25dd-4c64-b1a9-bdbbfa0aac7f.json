@@ -1,0 +1,41 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Pankreatitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Pankreatitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Pankreatitis</i> besser erklärt sind: Rückenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Gallenblasenperforation",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Akute Pankreatitis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenabszess</i> erhöhen würden: Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Nierenabszess",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Pankreatitis</i> besser erklärt sind: Rückenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Bakterielle Enteritis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Pankreatitis</i> besser erklärt sind: Rückenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Appendizitis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (38) bei Fieber.<br /><br />Zusätzlich berichtet der Patient über brennende Bauchschmerzen epigastrisch seit einem Tag sowie Nausea und Rückenschmerzen.<br /><br />Erbrechen, Diarrhoe, Dyspnoe, Tachykardien, Flankenschmerzen, ein Gewichtsverlust, Obstipation, Pruritus, Hämatochezie und Meläna werden verneint. <h2>Diagnoseliste</h2>- Cholelithiasis<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "889afbed-25dd-4c64-b1a9-bdbbfa0aac7f",
+  "topic": "gastroenterology"
+}

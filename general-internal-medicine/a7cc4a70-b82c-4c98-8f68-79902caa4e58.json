@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Polyzystisches Ovarialsyndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Korpuspolyp"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Prolaktinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperprolaktinämie"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (23) bei Menstruationsbeschwerden.<br /><br />Zusätzlich berichtet die Patientin über Haarausfall und ein erythematöses, pustulöses Exanthem im Gesicht.<br /><br />Bauchschmerzen, Probleme beim Geschlechtsverkehr, vaginaler Ausfluss und Ausfluss aus der Brust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "a7cc4a70-b82c-4c98-8f68-79902caa4e58",
+  "topic": "general-internal-medicine"
+}

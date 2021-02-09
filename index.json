@@ -1,0 +1,2468 @@
+{
+  "cases": [
+    {
+      "id": "007a1a5c-a2d5-4c0b-b870-4f0fc6825d32",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "008f7c22-bb4b-4382-9561-ec995815a42d",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "00bc0069-bbc8-4434-91c5-7590e3e350e4",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "00cb9ef9-95fc-4893-a0dd-b33634425e99",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "0360b6e1-63c6-4d0e-a309-73b25ebc7876",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "042cfc95-53a9-4632-8ce9-48a911434ba0",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "055345ed-b066-4170-907b-758518a23da8",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "0774231c-3905-4deb-b72c-1d30985ed6c8",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "0abe73e6-62a8-4985-a31a-0e1416a5a626",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "0c0a2392-98f2-42d0-b1d4-39408932ca0f",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "0ca15543-ec40-49c3-919e-d079d4785df3",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "0cbe19ed-8460-4039-8bd7-a884617be90a",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "0d9350ff-1935-44c5-9a33-2c79c3e33da5",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "0e758795-6e26-41b8-afea-937cb6da5e98",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "0fefbdd4-7420-471a-95c0-b79cefa006ca",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "1285cd1d-d705-44ac-8d67-0dfdf70cc43f",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "1348c968-587b-4131-bc04-b62ba9c9c378",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "16ae9e99-9ed4-42b4-a156-6e30da70587f",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "19197ed1-c2d1-45dd-a93b-fe34a0e46c08",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "1c285837-868d-462c-b249-f6cf1bca6634",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "1dd17d1b-3291-4688-8c9c-db95a26ea9b5",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "1e513873-a099-4b77-bfbd-29c8ed237419",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "1fcb770a-68b4-4e96-88ae-96084cc03032",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "2084a638-9646-402b-a972-bb2c0620430b",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "23c64578-53e5-437c-a41e-dcf3e881bd50",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "26e29923-6748-4be4-9237-a64cfc695a6c",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "28b2210a-d452-4cb8-9aaa-1dd84180e2d6",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "297c4eac-7283-4cdf-a71e-186bc155450c",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "29da8f6b-5cca-464b-8922-feb21846737c",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "2a8023f6-e93d-44b5-8225-4dcfe1adb1fb",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "2bade398-518e-4b65-a0cd-41780d21d77e",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "2bea6a11-b3f7-43e6-afbb-3bef43e15c8e",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "2f89bbf6-dca7-498e-a9a4-76aef65947ca",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "350853a4-bf8d-4473-8215-082393b2f350",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "3574657e-f32f-4f91-b615-171a3900deb6",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "3b4c7679-566c-4729-9852-24f35ebe6be3",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "3c89e266-f19d-495f-b8bb-a326ba797c8a",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "3d58ee20-3a3e-432d-9664-1d26d6d67bc8",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "3f07cc6a-358d-471b-98a1-1cb288b7f3ba",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "490e5735-2a50-4871-a76b-7dbcf10d97d3",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "496db5ca-284f-4799-a01c-362bed578915",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "4c073c56-d989-4735-9fa4-984a5b6054c3",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "4de9a982-b214-4aac-aee9-bbda0835c186",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "4e2dab5f-a2cc-4b91-9f4b-fbe9d9ac6aca",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "4ec5cebe-fe53-4ef0-860a-f90202e3023f",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "50bc8969-c113-495b-a017-4c68b1796971",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "50db92b4-8c51-4216-acc7-c4b6eaad8d19",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "5139ed8d-1e4a-4d89-95bf-67016628d93f",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "52c56105-8946-4a41-8dfd-df9574c923c9",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "56565205-5930-4f2c-bb6c-57e9f256023c",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "572be950-195f-4687-9889-da3138e450b3",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "599de8c3-ec5d-45a1-9247-22086699d5e2",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "5d9e426a-7f9b-46d8-afd3-7cff1f2b0014",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "5e2a0cc0-5ca3-4072-a68a-d319ba1c2d1f",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "5f448614-9396-43ef-9de2-7550227979ca",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "65a3ec92-5796-4bd1-aa3e-1b5c9be52e51",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "6859e7cf-ac21-49b3-9ad3-51a68bc89f58",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "68687771-380c-40d4-b0cb-a699a68bb242",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "6981194f-f796-4685-839c-4e5d22961cde",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "69a21f1a-6f7b-4660-8a20-d1a7f61b076e",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "6a619f69-5321-4796-b2bb-967f5555f4d6",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "6d5ca3bd-f447-4319-893a-cbe4467fe994",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "70a42ab4-3e81-47c3-a853-700f55408aca",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "73538888-5156-4550-b9fc-1b2e67345ba3",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "74490b59-84cd-4d14-96eb-c4a0c3a217a6",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "745883a0-8bea-4d0f-abda-d710e7259a14",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "75403a90-0e85-4689-a9f0-97eb0137efa2",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "782860f9-1b49-433d-9a90-372d2aaa16a1",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "783db1c4-f020-4671-bc3a-21bda39e295a",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "7894c7ea-994b-44af-8478-b1d841297a9a",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "78a7b572-5b11-4fff-ba3e-534f27b837ed",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "791337e2-08fc-4e2a-945a-f8b10821926b",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "7980b5ba-3e02-4c7d-b36e-2c13c9d3551a",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "82dd4c51-5e3d-4377-90e8-84d5e3a61d15",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "83b77d58-12b1-4443-95f4-289ce02e418d",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "84c194bc-939a-412a-9239-0f8885e9985f",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "84e01587-f06b-4e34-81ae-6a8fbd50ef62",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "85c395b0-6477-4cb8-9af5-e8fcbcb1bcf5",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "89520698-4668-4bd3-b98e-ff5fd394556d",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "8e59ab58-7e92-49ce-a43e-5c6e3cc5a019",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "90a41a81-ec74-49b1-92ae-016792c31a7f",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "90fac2aa-7cbd-4547-b2fe-51aee4881481",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "927d3f4f-a4e2-411b-b4f6-5eb2af8b957d",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "93696e00-cbb4-405e-8aab-aeaa6731eba7",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "94203020-4bee-4483-a66d-562bd6e3199a",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "95fe5c43-3e9b-43f8-9c9b-db3d717de3a2",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "968ad92e-43ce-4f6b-b256-c9c72cf5dd65",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "9955fb8e-5d51-4a8c-9887-e297a92d1fd5",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "999390c3-0362-4ff3-b8b6-7f52c183b29b",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "9b6e5497-d324-4ca4-acc3-e2ee4dabde36",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "9c5f4da2-e6f4-4865-949b-16536e48af64",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "9fd625c4-0e39-43ca-9cb9-4732f01945f0",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "9ff27c04-6405-4c2b-abef-2eb8bf6ba1d1",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "a057a9e2-d515-4588-8a85-dee59303501d",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "a1717b2a-cfd3-4ea0-a8c0-c469b78a27fd",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "a577ff61-469f-41f7-836b-83fa955049f6",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "a7cc4a70-b82c-4c98-8f68-79902caa4e58",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "a856c64d-40b6-4c9b-9a59-be1e3d673442",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "aa4fa2f9-4e97-49ce-9f59-84861d2805fc",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "aaafee18-4310-4542-b4ed-2b6c07116120",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "ada1627f-fc95-4c7f-b1fb-85a2c16a2755",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "af5ce8ec-9beb-4382-b95b-fbccbbeda006",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "afe95830-83dd-4e52-a94a-dae4b7eccf1b",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "b1245860-da2d-49c7-a1a1-dca721e33340",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "b49887dd-5fca-4e12-b46d-079c53aa4b0a",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "b8fec55a-5e96-4057-b686-e68f0f5e9418",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "bd36f948-88e0-4fe7-bda6-490dbb99b7e1",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "be424445-3561-4896-8b59-1e942f47aa7a",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "bf0311d8-ef86-4659-adb3-99ec491c531e",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "bf64bc87-9e5c-4de5-bc58-0018e0e7f997",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "bf66ffdb-767a-4a05-ad28-a21609ed55cd",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "cb73c7a5-de04-4edd-a64f-eea513c96e1d",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "cfc9a296-fa4b-4066-adf4-37fb47246431",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "d5a5e60f-7ba6-409d-b53e-eb7b1d99638b",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "d5b9e3b9-46f7-4281-8518-f3ea7df5f9e6",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "da370ede-8631-43b0-84bd-4dacbcd305bf",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "de420727-a4d7-4a2a-829b-391e4680f879",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "e3a5915b-1cb0-4086-8ff4-e572bd097e94",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "e3e309cc-703d-4349-88f2-d62575c7f69b",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "e41aa104-50be-4416-9c93-240a9c9e05be",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "e700580f-68aa-4e5b-8b4b-fc3a8b289f16",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "e702a155-eb4c-4081-afed-f3849dcc4b95",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "ec9eae99-7eb6-4079-b1e5-69829a760d63",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "eef0d2aa-1d44-430e-98e1-1a55af095118",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "efbc7880-5ce5-4c76-b9b7-fedd43797128",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "f119d954-e1cb-4949-af82-9037d613a7ce",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "f239dd4a-79cf-4d0a-9a53-7ccb185079ed",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "f50f76b2-392d-4676-828a-cc691cb118c2",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "f7970a2b-0fda-40d3-969d-6aa6a23154f6",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "f845f844-6a54-4c3c-8345-ca7b125d2c80",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "fb3edc21-3fd9-496a-9411-5bd09a090b50",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "febddb7c-ff30-403a-9427-8c3e5fc98419",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "ff361e89-4e04-472d-8014-de714728238b",
+      "topic": "general-internal-medicine"
+    },
+    {
+      "id": "467d8653-d8d6-410a-ac4e-813e06e7b3e4",
+      "topic": "other"
+    },
+    {
+      "id": "0085172e-8b2f-4ecc-b19a-a70314328d9a",
+      "topic": "angiology"
+    },
+    {
+      "id": "1e3c518d-6e4e-44f8-81f3-3006f1430e6c",
+      "topic": "angiology"
+    },
+    {
+      "id": "362f9daa-f33e-4398-8dce-a5249eedefce",
+      "topic": "angiology"
+    },
+    {
+      "id": "7c37739f-27cf-4839-8c4d-20acadeadd80",
+      "topic": "angiology"
+    },
+    {
+      "id": "7f068410-b7fc-4942-9e4d-95eecd72fdfb",
+      "topic": "angiology"
+    },
+    {
+      "id": "83048ba9-bc36-45fc-9f89-75a3d65192f9",
+      "topic": "angiology"
+    },
+    {
+      "id": "95e434e7-8136-4965-a714-e22a09697ef6",
+      "topic": "angiology"
+    },
+    {
+      "id": "b0fc4d60-c873-4d49-af44-36edf6772dbb",
+      "topic": "angiology"
+    },
+    {
+      "id": "bede7760-0176-40b7-8e1b-164c50b75595",
+      "topic": "angiology"
+    },
+    {
+      "id": "ce044d23-cc88-4ea0-b0a7-158078d1b8c7",
+      "topic": "angiology"
+    },
+    {
+      "id": "e7c80ca8-38ba-40e6-b000-e15a5e415f1f",
+      "topic": "angiology"
+    },
+    {
+      "id": "2dbcce1e-4b58-475d-b62d-6e79cb08719c",
+      "topic": "surgery"
+    },
+    {
+      "id": "e5dccd95-342c-431c-97fb-dabfe61693f7",
+      "topic": "surgery"
+    },
+    {
+      "id": "16698d11-5952-44ca-ba11-0e0289356357",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "33e46f94-98f9-40fb-99d0-2aa93760c85e",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "39efc978-c3e1-41d7-abf6-147bd19988d8",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "48f42b98-a2bf-4d0c-90ad-589a845c2769",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "496a0e6c-5193-4b22-97b9-1c9bca199787",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "4d9b1e0d-d66a-4cba-8e53-524fe71fad5d",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "55beef5d-8918-485b-9d41-8325208debd4",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "7428bbc1-c928-4791-982a-e4a68def0427",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "78abdf36-9078-4a8e-a275-679d9cb21c0b",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "8012ce03-d224-4d0b-b235-c34a2ad8449f",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "93659795-abce-43ef-807a-94f13d3da9ff",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "9bbbe402-1533-492d-bd7a-7513da4b2840",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "a0aa6413-9176-4753-a1a1-181adcf51d2d",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "a1683912-72c4-4f35-a184-2b1bae50ac81",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "a5cacfa5-17c5-4c42-8b1a-d18bb2267de1",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "b8c05fb6-8479-4eb6-9774-9d564a73bd4b",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "ba0225f0-f905-4249-83f0-e97e701f4a9d",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "c2d9b5e8-5fc9-454f-8369-14cc0bc8c6be",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "d1160670-f585-481f-96f7-5e931894e47e",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "e4ba4b7e-7c2f-4ffc-9e6d-9440e18bdb51",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "e5e6543b-72be-4b9c-9789-98b5bb4ca11a",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "f0b05038-2ab8-4667-9808-b391ae22e17c",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "039e5ed1-6fa6-4468-9ac2-1c4669043d6e",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "056ef0c2-8017-4a88-85a0-c8027b2b0f15",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "0b212ac2-5c1c-41f8-9319-18841bb8adf2",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "0bf4dff9-08d3-4f76-a0e9-5430f0215c1c",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "0fcd4f67-2344-445c-8b07-339334fb99a4",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "103958ce-382c-4c2f-a500-414e126f6b96",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "107f29c7-2a4e-463a-b975-376e25b2c0de",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "19db65f4-94ce-4eaf-96b9-6bf1e6a75ecc",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "19ea2caf-1592-4b61-bf75-cedc58914b4f",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "1f4f9b91-446a-4753-becc-f6a757b793a0",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "20096d7e-875e-495d-b903-5538aa325f64",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "212c318e-1e56-46c3-993e-b7d9225c2b88",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "23593fb4-ed25-4783-be35-dafeacc4b232",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "341da5d4-8345-41b7-87e9-a43f6df8dc6e",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "35bd8504-3035-463b-9e3d-c31e33444376",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "386a0441-88f8-49d4-ad49-38707595e4e2",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "38fdda11-f0c8-4086-892d-0fb56e8cbed2",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "3b07e6d9-560b-41ee-8ffe-d37101b8e701",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "429c92e0-7280-4d23-b55b-df7b24ddafbc",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "466a3d58-6fef-4f08-af35-962abe92be8a",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "49c35e7a-d828-4cb7-be8c-0be43fa95c3b",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "4c7f9587-4081-4c41-94c1-1ce2eeaba0f5",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "4e2a83ab-b83a-4511-b908-3adbc8a6807c",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "51c25fe4-3c3d-4a50-b602-b3c3184ff08e",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "53497099-5828-4cd4-be97-3f661384b934",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "58e33e12-14fa-422b-b7a3-e87ef809b955",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "59a0cca5-417d-4e6b-afb7-15d9552e2b3f",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "5d2c56c9-7231-49d6-831a-d21ea14d7ac6",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "71c72205-73d4-47a4-bbbb-820a088caaeb",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "73351986-76cc-4f71-ab22-1513dc52b774",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "73c2480c-b83e-40d0-bdfc-351fda3e2171",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "760ae0f3-b9b1-4851-a8ac-a9b6ef33650c",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "76ac97b1-09b8-4165-9add-3971a8380249",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "77459365-fef1-476d-915f-f511b4c2ffb4",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "79c6fc13-c5ea-41fe-99df-1bcf827db870",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "7e3ecdb2-cac0-4726-a0d9-af09f841f6cf",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "7ec590a1-f305-4892-a971-2818f6ea9ade",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "8402c069-4b8c-4ef0-8cf9-5254452610cd",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "85ed37ec-c9e7-45eb-86ae-80822d57354a",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "889afbed-25dd-4c64-b1a9-bdbbfa0aac7f",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "8d433c5f-9ee7-4945-8142-823c89a17b08",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "8ff8809c-4d98-4024-995c-989b202a6512",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "9fe8d45d-44d3-403a-a823-6a47d7c898c2",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "a52819ba-385f-4801-8f5b-53e7bdf1a6c1",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "a8a175da-1979-4365-bf82-20c9861c9aba",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "abfb2e4f-cd7e-4be1-8498-241b3dbedd89",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "b6e5eb0b-c7e5-4857-86b4-f97f2b668cd3",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "b8abf716-c950-44dc-b4b2-097480de1607",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "ba6894b6-2ae3-45f6-b0ba-4c40345bc7b4",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "bf16219b-cdc7-4c6b-83d2-0dee211970f1",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "c0720c31-6478-4e06-8f60-4aa993250871",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "c5b75b58-ac7c-4308-bf51-a86197d91f9e",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "c65496ea-ac94-4851-958c-ad9727f4a44e",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "c91922df-8c11-409f-9137-7406d348b297",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "c9d3d571-73c8-4916-8c56-b23162427183",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "ca066bd4-fe2d-4dbd-8e4f-2b3199da7f92",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "cd963f29-a15e-4b96-bbe9-1f80cdcdbe70",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "ce623804-aaba-4c78-9128-aa363c14a629",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "cfeacbce-7525-4ce0-a564-56965b914107",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "d2617efe-4648-46ff-b226-b56bb1151e32",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "d6922601-2fde-4d67-a87f-a0e230732abb",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "d78cb0e8-dd3b-4563-b2f8-091a51e462be",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "db7b84a5-4f02-4383-8850-215c3812e1b9",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "e6d0560f-8693-4387-9cf6-4fd864d02eee",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "f0912ee0-804b-4bec-9668-22003fa47797",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "f108ea87-5fa9-4c00-9678-4854364649f8",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "f1b104db-28fa-4a6e-a99d-d99b93f154d1",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "f753567c-6645-4260-b373-98e1ff8be791",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "0bf36951-a92e-411d-a6f6-916b646bc495",
+      "topic": "obstetrics"
+    },
+    {
+      "id": "0da179aa-d017-481d-a955-cea0b8b27f23",
+      "topic": "obstetrics"
+    },
+    {
+      "id": "233a4ed3-7059-4eaf-aef7-1c038d44ae9e",
+      "topic": "obstetrics"
+    },
+    {
+      "id": "55316070-8b56-4938-b1e6-b5ec91a67977",
+      "topic": "obstetrics"
+    },
+    {
+      "id": "7a2e4d57-89a0-47fa-b461-0bdc45ef742d",
+      "topic": "obstetrics"
+    },
+    {
+      "id": "d59e0506-f80a-4914-9262-7c888a74fc88",
+      "topic": "obstetrics"
+    },
+    {
+      "id": "3f0018ae-a77f-40b9-b2d7-96a7cf21f4fd",
+      "topic": "genetic-disorders"
+    },
+    {
+      "id": "45ec02ea-20c8-4ae7-b314-dd30c6110159",
+      "topic": "genetic-disorders"
+    },
+    {
+      "id": "011d8497-bc25-4d4b-ae87-474511c11b2b",
+      "topic": "gynecology"
+    },
+    {
+      "id": "069cdc5c-9e2d-4352-b7da-f0fa1b7645e4",
+      "topic": "gynecology"
+    },
+    {
+      "id": "2459ca9d-2ff0-46fe-94d6-263fa4df1da2",
+      "topic": "gynecology"
+    },
+    {
+      "id": "25668b18-7606-4c88-8e9d-819307c9cceb",
+      "topic": "gynecology"
+    },
+    {
+      "id": "2a7b3896-1852-4448-bac3-f842da34dd55",
+      "topic": "gynecology"
+    },
+    {
+      "id": "2f46883f-3a4e-4bae-85fc-5b36499fc7a1",
+      "topic": "gynecology"
+    },
+    {
+      "id": "2fb01794-8a37-4039-bf94-88116ac81138",
+      "topic": "gynecology"
+    },
+    {
+      "id": "42136d11-eaf9-4127-ad5c-f7eb7e846a5f",
+      "topic": "gynecology"
+    },
+    {
+      "id": "49266b0a-9522-4ca5-b34a-de34316003d7",
+      "topic": "gynecology"
+    },
+    {
+      "id": "50697b2c-1b31-4beb-9436-9d1b52f8f547",
+      "topic": "gynecology"
+    },
+    {
+      "id": "6eb9b9e7-be89-47c5-8dcd-e9d85aa2bcc1",
+      "topic": "gynecology"
+    },
+    {
+      "id": "70808c4c-ad39-4f88-a895-bc3f702ed327",
+      "topic": "gynecology"
+    },
+    {
+      "id": "845e2c17-460b-45d9-b535-c214cb07c6dd",
+      "topic": "gynecology"
+    },
+    {
+      "id": "8548c26f-ecbe-4561-a94a-562b0a6013b0",
+      "topic": "gynecology"
+    },
+    {
+      "id": "8653a3fc-69e1-4fac-8c75-cf79f8d4664d",
+      "topic": "gynecology"
+    },
+    {
+      "id": "9256b002-0a59-4300-8a98-3458422a2718",
+      "topic": "gynecology"
+    },
+    {
+      "id": "951c9176-0c01-48c5-94b0-0af78f769b5c",
+      "topic": "gynecology"
+    },
+    {
+      "id": "ac1d0f76-af97-4a7c-817d-cfe8fcb75fbd",
+      "topic": "gynecology"
+    },
+    {
+      "id": "b183f460-9eaa-4a4b-a6f2-f8f68f583631",
+      "topic": "gynecology"
+    },
+    {
+      "id": "bda73b44-ea85-4a8d-b347-d39453217967",
+      "topic": "gynecology"
+    },
+    {
+      "id": "bf46658d-4385-4287-bb26-8bddf2883a3a",
+      "topic": "gynecology"
+    },
+    {
+      "id": "ca30d4eb-5145-438c-9841-ae3ef9378996",
+      "topic": "gynecology"
+    },
+    {
+      "id": "d1e5bedb-51bf-4de7-98f5-9c40e19317fd",
+      "topic": "gynecology"
+    },
+    {
+      "id": "e8e767ea-ca43-4d78-8cba-594e6cfc6546",
+      "topic": "gynecology"
+    },
+    {
+      "id": "fcda2487-da49-4774-9d0b-5f744c75b793",
+      "topic": "gynecology"
+    },
+    {
+      "id": "fff404ed-554f-4dd5-bbc2-e0e365cb92ad",
+      "topic": "gynecology"
+    },
+    {
+      "id": "10a598e1-9ed7-4156-8a6e-6fa79b04419c",
+      "topic": "hematology"
+    },
+    {
+      "id": "13b131bb-4c76-4e68-900f-7a9755eb4443",
+      "topic": "hematology"
+    },
+    {
+      "id": "14ac3c58-9d77-4432-9d75-da5808a35b33",
+      "topic": "hematology"
+    },
+    {
+      "id": "28ba645b-d8f9-4808-892a-a394eab2d90f",
+      "topic": "hematology"
+    },
+    {
+      "id": "297cdf4c-4ff1-40ea-b695-13e33a29c672",
+      "topic": "hematology"
+    },
+    {
+      "id": "314b7f1a-64d1-497a-a17d-b7a28ea21173",
+      "topic": "hematology"
+    },
+    {
+      "id": "34c14d48-141e-4e17-9a38-82caba5a2ee5",
+      "topic": "hematology"
+    },
+    {
+      "id": "35c3851e-309d-4205-87e9-b2f7600b1aa1",
+      "topic": "hematology"
+    },
+    {
+      "id": "37f243e5-2579-4fc7-a2ec-84b3d7dc1e0f",
+      "topic": "hematology"
+    },
+    {
+      "id": "39d9f97f-1580-4ac0-b4c5-c5c8566d9ead",
+      "topic": "hematology"
+    },
+    {
+      "id": "3a2d872b-5135-4f46-affa-6294443bf44b",
+      "topic": "hematology"
+    },
+    {
+      "id": "4bfa4cbf-2a37-4363-9100-e6b9d25061b2",
+      "topic": "hematology"
+    },
+    {
+      "id": "50a1dccd-e8c8-441e-823f-38ce38956a19",
+      "topic": "hematology"
+    },
+    {
+      "id": "52f1c59e-10ec-4415-9f3a-d27c27f68246",
+      "topic": "hematology"
+    },
+    {
+      "id": "6145cf1c-5aa7-483b-9bd6-5a4776d8ea9c",
+      "topic": "hematology"
+    },
+    {
+      "id": "6623801d-b701-4025-bd4b-3fb918a7aca2",
+      "topic": "hematology"
+    },
+    {
+      "id": "79bd509c-9a13-4f0f-ac36-49c76be1980f",
+      "topic": "hematology"
+    },
+    {
+      "id": "8d33d65f-335c-4802-a2ee-a2f151887acc",
+      "topic": "hematology"
+    },
+    {
+      "id": "94d4db6e-4177-4ed5-8e34-841b6ec440fa",
+      "topic": "hematology"
+    },
+    {
+      "id": "98ea0d7b-a321-4974-80de-03bff3e77e24",
+      "topic": "hematology"
+    },
+    {
+      "id": "9f73cf15-75b1-42f2-98fa-6b6d7e9cc1ff",
+      "topic": "hematology"
+    },
+    {
+      "id": "a4e737d7-f6dc-451a-8e90-2e09f50a9ba8",
+      "topic": "hematology"
+    },
+    {
+      "id": "bcbe4e11-9bfc-4bd1-b3f0-cb9f1c7630d5",
+      "topic": "hematology"
+    },
+    {
+      "id": "bed6d4d5-c5ae-4991-979d-cfe72f15b318",
+      "topic": "hematology"
+    },
+    {
+      "id": "bf27263c-4315-4a19-8180-0e2c443dc81c",
+      "topic": "hematology"
+    },
+    {
+      "id": "d486fe7f-645e-4df5-8cdb-349307c5080e",
+      "topic": "hematology"
+    },
+    {
+      "id": "d4ba33e4-5874-444f-883d-27200416f21b",
+      "topic": "hematology"
+    },
+    {
+      "id": "d94604e6-a331-44e8-975a-4fddd0acd22c",
+      "topic": "hematology"
+    },
+    {
+      "id": "e7883050-6665-4ce5-b6bc-fb320bd963ef",
+      "topic": "hematology"
+    },
+    {
+      "id": "f6ab5b6f-ca09-44c5-ba3c-d82d60aacd06",
+      "topic": "hematology"
+    },
+    {
+      "id": "0659b8e8-fb7f-429c-8c74-115d8a6bb2f2",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "0aff5c3a-d33a-485d-aaa6-b57c123382ab",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "0b25b68b-c2cc-49a1-a06a-dfcd5697e72f",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "2534f675-b3f1-471a-8a9d-dd22e9ab83d5",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "32be779e-a30b-4f4a-86d8-efb62ac19056",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "44a47f85-6869-493b-8e9a-e53b6df982b2",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "487cab5a-91dc-4681-b9da-02ae9efb7f1a",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "4fc9a78a-fcd4-4d58-b8e8-eb72af0228cf",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "52b889d2-f9d8-4a47-9894-82c3833f4e8f",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "5405cd05-30da-40b3-bd2a-3f036e0219e5",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "5c6e5824-3499-4eeb-8094-4b1dc5436349",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "6e317ee2-d96a-404c-ac88-9240eb074455",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "7c468ca3-bd6a-42b1-bb3b-0b96cbc84504",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "7ef4b1bd-3a36-48f6-9b9a-043f6833ffa8",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "848dece8-8e51-4631-9529-2b8208b3213e",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "876ef853-73d8-4909-9bc8-6fae41a84bf7",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "8d3be512-ba80-44c9-84ee-71ba46816b1e",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "a76c70d5-4844-4233-8eb4-757ce986c8eb",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "b48fd99e-668b-4537-bdeb-b3ca61087f6e",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "bd3cd861-a9f1-4ea1-b37a-89f2e294819e",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "c1d06246-8638-4f10-a0ed-e70218c482ab",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "c2e5b264-6f68-4c86-8468-bf34f74a1341",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "deeb22ff-8415-4ab4-b5b7-4c6f560ec416",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "e0fd6b77-d971-4ce3-926f-6c7e91e12125",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "e2c6bbb0-261a-4f5c-a669-0c46445953bc",
+      "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "473ab422-09c6-4a8c-9da1-b845e2814b4c",
+      "topic": "immunology"
+    },
+    {
+      "id": "5f4225ea-049b-46ba-9605-2b3e943e7dfb",
+      "topic": "immunology"
+    },
+    {
+      "id": "93d03ad2-3d5c-414e-8fd7-b2c081eb4d68",
+      "topic": "immunology"
+    },
+    {
+      "id": "9bb639bc-ada8-4936-8c8e-3f984e36d6c1",
+      "topic": "immunology"
+    },
+    {
+      "id": "ba3e1133-9944-4348-8eac-61e2d9c27fbb",
+      "topic": "immunology"
+    },
+    {
+      "id": "c7e5439e-7c29-4440-ac89-6b8e519fdd0f",
+      "topic": "immunology"
+    },
+    {
+      "id": "cb99a4a5-2e8d-4460-8ad3-d937790b43f5",
+      "topic": "immunology"
+    },
+    {
+      "id": "02ae68f3-55cc-46cb-afa6-4b3f2d1d588a",
+      "topic": "infectiology"
+    },
+    {
+      "id": "05af1273-c7fb-41a0-ab31-fe618b5fcda0",
+      "topic": "infectiology"
+    },
+    {
+      "id": "1012bf2c-c29e-47ef-87e6-f2b2c7a5219a",
+      "topic": "infectiology"
+    },
+    {
+      "id": "1049cb13-cdf8-4120-a9d0-10cae8b47f89",
+      "topic": "infectiology"
+    },
+    {
+      "id": "1356bc6e-e3ea-4fe3-b5c3-b144edaccedc",
+      "topic": "infectiology"
+    },
+    {
+      "id": "1a3836bb-93d0-4023-b5d9-ca1aa491ffaf",
+      "topic": "infectiology"
+    },
+    {
+      "id": "1d3d47e0-98fb-4d1e-a2c0-f25f56c29c1a",
+      "topic": "infectiology"
+    },
+    {
+      "id": "1ee2f92c-adae-4a44-bfbc-93f359a869fb",
+      "topic": "infectiology"
+    },
+    {
+      "id": "21c6187c-af52-4d34-bc65-1b9f285feaf1",
+      "topic": "infectiology"
+    },
+    {
+      "id": "25e8b8ad-c6a4-4299-ba54-b19feb70b735",
+      "topic": "infectiology"
+    },
+    {
+      "id": "34db03fc-360b-4be7-94f4-1bfcb267fec5",
+      "topic": "infectiology"
+    },
+    {
+      "id": "38c01419-eb56-435c-a3e5-74508a7a47ad",
+      "topic": "infectiology"
+    },
+    {
+      "id": "3d5b56cc-e760-4679-91c4-0a4bdc970b87",
+      "topic": "infectiology"
+    },
+    {
+      "id": "3fc73d3d-3676-4bb0-86ce-8edab0293c37",
+      "topic": "infectiology"
+    },
+    {
+      "id": "4e6fdc23-247f-4f05-8de9-5bd3ca12bc0b",
+      "topic": "infectiology"
+    },
+    {
+      "id": "56c29536-132b-4ea1-88e1-1e84d4d9666e",
+      "topic": "infectiology"
+    },
+    {
+      "id": "5edf7de0-e42f-45b2-8734-22f72aa26544",
+      "topic": "infectiology"
+    },
+    {
+      "id": "60c25f3a-9717-4e76-bbda-40fbfaa3256d",
+      "topic": "infectiology"
+    },
+    {
+      "id": "77350d57-f694-414c-b334-b714468fc385",
+      "topic": "infectiology"
+    },
+    {
+      "id": "7dce3e41-f4e6-473e-8c23-55c854354900",
+      "topic": "infectiology"
+    },
+    {
+      "id": "80987572-9cad-486c-97a4-93564bcd56fa",
+      "topic": "infectiology"
+    },
+    {
+      "id": "8725c04c-676a-4810-8a2a-88e652f1cec5",
+      "topic": "infectiology"
+    },
+    {
+      "id": "8b5b16ab-ac57-41bc-bf88-7fe6c39e0858",
+      "topic": "infectiology"
+    },
+    {
+      "id": "8cca0675-0eab-45c5-ad72-3129683bfc14",
+      "topic": "infectiology"
+    },
+    {
+      "id": "8eb2c246-e21c-4205-8ad2-d9558ef2b62a",
+      "topic": "infectiology"
+    },
+    {
+      "id": "901a7107-6b58-4f6e-b485-2a76a64d7c43",
+      "topic": "infectiology"
+    },
+    {
+      "id": "91e889ef-7dc2-4e03-9ca5-9dc7042d98aa",
+      "topic": "infectiology"
+    },
+    {
+      "id": "95ef433a-f597-43d0-a8ef-4fe60c8a6354",
+      "topic": "infectiology"
+    },
+    {
+      "id": "a114aa46-f51b-4cda-a84b-e9af786bfb4b",
+      "topic": "infectiology"
+    },
+    {
+      "id": "b3b2c53a-9d60-49e2-9056-a700392e78ea",
+      "topic": "infectiology"
+    },
+    {
+      "id": "c7b4ea74-54f6-4840-9f5c-1471f5359413",
+      "topic": "infectiology"
+    },
+    {
+      "id": "c7dc11b3-09fe-4e02-bb19-b7eac55195e7",
+      "topic": "infectiology"
+    },
+    {
+      "id": "cbe14ad8-f7f9-41b7-a439-08b0fd7eef24",
+      "topic": "infectiology"
+    },
+    {
+      "id": "e5d909e7-78b6-4ba3-a9d9-23f17f9653b0",
+      "topic": "infectiology"
+    },
+    {
+      "id": "eb2f4fdf-4ee4-4857-96cb-e9615ed85f78",
+      "topic": "infectiology"
+    },
+    {
+      "id": "fc877b4f-8d4e-4841-8a90-6d278c0605cc",
+      "topic": "infectiology"
+    },
+    {
+      "id": "fec4a742-5d52-45bd-8bed-c4e725742006",
+      "topic": "infectiology"
+    },
+    {
+      "id": "20034bb5-2d23-4f7d-8fba-7332681fe0b0",
+      "topic": "cardiology"
+    },
+    {
+      "id": "2697fa3e-5448-41b9-b89a-a6c347aea2fd",
+      "topic": "cardiology"
+    },
+    {
+      "id": "3a5691a1-3dbe-4289-8ee6-e4d9304e7919",
+      "topic": "cardiology"
+    },
+    {
+      "id": "3b05d4f3-84ee-4222-8ecd-b156036e00ce",
+      "topic": "cardiology"
+    },
+    {
+      "id": "3e55e9ef-7e05-43f7-beb4-ba58890e8595",
+      "topic": "cardiology"
+    },
+    {
+      "id": "46829516-ca25-40a8-922e-c836ad97f402",
+      "topic": "cardiology"
+    },
+    {
+      "id": "5710a0aa-8bf2-4c7c-b14a-0d58e44005f7",
+      "topic": "cardiology"
+    },
+    {
+      "id": "6280c957-1426-4b1d-a39d-3851ef6718b9",
+      "topic": "cardiology"
+    },
+    {
+      "id": "7071592d-7a60-4015-ae1b-8f7085cc70fe",
+      "topic": "cardiology"
+    },
+    {
+      "id": "74e81867-afa1-4974-8c3b-6a13e5a1f8c5",
+      "topic": "cardiology"
+    },
+    {
+      "id": "7b3b1513-05b1-4fb1-873c-16642a269d89",
+      "topic": "cardiology"
+    },
+    {
+      "id": "878f612f-abac-43e1-aa6f-418fb7dbf194",
+      "topic": "cardiology"
+    },
+    {
+      "id": "afc2e4c8-e9c0-4eec-a30a-abb040053c3e",
+      "topic": "cardiology"
+    },
+    {
+      "id": "b4e3c533-9db9-4120-9477-3bb8b6d5e9b7",
+      "topic": "cardiology"
+    },
+    {
+      "id": "d9da8554-f777-476a-9220-2e6833c80e71",
+      "topic": "cardiology"
+    },
+    {
+      "id": "e4e857d3-4bf4-4273-ae7b-8d3058cee013",
+      "topic": "cardiology"
+    },
+    {
+      "id": "e7dd51b3-ff39-4cf7-9b1f-c5fcfb2a3fa4",
+      "topic": "cardiology"
+    },
+    {
+      "id": "e80f96e4-d34e-4207-a777-20685250db68",
+      "topic": "cardiology"
+    },
+    {
+      "id": "711cc330-99f9-4772-9d37-1d5ab89f36bf",
+      "topic": "metabolic-diseases"
+    },
+    {
+      "id": "96844200-2008-4024-aa8e-edeb4e63f384",
+      "topic": "metabolic-diseases"
+    },
+    {
+      "id": "05b4d2bd-a286-4aa9-a7cc-dcac16d89888",
+      "topic": "nephrology"
+    },
+    {
+      "id": "06ecbba7-7b62-4527-b53f-07ab3fd58e38",
+      "topic": "nephrology"
+    },
+    {
+      "id": "18045e7f-ccd9-48c2-8966-a4c4eb474386",
+      "topic": "nephrology"
+    },
+    {
+      "id": "19fdfcda-0d4c-495b-a8ef-6fcda69f9e76",
+      "topic": "nephrology"
+    },
+    {
+      "id": "1f96ca54-c6ac-4678-8edb-3bfa1aaa1eb7",
+      "topic": "nephrology"
+    },
+    {
+      "id": "23f95fde-b39d-4d89-b964-4de970abf39c",
+      "topic": "nephrology"
+    },
+    {
+      "id": "287f0bf5-2e7b-4129-b7dc-18bb65a9daf8",
+      "topic": "nephrology"
+    },
+    {
+      "id": "3a660dd5-a386-4f1b-8644-7d154b0e69ef",
+      "topic": "nephrology"
+    },
+    {
+      "id": "3c2b66c7-2091-46a3-9620-d7d8b07b0cf6",
+      "topic": "nephrology"
+    },
+    {
+      "id": "40109cc8-7a99-4a05-b24c-ebb5c0f83cd7",
+      "topic": "nephrology"
+    },
+    {
+      "id": "41f6301d-0851-47dc-b8de-58bcd0b4a528",
+      "topic": "nephrology"
+    },
+    {
+      "id": "4ffbb699-df2d-4716-a3fb-92b9f3d5b685",
+      "topic": "nephrology"
+    },
+    {
+      "id": "5152743e-5f5d-4de7-9a9a-f4cb56be8306",
+      "topic": "nephrology"
+    },
+    {
+      "id": "554cb1d4-75d9-43fc-b0f6-0066a31b0619",
+      "topic": "nephrology"
+    },
+    {
+      "id": "5a1e6236-6087-4643-b169-588021863df9",
+      "topic": "nephrology"
+    },
+    {
+      "id": "6249b07d-f4ae-4edc-a827-e28a967fc409",
+      "topic": "nephrology"
+    },
+    {
+      "id": "78ba2fb7-4656-42e7-ac51-354b46bb27dc",
+      "topic": "nephrology"
+    },
+    {
+      "id": "89b8c7e4-cef5-438e-a13a-a5e2b69a618e",
+      "topic": "nephrology"
+    },
+    {
+      "id": "8acc5b33-1fdc-4911-8865-1293e7b984cb",
+      "topic": "nephrology"
+    },
+    {
+      "id": "8e31c336-75e2-4e9d-913d-fcd4ee8ca3eb",
+      "topic": "nephrology"
+    },
+    {
+      "id": "94a62fa5-6207-46b2-873b-963815580f4a",
+      "topic": "nephrology"
+    },
+    {
+      "id": "97d9e5e3-fe97-4278-9a4f-28e506bbea6c",
+      "topic": "nephrology"
+    },
+    {
+      "id": "99130c33-4d24-4421-bd72-36ce1b7be386",
+      "topic": "nephrology"
+    },
+    {
+      "id": "99951638-d5fd-499c-9db5-e6c4879d35af",
+      "topic": "nephrology"
+    },
+    {
+      "id": "9a370bb8-8c27-43b9-84aa-b743e741d12c",
+      "topic": "nephrology"
+    },
+    {
+      "id": "a1777af1-46ee-4032-bf25-10d88983d473",
+      "topic": "nephrology"
+    },
+    {
+      "id": "a3faf390-7d8b-4850-b939-16cdc99f0de1",
+      "topic": "nephrology"
+    },
+    {
+      "id": "b5575113-f998-4f29-af23-2a8077e50695",
+      "topic": "nephrology"
+    },
+    {
+      "id": "bbb7d054-dc6e-43de-902b-820187eeaf28",
+      "topic": "nephrology"
+    },
+    {
+      "id": "bd611b1d-bb9c-4a51-a771-acfaed1ca769",
+      "topic": "nephrology"
+    },
+    {
+      "id": "c8eca4d3-89e2-4a04-a675-5fb304eabdad",
+      "topic": "nephrology"
+    },
+    {
+      "id": "ca76ffaf-687a-4dd4-b3a0-8831c06a4259",
+      "topic": "nephrology"
+    },
+    {
+      "id": "cb50d1f7-e7d1-40f8-bd91-6613625e12e4",
+      "topic": "nephrology"
+    },
+    {
+      "id": "cfebf568-8089-4834-8387-892648d5ecb5",
+      "topic": "nephrology"
+    },
+    {
+      "id": "dccd5eb5-46e3-4416-9ce4-b84613c3c188",
+      "topic": "nephrology"
+    },
+    {
+      "id": "ecb8ab9a-2bca-4460-b146-9514a6be0c89",
+      "topic": "nephrology"
+    },
+    {
+      "id": "f0e9d27d-1c7c-4885-acd1-920b9e4abd09",
+      "topic": "nephrology"
+    },
+    {
+      "id": "00c94109-612f-426a-b313-ffe7a0dc1d4b",
+      "topic": "neurology"
+    },
+    {
+      "id": "01ce8ccd-1e8d-48ae-88d5-28ccd8ed3f82",
+      "topic": "neurology"
+    },
+    {
+      "id": "04ed3ea7-1a67-4bad-8eda-c45adb5a7eb4",
+      "topic": "neurology"
+    },
+    {
+      "id": "0d5636c9-941f-4b0f-b7b6-d0a49485e1d2",
+      "topic": "neurology"
+    },
+    {
+      "id": "0d93f0fd-237e-403f-894a-c357d54e749a",
+      "topic": "neurology"
+    },
+    {
+      "id": "190f6971-39eb-4bde-a2fc-9fbd5d2fe442",
+      "topic": "neurology"
+    },
+    {
+      "id": "19667ca5-88dd-4038-ad22-4e57e1c5faaa",
+      "topic": "neurology"
+    },
+    {
+      "id": "24521a0b-c2fa-411b-88b8-7545928b6a35",
+      "topic": "neurology"
+    },
+    {
+      "id": "278ed66a-e31e-4343-8186-fcb07df73945",
+      "topic": "neurology"
+    },
+    {
+      "id": "2c098070-6131-401e-b7e3-dc17eeda2b86",
+      "topic": "neurology"
+    },
+    {
+      "id": "2ee5c4d2-a38c-4b69-8712-a0ade7724849",
+      "topic": "neurology"
+    },
+    {
+      "id": "30f9550f-d3eb-4953-80b5-1a24ff37d00b",
+      "topic": "neurology"
+    },
+    {
+      "id": "3307c59e-f963-4ced-a7cc-3ae82d84de1d",
+      "topic": "neurology"
+    },
+    {
+      "id": "3597bca2-25d0-4910-a92b-8ccec5794975",
+      "topic": "neurology"
+    },
+    {
+      "id": "3add78f3-233a-49bb-91dc-e67408726639",
+      "topic": "neurology"
+    },
+    {
+      "id": "4076c243-0291-4e88-9e6c-ae2295443f8e",
+      "topic": "neurology"
+    },
+    {
+      "id": "4593d878-fe9b-41ff-bebd-25499c3175fd",
+      "topic": "neurology"
+    },
+    {
+      "id": "60d449ca-7fd6-4fa1-b333-34fada63169c",
+      "topic": "neurology"
+    },
+    {
+      "id": "64078087-d7b1-46a6-8e40-c3b28ae65357",
+      "topic": "neurology"
+    },
+    {
+      "id": "6b6ad520-b5e7-43bf-9605-2fe1bfea93dc",
+      "topic": "neurology"
+    },
+    {
+      "id": "722b59d5-2b74-42bb-b2a5-0e39dd1fb5dd",
+      "topic": "neurology"
+    },
+    {
+      "id": "7520ab3e-3f82-4109-818d-1a1d629a13e4",
+      "topic": "neurology"
+    },
+    {
+      "id": "7fbe6ae0-bbd0-421d-8430-5c5fee4697b7",
+      "topic": "neurology"
+    },
+    {
+      "id": "87828199-2209-4e54-b163-c3f241c62f42",
+      "topic": "neurology"
+    },
+    {
+      "id": "891e6bc1-758c-4ef5-a3db-340b862eede4",
+      "topic": "neurology"
+    },
+    {
+      "id": "8b5947f2-8669-41f4-b7c6-b401016457d8",
+      "topic": "neurology"
+    },
+    {
+      "id": "8e66eaf4-90b0-48fc-b684-4d0bbb883e92",
+      "topic": "neurology"
+    },
+    {
+      "id": "8f44a66d-066a-46c0-b079-c18ed17beef5",
+      "topic": "neurology"
+    },
+    {
+      "id": "911bd1f2-a7fa-473b-8af6-037c7389dfe0",
+      "topic": "neurology"
+    },
+    {
+      "id": "9214a883-4c6d-4f01-91a3-0e59080fd7fa",
+      "topic": "neurology"
+    },
+    {
+      "id": "96548986-cd9c-433f-bd4f-c36a8ba5e6a9",
+      "topic": "neurology"
+    },
+    {
+      "id": "97c78186-3cb6-4a3c-8f1f-108e6a7fca2e",
+      "topic": "neurology"
+    },
+    {
+      "id": "a086fadb-1885-4dde-a747-2469e658ef12",
+      "topic": "neurology"
+    },
+    {
+      "id": "ac909611-f62e-4385-ac04-22d8adfabd57",
+      "topic": "neurology"
+    },
+    {
+      "id": "bb11576a-e9e6-49b0-9cab-bcd55a3cbf7e",
+      "topic": "neurology"
+    },
+    {
+      "id": "c1d3ffb1-5145-4c11-9b55-44e04a82fd4b",
+      "topic": "neurology"
+    },
+    {
+      "id": "ca65f166-a2fb-4658-aa13-95faf040401c",
+      "topic": "neurology"
+    },
+    {
+      "id": "cbcad696-fff5-4429-abb0-6354fb0ebc63",
+      "topic": "neurology"
+    },
+    {
+      "id": "d4f2c54d-f6d3-4002-8b8b-186db6e40b0c",
+      "topic": "neurology"
+    },
+    {
+      "id": "d8266e3f-ee28-46ab-b58a-8dadfb0a0028",
+      "topic": "neurology"
+    },
+    {
+      "id": "df6ac4f3-d1db-4fc7-bc05-ec7070b857bc",
+      "topic": "neurology"
+    },
+    {
+      "id": "e07fd210-fc37-495d-8942-12bc90a13504",
+      "topic": "neurology"
+    },
+    {
+      "id": "e871bc71-87e1-4522-89a3-3f383ed0295d",
+      "topic": "neurology"
+    },
+    {
+      "id": "efb20dc2-5d9f-495d-87b9-7aaa33efe04e",
+      "topic": "neurology"
+    },
+    {
+      "id": "f3fa64c1-9c90-411d-9f86-83c353fa13db",
+      "topic": "neurology"
+    },
+    {
+      "id": "f7c10a06-3f11-4acd-889c-5b93c91c5701",
+      "topic": "neurology"
+    },
+    {
+      "id": "fa898418-0da5-4649-94a5-9160c18f9d89",
+      "topic": "neurology"
+    },
+    {
+      "id": "6b5d7d93-18cf-4918-98b9-df45c54f313e",
+      "topic": "oncology"
+    },
+    {
+      "id": "a1a72175-4ef7-45e9-8d1c-7d374d7f8e78",
+      "topic": "oncology"
+    },
+    {
+      "id": "af5a055a-00dd-4ca6-a63b-3f34027b4fcf",
+      "topic": "oncology"
+    },
+    {
+      "id": "c3ee9efa-24bf-424a-b14a-0dda04cebbf7",
+      "topic": "oncology"
+    },
+    {
+      "id": "0f2b720e-1fb8-49b8-be68-c39e8437a4ac",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "109b8923-e369-4fa0-8409-d81b3fe5fd6c",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "1321b5ce-c415-468c-93ae-13aa9eb6f849",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "143e2143-4ed0-43ff-b6c7-9f2d27c2ad65",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "15a1931c-02fc-40d8-8e1b-e1f937839f69",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "21760afe-7172-4960-9a09-1103275b1543",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "3bd2a465-2d97-4727-9d80-d92687b34297",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "4644a281-5d82-4a84-954b-509d90bf8cf6",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "4e959d86-10f1-4ab3-b7aa-ce7e2af10af5",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "587708f5-30fb-4404-9fa0-e5c925ebab4f",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "7343176b-2308-4aa2-b22c-ab76039c1ac9",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "7a3e5cca-3a6b-44cd-9d78-7f1cf85414d1",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "89025c43-dd18-448b-bdf2-2b2da2e9167e",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "91f69bbc-08a1-4eea-8d20-42ee397e9c40",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "95451b68-7a5a-4787-95e9-c433107cd434",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "98832347-ea45-46aa-b0d5-7bcd7e1641d9",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "98c3eee3-49eb-467a-a8c4-67adc9fb3167",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "a9c54d43-8131-4d52-9e62-69260c1c4258",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "adbcaaa8-707a-43b8-99e3-ae62a73b3f27",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "b3e16b24-1747-46a1-8d59-acacbb3481bb",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "b726336b-a12f-40e2-9375-c5c72b42a96f",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "c640ffd8-35e5-454c-924a-25db39713392",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "eaf69858-d167-4e76-bd18-12a858f0f419",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "ec3ca82d-f714-405b-9e95-4cb5ed19c592",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "f09cfbc1-5172-4b32-af11-2518738af3ab",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "f8f4fcbb-f71c-469d-bcd7-22633247ba72",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "ff94d8e8-dfde-451d-8422-6ccac4676ded",
+      "topic": "ophthalmology"
+    },
+    {
+      "id": "cc3be189-7c25-4ba9-8c9e-ea7ff8e71695",
+      "topic": "pediatrics"
+    },
+    {
+      "id": "03925942-4fd9-4ed0-824b-26815d858fb3",
+      "topic": "pneumology"
+    },
+    {
+      "id": "1a41f4f5-6130-40af-9f9d-c41df52a0b6c",
+      "topic": "pneumology"
+    },
+    {
+      "id": "3086c7c8-c472-4567-8f14-04f00ef7e937",
+      "topic": "pneumology"
+    },
+    {
+      "id": "3d35aa41-1ce7-4918-94fc-9b02fafde8b0",
+      "topic": "pneumology"
+    },
+    {
+      "id": "3e78f15e-6bb3-4238-bae0-b9d52646a85d",
+      "topic": "pneumology"
+    },
+    {
+      "id": "4c7c2902-e7a9-4eb8-bcf9-55f6de7206e0",
+      "topic": "pneumology"
+    },
+    {
+      "id": "5530d73f-8827-45ff-994d-7c4cd27e69ed",
+      "topic": "pneumology"
+    },
+    {
+      "id": "7d332be3-132d-49e1-acc3-0d444dc7fc28",
+      "topic": "pneumology"
+    },
+    {
+      "id": "7dbb7ac2-5708-4012-af11-1dc0075b2dce",
+      "topic": "pneumology"
+    },
+    {
+      "id": "83d9c1d1-00eb-4470-bb69-8efe703f62e9",
+      "topic": "pneumology"
+    },
+    {
+      "id": "85455d92-6a1d-42e9-b24f-e71a40a21c16",
+      "topic": "pneumology"
+    },
+    {
+      "id": "867cd557-91e1-42bd-8930-3e554f20890d",
+      "topic": "pneumology"
+    },
+    {
+      "id": "8b2d5c6c-0bbe-4bfb-8157-fe0847f1dcce",
+      "topic": "pneumology"
+    },
+    {
+      "id": "8fdb8e84-1ff7-49cf-b521-058ed58d38a2",
+      "topic": "pneumology"
+    },
+    {
+      "id": "958b28d0-3ace-49a9-96d2-60e9320397c3",
+      "topic": "pneumology"
+    },
+    {
+      "id": "989e86f5-6222-4b91-8ba7-388cd3956e40",
+      "topic": "pneumology"
+    },
+    {
+      "id": "9abf7e39-fa57-4da7-853e-69d9b9040c0a",
+      "topic": "pneumology"
+    },
+    {
+      "id": "b744ad0c-2281-4ffb-af35-ba4c88228ff0",
+      "topic": "pneumology"
+    },
+    {
+      "id": "b85a7220-a31c-400e-b364-73efc5e6b9c6",
+      "topic": "pneumology"
+    },
+    {
+      "id": "c421a601-ad41-4b96-8a17-771b51fc367c",
+      "topic": "pneumology"
+    },
+    {
+      "id": "ceb6d667-f4d6-41a7-af0a-8a97675a2bd3",
+      "topic": "pneumology"
+    },
+    {
+      "id": "d4d5df41-3263-497c-8a9f-36d5e810ba66",
+      "topic": "pneumology"
+    },
+    {
+      "id": "d855a7f9-16d2-42ff-998d-74edabefd9d5",
+      "topic": "pneumology"
+    },
+    {
+      "id": "f229185b-ac8a-41f8-ba8a-b8edeb6fadce",
+      "topic": "pneumology"
+    },
+    {
+      "id": "f5695aca-e2e1-42de-96c8-54b5c1057bbf",
+      "topic": "pneumology"
+    },
+    {
+      "id": "1117f5a9-c788-48e6-8a7a-8277acbcc18d",
+      "topic": "psychiatry"
+    },
+    {
+      "id": "1502a97b-9c5e-44fc-8605-8af0436dfd3b",
+      "topic": "psychiatry"
+    },
+    {
+      "id": "2781128b-5ee4-4770-b0ae-6c9d9dc8e7e4",
+      "topic": "psychiatry"
+    },
+    {
+      "id": "8cbeb4d7-b738-4c04-80ab-34c8e1abd2ba",
+      "topic": "psychiatry"
+    },
+    {
+      "id": "9e686000-1420-4ab6-8463-08ecc9c5cbb5",
+      "topic": "psychiatry"
+    },
+    {
+      "id": "9fe93b8a-c199-486f-8aab-264f7264df6a",
+      "topic": "psychiatry"
+    },
+    {
+      "id": "ca51d1c4-ef12-4b7b-9b0d-4e2d346ff34d",
+      "topic": "psychiatry"
+    },
+    {
+      "id": "019ca8d8-910f-4e58-8ac8-c3e73d0dbd93",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "05a625ac-b578-4501-bf08-d8ab085ecbe2",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "0d3931e5-9efc-4d23-ae86-16464a4a272a",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "18f8e21b-fc32-43f0-996f-26d09f7ffaea",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "1d26511f-96ee-4ea2-8795-9b0695b87afc",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "1f7a0141-98f1-4055-83d0-728ef276ac7b",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "234bba9b-e3fa-472a-88b4-6f3ba07540cc",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "253b2f35-b19a-469a-9d5b-663964e91221",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "270e01ad-cd4c-4442-b181-9afdc9994cde",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "323605e0-24f5-4566-a44b-a1d0295d0ec2",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "39e9d1e7-740b-469f-9014-20470bfc59a4",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "416987d8-0db8-4a05-a474-90f22a3fee73",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "48cdab7e-d4fd-4183-b0ce-7ebba722171d",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "496d6be9-db69-4a50-9031-c0741604112a",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "4c6f110d-97bd-461f-8fb7-f68848a83e23",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "5c7d995b-a1ca-4b4d-a0d5-62cc88c27701",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "612a9063-9c41-4f06-8d5c-b81fc245944b",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "630e90ec-db74-4167-87c7-8039f0f9972a",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "68d2e17c-35a0-4bd4-a582-a0d209cd8894",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "6b0f011f-29ff-47d2-bdea-cb3d80bc8c6b",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "8177f882-a06c-450b-a8b7-f696409d4afe",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "86615832-8a71-4ba7-842d-d7c080e73e41",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "86633d9a-57c7-4a0d-a7f5-acda2386b347",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "9312e0bb-2154-4841-ae91-6675eb5d4683",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "9fe82bc5-f333-46f1-95ca-3c7891d3c7c2",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "b1ec44a7-538e-4ec5-8640-f8142c326c93",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "c3b61d25-3760-4847-a917-0b5cb1f8578f",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "cf22c723-9fb1-4a8b-bb8d-65f6a47d43c8",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "d1b60e6b-8278-4055-8478-5fd3853fbc62",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "d1c59463-90f4-4418-a806-323eed9b6aee",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "d3d56939-7de6-4011-8908-339d9042bf97",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "df92a469-644e-421c-ab07-5fe328e37430",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "e14d097f-ca8c-416a-b06a-bafc12b3a259",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "e23e9217-a365-4cd2-b8d1-19282218c3b3",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "e573c74e-769c-43d7-a9c8-a55bf52dfe5b",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "ea72b550-6644-4197-946a-c735fed2f4a5",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "eb1efaeb-d705-4e01-9cee-1ca576a964f6",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "f97f75d2-a1cc-419c-ae0d-40665eee930b",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "05580b68-edfd-46ca-8cc4-8bda8d6bc762",
+      "topic": "toxicology"
+    },
+    {
+      "id": "05a2650c-e9ab-4ce6-9eb7-1bce8aaf097e",
+      "topic": "toxicology"
+    },
+    {
+      "id": "09b70a0c-eaf8-439a-9d9e-2f2b8873e39f",
+      "topic": "toxicology"
+    },
+    {
+      "id": "60fe4f71-7544-401f-aeb2-9ac415661ba3",
+      "topic": "toxicology"
+    },
+    {
+      "id": "862b5b26-84fb-4e25-b423-1c7bafe495e9",
+      "topic": "toxicology"
+    },
+    {
+      "id": "bd34759b-43fe-420e-9bf3-d2e68fe1fd33",
+      "topic": "toxicology"
+    },
+    {
+      "id": "eb27016b-5094-4460-bcd3-15055aebc58a",
+      "topic": "toxicology"
+    }
+  ],
+  "topics": {
+    "angiology": {
+      "i18n": {
+        "de": "angiologie"
+      }
+    },
+    "cardiology": {
+      "i18n": {
+        "de": "kardiologie"
+      }
+    },
+    "dermatology": {
+      "i18n": {
+        "de": "dermatologie"
+      }
+    },
+    "ear-nose-and-throat": {
+      "i18n": {
+        "de": "hals-nasen-ohren"
+      }
+    },
+    "endocrinology": {
+      "i18n": {
+        "de": "endokrinologie"
+      }
+    },
+    "gastroenterology": {
+      "i18n": {
+        "de": "gastroenterologie-viszeralchirurgie"
+      }
+    },
+    "general-internal-medicine": {
+      "i18n": {
+        "de": "allgemeine-innere-medizin"
+      }
+    },
+    "genetic-disorders": {
+      "i18n": {
+        "de": "genetik"
+      }
+    },
+    "gynecology": {
+      "i18n": {
+        "de": "gynaekologie"
+      }
+    },
+    "hematology": {
+      "i18n": {
+        "de": "haematologie"
+      }
+    },
+    "immunology": {
+      "i18n": {
+        "de": "immunologie"
+      }
+    },
+    "infectiology": {
+      "i18n": {
+        "de": "infektiologie"
+      }
+    },
+    "metabolic-diseases": {
+      "i18n": {
+        "de": "metabolische-krankheiten"
+      }
+    },
+    "nephrology": {
+      "i18n": {
+        "de": "nephrologie-urologie"
+      }
+    },
+    "neurology": {
+      "i18n": {
+        "de": "neurologie"
+      }
+    },
+    "obstetrics": {
+      "i18n": {
+        "de": "geburtshilfe"
+      }
+    },
+    "oncology": {
+      "i18n": {
+        "de": "onkologie"
+      }
+    },
+    "ophthalmology": {
+      "i18n": {
+        "de": "ophthalmologie"
+      }
+    },
+    "other": {
+      "i18n": {
+        "de": "andere"
+      }
+    },
+    "pediatrics": {
+      "i18n": {
+        "de": "paediatrie"
+      }
+    },
+    "pneumology": {
+      "i18n": {
+        "de": "pneumologie"
+      }
+    },
+    "psychiatry": {
+      "i18n": {
+        "de": "psychiatrie"
+      }
+    },
+    "rheumatology": {
+      "i18n": {
+        "de": "rheumatologie"
+      }
+    },
+    "surgery": {
+      "i18n": {
+        "de": "chirurgie"
+      }
+    },
+    "toxicology": {
+      "i18n": {
+        "de": "toxikologie"
+      }
+    },
+    "traumatology": {
+      "i18n": {
+        "de": "traumatologie"
+      }
+    }
+  }
+}

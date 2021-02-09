@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> erhöhen würden: Schnarchen, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Obstruktives Schlafapnoesyndrom (OSAS)"
+    },
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhter Blutdruck, Menstruationsbeschwerden, Ausbleiben der Periode, Schwellung der Beine, Hautschwellung, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Cushing Syndrom"
+    },
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Verwirrtheit, Krampfanfall, Angstzustände, Mundgeruch</li></ul>",
+      "isCorrect": false,
+      "label": "Hepatische Enzephalopathie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ausgeprägte depressive Episode"
+    },
+    {
+      "explanation": "<ul><li><i>Ausgeprägte depressive Episode</i> ist häufiger</li><li>Symptome, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Augenschmerzen, Augenschwellung, Sehstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Morbus Basedow"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (74) bei einer depressiven Episode seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über einen Gewichtsverlust, Schlafstörungen und eine vermehrte Müdigkeit.<br /><br />Kopfschmerzen, Angstzustände, erhöhte Blutdruckwerte und eine Hautschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "1117f5a9-c788-48e6-8a7a-8277acbcc18d",
+  "topic": "psychiatry"
+}

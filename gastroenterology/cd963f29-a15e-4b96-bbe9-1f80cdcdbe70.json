@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Morbus Basedow"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myokardinfarkt"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperthyreose bei Schilddrüsenautonomie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Diffuser Oesophagusspasmus"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Oesophagusstrikturen"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (18) bei anfallsartigen Thoraxschmerzen im Bereich des Sternums seit fünf Wochen.<br /><br />Zusätzlich berichtet die Patientin über saures Aufstossen, Dysphagie, einen Gewichtsverlust und Erbrechen.<br /><br />Ein allgemeines Schwächegefühl, Husten, retrosternales Brennen, Dyspnoe, eine Hyperhidrose, eine Wärmeintoleranz und Palpitationen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 5py (30 Zigaretten täglich während 3 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "cd963f29-a15e-4b96-bbe9-1f80cdcdbe70",
+  "topic": "gastroenterology"
+}

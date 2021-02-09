@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Dengue Fieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Denguefieber"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Dengue Fieber</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Husten, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Dengue Fieber</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Rocky-Mountains-Fleckfieber</i> erhöhen würden: Reisen nach Nordamerika in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Rocky-Mountains-Fleckfieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rocky-Mountain-Fleckfieber"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Dengue Fieber</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Dengue Fieber</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schistosomiasis</i> erhöhen würden: Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Schistosomiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schistosomiasis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Dengue Fieber</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leptospirose Stadium I</i> erhöhen würden: Augenrötung, Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Leptospirose Stadium I",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (47) bei Fieber seit vier Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine generalisierte erythematöse Hautveränderung, Gliederschmerzen und Nausea.<br /><br />Eine Exposition gegenüber Stechmücken in einem tropischen Gebiet in den letzten sechs Monaten wird bejaht.<br /><br /> Reisen nach Nordamerika in den letzten sechs Monaten werden verneint. <br /><br />Bauchschmerzen, Diarrhoe, Halsschmerzen, Odynophagie, Husten, Dyspnoe, Kopfschmerzen, Flankenschmerzen, Dysurie, Schüttelfrost und Pruritus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "8b5b16ab-ac57-41bc-bf88-7fe6c39e0858",
+  "topic": "infectiology"
+}

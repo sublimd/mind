@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tibiafraktur"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Thrombophlebitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kompartmentsyndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Tiefe Venenthrombose"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (51) bei einer rechtsseitigen Unterschenkelschwellung seit fünf Tagen.<br /><br />Zusätzlich berichtet der Patient über Schmerzen und eine Hautüberwärmung.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Varizen, Fussschmerzen, Hautveränderungen, Dyspnoe und Sensibilitätsstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "bede7760-0176-40b7-8e1b-164c50b75595",
+  "topic": "angiology"
+}

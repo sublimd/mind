@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Vitamin D-Intoxikation</i> besser erklärt sind: Polyurie</li></ul>",
+      "isCorrect": false,
+      "label": "Hyponatriämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyponatri%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Vitamin D-Intoxikation</i> besser erklärt sind: allgemeines Schwächegefühl</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie, Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypertensiver_Notfall"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Vitamin D-Intoxikation</i> besser erklärt sind: Polyurie, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dehydratation</i> erhöhen würden: Mundtrockenheit, Schwindel, Krampfanfall</li></ul>",
+      "isCorrect": false,
+      "label": "Dehydratation",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Dehydratation_(Medizin)"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Vitamin D-Intoxikation</i> besser erklärt sind: Polyurie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Bauchschmerzen, Ikterus, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Alkoholische Steatohepatitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Alkoholische_Steatohepatitis"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Vitamin D-Intoxikation",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (55) bei einer Verwirrtheit seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Polyurie, Nausea und ein allgemeines Schwächegefühl.<br /><br />Kopfschmerzen, Schwindel, Fieber, Bauchschmerzen, erhöhte Blutdruckwerte, Muskelkrämpfe, ein Harnverhalt, Dysurie und Handschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "862b5b26-84fb-4e25-b423-1c7bafe495e9",
+  "topic": "toxicology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperthyreose bei Schilddrüsenautonomie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperosmolare hyperglykämische Entgleisung"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Morbus Basedow"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Wernicke-Enzephalopathie"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (59) bei einer Verwirrtheit seit neun Tagen.<br /><br />Zusätzlich wird über ein neu aufgetretens Schielen und Hyperhidrose berichtet.<br /><br />Erbrechen, Kopfschmerzen, erhöhte Blutdruckwerte, Fieber, Dyspnoe, Bauchschmerzen, Dysphagie, ein Gewichtsverlust, ein Harnverhalt, Dysurie, eine Hörminderung und eine Wärmeintoleranz werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 31py (20 Zigaretten täglich während 31 Jahren). Alkoholkonsum täglich, jeweils 7 - 8 Standardgetränke / Tag (Sekt).",
+  "id": "190f6971-39eb-4bde-a2fc-9fbd5d2fe442",
+  "topic": "neurology"
+}

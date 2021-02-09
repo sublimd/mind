@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tuboovarialabszess"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Zervixkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Uterusmyom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Endometriumkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bakterielle Vaginose"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (65) bei unerwarteten vaginalen Blutungen seit fünf Monaten.<br /><br />Zusätzlich berichtet die Patientin über Probleme beim Geschlechtsverkehr und vaginalen Ausfluss.<br /><br />Die Patientin gibt an unter Schmierblutungen während dem Geschlechtsverkehr zu leiden.<br /><br />Einen frühen Beginn der sexuellen Aktivität (< 16 Jahre) wird bejaht.<br /><br />Bauchschmerzen, Dysurie, vaginaler Juckreiz, Fieber, Schüttelfrost, Rückenschmerzen, ein Gewichtsverlust und eine allgemeine Müdigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "bf46658d-4385-4287-bb26-8bddf2883a3a",
+  "topic": "gynecology"
+}

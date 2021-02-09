@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenembolie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Costochondritis (Tietze-Syndrom)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Metabolische Alkalose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sinustachykardie"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (41) bei Thoraxschmerzen im linken anterioren Hemithorax seit vier Tagen.<br /><br />Verstärkung der Thoraxschmerzen durch Palpation der schmerzhaften Stelle.<br /><br />Dyspnoe, Husten, erhöhte Blutdruckwerte, Schwindel, Fieber, Synkopen, Tachykardien und Palpitationen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "94203020-4bee-4483-a66d-562bd6e3199a",
+  "topic": "general-internal-medicine"
+}

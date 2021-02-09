@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Streptokokkentonsillitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ringelröteln (Erythema infectiosum)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Influenza"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myokarditis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (40) bei Halsschmerzen seit vier Tagen.<br /><br />Zusätzlich berichtet der Patient über Fieber und Kopfschmerzen.<br /><br />Vergrösserte Lymphknoten, eine allgemeine Müdigkeit, Gliederschmerzen, Rhinorrhoe, Nausea, Husten, Dysphonie, Pruritus, Husten, Gelenkschmerzen und Orthopnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "0d9350ff-1935-44c5-9a33-2c79c3e33da5",
+  "topic": "general-internal-medicine"
+}

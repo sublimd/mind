@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Interstitielle Lungenerkrankung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Interstitielle_Lungenerkrankung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie, Halsschmerzen, Odynophagie, Dysphagie, Fieber, Schüttelfrost, Rhinorrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Laryngitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ambulant_erworbene_Pneumonie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aortenklappen-Insuffizienz</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Synkope, Bewusstseinsverlust, Orthopnoe, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Aortenklappen-Insuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Aortenklappeninsuffizienz"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Interstitielle Lungenerkrankung</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenemphysem",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenemphysem"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (61) bei Dyspnoe seit vier Monaten.<br /><br />Zusätzlich berichtet der Patient über trockenen Husten.<br /><br />Thoraxschmerzen, eine allgemeine Müdigkeit, Palpitationen, Fieber, Halsschmerzen und Dysphonie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "03925942-4fd9-4ed0-824b-26815d858fb3",
+  "topic": "pneumology"
+}

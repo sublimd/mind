@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Augenrötung, Diarrhoe</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Dengue Fieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Denguefieber"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Leptospirose Stadium I",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Perikarditis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Augenrötung</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Frühsommer-Meningoencephalitis (FSME)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fr%C3%BChsommer-Meningoenzephalitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Augenrötung</li></ul>",
+      "isCorrect": false,
+      "label": "Malaria",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (77) bei Fieber seit vier Tagen.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen, Gliederschmerzen, eine Augenrötung und Diarrhoe.<br /><br />Ungewöhnlicher Kontakt zu Tieren und Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br />Bauchschmerzen, Odynophagie, Husten, Dyspnoe, Flankenschmerzen, Dysurie, Gelenkschmerzen, Schüttelfrost, Handschmerzen, Fussschmerzen und Amnesie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "1a3836bb-93d0-4023-b5d9-ca1aa491ffaf",
+  "topic": "infectiology"
+}

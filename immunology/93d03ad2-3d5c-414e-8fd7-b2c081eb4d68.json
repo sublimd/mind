@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rheumatisches Fieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rheumatisches_Fieber"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gliederschmerzen, vergrösserte Lymphknoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Q Fieber</i> erhöhen würden: Rhinorrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Q Fieber</i> erhöhen würden: Ungewöhnlicher Kontakt zu Tieren</li></ul>",
+      "isCorrect": false,
+      "label": "Q Fieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Q-Fieber"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Husten, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rheumatisches Fieber</i> besser erklärt sind: Halsschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Septische Arthritis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Septische_Arthritis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (25) bei Gelenkschmerzen an den Knien, sowie am Sprung- und Handgelenk.<br /><br />Zusätzlich berichtet die Patientin über Fieber seit zwei Wochen, leichter Schwindel sowie Halsschmerzen.<br /><br />Ungeschützter Geschlechtsverkehr, ungewöhnlicher Kontakt zu Tieren und der Erhalt von Bluttransfusionen wird verneint. <br /><br />Schüttelfrost, Hautveränderungen, Kopfschmerzen, Nausea, Gliederschmerzen, Dyspnoe, Bauchschmerzen, Husten, Diarrhoe, Rhinorrhoe, Dysphagie, Odynophagie und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 3py (20 Zigaretten täglich während 3 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "93d03ad2-3d5c-414e-8fd7-b2c081eb4d68",
+  "topic": "immunology"
+}

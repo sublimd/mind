@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Entropium"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Herpes-simplex Keratitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute bakterielle Keratitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ektropium"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Offenwinkelglaukom (Glaucoma chronicum simplex)"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei einem Fremdkörpergefühl im Auge seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Augenrötung, übermässigen Tränenfluss, Augentrockenheit, Sehstörungen und Augenschmerzen.<br /><br />Eine Augenschwellung, Juckreiz in den Augen und Rhinorrhoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 3 x / Woche, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "2bade398-518e-4b65-a0cd-41780d21d77e",
+  "topic": "general-internal-medicine"
+}

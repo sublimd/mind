@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: Bewusstseinsverlust, erhöhter Blutdruck, Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck, Dysarthrie, Dysphagie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subduralhämatom</i> erhöhen würden: Unfall, Kürzliches Schädeltrauma</li></ul>",
+      "isCorrect": false,
+      "label": "Subduralhämatom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Subduralh%C3%A4matom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Intrazerebrale Blutung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Intrazerebrale_Blutung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Transitorische ischämische Attacke (TIA)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Transitorische_isch%C3%A4mische_Attacke"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Ischämischer Schlaganfall",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Isch%C3%A4mischer_Schlaganfall"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (58) bei einem Bewusstseinsverlust seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen, erhöhte Blutdruckwerte, Dysarthrie, eine Muskelschwäche, Sensibilitätsstörungen, Nausea, Schwindel, Dysphagie und Sehstörungen.<br /><br />Ein kürzliches Trauma wird bejaht.<br /><br />Eine Verwirrtheit, Synkopen, eine Somnolenz, Nackensteifigkeit, eine Photophobie und eine Phonophobie werden verneint. <h2>Diagnoseliste</h2>- Essentielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 29py (20 Zigaretten täglich während 29 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "24521a0b-c2fa-411b-88b8-7545928b6a35",
+  "topic": "neurology"
+}

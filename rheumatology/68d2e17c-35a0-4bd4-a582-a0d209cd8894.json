@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Thoraxschmerzen, Bauchschmerzen, Dyspnoe, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Nikotinabusus, Arterielle Hypertonie, Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Myokardinfarkt",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akutes_Koronarsyndrom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Muskelzerrung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Muskelzerrung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Muskelzerrung</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polymyalgia rheumatica</i> erhöhen würden: Appetitverlust, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Polymyalgia rheumatica",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polymyalgia_rheumatica"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Distale Bizepssehnenruptur</i> erhöhen würden: Schulterschwellung, Hautschwellung, Unfall, Muskelschwäche</li></ul>",
+      "isCorrect": false,
+      "label": "Distale Bizepssehnenruptur",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Muskelzerrung</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thoracic Outlet Syndrome (TOS)</i> erhöhen würden: Muskelschwäche, Schwellung der Arme</li></ul>",
+      "isCorrect": false,
+      "label": "Thoracic Outlet Syndrome (TOS)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Thoracic-outlet-Syndrom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (78) bei traumatischen Armschmerzen seit drei Tagen.<br /><br />Eine starke körperliche Aktivität wird bejaht.<br /><br />Eine Schwellung der Arme, Hautveränderungen, Lähmungserscheinungen, Thoraxschmerzen, Nackenschmerzen und Schulterschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "68d2e17c-35a0-4bd4-a582-a0d209cd8894",
+  "topic": "rheumatology"
+}

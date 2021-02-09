@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Bronchitis</i> besser erklärt sind: Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenembolie</i> erhöhen würden: Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenembolie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenembolie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Bronchitis</i> besser erklärt sind: Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenkarzinom</i> erhöhen würden: allgemeine Müdigkeit, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Bronchialkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Bronchitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Bronchitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Akute Bronchitis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Granulomatose mit Polyangiitis</i> erhöhen würden: Rhinorrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Granulomatose mit Polyangiitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Granulomatose_mit_Polyangiitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Bronchitis</i> besser erklärt sind: Hämoptoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie</li></ul>",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (39) bei Husten mit Auswurf seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe, Gliederschmerzen und Hämoptoe.<br /><br />Es komme jeweils zu einem Pfeifen beim Ausatmen.<br /><br />Fieber, eine allgemeine Müdigkeit, Rhinorrhoe, eine nasale Obstruktion, Halsschmerzen, Odynophagie, Thoraxschmerzen, Orthopnoe und saures Aufstossen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 11py (10 Zigaretten täglich während 21 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "867cd557-91e1-42bd-8930-3e554f20890d",
+  "topic": "pneumology"
+}

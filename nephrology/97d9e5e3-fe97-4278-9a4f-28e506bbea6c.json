@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Epididymitis</i> besser erklärt sind: Hodenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Nierenkarzinom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Epididymitis</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Hodenkarzinom (Non-Seminom)",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Epididymitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Epididymitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul></ul>",
+      "isCorrect": false,
+      "label": "Inguinalhernie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Inguinalhernie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Epididymitis</i> besser erklärt sind: Schwellung des Hodens</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Urolithiasis</i> erhöhen würden: Nausea, Erbrechen, Bauchschmerzen, Flankenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Urolithiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Urolithiasis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (32) bei Hodenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über eine Hodenschwellung.<br /><br />Bauchschmerzen, Nausea, Fieber, Flankenschmerzen, Dysurie, Hämaturie, Rückenschmerzen, Nykturie und ein Gewichtsverlust werden verneint. <h2>Diagnoseliste</h2>- Status nach Chlamydien Urethritis<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "97d9e5e3-fe97-4278-9a4f-28e506bbea6c",
+  "topic": "nephrology"
+}

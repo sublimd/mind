@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Trikuspidalklappen-Insuffizienz"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Perikardtamponade"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "AV-Knoten-Reentry-Tachykardie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Nierenschädigung"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (70) bei einer vermehrten Müdigkeit seit drei Monaten.<br /><br />Zusätzlich berichtet der Patient über Palpitationen, eine beidseitige Unterschenkelschwellung, Dyspnoe, Schwindel und eine Synkope.<br /><br />Fieber, Schlafstörungen, Husten, Nausea, ein Gewichtsverlust, Bauchschmerzen, Thoraxschmerzen, Nykturie, Nachtschweiss, Oligurie und eine Gewichtszunahme werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "e4e857d3-4bf4-4273-ae7b-8d3058cee013",
+  "topic": "cardiology"
+}

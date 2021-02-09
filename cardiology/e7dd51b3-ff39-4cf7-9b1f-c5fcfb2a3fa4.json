@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pulmonale Hypertonie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Trikuspidalklappen-Insuffizienz"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Cor pulmonale"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "AV-Block II°, Mobitz II"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Aortenklappen-Insuffizienz"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (72) bei Dyspnoe seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Schwindel, Thoraxschmerzen, eine beidseitige Unterschenkelschwellung, eine Gewichtszunahme und eine Synkope.<br /><br />Husten, Palpitationen, Fieber, Bauchschmerzen, Nykturie, Orthopnoe, Appetitverlust und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Diagnoseliste</h2>- Lungenfibrose<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "e7dd51b3-ff39-4cf7-9b1f-c5fcfb2a3fa4",
+  "topic": "cardiology"
+}

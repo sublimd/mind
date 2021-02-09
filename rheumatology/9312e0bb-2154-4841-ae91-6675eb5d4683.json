@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Meniskusläsion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ilio-tibiales Bandsyndrom (Läuferknie)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Psoriasis-Arthritis (PsA)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Gonarthrose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Adipositas"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (62) bei linksseitigen Knieschmerzen seit zwei Monaten.<br /><br />Verstärkung bzw. Auslösung der Knieschmerzen bei Bewegung.<br /><br />Zusätzlich berichtet die Patientin über eine Kniesteifigkeit.<br /><br />Ein Trauma und regelmässige sportliche Aktivität werden verneint. <br /><br />Eine Knieschwellung, eine Knierötung, Handschmerzen, Fieber und Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "9312e0bb-2154-4841-ae91-6675eb5d4683",
+  "topic": "rheumatology"
+}

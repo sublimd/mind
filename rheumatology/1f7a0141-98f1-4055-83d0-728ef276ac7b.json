@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Costochondritis (Tietze-Syndrom)</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Sternoklavikuläre Luxation</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Thoraxtrauma</li></ul>",
+      "isCorrect": false,
+      "label": "Sternoklavikuläre Luxation",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall, Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mikrozyt%C3%A4re_An%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sinustachykardie</i> erhöhen würden: Palpitationen, Tachykardien, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Sinustachykardie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sinustachykardie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Palpitationen, Tachykardien</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Vorhofflimmern",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vorhofflimmern"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Costochondritis (Tietze-Syndrom)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Costochondritis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (76) bei Thoraxschmerzen im linken anterioren Hemithorax seit sechs Tagen.<br /><br />Verstärkung der Thoraxschmerzen durch Palpation der schmerzhaften Stelle.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Dyspnoe, Husten, Schwindel, Tachykardien, Palpitationen, Nausea, Fieber, erhöhte Blutdruckwerte und Synkopen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "1f7a0141-98f1-4055-83d0-728ef276ac7b",
+  "topic": "rheumatology"
+}

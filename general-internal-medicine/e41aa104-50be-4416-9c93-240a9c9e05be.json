@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tularämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pediculosis capitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelvergiftung"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Roseola infantum (Exanthema subitum)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Kikuchi-Fujimoto-Syndrom"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (33) bei einem vergrösserten Lymphknoten nuchal seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Fieber, Gelenkschmerzen, Nausea und Diarrhoe.<br /><br />Eine allgemeine Müdigkeit, ein Gewichtsverlust, Nachtschweiss, Pruritus, Gliederschmerzen, eine Augenrötung, Husten, Rhinorrhoe, Bauchschmerzen und Thoraxschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt und Spirituosen).",
+  "id": "e41aa104-50be-4416-9c93-240a9c9e05be",
+  "topic": "general-internal-medicine"
+}

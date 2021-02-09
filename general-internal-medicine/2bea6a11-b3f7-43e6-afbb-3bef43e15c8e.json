@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myokarditis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Peritonsillarabszess"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pharynxkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Laryngitis subglottica (Pseudokrupp)"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (69) bei Halsschmerzen seit drei Tagen.<br /><br />Eine Kieferklemme wird angegeben.<br /><br />Zusätzlich berichtet die Patientin über Fieber, Ohrenschmerzen und Dysphonie.<br /><br />Gliederschmerzen, vergrösserte Lymphknoten, Rhinorrhoe, Husten, Kopfschmerzen, eine nasale Obstruktion, Dyspnoe und ein Gewichtsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 54py (30 Zigaretten täglich während 36 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "2bea6a11-b3f7-43e6-afbb-3bef43e15c8e",
+  "topic": "general-internal-medicine"
+}

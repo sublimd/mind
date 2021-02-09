@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Medikamenteninduzierte Hyperkalzämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Metabolische Azidose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zystadenom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute generalisierte Angststörung"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (48) bei Nausea seit einer Woche.<br /><br />Zusätzlich berichtet die Patientin über Obstipation und Palpitationen.<br /><br />Bauchschmerzen, Diarrhoe, Fieber, Schwindel, eine kürzlicher Bewusstseinsverlust, Kopfschmerzen, eine allgemeine Müdigkeit, Lähmungserscheinungen, Blähungen und Pollakisurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier).",
+  "id": "e5e6543b-72be-4b9c-9789-98b5bb4ca11a",
+  "topic": "endocrinology"
+}

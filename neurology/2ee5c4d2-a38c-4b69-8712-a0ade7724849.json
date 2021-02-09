@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Bewusstseinsverlust, erhöhter Blutdruck, Muskelschwäche, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Kürzliches Schädeltrauma, bekannte arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Intrazerebrale Blutung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Intrazerebrale_Blutung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Dysphagie, Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Wallenberg-Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Wallenberg-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirntumor</i> erhöhen würden: Krampfanfall, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Hirntumor",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hirntumor"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> erhöhen würden: Dyspnoe, Hautschwellung, Armschwellung, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (35) bei Sehstörungen.<br /><br />Zusätzlich berichtet der Patient über Schwindel seit drei Tagen sowie Gesichtsschmerzen, Sensibilitätsstörungen, Dysphagie, Dysphonie und Dysarthrie.<br /><br /> Ein kürzliches Schädeltrauma wird verneint. <br /><br />Kopfschmerzen, Nausea, ein kürzlicher Bewusstseinsverlust, Erbrechen, eine Aphasie, Dyspnoe, eine Hörminderung und Ausfluss aus dem Ohr werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 8py (20 Zigaretten täglich während 8 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "2ee5c4d2-a38c-4b69-8712-a0ade7724849",
+  "topic": "neurology"
+}

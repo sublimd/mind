@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Periarthropathia coxae",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Coxarthrose</i> erhöhen würden: Hüftsteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Coxarthrose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Coxarthrose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Schwellung oder Vergrösserung des Hodens, Hautschwellung, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Epididymitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Epididymitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pertrochantäre Femurfraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der unteren Extremität, Vorangehendes Trauma</li></ul>",
+      "isCorrect": false,
+      "label": "Pertrochantäre Femurfraktur",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pertrochant%C3%A4re_Femurfraktur"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Schenkelhalsfraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der unteren Extremität, Vorangehendes Trauma</li></ul>",
+      "isCorrect": false,
+      "label": "Schenkelhalsfraktur",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schenkelhalsfraktur"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei Leistenschmerzen seit sieben Tagen.<br /><br />Knieschmerzen, eine Hüftsteifigkeit, Bauchschmerzen, Hodenschmerzen, Dysurie und eine Beinschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier).",
+  "id": "e573c74e-769c-43d7-a9c8-a55bf52dfe5b",
+  "topic": "rheumatology"
+}

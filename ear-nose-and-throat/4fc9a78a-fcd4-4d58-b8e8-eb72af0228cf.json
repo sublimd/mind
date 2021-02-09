@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Abszess"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lipom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Skleritis anterior"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Sialolithiasis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Gesichtsschädelfraktur"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (39) bei Gesichtsschmerzen seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über einen Knoten im linken Wangenbereich.<br /><br />Eine nasale Obstruktion, Fieber, Kopfschmerzen, Sehstörungen, Ohrenschmerzen, Sensibilitätsstörungen und eine Augenrötung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "4fc9a78a-fcd4-4d58-b8e8-eb72af0228cf",
+  "topic": "ear-nose-and-throat"
+}

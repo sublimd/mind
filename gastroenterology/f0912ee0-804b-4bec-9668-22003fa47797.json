@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Hämorrhoiden</i> ist häufiger</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Diarrhoe, Bauchschmerzen, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Colitis ulcerosa"
+    },
+    {
+      "explanation": "<ul><li><i>Hämorrhoiden</i> sind häufiger</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Diarrhoe, anale Schmerzen, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Proktitis"
+    },
+    {
+      "explanation": "<ul><li><i>Hämorrhoiden</i> sind häufiger</li></ul>",
+      "isCorrect": false,
+      "label": "Divertikelblutung"
+    },
+    {
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Akute Divertikulitis</i> erhöhen würden: Bauchschmerzen, Nausea, Erbrechen, Fieber, Diarrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hämorrhoiden"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (45) bei Hämatochezie seit zehn Tagen.<br /><br />Zusätzlich berichtet die Patientin über Obstipation.<br /><br />Anale Schmerzen, Bauchschmerzen, Diarrhoe, analer Juckreiz, Fieber, ein Gewichtsverlust und Blähungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "f0912ee0-804b-4bec-9668-22003fa47797",
+  "topic": "gastroenterology"
+}

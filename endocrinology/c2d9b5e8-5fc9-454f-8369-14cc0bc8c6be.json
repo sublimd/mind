@@ -1,0 +1,40 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Osteomalazie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Osteomalazie"
+        },
+        "en": {
+          "wikipedia": "https://en.wikipedia.org/wiki/Osteomalacia"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperphosphatämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypokalzämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypomagnesiämie"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (69) bei Muskelkrämpfen seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Sensibilitätsstörungen im Gesicht, Gelenkschmerzen und ein Exanthem.<br /><br />Beinschmerzen, Gliederschmerzen, Tremor und Krampfanfälle werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "c2d9b5e8-5fc9-454f-8369-14cc0bc8c6be",
+  "topic": "endocrinology"
+}

@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Ausfluss aus dem Auge, Rhinorrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Verwirrtheit, Amnesie, Bewusstseinsverlust, Synkope, Somnolenz, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Kürzliches Schädeltrauma</li></ul>",
+      "isCorrect": false,
+      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Ausfluss aus dem Auge, Rhinorrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Cluster-Kopfschmerz",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Ausfluss aus dem Auge, Rhinorrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Nackenschmerzen, Nackensteifigkeit, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Kürzliches Schädeltrauma</li></ul>",
+      "isCorrect": false,
+      "label": "Subarachnoidalblutung",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Ausfluss aus dem Auge, Rhinorrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Bekannte arterielle Hypertonie, Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (50) bei Kopfschmerzen frontal seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über wässrigen Ausfluss aus dem Auge, eine Muskelschwäche im Gesicht, Schwindel und Rhinorrhoe.<br /><br /> Ein kürzliches Schädeltrauma wird verneint. <br /><br />Nausea, Erbrechen, Sehstörungen, Fieber, eine Somnolenz, eine Photophobie, eine Phonophobie, Sensibilitätsstörungen, eine Augenrötung und erhöhte Blutdruckwerte werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "e07fd210-fc37-495d-8942-12bc90a13504",
+  "topic": "neurology"
+}

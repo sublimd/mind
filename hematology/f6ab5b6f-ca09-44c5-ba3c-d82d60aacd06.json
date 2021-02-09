@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperthyreose bei Schilddrüsenautonomie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lues"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische lymphatische Leukämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rhabdomyosarkom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Non-Hodgkin Lymphom"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei einem Knoten submandibulär links seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Nachtschweiss, Fieber und einen Gewichtsverlust.<br /><br /> Ungeschützter Geschlechtsverkehr in der Vergangenheit wird verneint. Der Erhalt von Bluttransfusionen wird verneint. <br /><br />Hautveränderungen, Müdigkeit, Pruritus und eine Wärmeintoleranz werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "f6ab5b6f-ca09-44c5-ba3c-d82d60aacd06",
+  "topic": "hematology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sarkoidose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tularämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Masern"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zika Virus Infektion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (19) bei einer Hautveränderung am Rücken seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Fieber, Husten, eine Augenrötung und Diarrhoe.<br /><br />Pruritus, vergrösserte Lymphknoten, Bauchschmerzen, eine allgemeine Müdigkeit, Nausea, Gelenkschmerzen, eine nasale Obstruktion, Gliederschmerzen, Augenschmerzen und Dysphagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "4e6fdc23-247f-4f05-8de9-5bd3ca12bc0b",
+  "topic": "infectiology"
+}

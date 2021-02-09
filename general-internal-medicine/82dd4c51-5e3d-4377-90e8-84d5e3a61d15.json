@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Nierenschädigung"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperparathyroidismus"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Paralytischer Ileus"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Diabetische Ketoazidose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (22) bei Polyurie seit drei Monaten.<br /><br />Zusätzlich berichtet der Patient über Nausea, Obstipation und Bauchschmerzen.<br /><br />Eine allgemeine Müdigkeit, Lähmungserscheinungen, Palpitationen, Nykturie, eine kürzlicher Bewusstseinsverlust, Oligurie, Muskelkrämpfe und Gliederschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "82dd4c51-5e3d-4377-90e8-84d5e3a61d15",
+  "topic": "general-internal-medicine"
+}

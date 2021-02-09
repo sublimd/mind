@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zentrales Schlafapnoesyndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Linksherzinsuffizienz"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Obstruktives Schlafapnoesyndrom (OSAS)"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (73) bei einer vermehrten Müdigkeit seit sechs Monaten.<br /><br />Zusätzlich berichtet der Patient über Schnarchen, Schlafstörungen, erhöhte Blutdruckwerte und eine Tagesschläfrigkeit.<br /><br />Dyspnoe, Fieber, Kopfschmerzen, ein Gewichtsverlust, Palpitationen, Tachykardien, Schwindel, Nykturie und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "4c7c2902-e7a9-4eb8-bcf9-55f6de7206e0",
+  "topic": "pneumology"
+}

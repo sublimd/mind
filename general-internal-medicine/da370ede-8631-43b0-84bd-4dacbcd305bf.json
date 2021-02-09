@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Transverse Myelitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Proximale Humerusfraktur"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ischämischer Schlaganfall"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Polyneuropathie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Thoracic Outlet Syndrome (TOS)"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei linksseitigen Armschmerzen seit drei Monaten.<br /><br />Zusätzlich berichtet der Patient über eine Muskelschwäche, eine Armschwellung und Sensibilitätsstörungen an der linken oberen Extremität.<br /><br />Hautveränderungen, Nackenschmerzen und Dysarthrie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "da370ede-8631-43b0-84bd-4dacbcd305bf",
+  "topic": "general-internal-medicine"
+}

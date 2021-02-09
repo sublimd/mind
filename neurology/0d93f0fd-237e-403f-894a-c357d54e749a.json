@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Läsion des N. radialis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperosmolare hyperglykämische Entgleisung"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 3"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Aneurysma der Arteria carotis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperglykämisches Koma"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (51) bei Sensibilitätsstörungen und eine Muskelschwäche am rechten Unterarm seit fünf Tagen.<br /><br />Der Patient berichtet von einer Operation (Cholezystektomie) letzte Woche.<br /><br />Der Aufenthalt in Wäldern wird verneint. <br /><br />Rückenschmerzen, ein kürzlicher Bewusstseinsverlust, Sehstörungen, Polyurie und ein Gewichtsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "0d93f0fd-237e-403f-894a-c357d54e749a",
+  "topic": "neurology"
+}

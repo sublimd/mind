@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Aortenklappen-Insuffizienz"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mitralklappen-Insuffizienz"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "AV-Knoten-Reentry-Tachykardie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "AV-Block III°"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (80) bei Dyspnoe seit drei Monaten.<br /><br />Verschlimmerung der Dyspnoe beim Liegen in Rückenlage.<br /><br />Zusätzlich berichtet die Patientin über Palpitationen (sehr starke Herzschläge), eine vermehrte Müdigkeit, Husten mit Auswurf, Schwindel und Thoraxschmerzen.<br /><br />Eine Schwellung der Unterschenkel, paroxysmale nächtliche Dyspnoe, Fieber, Nausea, Kopfschmerzen und Bradykardien werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 3 x / Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "be424445-3561-4896-8b59-1e942f47aa7a",
+  "topic": "general-internal-medicine"
+}

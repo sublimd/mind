@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Wernicke-Enzephalopathie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Allergische Konjunktivitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Keratokonjunktivitis sicca"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bruxismus"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Katarakt"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (68) bei linksseitigen Sehstörungen seit einem Monat.<br /><br />Der Patient beschreibt ein Verschwommensehen.<br /><br />Kopfschmerzen, eine Augenrötung, Juckreiz in den Augen, Augenschmerzen, eine Photophobie, Lähmungserscheinungen, Fieber, Augentrockenheit und Schlafstörungen werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "4644a281-5d82-4a84-954b-509d90bf8cf6",
+  "topic": "ophthalmology"
+}

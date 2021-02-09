@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kardiogene Synkope"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Colitis ulcerosa"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Struma"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Primäre Nebennierenrindeninsuffizienz (M. Addison)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypophysenvorderlappen-Insuffizienz"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (21) bei einer vermehrten Müdigkeit seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über einen Gewichtsverlust, Kopfschmerzen, Bradykardien, Hypotonie und Obstipation.<br /><br />Eine depressive Stimmung, eine Kälteintoleranz, Schlafstörungen, Fieber, Nachtschweiss, Dyspnoe, Bauchschmerzen, Synkopen und Palpitationen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "0360b6e1-63c6-4d0e-a309-73b25ebc7876",
+  "topic": "general-internal-medicine"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Polymyositis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Fibromyalgie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Laktatazidose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Myopathie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Osteomalazie"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei Gliederschmerzen seit vier Monaten.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit und Sensibilitätsstörungen an den Händen.<br /><br />Fieber, Husten, Rhinorrhoe, Kopfschmerzen, Nausea, Gelenkschmerzen und Lähmungserscheinungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "50db92b4-8c51-4216-acc7-c4b6eaad8d19",
+  "topic": "general-internal-medicine"
+}

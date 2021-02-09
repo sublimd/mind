@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zöliakie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Koprostase"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lymphozytäre Kolitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Laktoseintoleranz"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (38) bei Diarrhoe seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Blähungen.<br /><br />Erbrechen, ein Gewichtsverlust, Fieber, Hämatochezie, Bauchschmerzen, Hautveränderungen, Nausea, Dyspnoe und Appetitverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 3 x / Woche, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "a057a9e2-d515-4588-8a85-dee59303501d",
+  "topic": "general-internal-medicine"
+}

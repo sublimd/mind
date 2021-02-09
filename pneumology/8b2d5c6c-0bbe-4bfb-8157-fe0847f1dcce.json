@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "AV-Block II°, Mobitz II"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mitralklappenprolaps Syndrom (Barlow-Syndrom)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pneumothorax"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myokardinfarkt"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lungenembolie"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (79) bei Dyspnoe seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über stechende linksseitige Thoraxschmerzen, Orthopnoe und Schwindel.<br /><br />Verstärkung der Thoraxschmerzen durch tiefe Inspiration.<br /><br />Eine Hospitalisation in den letzten drei Monaten wird bejaht.<br /><br />Husten, Tachykardien, Palpitationen, Fieber, Bauchschmerzen, Synkopen, eine Hyperhidrose, Hämoptoe, Bradykardien, Armschmerzen und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Diagnoseliste</h2>- Nephrotisches Syndrom<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "8b2d5c6c-0bbe-4bfb-8157-fe0847f1dcce",
+  "topic": "pneumology"
+}

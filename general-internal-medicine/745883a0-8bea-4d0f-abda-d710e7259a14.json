@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Allergische Konjunktivitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chalazion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Konjunktivaler Fremdkörper"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hordeolum"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Blepharitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (51) bei Augenschmerzen seit neun Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Augenschwellung, eine Augenrötung, purulenten Ausfluss aus dem Auge und Fieber.<br /><br />Sehstörungen und Juckreiz in den Augen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "745883a0-8bea-4d0f-abda-d710e7259a14",
+  "topic": "general-internal-medicine"
+}

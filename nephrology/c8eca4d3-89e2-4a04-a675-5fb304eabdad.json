@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pharynxkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Tubulusnekrose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bakterielle Endokarditis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Alport Syndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myokarditis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (38) bei einer Hörminderung seit fünf Tagen.<br /><br />Zusätzlich berichtet die Patientin über Hämaturie, einen Leistungsabfall, eine Unterschenkelschwellung, Dyspnoe und Augenschmerzen.<br /><br />Der Konsum von intravenösen Drogen in der Vergangenheit wird verneint. <br /><br />Ohrenschmerzen, Schwindel, Ausfluss aus dem Ohr, Tinnitus, Fieber, Sehstörungen, ein Gewichtsverlust, Thoraxschmerzen und Tachykardien werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "c8eca4d3-89e2-4a04-a675-5fb304eabdad",
+  "topic": "nephrology"
+}

@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Atelektase",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Atelektase"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungentuberkulose</i> erhöhen würden: Hämoptoe, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Lungentuberkulose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungentuberkulose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Nausea, Erbrechen, Bauchschmerzen, Diarrhoe, Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelallergie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Aspirationspneumonie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Aspirationspneumonie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenödem</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenödem",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungen%C3%B6dem"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (15) bei Husten seit einem Tag.<br /><br />Pro Hustenstoss komme jeweils etwa eine Kaffeetasse Auswurf.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe und Fieber.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Schüttelfrost, Rhinorrhoe, eine Hautveränderungen, Schwindel, Dysphonie, ein kürzlicher Bewusstseinsverlust und saures Aufstossen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Kein Alkoholkonsum.",
+  "id": "7dbb7ac2-5708-4012-af11-1dc0075b2dce",
+  "topic": "pneumology"
+}

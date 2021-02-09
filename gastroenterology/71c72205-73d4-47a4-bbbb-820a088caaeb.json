@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Gastrinom (Zollinger-Ellison-Syndrom)</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktische Reaktion</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, niedrige Blutdruckwerte</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktische Reaktion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktische_Reaktion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Gastrinom (Zollinger-Ellison-Syndrom)</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Zika Virus Infektion</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zika Virus Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Zika Virus Infektion",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Gastrinom (Zollinger-Ellison-Syndrom)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Gastrinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Gastrinom (Zollinger-Ellison-Syndrom)</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Koprostase</i> erhöhen würden: Obstipation, Blähungen, Nausea, Appetitverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Koprostase",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Koprostase"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Gastrinom (Zollinger-Ellison-Syndrom)</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: allgemeines Schwächegefühl, Leistungsabfall, Appetitverlust, Ikterus, Nausea, Erbrechen, Rückenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Pankreaskarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pankreaskarzinom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (23) bei Diarrhoe seit fünf Wochen.<br /><br />Der Stuhl sei breiig und rötlich.<br /><br />Zusätzlich berichtet der Patient über Bauchschmerzen epigastrisch seit drei Wochen sowie retrosternales Brennen.<br /><br />Aktuell hätten die Bauchschmerzen eine Intensität von VAS 5/10.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Nausea, Erbrechen, Fieber, Hämatochezie, Obstipation, ein Appetitverlust, Kopfschmerzen, Meläna und vaginaler Ausfluss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 5py (20 Zigaretten täglich während 5 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "71c72205-73d4-47a4-bbbb-820a088caaeb",
+  "topic": "gastroenterology"
+}

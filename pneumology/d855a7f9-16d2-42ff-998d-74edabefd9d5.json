@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pleuritis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myokarditis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kokain-Intoxikation"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperventilationssyndrom"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (24) bei Dyspnoe seit zwei Stunden.<br /><br />Zusätzlich berichtet die Patientin über Sensibilitätsstörungen im Gesicht und Thoraxschmerzen.<br /><br />Husten, Palpitationen, Schwindel, Fieber, Schüttelfrost, Kopfschmerzen, eine Hyperhidrose, erhöhte Blutdruckwerte, Muskelkrämpfe und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "d855a7f9-16d2-42ff-998d-74edabefd9d5",
+  "topic": "pneumology"
+}

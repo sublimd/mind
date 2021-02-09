@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Hepatitis B-Infektion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akutes Leberversagen"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische Hepatitis B-Infektion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Typhus abdominalis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Volvulus"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (64) bei Unterbauchschmerzen seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Nausea und Hämatochezie.<br /><br />Reisen in tropische Gebiete, der Konsum von intravenösen Drogen, der Erhalt von Bluttransfusionen und Kontakt zu mehreren Sexualpartnern in den letzten Monaten werden verneint. <br /><br />Erbrechen, Fieber, Diarrhoe, ein Appetitverlust, Obstipation, Pruritus und ein Ikterus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "d2617efe-4648-46ff-b226-b56bb1151e32",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Sinusvenenthrombose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Thrombotisch-thrombozytopenische Purpura (TTP)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypoglykämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Subduralhämatom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Anaphylaktischer Schock"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (29) bei Kopfschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Nausea, einen Krampfanfall, Muskelschwäche, Schwindel und Augenschmerzen.<br /><br /> Eine Therapie mit blutverdünnenden Medikamenten wird verneint. <br /><br />Erbrechen, Sehstörungen, Fieber, ein Bewusstseinsverlust, Sensibilitätsstörungen, Bauchschmerzen, Tachykardien und niedrige Blutdruckwerte werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 3py (20 Zigaretten täglich während 3 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein).",
+  "id": "f7c10a06-3f11-4acd-889c-5b93c91c5701",
+  "topic": "neurology"
+}

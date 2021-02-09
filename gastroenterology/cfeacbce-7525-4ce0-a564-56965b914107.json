@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Analabszess</i> erhöhen würden: vergrösserter Lymphknoten, Hautabszess</li></ul>",
+      "isCorrect": false,
+      "label": "Analabszess",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Analabszess"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hämorrhoiden</i> erhöhen würden: analer Juckreiz</li></ul>",
+      "isCorrect": false,
+      "label": "Hämorrhoiden",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/H%C3%A4morrhoiden"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Proktitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Proklitisch"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: anale Schmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kolonkarzinom</i> erhöhen würden: Gewichtsverlust, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Kolonkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Kolonkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: anale Schmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Bakterielle Enteritis</i> erhöhen würden: Fieber, Bauchschmerzen, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Bakterielle Enteritis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei Diarrhoe seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über anale Schmerzen und Hämatochezie.<br /><br />Bauchschmerzen, Erbrechen, Fieber, ein Gewichtsverlust, Obstipation, Schüttelfrost und eine Hautschwellung werden verneint. <h2>Diagnoseliste</h2>- Lues<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "cfeacbce-7525-4ce0-a564-56965b914107",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Schwangerschaft"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Uterusmyom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Gonokokken-Zervizitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Endometriumkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2> Vorstellung der Patientin (38) bei vaginalem Ausfluss seit sechs Tagen.<br /><br />Die Patientin beschreibt den Ausfluss als gelblich.<br /><br />Zusätzlich berichtet die Patientin über eine unerwartete vaginale Blutung und vaginalen Juckreiz.<br /><br />Probleme beim Geschlechtsverkehr, Dysurie, Bauchschmerzen, Fieber, Menstruationsbeschwerden, Erbrechen und Nausea werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "70808c4c-ad39-4f88-a895-bc3f702ed327",
+  "topic": "gynecology"
+}

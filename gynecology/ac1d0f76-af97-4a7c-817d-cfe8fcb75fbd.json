@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypothyreose</i> erhöhen würden: Obstipation, Dyspnoe, Kälteintoleranz, Gewichtszunahme</li></ul>",
+      "isCorrect": false,
+      "label": "Hypothyreose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypothyreose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Funktionelle Zyste des Ovars</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prolaktinom</i> erhöhen würden: Sehstörungen, Probleme beim Geschlechtsverkehr</li></ul>",
+      "isCorrect": false,
+      "label": "Prolaktinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Prolaktinom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Funktionelle Zyste des Ovars",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hashimoto-Thyreoiditis</i> erhöhen würden: Obstipation, Dyspnoe, Kälteintoleranz, Gewichtszunahme, Palpitationen, Tachykardien, Fieber, Hyperhidrose</li></ul>",
+      "isCorrect": false,
+      "label": "Hashimoto-Thyreoiditis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hashimoto-Thyreoiditis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Funktionelle Zyste des Ovars</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tuboovarialabszess</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
+      "label": "Tuboovarialabszess",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (44) bei Menstruationsbeschwerden.<br /><br />Bauchschmerzen, Probleme beim Geschlechtsverkehr, Obstipation, eine Gewichtszunahme, Blähungen, Dyspnoe und Rhinorrhoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",
+  "id": "ac1d0f76-af97-4a7c-817d-cfe8fcb75fbd",
+  "topic": "gynecology"
+}

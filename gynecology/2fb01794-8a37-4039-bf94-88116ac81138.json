@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperprolaktinämie</i> besser erklärt sind: unerfüllter Kinderwunsch, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Funktionelle Zyste des Ovars",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Das Alter der Patientin passt besser zu <i>Hyperprolaktinämie</i></li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Wärmeintoleranz, Nachtschweiss, Schlafstörungen, Probleme beim Geschlechtsverkehr, vaginaler Juckreiz</li></ul>",
+      "isCorrect": false,
+      "label": "Klimakterisches Syndrom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperprolaktinämie</i> besser erklärt sind: unerfüllter Kinderwunsch, Menstruationsbeschwerden</li></ul>",
+      "isCorrect": false,
+      "label": "Spannungstyp-Kopfschmerz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Spannungskopfschmerz"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperprolaktinämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperprolaktin%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperprolaktinämie</i> besser erklärt sind: Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Korpuspolyp",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (33) bei einem unerfüllten Kinderwunsch.<br /><br />Zusätzlich berichtet die Patientin über eine Amenorrhoe seit 2 Monaten und Kopfschmerzen.<br /><br />Bauchschmerzen, Ausfluss aus der Brust, eine Wärmeintoleranz, Nachtschweiss, Probleme beim Geschlechtsverkehr, Blähungen, Nackenschmerzen und Schwindel werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "2fb01794-8a37-4039-bf94-88116ac81138",
+  "topic": "gynecology"
+}

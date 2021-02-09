@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Von-Willebrand-Krankheit"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungentuberkulose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Goodpasture-Syndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenblutung"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (68) bei Hämoptoe seit fünf Tagen.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe, Husten, Oligurie, Hämaturie und ein allgemeines Schwächegefühl.<br /><br />Fieber, Thoraxschmerzen, ein Gewichtsverlust und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 47py (20 Zigaretten täglich während 47 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "cfebf568-8089-4834-8387-892648d5ecb5",
+  "topic": "nephrology"
+}

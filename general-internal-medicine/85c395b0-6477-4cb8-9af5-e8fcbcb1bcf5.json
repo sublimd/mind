@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Polyzystische Nierenerkrankung (PKD)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nierenkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Angiomyolipom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Wilms-Tumor"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Abruptio placentae"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (29) bei Flankenschmerzen seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über erhöhte Blutdruckwerte und Hämaturie.<br /><br />Rückenschmerzen, Fieber, Nausea, Pollakisurie, Dysurie, Bauchschmerzen, Appetitverlust und Schmerzen im Genitalbereich werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "85c395b0-6477-4cb8-9af5-e8fcbcb1bcf5",
+  "topic": "general-internal-medicine"
+}

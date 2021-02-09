@@ -1,0 +1,41 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Kopfschmerzen, Muskelschwäche, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Keratitis</i> erhöhen würden: Augenschmerzen, Fremdkörpergefühl im Auge, Sehstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute bakterielle Keratitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Cluster-Kopfschmerz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cluster-Kopfschmerz"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Kopfschmerzen, Muskelschwäche, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Konjunktivitis</i> erhöhen würden: Augenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute bakterielle Konjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Kopfschmerzen, Muskelschwäche, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Konjunktivaler Fremdkörper</i> erhöhen würden: Fremdkörpergefühl im Auge, Juckreiz im Auge, Sehstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Konjunktivaler Fremdkörper",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Kopfschmerzen, Muskelschwäche, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Konjunktivitis</i> erhöhen würden: Juckreiz im Auge, Fieber, Sehstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Konjunktivitis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (18) bei wässrigem Ausfluss aus dem linken Auge.<br /><br />Zusätzlich berichtet der Patient über dumpfe Kopfschmerzen (bis VAS 6/10) frontal seit einem Tag sowie eine Muskelschwäche im Gesicht, Schwindel und eine linksseitige Augenrötung.<br /><br />Die aktuellen Kopfschmerzen unterscheiden sich hinsichtlich Dauer zu früheren Episoden.<br /><br />Juckreiz in den Augen, Sehstörungen, Augenschmerzen, Rhinorrhoe, Fieber, ein Fremdkörpergefühl im Auge, Nausea, Erbrechen, eine Photophobie, eine Phonophobie und Sensibilitätsstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 2py (10 Zigaretten täglich während 4 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier).",
+  "id": "7fbe6ae0-bbd0-421d-8430-5c5fee4697b7",
+  "topic": "neurology"
+}

@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li></ul>",
+      "isCorrect": false,
+      "label": "Cholelithiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cholelithiasis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gewichtsverlust, Appetitverlust, Ikterus, Pruritus, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Leberzirrhose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Leberzirrhose"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Mallory-Weiss Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mallory-Weiss-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Dyspnoe, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Myokardinfarkt",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akutes_Koronarsyndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Verschluckter Fremdkörper</i> erhöhen würden: Dysphagie, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Verschluckter Fremdkörper",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (71) bei Hämatemesis vor sechs Stunden.<br /><br />Zusätzlich berichtet der Patient über epigastrische Bauchschmerzen.<br /><br />Aktuell hätten die Bauchschmerzen eine Intensität von VAS 3/10.<br /><br />Nausea, Fieber, Meläna, Thoraxschmerzen, Pruritus, ein Ikterus, Hämatochezie und saures Aufstossen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 52py (20 Zigaretten täglich während 52 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "79c6fc13-c5ea-41fe-99df-1bcf827db870",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kolonkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ulcus ventriculi"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akutes Leberversagen"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hepatotoxizität"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "M. Crohn"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (74) bei Bauchschmerzen im Oberbauch seit sieben Tagen.<br /><br />Zusätzlich berichtet die Patientin über Nausea, einen Appetitverlust, Hämatemesis, einen Gewichtsverlust und Meläna.<br /><br />Fieber, Diarrhoe, Obstipation, Pruritus und ein Ikterus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "7e3ecdb2-cac0-4726-a0d9-af09f841f6cf",
+  "topic": "gastroenterology"
+}

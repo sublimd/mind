@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Non-Hodgkin Lymphom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Einschlusszyste der Vulva"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Abszess"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lipom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ovarialkarzinom"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (64) bei einem Knoten im Genitalbereich seit vier Monaten.<br /><br />Zusätzlich berichtet die Patientin über Probleme beim Geschlechtsverkehr.<br /><br />Die Patientin gibt an unter Schmerzen während dem Geschlechtsverkehr zu leiden.<br /><br />Hautveränderungen, Fieber, ein Gewichtsverlust und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "42136d11-eaf9-4127-ad5c-f7eb7e846a5f",
+  "topic": "gynecology"
+}

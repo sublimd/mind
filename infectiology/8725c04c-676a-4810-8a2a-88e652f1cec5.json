@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 3"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenabszess"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pilzpneumonie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Leptospirose Stadium II"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (58) bei Kopfschmerzen seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Fieber, Nackenschmerzen und Schüttelfrost. Der Patient arbeite als Tierarzt.<br /><br /> Ungeschützter Geschlechtsverkehr in den letzten Monaten und der Aufenthalt in Wäldern werden verneint.<br /><br />Nausea, Erbrechen, Sehstörungen, eine Photophobie, eine Phonophobie, Dyspnoe, Lähmungserscheinungen, Sensibilitätsstörungen, Bauchschmerzen, Thoraxschmerzen und Gelenkschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "8725c04c-676a-4810-8a2a-88e652f1cec5",
+  "topic": "infectiology"
+}

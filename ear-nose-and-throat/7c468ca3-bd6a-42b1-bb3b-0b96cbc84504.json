@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chronische Rhinosinusitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Streptokokkentonsillitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cluster-Kopfschmerz"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Anaphylaktischer Schock"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (41) bei Kopfschmerzen frontal seit sechs Monaten.<br /><br />Zusätzlich berichtet der Patient über purulente, dickflüssige Rhinorrhoe und eine nasale Obstruktion.<br /><br />Nausea, Erbrechen, Schwindel, eine allgemeine Müdigkeit, Sehstörungen, Fieber, eine Photophobie, eine Phonophobie, Dyspnoe, Lähmungserscheinungen, Sensibilitätsstörungen, Husten, Tachykardien, eine Hyposmie, Schlafstörungen, Ohrenschmerzen, Pruritus und niedrige Blutdruckwerte werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "7c468ca3-bd6a-42b1-bb3b-0b96cbc84504",
+  "topic": "ear-nose-and-throat"
+}

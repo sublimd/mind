@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Colitis ulcerosa"
+    },
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Colitis ulcerosa</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Laktoseintoleranz</i> erhöhen würden: Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Laktoseintoleranz"
+    },
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Colitis ulcerosa</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: allgemeines Schwächegefühl, Leistungsabfall, Appetitverlust, Ikterus, Nausea, Erbrechen, Rückenschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Pankreaskarzinom"
+    },
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Colitis ulcerosa</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Colon irritabile</i> erhöhen würden: Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Colon irritabile"
+    },
+    {
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Kürzliche Verwendung von Antibiotika, Hospitalisation in den letzten drei Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Pseudomembranöse Kolitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (47) bei Diarrhoe seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen, Hämatochezie und einen Gewichtsverlust.<br /><br /> Eine Hospitalisation in den letzten drei Monaten wird verneint. Die kürzliche Verwendung von Antibiotika wird verneint. <br /><br />Nausea, Erbrechen, Fieber, eine allgemeine Müdigkeit, Blähungen und ein Appetitverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "19db65f4-94ce-4eaf-96b9-6bf1e6a75ecc",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperkalzämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Geschlechtsstrang-Gonadenstromatumor"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Zystadenom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Enterozele"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Divertikulitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (66) bei Bauchschmerzen im linken Unterbauch seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Blähungen und Obstipation.<br /><br />Nausea, Erbrechen, Fieber, Diarrhoe, Pollakisurie, vaginaler Ausfluss, Rückenschmerzen, Hämatochezie, Meläna, Polyurie und eine Stuhlinkontinenz werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "b183f460-9eaa-4a4b-a6f2-f8f68f583631",
+  "topic": "gynecology"
+}

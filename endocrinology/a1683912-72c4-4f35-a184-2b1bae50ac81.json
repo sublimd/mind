@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperthyreose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperthyreose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Tremor, Halsschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperventilationssyndrom</i> erhöhen würden: Sensibilitätsstörungen, Schwindel, Muskelkrämpfe</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperventilationssyndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperventilationssyndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Tremor, Halsschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mikrozyt%C3%A4re_An%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Tremor, Halsschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Sinustachykardie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sinustachykardie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Tremor, Halsschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Vorhofflimmern",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vorhofflimmern"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (34) bei Palpitationen seit einem Monat.<br /><br />Zusätzlich berichtet die Patientin über Dyspnoe, Tremor an den Händen und eine schmerzlose Halsschwellung.<br /><br />Die Patientin könne nur ein Stockwerk ohne Pause hochsteigen.<br /><br />Schwindel, Thoraxschmerzen, Synkopen, Muskelkrämpfe, eine Wärmeintoleranz, Nykturie, Ausbleiben der Periode, Schlafstörungen, Diarrhoe und Pruritus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 7py (10 Zigaretten täglich während 13 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt und Spirituosen).",
+  "id": "a1683912-72c4-4f35-a184-2b1bae50ac81",
+  "topic": "endocrinology"
+}

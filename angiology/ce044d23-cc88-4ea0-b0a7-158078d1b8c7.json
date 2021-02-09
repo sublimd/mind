@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kompartmentsyndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chronisch venöse Insuffizienz"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tiefe Venenthrombose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tibia-Stressfraktur"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Tibiafraktur"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei einer beidseitigen Unterschenkelschwellung seit sechs Wochen.<br /><br />Zusätzlich berichtet der Patient über Varizen, Beinschmerzen und ein erythematöses Exanthem an der unteren Extremität beidseits.<br /><br />Wadenschmerzen, Dyspnoe, Pruritus, eine Hautüberwärmung, Sensibilitätsstörungen und Lähmungserscheinungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "ce044d23-cc88-4ea0-b0a7-158078d1b8c7",
+  "topic": "angiology"
+}

@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Rheumatoide Arthritis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Nachtschweiss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Systemischer Lupus erythematodes</i> erhöhen würden: Hautveränderungen, Thoraxschmerzen, Dyspnoe, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Systemischer Lupus erythematodes",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Systemischer_Lupus_erythematodes"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Gichtarthritis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Müdigkeit, Nachtschweiss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gichtarthritis</i> erhöhen würden: Fussschwellung, Knieschwellung, Handschwellung, Schwellung des Ellbogens, Fussrötung, Knierötung</li></ul>",
+      "isCorrect": false,
+      "label": "Gichtarthritis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Müdigkeit, Nachtschweiss, Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Reaktive Arthritis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Reaktive_Arthritis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Knieschmerzen, Müdigkeit, Nachtschweiss</li></ul>",
+      "isCorrect": false,
+      "label": "Tendosynovitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rheumatoide Arthritis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rheumatoide_Arthritis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (35) bei Handschmerzen seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Knieschmerzen, eine vermehrte Müdigkeit, Nachtschweiss und Fieber.<br /><br />Eine Handschwellung, eine Handsteifigkeit, Fussschmerzen, vergrösserte Lymphknoten, eine Handrötung, Hautveränderungen, Gliederschmerzen und Rückenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "d1c59463-90f4-4418-a806-323eed9b6aee",
+  "topic": "rheumatology"
+}

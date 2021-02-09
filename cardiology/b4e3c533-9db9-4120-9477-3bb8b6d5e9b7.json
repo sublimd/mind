@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Perikarditis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Atrioventrikuläre Reentry-Tachykardie (AVRT)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Cor pulmonale"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenabszess"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sarkoidose"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (48) bei Thoraxschmerzen im Bereich des Sternums seit sieben Tagen.<br /><br />Verstärkung der Thoraxschmerzen durch tiefe Inspiration und flaches Liegen auf dem Rücken.<br /><br />Zusätzlich berichtet der Patient über Fieber, eine vermehrte Müdigkeit und Palpitationen.<br /><br />Eine kürzliche Erkältung wird bejaht.<br /><br />Dyspnoe, Husten, Schwindel, Nausea, erhöhte Blutdruckwerte, Synkopen und eine Hyperhidrose werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "b4e3c533-9db9-4120-9477-3bb8b6d5e9b7",
+  "topic": "cardiology"
+}

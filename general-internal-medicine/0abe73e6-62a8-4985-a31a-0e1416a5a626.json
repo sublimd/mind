@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ulcus duodeni"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Alkoholische Steatohepatitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Koprostase"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Laktatazidose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Pankreatitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (74) bei Bauchschmerzen im Oberbauch seit vier Tagen.<br /><br />Zusätzlich berichtet die Patientin über Nausea, einen Appetitverlust und Meläna.<br /><br />Hämatemesis, ein Gewichtsverlust, Fieber, Erbrechen, Diarrhoe, Obstipation, Hämatochezie, Dyspnoe und Tachykardien werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "0abe73e6-62a8-4985-a31a-0e1416a5a626",
+  "topic": "general-internal-medicine"
+}

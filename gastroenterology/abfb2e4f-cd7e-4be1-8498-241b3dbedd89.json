@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Cholangitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Cholangitis</i> besser erklärt sind: Verwirrtheit</li></ul>",
+      "isCorrect": false,
+      "label": "Gallenblasenperforation",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Cholangitis</i> besser erklärt sind: Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Alkoholische Steatohepatitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Alkoholische_Steatohepatitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Cholangitis</i> besser erklärt sind: Ikterus, Verwirrtheit</li></ul>",
+      "isCorrect": false,
+      "label": "Urolithiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Urolithiasis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Cholangitis</i> besser erklärt sind: Ikterus, Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Schwellung der Beine, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Erysipel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Cholangitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cholangitis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (39) bei krampfartigen Bauchschmerzen im rechten Oberbauch.<br /><br />Aktuell hätten die Bauchschmerzen eine Intensität von VAS 8/10.<br /><br />Zusätzlich berichtet der Patient über Fieber seit einem Tag sowie einen Ikterus, eine Verwirrtheit und Schüttelfrost.<br /><br />Nausea, Diarrhoe, ein Appetitverlust, eine allgemeine Müdigkeit, Dyspnoe, Dysurie, Hautveränderungen, Husten, Flankenschmerzen, eine Hautüberwärmung und Odynophagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Kein Alkoholkonsum.",
+  "id": "abfb2e4f-cd7e-4be1-8498-241b3dbedd89",
+  "topic": "gastroenterology"
+}

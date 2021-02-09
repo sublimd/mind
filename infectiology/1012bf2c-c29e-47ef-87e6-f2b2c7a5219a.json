@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 1"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Masern"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lymphangitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Bronchitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (18) bei einem erythematösen Exanthem am Rücken seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Fieber, Dysphagie, Schüttelfrost, eine vermehrte Müdigkeit und Husten.<br /><br /> Der Aufenthalt in Wäldern wird verneint. <br /><br />Pruritus, vergrösserte Lymphknoten, Diarrhoe, Kopfschmerzen, Dyspnoe, Tachykardien, Gelenkschmerzen und Gliederschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 3py (20 Zigaretten täglich während 3 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "1012bf2c-c29e-47ef-87e6-f2b2c7a5219a",
+  "topic": "infectiology"
+}

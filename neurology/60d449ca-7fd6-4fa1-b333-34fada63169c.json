@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Polyneuropathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Raynaud-Syndrom</i> erhöhen würden: Handrötung, Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Raynaud-Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Raynaud-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Polyneuropathie</i> besser erklärt sind: Fussschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Karpaltunnelsyndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Karpaltunnelsyndrom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Polyneuropathie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polyneuropathie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Polyneuropathie</i> besser erklärt sind: Fussschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronisch venöse Insuffizienz</i> erhöhen würden: Schwellung der Unterschenkel, Varizen, Wadenschmerzen, Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronisch-ven%C3%B6se_Insuffizienz"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Polyneuropathie</i> besser erklärt sind: Fussschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Kopfschmerzen, Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (52) bei Sensibilitätsstörungen an den Händen seit vier Monaten.<br /><br />Zusätzlich berichtet die Patientin über Fussschmerzen.<br /><br />Lähmungserscheinungen, Rückenschmerzen, Armschmerzen, Kopfschmerzen, Handschmerzen, eine Beinschwellung und Hautveränderungen werden verneint. <h2>Diagnoseliste</h2>- Vitamin B12 Mangel<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 13py (10 Zigaretten täglich während 26 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "60d449ca-7fd6-4fa1-b333-34fada63169c",
+  "topic": "neurology"
+}

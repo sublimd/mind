@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Tendinitis der distalen Trizepssehne</i> besser erklärt sind: Ellbogenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Abszess",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Abszess"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Septische Arthritis</i> erhöhen würden: Ellbogenschwellung, Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
+      "label": "Septische Arthritis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Septische_Arthritis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul></ul>",
+      "isCorrect": false,
+      "label": "Epicondylitis humeri lateralis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Tendinitis der distalen Trizepssehne",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Tendinitis der distalen Trizepssehne</i> besser erklärt sind: Rötung</li></ul>",
+      "isCorrect": false,
+      "label": "Osteochondritis dissecans",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (34) bei Ellbogenschmerzen seit fünf Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Rötung oberhalb des linken Olecranons.<br /><br />Eine Ellbogenschwellung, eine Ellbogensteifigkeit und Fieber werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "cf22c723-9fb1-4a8b-bb8d-65f6a47d43c8",
+  "topic": "rheumatology"
+}

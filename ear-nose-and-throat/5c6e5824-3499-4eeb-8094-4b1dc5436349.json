@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pharynxkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Larynxkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Laryngitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Peritonsillarabszess"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei Dysphonie seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Husten, einen subkutanen Knoten im Halsbereich, Dyspnoe, Halsschmerzen und Ohrenschmerzen.<br /><br />Eine Strahlenexposition wird bejaht.<br /><br />Dysphagie, Odynophagie, Schüttelfrost, Gliederschmerzen und ein Gewichtsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 31py (20 Zigaretten täglich während 31 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "5c6e5824-3499-4eeb-8094-4b1dc5436349",
+  "topic": "ear-nose-and-throat"
+}

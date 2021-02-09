@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Hämorrhoiden</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Diarrhoe, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Proktitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Hämorrhoiden</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Analkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Analkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hämorrhoiden",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/H%C3%A4morrhoiden"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Hämorrhoiden</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Hämorrhoiden</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Analabszess</i> erhöhen würden: vergrösserte Lymphknoten, Hautabszess</li></ul>",
+      "isCorrect": false,
+      "label": "Analabszess",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Analabszess"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Hämorrhoiden</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lymphogranuloma inguinale</i> erhöhen würden: Hautveränderungen, vergrösserter Lymphknoten bzw. subkutaner Knoten, Fieber, Leistenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Lymphogranuloma inguinale",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lymphogranuloma_inguinale"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (52) bei analen Schmerzen.<br /><br />Zusätzlich berichtet der Patient über Hämatochezie seit drei Tagen sowie Obstipation.<br /><br />Analer Juckreiz, vergrösserte Lymphknoten, ein Hautabszess, Diarrhoe, Fieber und Bauchschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",
+  "id": "20096d7e-875e-495d-b903-5538aa325f64",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "CPP-Kristall-Arthritis (Pseudogicht)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Gichtarthritis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Handgelenksganglion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Psoriasis-Arthritis (PsA)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Skapholunäre Dissoziation"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (63) bei Handgelenksschmerzen seit drei Wochen.<br /><br />Fieber, eine Handschwellung, eine Handrötung und eine Handsteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "5e2a0cc0-5ca3-4072-a68a-d319ba1c2d1f",
+  "topic": "general-internal-medicine"
+}

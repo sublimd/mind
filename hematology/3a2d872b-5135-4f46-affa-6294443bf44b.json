@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute myeloische Leukämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_myeloische_Leuk%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute myeloische Leukämie</i> besser erklärt sind: Nachtschweiss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, Dysphonie, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute myeloische Leukämie</i> besser erklärt sind: vergrösserter Lymphknoten</li></ul>",
+      "isCorrect": false,
+      "label": "Polycythämia vera",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polycythaemia_vera"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute myeloische Leukämie</i> besser erklärt sind: Nachtschweiss, Müdigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Abszess",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Abszess"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Hyperthyreose</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Akute myeloische Leukämie</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Palpitationen, Tachykardien, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperthyreose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperthyreose"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (82) bei Fieber seit drei Wochen.<br /><br />Zusätzlich berichtet der Patient über Nachtschweiss, eine vermehrte Müdigkeit und einen vergrösserten Lymphknoten im Halsbereich.<br /><br />Bauchschmerzen, Nausea, Diarrhoe, Odynophagie, Husten, Dysphagie, Dyspnoe, Flankenschmerzen, Dysurie, Schüttelfrost, Pruritus, Nasenbluten und eine Wärmeintoleranz werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "3a2d872b-5135-4f46-affa-6294443bf44b",
+  "topic": "hematology"
+}

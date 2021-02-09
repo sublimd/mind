@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Vulvovaginitis herpetica"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Gonokokken-Zervizitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Harnwegsinfekt"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Vaginale Mykose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Extrauterine Gravidität (EUG)"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (40) bei unerwarteten vaginalen Blutungen seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen im rechten Unterbauch, Dysurie und Nausea.<br /><br />Vaginaler Ausfluss, Probleme beim Geschlechtsverkehr, Fieber, Schüttelfrost, Schmerzen im Genitalbereich und Brustschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 15py (20 Zigaretten täglich während 15 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "8548c26f-ecbe-4561-a94a-562b0a6013b0",
+  "topic": "gynecology"
+}

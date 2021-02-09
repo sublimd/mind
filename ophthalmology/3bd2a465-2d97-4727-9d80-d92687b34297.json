@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Akute bakterielle Konjunktivitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Akute bakterielle Konjunktivitis</i> besser erklärt sind: Ausfluss aus dem Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Zoster ophthalmicus</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zoster ophthalmicus</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Zoster ophthalmicus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Zoster_ophthalmicus"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute bakterielle Konjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Konjunktivitis</i> besser erklärt sind: Augenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Juckreiz im Auge, Rhinorrhoe, Augenschwellung, nasale Obstruktion, Niesen</li></ul>",
+      "isCorrect": false,
+      "label": "Allergische Rhinokonjunktivitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Allergische_Rhinokonjunktivitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Konjunktivitis</i> besser erklärt sind: Ausfluss aus dem Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Sarkoidose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sarkoidose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Konjunktivitis</i> besser erklärt sind: Ausfluss aus dem Auge</li></ul>",
+      "isCorrect": false,
+      "label": "Akutes Winkelblockglaukom",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (81) bei einer Augenrötung.<br /><br />Zusätzlich berichtet der Patient über wässrigen Ausfluss aus dem Auge und Augenschmerzen.<br /><br />Juckreiz in den Augen, Sehstörungen, Rhinorrhoe, Hautveränderungen, Kopfschmerzen, Dyspnoe und Nausea werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "3bd2a465-2d97-4727-9d80-d92687b34297",
+  "topic": "ophthalmology"
+}

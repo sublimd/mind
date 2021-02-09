@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Epididymitis</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hodenkarzinom (Seminom)</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Hodenkarzinom (Seminom)",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Inguinalhernie</i> erhöhen würden: Leistenschmerzen, Leistenschwellung, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Inguinalhernie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Inguinalhernie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Epididymitis</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Hodenkarzinom (Non-Seminom)",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Epididymitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Epididymitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hodentorsion</i> erhöhen würden: Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Hodentorsion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hodentorsion"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (57) bei linksseitigen Hodenschmerzen (bis VAS 5/10) seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über eine Hodenschwellung.<br /><br />Bauchschmerzen, Leistenschmerzen, eine Leistenschwellung, Nausea, Fieber, Flankenschmerzen, Dysurie, Hämaturie, Rückenschmerzen, Nykturie, eine erektile Dysfunktion und ein Gewichtsverlust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "a1777af1-46ee-4032-bf25-10d88983d473",
+  "topic": "nephrology"
+}

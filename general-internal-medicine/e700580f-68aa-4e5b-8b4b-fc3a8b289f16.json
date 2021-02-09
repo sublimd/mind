@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperthyreose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Bakterielle Endokarditis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Bronchitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (59) bei Fieber seit drei Wochen.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Dyspnoe und Nachtschweiss.<br /><br />Bauchschmerzen, Nausea, Diarrhoe, Odynophagie, Husten, vergrösserte Lymphknoten, Gliederschmerzen, Thoraxschmerzen, Flankenschmerzen, und Dysurie werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "e700580f-68aa-4e5b-8b4b-fc3a8b289f16",
+  "topic": "general-internal-medicine"
+}

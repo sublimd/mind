@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Aneurysma der Arteria carotis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Erfrierung"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypoparathyroidismus"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Morton-Neuralgie"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (24) bei Parästhesien an den Lippen seit zwei Wochen.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit.<br /><br />Kopfschmerzen, Lähmungserscheinungen, Rückenschmerzen, eine Beinschwellung, Hautveränderungen und eine Schwellung der Unterschenkel werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "9c5f4da2-e6f4-4865-949b-16536e48af64",
+  "topic": "general-internal-medicine"
+}

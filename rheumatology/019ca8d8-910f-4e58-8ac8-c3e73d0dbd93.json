@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zervikale Radikulopathie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Erysipel"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kompartmentsyndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Herpes zoster"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Komplexes regionales Schmerzsyndrom"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (46) bei rechtsseitigen Unterarmschmerzen seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Sensibilitätsstörungen, eine Muskelschwäche, ein Exanthem und eine Hautschwellung am Ort der Schmerzen.<br /><br />Thoraxschmerzen, Schüttelfrost, Bauchschmerzen, Nackenschmerzen und Schulterschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "019ca8d8-910f-4e58-8ac8-c3e73d0dbd93",
+  "topic": "rheumatology"
+}

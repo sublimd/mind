@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ektropium"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hordeolum"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Blepharitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chalazion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Konjunktivaler Fremdkörper"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (80) bei einer Augenrötung.<br /><br />Zusätzlich berichtet der Patient über wässrigen Ausfluss aus dem Auge und Juckreiz.<br /><br />Sehstörungen, Augenschmerzen, Rhinorrhoe, Fieber, übermässiger Tränenfluss, eine Augenschwellung und ein Fremdkörpergefühl im Auge werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 30py (10 Zigaretten täglich während 60 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "9fd625c4-0e39-43ca-9cb9-4732f01945f0",
+  "topic": "general-internal-medicine"
+}

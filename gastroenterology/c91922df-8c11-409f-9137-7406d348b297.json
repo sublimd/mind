@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Verschluckter Fremdkörper</i> besser erklärt sind: Erbrechen, Thoraxschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie, Husten, Fieber, Schüttelfrost, Rhinorrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Laryngitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Verschluckter Fremdkörper</i> besser erklärt sind: Erbrechen, Thoraxschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Fieber, Schüttelfrost, vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Verschluckter Fremdkörper</i> besser erklärt sind: Erbrechen, Odynophagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gastroösophageale Refluxkrankheit</i> erhöhen würden: Bauchschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Gastroösophageale Refluxkrankheit</i> erhöhen würden: Übermässiger Alkoholkonsum, Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Gastroösophageale Refluxkrankheit",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Gastro%C3%B6sophageale_Refluxkrankheit"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Verschluckter Fremdkörper</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Diffuser Oesophagusspasmus</i> erhöhen würden: saures Aufstossen, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Diffuser Oesophagusspasmus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Diffuser_%C3%96sophagusspasmus"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Verschluckter Fremdkörper",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (6) bei Dysphagie seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Erbrechen, Thoraxschmerzen und Odynophagie.<br /><br />Fieber, ein allgemeines Schwächegefühl, Husten, retrosternales Brennen, saures Aufstossen, ein Gewichtsverlust, Bauchschmerzen und ein Appetitverlust werden verneint.",
+  "id": "c91922df-8c11-409f-9137-7406d348b297",
+  "topic": "gastroenterology"
+}

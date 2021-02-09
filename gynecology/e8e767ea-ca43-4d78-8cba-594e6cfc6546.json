@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Pelvic Inflammatory Disease</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Pelvic Inflammatory Disease</i> besser erklärt sind: Menstruationsbeschwerden, Vaginaler Ausfluss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Corpus luteum Zyste</i> erhöhen würden: Rückenschmerzen, Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Corpus luteum Zyste",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Pelvic Inflammatory Disease</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Tuboovarialabszess",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Pelvic Inflammatory Disease</i> besser erklärt sind: Vaginaler Ausfluss, Probleme beim Geschlechtsverkehr</li></ul>",
+      "isCorrect": false,
+      "label": "Funktionelle Zyste des Ovars",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Pelvic Inflammatory Disease",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pelvic_inflammatory_disease"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Pelvic Inflammatory Disease</i> besser erklärt sind: Probleme beim Geschlechtsverkehr</li></ul>",
+      "isCorrect": false,
+      "label": "Uterusmyom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Uterusmyom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (34) bei Bauchschmerzen im Unterbauch seit sieben Tagen.<br /><br />Zusätzlich berichtet die Patientin über Menstruationsbeschwerden, vaginalen Ausfluss und Probleme beim Geschlechtsverkehr.<br /><br />Die Patientin gibt an unter Schmerzen während dem Geschlechtsverkehr zu leiden.<br /><br />Sexuelle Aktivität und Kontakt zu mehreren Sexualpartnern in den letzten Monaten werden bejaht.<br /><br />Nausea, Erbrechen, Fieber, Diarrhoe, Obstipation, Dysurie, Rückenschmerzen, eine Urininkontinenz und Ausbleiben der Periode werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 12py (30 Zigaretten täglich während 8 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "e8e767ea-ca43-4d78-8cba-594e6cfc6546",
+  "topic": "gynecology"
+}

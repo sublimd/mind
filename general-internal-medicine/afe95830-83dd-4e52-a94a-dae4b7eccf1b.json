@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Laryngitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Viraler Infekt der oberen Atemwege"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Masern"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Rhinosinusitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (39) bei Rhinorrhoe seit einer Woche.<br /><br />Im Zusammenhang mit der Rhinorrhoe sei es ausserdem zu einer nasalen Obstruktion gekommen.<br /><br />Zusätzlich berichtet der Patient über Husten, Halsschmerzen, Fieber und Gliederschmerzen.<br /><br />Epistaxis oder Kopfschmerzen im Zusammenhang mit der Rhinorrhoe werden verneint. <br /><br />Dyspnoe, Niesen, eine Augenrötung, Thoraxschmerzen, Hautveränderungen, Dysphagie, Diarrhoe, Appetitverlust und vergrösserte Lymphknoten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 8py (20 Zigaretten täglich während 8 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "afe95830-83dd-4e52-a94a-dae4b7eccf1b",
+  "topic": "general-internal-medicine"
+}

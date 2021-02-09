@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Otitis externa circumscripta",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Otitis externa circumscripta</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Otitis externa circumscripta</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mastoiditis</i> erhöhen würden: Leistungsabfall, Müdigkeit, allgemeines Schwächegefühl, Fieber, Hautschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Mastoiditis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mastoiditis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Otitis externa circumscripta</i> besser erklärt sind: Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische Otitis media",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Otitis externa circumscripta</i> besser erklärt sind: Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Otitis media",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Otitis externa circumscripta</i> besser erklärt sind: Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Seromukotympanon",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Seromukotympanon"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (35) bei Ausfluss aus dem rechten Ohr.<br /><br />Zusätzlich berichtet die Patientin über Ohrenschmerzen seit drei Tagen sowie Pruritus im Ohr und eine leichte Hörminderung.<br /><br />Fieber, Schwindel und Tinnitus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Sekt und Spirituosen).",
+  "id": "b48fd99e-668b-4537-bdeb-b3ca61087f6e",
+  "topic": "ear-nose-and-throat"
+}

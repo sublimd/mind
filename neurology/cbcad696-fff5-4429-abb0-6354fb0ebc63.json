@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Alzheimer-Demenz</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirntumor</i> erhöhen würden: Kopfschmerzen, Schwindel, Krampfanfall, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Hirntumor",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hirntumor"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Gedächtnisstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Alzheimer-Demenz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Alzheimer-Demenz"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Gedächtnisstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hyperkalzämie",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Hyperparathyroidismus</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Gedächtnisstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperparathyroidismus</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperparathyroidismus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperparathyreoidismus"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (72) bei Gedächtnisstörungen.<br /><br />Zusätzlich berichtet der Patient über eine Verwirrtheit seit zwei Monaten sowie eine depressive Verstimmung und Angstzustände.<br /><br />Kopfschmerzen, Lähmungserscheinungen, Bauchschmerzen, Dysurie, ein Harnverhalt, Polyurie, ein Appetitverlust und ein vermehrtes Durstgefühl werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein).",
+  "id": "cbcad696-fff5-4429-abb0-6354fb0ebc63",
+  "topic": "neurology"
+}

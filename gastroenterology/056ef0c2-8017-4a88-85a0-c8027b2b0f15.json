@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Ulcus ventriculi</i> besser erklärt sind: Hämatemesis</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Dyspnoe, Schwindel, Hyperhidrose, Armschmerzen, Schulterschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Nikotinabusus, Arterielle Hypertonie, Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Myokardinfarkt"
+    },
+    {
+      "explanation": "<ul><li><i>Akute Cholezystitis</i> kommt häufiger bei weiblichen Patienten vor</li><li>Symptome, welche durch <i>Ulcus ventriculi</i> besser erklärt sind: Hämatemesis</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Akute Cholezystitis</i> erhöhen würden: Fieber, Appetitverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Cholezystitis"
+    },
+    {
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Verschluckter Fremdkörper</i> erhöhen würden: Dysphagie, Thoraxschmerzen, Odynophagie</li></ul>",
+      "isCorrect": false,
+      "label": "Verschluckter Fremdkörper"
+    },
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Ulcus ventriculi</i> besser erklärt sind: Hämatemesis</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Mesenterialinfarkt</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Mesenterialinfarkt"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ulcus ventriculi"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (62) bei Bauchschmerzen im Oberbauch seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über Nausea und Hämatemesis.<br /><br />Erbrechen, Fieber, Diarrhoe, ein Appetitverlust, Obstipation, Dyspnoe, ein Gewichtsverlust, Thoraxschmerzen, Hämatochezie, Meläna und Dysphagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "056ef0c2-8017-4a88-85a0-c8027b2b0f15",
+  "topic": "gastroenterology"
+}

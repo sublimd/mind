@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Struma</i> erhöhen würden: Halsschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Struma",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Struma"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypothyreose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypothyreose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypothyreose</i> besser erklärt sind: erektile Dysfunktion, Dyspnoe, Kälteintoleranz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypothyreose</i> besser erklärt sind: Obstipation, erektile Dysfunktion, Kälteintoleranz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>COPD Exazerbation</i> erhöhen würden: Husten</li></ul>",
+      "isCorrect": false,
+      "label": "COPD Exazerbation",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypothyreose</i> besser erklärt sind: Obstipation, erektile Dysfunktion, Kälteintoleranz</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenemphysem",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenemphysem"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (47) bei einer Kälteintoleranz.<br /><br />Zusätzlich berichtet der Patient über Obstipation seit vier Wochen sowie eine vermehrte Müdigkeit, eine erektile Dysfunktion und Dyspnoe.<br /><br />Die Müdigkeit sei am Mittag am stärksten ausgeprägt.<br /><br />Vergrösserte Lymphknoten, eine Halsschwellung, Palpitationen, eine Schwellung der Unterschenkel, Bauchschmerzen, Kopfschmerzen, Nausea und Erbrechen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 39py (30 Zigaretten täglich während 26 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "33e46f94-98f9-40fb-99d0-2aa93760c85e",
+  "topic": "endocrinology"
+}

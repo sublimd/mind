@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen, Gelenkschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene atypische Pneumonie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Exazerbation eines Asthma bronchiale"
+    },
+    {
+      "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Struma</i> erhöhen würden: Halsschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Struma"
+    },
+    {
+      "explanation": "<ul><li><i>Akute Exazerbation eines Asthma bronchiale</i> ist häufiger</li></ul>",
+      "isCorrect": false,
+      "label": "Mitralklappen-Stenose"
+    },
+    {
+      "explanation": "<ul><li><i>Akute Exazerbation eines Asthma bronchiale</i> ist häufiger</li></ul>",
+      "isCorrect": false,
+      "label": "Interstitielle Lungenerkrankung"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (28) bei Dyspnoe seit fünf Tagen.<br /><br />Es komme jeweils zu einem Pfeifen beim Atmen.<br /><br />Zusätzlich berichtet der Patient über Husten.<br /><br />Thoraxschmerzen, eine allgemeine Müdigkeit, Fieber, Kopfschmerzen, Orthopnoe, vergrösserte Lymphknoten, eine Halsschwellung und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "7d332be3-132d-49e1-acc3-0d444dc7fc28",
+  "topic": "pneumology"
+}

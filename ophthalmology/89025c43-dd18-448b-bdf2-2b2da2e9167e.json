@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Augentrockenheit</li></ul>",
+      "isCorrect": false,
+      "label": "Konjunktivaler Fremdkörper",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Übermässiger Tränenfluss</li></ul>",
+      "isCorrect": false,
+      "label": "Pinguecula",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pinguecula"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Entropium",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Entropium"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Fremdkörpergefühl im Auge, übermässiger Tränenfluss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Idiopathische Fazialisparese</i> erhöhen würden: Muskelschwäche, hängendes Augenlid, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Idiopathische Fazialisparese",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fazialisparese"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Übermässiger Tränenfluss</li></ul>",
+      "isCorrect": false,
+      "label": "Pterygium",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pterygium_conjunctivae"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (71) bei übermässigem Tränenfluss.<br /><br />Zusätzlich berichtet der Patient über ein linksseitiges Fremdkörpergefühl im Auge seit sechs Tagen sowie Augentrockenheit.<br /><br />Eine Augenrötung, Sehstörungen, Augenschmerzen, Juckreiz in den Augen, eine Augenschwellung, Rhinorrhoe, eine Mundtrockenheit, eine Hörminderung und Kopfschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "89025c43-dd18-448b-bdf2-2b2da2e9167e",
+  "topic": "ophthalmology"
+}

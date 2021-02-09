@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Virale Konjunktivitis</i> besser erklärt sind: Halsschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Augenschwellung, Niesen</li></ul>",
+      "isCorrect": false,
+      "label": "Allergische Rhinokonjunktivitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Allergische_Rhinokonjunktivitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Virale Konjunktivitis</i> besser erklärt sind: Juckreiz im Auge, Halsschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chalazion</i> erhöhen würden: Augenschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Chalazion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chalazion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Virale Konjunktivitis</i> besser erklärt sind: Juckreiz im Auge, Halsschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
+      "isCorrect": false,
+      "label": "Akute bakterielle Konjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Virale Konjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Virale Konjunktivitis</i> besser erklärt sind: Juckreiz im Auge, Halsschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Augenschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Hordeolum",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hordeolum"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (42) bei einer Augenrötung.<br /><br />Zusätzlich berichtet die Patientin über wässrigen Ausfluss aus dem Auge, Juckreiz, Sehstörungen, Halsschmerzen und einen subkutanen Knoten bzw. Lymphknoten.<br /><br />Eine Augenschwellung, Augenschmerzen, Rhinorrhoe, Fieber und Niesen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "1321b5ce-c415-468c-93ae-13aa9eb6f849",
+  "topic": "ophthalmology"
+}

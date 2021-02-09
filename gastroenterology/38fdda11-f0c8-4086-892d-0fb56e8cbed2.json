@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperkalzämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pneumatosis cystoides intestinalis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Paralytischer Ileus"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Koprostase"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei Obstipation seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Bauchschmerzen, Blähungen, Nausea und einen Appetitverlust.<br /><br /> Abdominale Eingriffe und ein kürzliches Abdominaltrauma werden verneint. <br /><br />Erbrechen, ein vermehrtes Durstgefühl, Polyurie und Nykturie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 57py (30 Zigaretten täglich während 38 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "38fdda11-f0c8-4086-892d-0fb56e8cbed2",
+  "topic": "gastroenterology"
+}

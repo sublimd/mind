@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rippenserienfraktur"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Exazerbation eines Asthma bronchiale"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "COPD Exazerbation"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Thymom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pneumothorax"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (50) bei Dyspnoe seit acht Tagen.<br /><br />Zusätzlich berichtet der Patient über Dysphagie, Thoraxschmerzen, Husten, eine Schwellung im Gesicht und an den Armen.<br /><br />Schwindel, Fieber, Synkopen und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "a1717b2a-cfd3-4ea0-a8c0-c469b78a27fd",
+  "topic": "general-internal-medicine"
+}

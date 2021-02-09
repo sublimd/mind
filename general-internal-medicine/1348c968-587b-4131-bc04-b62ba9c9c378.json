@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Thalassämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Orthostatische Dysregulation"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hypoglykämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Migräne"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute generalisierte Angststörung"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (29) bei Schwindel seit zwei Tagen.<br /><br />Verstärkung des Schwindels nach schnellem Aufstehen. Linderung des Schwindels beim sich Hinlegen.<br /><br />Zusätzlich berichtet der Patient über Nausea und Palpitationen.<br /><br />Dyspnoe, Kopfschmerzen, eine kürzlicher Bewusstseinsverlust, Tachykardien, Sensibilitätsstörungen, eine Hörminderung, Sehstörungen und Ausfluss aus dem Ohr werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "1348c968-587b-4131-bc04-b62ba9c9c378",
+  "topic": "general-internal-medicine"
+}

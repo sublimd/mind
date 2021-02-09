@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Hypermetropie</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Virale Konjunktivitis</i> erhöhen würden: Augenrötung, Juckreiz im Auge, Fieber, Halsschmerzen, Odynophagie, Rhinorrhoe, nasale Obstruktion, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Konjunktivitis"
+    },
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Hypermetropie</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Augenrötung, Juckreiz im Auge, Augenschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Allergien bekannt</li></ul>",
+      "isCorrect": false,
+      "label": "Allergische Konjunktivitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypermetropie"
+    },
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Hypermetropie</i> besser erklärt sind: Ausfluss aus dem Auge</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie, Nausea, Erbrechen, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne"
+    },
+    {
+      "explanation": "<ul><li>Das Alter ist untypisch für <i>Presbyopie</i></li></ul>",
+      "isCorrect": false,
+      "label": "Presbyopie"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (23) bei Sehstörungen seit einem Jahr.<br /><br />Der Patient beschreibt ein Verschwommensehen.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen und wässrigen Ausfluss aus dem Auge.<br /><br /> Allergien auf Umweltfaktoren (Pollen, Katzenhaare etc.) werden verneint. <br /><br />Eine Augenrötung, Augenschmerzen, eine Photophobie, Fieber und eine Phonophobie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein).",
+  "id": "7a3e5cca-3a6b-44cd-9d78-7f1cf85414d1",
+  "topic": "ophthalmology"
+}

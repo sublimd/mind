@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
+      "isCorrect": false,
+      "label": "Nierenkarzinom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Hautüberwärmung, Hautschwellung, vergrösserter Lymphknoten</li></ul>",
+      "isCorrect": false,
+      "label": "Erysipel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Benigner paroxysmaler Lagerungsschwindel</i> erhöhen würden: Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Benigner paroxysmaler Lagerungsschwindel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Benigner_paroxysmaler_Lagerungsschwindel"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Orthostatische Dysregulation</i> erhöhen würden: Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Orthostatische Dysregulation",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Orthostatische_Dysregulation"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Niereninfarkt",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Niereninfarkt"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (64) bei linksseitigen Flankenschmerzen seit zwölf Stunden.<br /><br />Zusätzlich berichtet der Patient über Nausea.<br /><br />Rückenschmerzen, Fieber, Dysurie, Hämaturie, Bauchschmerzen, Hautveränderungen, eine Beinschwellung und Schwindel werden verneint. <h2>Diagnoseliste</h2>- Vorhofflimmern<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",
+  "id": "99130c33-4d24-4421-bd72-36ce1b7be386",
+  "topic": "nephrology"
+}

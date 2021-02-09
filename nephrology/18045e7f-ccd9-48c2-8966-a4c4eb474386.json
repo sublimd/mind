@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische tubulointerstitielle Nephritis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Eiweissmangeloedem"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nierenkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Fokal segmentale Glomerulosklerose (FSGS)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Alport Syndrom"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (21) bei einer beidseitigen Unterschenkelschwellung seit fünf Tagen.<br /><br />Zusätzlich berichtet der Patient über Hämaturie.<br /><br />Eine Therapie mit Analgetika und die kürzliche Verwendung von Antibiotika wird verneint.<br /><br />Wadenschmerzen, Hautveränderungen, Dyspnoe, ein Appetitverlust, eine Hautüberwärmung, Nausea, erhöhte Blutdruckwerte, Rückenschmerzen und eine Hörminderung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 1py (10 Zigaretten täglich während 1 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt). Drogen: Regelmässiger Konsum von Heroin.",
+  "id": "18045e7f-ccd9-48c2-8966-a4c4eb474386",
+  "topic": "nephrology"
+}

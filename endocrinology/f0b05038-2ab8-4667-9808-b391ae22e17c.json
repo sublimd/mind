@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschmerzen, Halsschwellung, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschwellung, Appetitverlust, Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Subakute granulomatöse Thyreoiditis de Quervain",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschwellung, Appetitverlust, Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschwellung, Appetitverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Schwellung der Unterschenkel bzw. der Beine, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Myokarditis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (58) bei Fieber.<br /><br />Zusätzlich berichtet die Patientin über Halsschmerzen seit drei Wochen sowie eine vermehrte Müdigkeit, eine schmerzhafte Halsschwellung, Gliederschmerzen, einen Appetitverlust und Palpitationen (Ausstrahlung des Herzschlags).<br /><br />Die Palpitationen würden jeweils für mehrere Sekunden anhalten.<br /><br />Odynophagie, Husten, Kopfschmerzen, vergrösserte Lymphknoten, Rhinorrhoe, Schüttelfrost und Dysphonie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "f0b05038-2ab8-4667-9808-b391ae22e17c",
+  "topic": "endocrinology"
+}

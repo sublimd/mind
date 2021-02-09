@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Tracheitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Eosinophile Granulomatose mit Polyangiitis (EGPA)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Influenza"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Nokardiose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sarkoidose"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (25) bei Fieber seit sieben Tagen.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Dyspnoe, Husten, Thoraxschmerzen, Nachtschweiss und Hämoptoe.<br /><br />Verstärkung der Thoraxschmerzen durch tiefe Inspiration.<br /><br />Ein Immundefekt wird bejaht.<br /><br />Bauchschmerzen, Diarrhoe, Odynophagie, Kopfschmerzen, Rhinorrhoe, Gliederschmerzen, Flankenschmerzen, Dysurie und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 2py (10 Zigaretten täglich während 4 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "34db03fc-360b-4be7-94f4-1bfcb267fec5",
+  "topic": "infectiology"
+}

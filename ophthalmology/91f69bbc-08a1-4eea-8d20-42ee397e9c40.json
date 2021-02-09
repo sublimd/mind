@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Myopie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myopie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Myopie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prolaktinom</i> erhöhen würden: Kopfschmerzen, erektile Dysfunktion</li></ul>",
+      "isCorrect": false,
+      "label": "Prolaktinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Prolaktinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Myopie</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Keratokonus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Keratokonus"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Generalisierter epileptischer Anfall</i> erhöhen würden: Krampfanfall, Bewusstseinsverlust, Synkope, Verwirrtheit</li></ul>",
+      "isCorrect": false,
+      "label": "Generalisierter epileptischer Anfall",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Sarkoidose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sarkoidose"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei Sehstörungen seit fünf Monaten.<br /><br />Der Patient beschreibt ein Verschwommensehen.<br /><br />Kopfschmerzen, eine Augenrötung, ein kürzlicher Bewusstseinsverlust, Augenschmerzen, eine Photophobie, Fieber und Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 13py (10 Zigaretten täglich während 26 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "91f69bbc-08a1-4eea-8d20-42ee397e9c40",
+  "topic": "ophthalmology"
+}

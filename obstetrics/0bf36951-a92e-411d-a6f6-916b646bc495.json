@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schwangerschaft</i> besser erklärt sind: Ausbleiben der Periode</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost, vaginaler Ausfluss, Dysurie</li></ul>",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pelvic_inflammatory_disease"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schwangerschaft</i> besser erklärt sind: Nausea, vaginale Blutung</li></ul>",
+      "isCorrect": false,
+      "label": "Funktionelle Zyste des Ovars",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Schwangerschaft",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schwangerschaft"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Schwangerschaft</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Extrauterine Gravidität (EUG)</i> erhöhen würden: Bauchschmerzen, Dysurie, Pollakisurie</li></ul>",
+      "isCorrect": false,
+      "label": "Extrauterine Gravidität (EUG)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Extrauteringravidit%C3%A4t"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schwangerschaft</i> besser erklärt sind: Nausea, vaginale Blutung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperprolaktinämie</i> erhöhen würden: unerfüllter Kinderwunsch, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperprolaktinämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperprolaktin%C3%A4mie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (26) bei einem Ausbleiben der Periode.<br /><br />Zusätzlich berichtet die Patientin über Nausea und unerwartete vaginale Blutungen.<br /><br />Die Patientin schliesst die Möglichkeit einer Schwangerschaft nicht aus.<br /><br />Probleme beim Geschlechtsverkehr, eine allgemeine Müdigkeit, Schüttelfrost, Fieber und Menstruationsbeschwerden werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "0bf36951-a92e-411d-a6f6-916b646bc495",
+  "topic": "obstetrics"
+}

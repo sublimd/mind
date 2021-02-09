@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Gastritis"
+    },
+    {
+      "explanation": "<ul><li>Symptome, welche durch <i>Gastritis</i> besser erklärt sind: Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Funktionelle Dyspepsie"
+    },
+    {
+      "explanation": "<ul><li><i>Gastritis</i> ist häufiger</li><li>Symptome, welche durch <i>Gastritis</i> besser erklärt sind: Blähungen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: allgemeines Schwächegefühl, Leistungsabfall, Ikterus, Rückenschmerzen, Diarrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: Nikotinabusus</li></ul>",
+      "isCorrect": false,
+      "label": "Pankreaskarzinom"
+    },
+    {
+      "explanation": "<ul><li><i>Gastritis</i> ist häufiger</li><li>Symptome, welche durch <i>Gastritis</i> besser erklärt sind: Blähungen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Ikterus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Alkoholische Steatohepatitis"
+    },
+    {
+      "explanation": "<ul><li><i>Gastritis</i> ist häufiger</li><li>Symptome, welche durch <i>Gastritis</i> besser erklärt sind: Blähungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ulcus ventriculi</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Ulcus ventriculi"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (64) bei brennenden Bauchschmerzen epigastrisch seit zehn Tagen.<br /><br />Zusätzlich berichtet die Patientin über Nausea, Erbrechen, einen Appetitverlust, einen Gewichtsverlust und Blähungen.<br /><br />Fieber, Diarrhoe, Obstipation, ein Ikterus, vaginaler Ausfluss, Rückenschmerzen, saures Aufstossen, Hämatochezie, Hämatemesis und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 x im Monat, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "341da5d4-8345-41b7-87e9-a43f6df8dc6e",
+  "topic": "gastroenterology"
+}

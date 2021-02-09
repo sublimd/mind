@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Neuritis vestibularis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Neuritis_vestibularis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
+      "isCorrect": false,
+      "label": "Benigner paroxysmaler Lagerungsschwindel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Benigner_paroxysmaler_Lagerungsschwindel"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
+      "isCorrect": false,
+      "label": "Reisekrankheit",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Reisekrankheit"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
+      "isCorrect": false,
+      "label": "Orthostatische Dysregulation",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Orthostatische_Dysregulation"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Kopfschmerzen, Photophobie, Phonophobie</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (26) bei Schwindel seit drei Tagen.<br /><br />Zusätzlich berichtet der Patient über Nausea und eine Ataxie.<br /><br />Kopfschmerzen, ein kürzlicher Bewusstseinsverlust, eine Hörminderung, Sehstörungen und Ausfluss aus dem Ohr werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 15py (30 Zigaretten täglich während 10 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "df6ac4f3-d1db-4fc7-bc05-ec7070b857bc",
+  "topic": "neurology"
+}

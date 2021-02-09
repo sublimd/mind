@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Granulomatose mit Polyangiitis</i> besser erklärt sind: Rhinorrhoe und Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenkarzinom</i> erhöhen würden: Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Granulomatose mit Polyangiitis</i> besser erklärt sind: Rhinorrhoe, Hautveränderungen, Nachtschweiss</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Rippenserienfraktur</i> erhöhen würden: Kürzliches Thoraxtrauma</li></ul>",
+      "isCorrect": false,
+      "label": "Rippenserienfraktur",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rippenserienfraktur"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Granulomatose mit Polyangiitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Granulomatose_mit_Polyangiitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Granulomatose mit Polyangiitis</i> besser erklärt sind: Rhinorrhoe, Hautveränderungen, Nachtschweiss</li></ul>",
+      "isCorrect": false,
+      "label": "Chronisch obstruktive Lungenkrankheit (COPD)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronisch_obstruktive_Lungenkrankheit"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Granulomatose mit Polyangiitis</i> besser erklärt sind: Rhinorrhoe, Hautveränderungen, Nachtschweiss</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Exazerbation eines Asthma bronchiale",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (58) bei Husten seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Rhinorrhoe, Dyspnoe, Thoraxschmerzen, eine Hautveränderung und Nachtschweiss.<br /><br /> Ein kürzliches Thoraxtrauma wird verneint. <br /><br />Fieber, eine allgemeine Müdigkeit, Gliederschmerzen, Hämoptoe, Kopfschmerzen, Dysphonie, ein Gewichtsverlust, Gelenkschmerzen, eine Schwellung der Unterschenkel, saures Aufstossen und Hämaturie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 60py (30 Zigaretten täglich während 40 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "9bb639bc-ada8-4936-8c8e-3f984e36d6c1",
+  "topic": "immunology"
+}

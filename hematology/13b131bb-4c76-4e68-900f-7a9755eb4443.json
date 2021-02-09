@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Akute disseminierte intravasale Gerinnung (DIC)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Nausea, Bauchschmerzen, Erbrechen, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Thrombotisch-thrombozytopenische_Purpura"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Immunthrombozytopenie (ITP)</i> erhöhen würden: Kopfschmerzen, Bewusstseinsverlust, Dysarthrie</li></ul>",
+      "isCorrect": false,
+      "label": "Immunthrombozytopenie (ITP)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Immunthrombozytopenie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute disseminierte intravasale Gerinnung (DIC)",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute disseminierte intravasale Gerinnung (DIC)</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erythema nodosum</i> erhöhen würden: Schwellung der Beine</li></ul>",
+      "isCorrect": false,
+      "label": "Erythema nodosum",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Erythema_nodosum"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute disseminierte intravasale Gerinnung (DIC)</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myelodysplastisches Syndrom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Myelodysplastisches Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myelodysplastisches_Syndrom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (47) bei Nasenbluten aus beiden Nasenlöchern.<br /><br />Zusätzlich berichtet die Patientin über eine erythematöse Hautveränderung seit einem Tag sowie Fieber und eine vermehrte Müdigkeit.<br /><br />Als möglicher Auslöser der Hautveränderung berichtet die Patientin von einem Insektenstich.<br /><br />Die Müdigkeit sei am Mittag am stärksten ausgeprägt.<br /><br />Kopfschmerzen, Bauchschmerzen, Dyspnoe, Nausea, Pruritus, Oligurie, eine Hautschwellung und kutane Knötchen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Sekt und Spirituosen).",
+  "id": "13b131bb-4c76-4e68-900f-7a9755eb4443",
+  "topic": "hematology"
+}

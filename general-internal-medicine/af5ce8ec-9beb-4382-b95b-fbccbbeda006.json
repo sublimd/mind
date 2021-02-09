@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Polycythämia vera"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Cor pulmonale"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Perikardtamponade"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (53) bei Dyspnoe seit fünf Monaten.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Schwindel, Thoraxschmerzen, eine beidseitige Unterschenkelschwellung und eine Synkope.<br /><br />Husten, Fieber, Kopfschmerzen, eine Gewichtszunahme, Appetitverlust, Nachtschweiss und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "af5ce8ec-9beb-4382-b95b-fbccbbeda006",
+  "topic": "general-internal-medicine"
+}

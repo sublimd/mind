@@ -1,0 +1,41 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Diabetische Ketoazidose</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Bauchschmerzen, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Diabetische Ketoazidose",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Läsion des N. radialis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Nackenschmerzen, kürzliches Trauma</li></ul>",
+      "isCorrect": false,
+      "label": "Distorsionstrauma der Halswirbelsäule",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypomagnesiämie</i> erhöhen würden: Tremor, Muskelkrämpfe, Gliederschmerzen, Krampfanfall, Verwirrtheit</li></ul>",
+      "isCorrect": false,
+      "label": "Hypomagnesiämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypomagnesi%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperosmolare hyperglykämische Entgleisung",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (75) bei Sensibilitätsstörungen im Bereich der rechten oberen Extremität seit sieben Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Muskelschwäche.<br /><br />Operationen in den letzten drei Monaten werden bejaht.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Rückenschmerzen, Erbrechen, Krampfanfälle, Polyurie und ein vermehrtes Durstgefühl werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 30py (10 Zigaretten täglich während 60 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "278ed66a-e31e-4343-8186-fcb07df73945",
+  "topic": "neurology"
+}

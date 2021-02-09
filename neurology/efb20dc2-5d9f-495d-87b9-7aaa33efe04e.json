@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Knochenmetastasen"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lumbale Spinalkanalstenose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lumbovertebrales Syndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Knochentumor"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Transverse Myelitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (63) bei lumbalen Rückenschmerzen seit drei Tagen.<br /><br />Zunahme der Rückenschmerzen bei Bewegung. Linderung der Rückenschmerzen beim Sitzen bzw. beim nach vorne Beugen.<br /><br />Zusätzlich berichtet der Patient über Sensibilitätsstörungen und eine Muskelschwäche an der unteren Extremität beidseits sowie Beinschmerzen.<br /><br />Hüftschmerzen, Fieber, eine Urininkontinenz, eine Stuhlinkontinenz, Dysurie, ein Harnverhalt, Gesässschmerzen und Flankenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "efb20dc2-5d9f-495d-87b9-7aaa33efe04e",
+  "topic": "neurology"
+}

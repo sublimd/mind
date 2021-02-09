@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische myeloische Leukämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Goodpasture-Syndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Exogen-allergische Alveolitis (chronisch)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mitralklappen-Insuffizienz"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (80) bei Hämoptoe seit zehn Tagen.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe, Husten, Hämaturie und ein allgemeines Schwächegefühl.<br /><br />Fieber, Thoraxschmerzen, ein Gewichtsverlust, Rhinorrhoe, Oligurie und Halsschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "554cb1d4-75d9-43fc-b0f6-0066a31b0619",
+  "topic": "nephrology"
+}

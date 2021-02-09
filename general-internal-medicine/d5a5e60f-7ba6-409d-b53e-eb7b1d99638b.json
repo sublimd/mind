@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperemesis gravidarum"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Nierenschädigung"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Verschluckter Fremdkörper"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Hepatitis B-Infektion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Diabetische Ketoazidose"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (39) bei Erbrechen seit drei Tagen.<br /><br />Die Patientin berichtet schwanger zu sein.<br /><br />Bauchschmerzen, Diarrhoe, Schwindel, Appetitverlust, Obstipation, ein Gewichtsverlust, Pruritus und Dysphagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 24py (30 Zigaretten täglich während 16 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "d5a5e60f-7ba6-409d-b53e-eb7b1d99638b",
+  "topic": "general-internal-medicine"
+}

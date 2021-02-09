@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperparathyroidismus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperparathyreoidismus"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Anämie im Rahmen chronischer Erkrankung",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Diarrhoe, Bauchschmerzen, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Colitis ulcerosa",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Colitis_ulcerosa"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mikrozyt%C3%A4re_An%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Müdigkeit, Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rektozele</i> erhöhen würden: Rückenschmerzen, Stuhlinkontinenz</li></ul>",
+      "isCorrect": false,
+      "label": "Rektozele",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rektozele"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (43) bei Obstipation seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit und Palpitationen.<br /><br />Bauchschmerzen, Nausea, Erbrechen, Diarrhoe, Lähmungserscheinungen, Tachykardien, eine Stuhlinkontinenz und Schwindel werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "496a0e6c-5193-4b22-97b9-1c9bca199787",
+  "topic": "endocrinology"
+}

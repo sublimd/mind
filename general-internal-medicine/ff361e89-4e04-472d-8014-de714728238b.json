@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Thrombosierte Hämorrhoide"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "M. Crohn"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Analkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Marisken"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Analfissur"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (22) bei analem Juckreiz seit acht Tagen.<br /><br />Anale Schmerzen, Hämatochezie, Bauchschmerzen, Obstipation und Diarrhoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "ff361e89-4e04-472d-8014-de714728238b",
+  "topic": "general-internal-medicine"
+}

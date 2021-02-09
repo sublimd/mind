@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Hepatitis A-Infektion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Hepatitis C-Infektion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Exogen-allergische Alveolitis (chronisch)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenfibrose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "M. Meulengracht"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (34) bei einer vermehrten Müdigkeit seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über einen Ikterus und einen Gewichtsverlust.<br /><br />Die Patientin berichtet über ungeschützten Geschlechtsverkehr in der Vergangenheit.<br /><br />Dyspnoe, Fieber, Schlafstörungen, Husten, Bauchschmerzen, ein Appetitverlust, Hautveränderungen und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "73c2480c-b83e-40d0-bdfc-351fda3e2171",
+  "topic": "gastroenterology"
+}

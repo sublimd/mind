@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Rhinosinusitis</i> besser erklärt sind: Nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Streptokokkentonsillitis</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie</li></ul>",
+      "isCorrect": false,
+      "label": "Streptokokkentonsillitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Rhinosinusitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sinusitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Rhinosinusitis</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Halsschmerzen, Odynophagie, Dyspnoe, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische Rhinosinusitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Akute Rhinosinusitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Akute Rhinosinusitis</i> besser erklärt sind: Nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Gliederschmerzen, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (70) bei erstmaligen frontalen Kopfschmerzen (bis VAS 8/10).<br /><br />Die aktuellen Kopfschmerzen hätten schleichend begonnen. Im Verlauf seien die Kopfschmerzen gleichbleibend. Die Kopfschmerzen hätten aktuell eine Intensität von VAS 4/10. Verschlimmerung der Kopfschmerzen beim Vorbeugen des Kopfes.<br /><br />Zusätzlich berichtet die Patientin über eine nasale Obstruktion seit drei Wochen sowie purulente, dickflüssige Rhinorrhoe aus beiden Nasenlöchern und Fieber.<br /><br />Eine allgemeine Müdigkeit, Dyspnoe, Dysphagie, Husten, Odynophagie, Tinnitus, eine Hörminderung, Gliederschmerzen, eine Hyposmie, Mundgeruch und Nasenbluten werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 65py (30 Zigaretten täglich während 43 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",
+  "id": "0659b8e8-fb7f-429c-8c74-115d8a6bb2f2",
+  "topic": "ear-nose-and-throat"
+}

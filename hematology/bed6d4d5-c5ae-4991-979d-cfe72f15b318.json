@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hodgkin Lymphom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chronische lymphatische Leukämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myelodysplastisches Syndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Morbus Castleman"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lues"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (15) bei einem subkutanen Knoten axillär seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit, Nachtschweiss, Fieber, einen Gewichtsverlust und Nasenbluten.<br /><br />Dysphagie, Pruritus, Dyspnoe, Husten und Nausea werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Kein Alkoholkonsum.",
+  "id": "bed6d4d5-c5ae-4991-979d-cfe72f15b318",
+  "topic": "hematology"
+}

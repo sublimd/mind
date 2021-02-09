@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Takayasu-Arteriitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Varikosis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Sprunggelenksarthrose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Karpaltunnelsyndrom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Fasciitis plantaris"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (37) bei Fersenschmerzen seit zehn Tagen.<br /><br />Eine Fussschwellung, eine Fusssteifigkeit, eine Fussrötung, Wadenschmerzen, und Fieber werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "86615832-8a71-4ba7-842d-d7c080e73e41",
+  "topic": "rheumatology"
+}

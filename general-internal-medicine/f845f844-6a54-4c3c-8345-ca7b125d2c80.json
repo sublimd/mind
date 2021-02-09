@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Herpes zoster"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Virale Gastroenteritis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Psoashämatom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Koprostase"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (68) bei Bauchschmerzen seit fünf Tagen.<br /><br />Zusätzlich berichtet die Patientin über Fieber und Tachykardien.<br /><br />Eine Therapie mit blutverdünnenden Medikamenten wird bejaht.<br /><br />Nausea, Erbrechen, Diarrhoe, Obstipation, Hämatochezie, Meläna, vaginaler Ausfluss, Appetitverlust und Hautveränderungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Kein Alkoholkonsum.",
+  "id": "f845f844-6a54-4c3c-8345-ca7b125d2c80",
+  "topic": "general-internal-medicine"
+}

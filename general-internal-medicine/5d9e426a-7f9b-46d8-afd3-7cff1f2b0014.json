@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Laryngitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Schilddrüsenkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Laryngitis subglottica (Pseudokrupp)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Epiglottitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Aspirationspneumonie"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (68) bei Dysphonie seit fünf Tagen.<br /><br />Zusätzlich berichtet der Patient über Husten mit Auswurf, Halsschmerzen, Dyspnoe und einen vergrösserten Lymphknoten im Halsbereich.<br /><br />Dysphagie, Odynophagie, Fieber, eine allgemeine Müdigkeit, Gliederschmerzen, Rhinorrhoe, Tachykardien, ein Gewichtsverlust und eine Halsschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "5d9e426a-7f9b-46d8-afd3-7cff1f2b0014",
+  "topic": "general-internal-medicine"
+}

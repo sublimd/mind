@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Darmpolypen</i> besser erklärt sind: Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Bakterielle Enteritis</i> erhöhen würden: Fieber, Bauchschmerzen, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Bakterielle Enteritis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Darmpolypen",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Darmpolypen</i> besser erklärt sind: Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Perianalthrombose</i> erhöhen würden: anale Schmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Perianalthrombose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Perianalthrombose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Kürzliche Reisen in tropische Regionen</li></ul>",
+      "isCorrect": false,
+      "label": "Typhus abdominalis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Darmpolypen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: anale Schmerzen, analer Juckreiz</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Analkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Analkarzinom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (73) bei Hämatochezie seit fünf Wochen.<br /><br />Zusätzlich berichtet der Patient über Obstipation und Diarrhoe.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Anale Schmerzen, Bauchschmerzen, Fieber, ein Gewichtsverlust und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "103958ce-382c-4c2f-a500-414e126f6b96",
+  "topic": "gastroenterology"
+}

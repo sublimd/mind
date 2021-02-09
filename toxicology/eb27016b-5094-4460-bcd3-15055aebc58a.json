@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Alkohol-Intoxikation</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hyperkalzämie",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Alkohol-Intoxikation</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion</li></ul>",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelallergie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Alkohol-Intoxikation</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Bauchschmerzen, Appetitverlust, Gewichtsverlust, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hepatotoxizität",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Alkohol-Intoxikation</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Tremor, Hyperhidrose, Nachtschweiss, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hypoglykämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoglyk%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Alkohol-Intoxikation",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Alkoholintoxikation"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (44) bei einem Bewusstseinsverlust seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Nausea.<br /><br /> Eine Therapie mit Analgetika wird verneint. <br /><br />Eine Verwirrtheit, Schwindel, Bauchschmerzen, Hautveränderungen und Pruritus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "eb27016b-5094-4460-bcd3-15055aebc58a",
+  "topic": "toxicology"
+}

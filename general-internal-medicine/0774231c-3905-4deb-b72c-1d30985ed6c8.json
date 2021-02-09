@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Darmpolypen"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Analkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rektalprolaps"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bakterielle Enteritis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Typhus abdominalis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (51) bei Hämatochezie seit vier Wochen.<br /><br />Zusätzlich berichtet die Patientin über intermittierende Obstipation und Diarrhoe.<br /><br />Anale Schmerzen, Bauchschmerzen, Fieber, Erbrechen, ein Gewichtsverlust und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "0774231c-3905-4deb-b72c-1d30985ed6c8",
+  "topic": "general-internal-medicine"
+}

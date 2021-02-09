@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute spinale Ischämie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Nackenschmerzen (Myalgie)"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Aneurysma der Arteria carotis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Zervikale Spondylose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Distorsionstrauma der Halswirbelsäule"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (79) bei Nackenschmerzen seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über eine Muskelschwäche und Sensibilitätsstörungen an der unteren Extremität beidseits.<br /><br />Kopfschmerzen, Schwindel, eine Hautschwellung, Fieber, Thoraxschmerzen, vergrösserte Lymphknoten und eine Halsschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Sekt und Spirituosen).",
+  "id": "234bba9b-e3fa-472a-88b4-6f3ba07540cc",
+  "topic": "rheumatology"
+}

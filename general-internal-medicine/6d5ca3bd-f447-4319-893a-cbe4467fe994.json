@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Diabetische Ketoazidose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperosmolare hyperglykämische Entgleisung"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Muschelvergiftung"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hyperglykämisches Koma"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hirnmetastasen"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (46) bei Odynophagie seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über eine Muskelschwäche, Dyspnoe, Sensibilitätsstörungen, Ataxie, Schwindel und Nausea.<br /><br />Der Konsum von ungewöhlichen Nahrungsmitteln wird bejaht.<br /><br />Fieber, vergrösserte Lymphknoten, Rhinorrhoe, Husten, Kopfschmerzen, Synkopen, Polyurie und ein vermehrtes Durstgefühl werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "6d5ca3bd-f447-4319-893a-cbe4467fe994",
+  "topic": "general-internal-medicine"
+}

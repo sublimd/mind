@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hüftdysplasie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Psoashämatom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Inguinalhernie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hüftkontusion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Coxarthrose"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (19) bei linksseitigen Leistenschmerzen seit einem halben Jahr.<br /><br />Zusätzlich berichtet der Patient über lumbale Rückenschmerzen.<br /><br />Eine Therapie mit blutverdünnenden Medikamenten wird verneint. Ein kürzliches Trauma wird verneint. <br /><br />Eine Hüftsteifigkeit, Fieber, Bauchschmerzen, Hodenschmerzen, Dysurie, Flankenschmerzen und eine Beinschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",
+  "id": "4c6f110d-97bd-461f-8fb7-f68848a83e23",
+  "topic": "rheumatology"
+}

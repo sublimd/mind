@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Akute Otitis media</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mastoiditis</i> erhöhen würden: Leistungsabfall, Müdigkeit, allgemeines Schwächegefühl, Hautschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Mastoiditis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mastoiditis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Otitis media</i> besser erklärt sind: Ausfluss aus dem Ohr</li></ul>",
+      "isCorrect": false,
+      "label": "Cerumen obturans",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Otitis media",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Otitis media</i> besser erklärt sind: Ausfluss aus dem Ohr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Kopfschmerzen, Gesichtsschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Rhinosinusitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sinusitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul></ul>",
+      "isCorrect": false,
+      "label": "Chronische Otitis media",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (23) bei rechtsseitigen Ohrenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über eine Hörminderung und Ausfluss aus dem Ohr.<br /><br />Eine kürzliche Erkältung wird bejaht.<br /><br />Fieber, Hautveränderungen, Kopfschmerzen, Rhinorrhoe, Schwindel und Tinnitus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "32be779e-a30b-4f4a-86d8-efb62ac19056",
+  "topic": "ear-nose-and-throat"
+}

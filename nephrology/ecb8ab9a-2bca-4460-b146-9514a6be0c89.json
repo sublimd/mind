@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ulcus molle"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Varicocele testis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hodentorsion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Spermatozele"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hodenkarzinom (Non-Seminom)"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (64) bei Hodenschmerzen seit fünf Stunden.<br /><br />Zusätzlich berichtet der Patient über eine Hodenschwellung, Nausea, Fieber und Leistenschmerzen.<br /><br />Bauchschmerzen, Flankenschmerzen, Hämaturie, Rückenschmerzen und eine erektile Dysfunktion werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "ecb8ab9a-2bca-4460-b146-9514a6be0c89",
+  "topic": "nephrology"
+}

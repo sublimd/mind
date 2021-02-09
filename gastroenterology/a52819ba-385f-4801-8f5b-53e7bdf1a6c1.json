@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Darmpolypen"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Bakterielle Enteritis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Koprostase"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Typhus abdominalis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (55) bei Hämatochezie seit einem Monat.<br /><br />Zusätzlich berichtet der Patient über Obstipation und Diarrhoe im Wechsel.<br /><br /> Kontakt mit kontaminiertem Wasser und Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Bauchschmerzen, Fieber, Nausea, ein Gewichtsverlust und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "a52819ba-385f-4801-8f5b-53e7bdf1a6c1",
+  "topic": "gastroenterology"
+}

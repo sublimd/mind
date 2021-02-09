@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rückfallfieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/R%C3%BCckfallfieber"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Bauchschmerzen, Diarrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Bauchschmerzen, Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Dysphagie, Halsschmerzen, Odynophagie, vergrösserter Lymphknoten bzw. subkutaner Knoten, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit, mehrere Sexualpartner, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Bauchschmerzen, Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute virale Meningitis</i> erhöhen würden: Nackensteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Akute virale Meningitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Gliederschmerzen, Hautveränderungen, Verwirrtheit</li></ul>",
+      "isCorrect": false,
+      "label": "Salmonellen-Enteritis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Salmonellenenteritis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (21) bei Fieber seit neun Tagen.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen, Bauchschmerzen, Gliederschmerzen, Nausea, Diarrhoe, eine Hautveränderung und eine Verwirrtheit.<br /><br />Der Aufenthalt in Wäldern und Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br /> Ungeschützter Geschlechtsverkehr in der Vergangenheit und sexuelle Aktivität mit einem potenziell HIV-positiven Partner werden verneint. Der Erhalt von Bluttransfusionen wird verneint. <br /><br />Halsschmerzen, Odynophagie, Husten, Dysphagie, Dyspnoe, Flankenschmerzen, Dysurie, Schüttelfrost, Nackensteifigkeit und Rigor werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "3d5b56cc-e760-4679-91c4-0a4bdc970b87",
+  "topic": "infectiology"
+}

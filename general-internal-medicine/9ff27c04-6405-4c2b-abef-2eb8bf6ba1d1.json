@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Achalasie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Anorexia nervosa"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Salmonellen-Enteritis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ulcus ventriculi"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Gartner-Gang-Zyste"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (49) bei Bauchschmerzen im Oberbauch seit sieben Tagen.<br /><br />Zusätzlich berichtet der Patient über Nausea.<br /><br />Erbrechen, Fieber, Diarrhoe, Appetitverlust, Obstipation, ein Gewichtsverlust, Hämatochezie, Hämatemesis, Meläna, Flankenschmerzen und Schmerzen im Genitalbereich werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "9ff27c04-6405-4c2b-abef-2eb8bf6ba1d1",
+  "topic": "general-internal-medicine"
+}

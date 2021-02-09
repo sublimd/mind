@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hirnmetastasen"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Spannungskopfschmerzen"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Subarachnoidalblutung"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Trigeminusneuralgie"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (67) bei Kopfschmerzen parietal seit fünf Wochen.<br /><br />Zusätzlich berichtet der Patient über Nausea und Sensibilitätsstörungen.<br /><br />Eine Verwirrtheit, Krampfanfälle, Dysarthrie, Dysphagie, Sehstörungen, Fieber, Erbrechen, eine Photophobie, eine Phonophobie, Lähmungserscheinungen, eine kürzlicher Bewusstseinsverlust, Nackenschmerzen, Dyspnoe und Thoraxschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 57py (30 Zigaretten täglich während 38 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "26e29923-6748-4be4-9237-a64cfc695a6c",
+  "topic": "general-internal-medicine"
+}

@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Diabetische Ketoazidose</i> erhöhen würden: Nausea, Erbrechen, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Diabetische Ketoazidose",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Diabetes mellitus Typ 2</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Diabetes insipidus renalis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Diabetes_insipidus_renalis"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Diabetes mellitus Typ 2",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetes mellitus Typ 2</i> besser erklärt sind: Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tumorhyperkalzämie</i> erhöhen würden: Muskelschwäche, Nausea, Erbrechen, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Tumorhyperkalzämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Tumorhyperkalz%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetes mellitus Typ 2</i> besser erklärt sind: Nykturie, Gewichtsverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (59) bei Polyurie seit einem Monat.<br /><br />Zusätzlich berichtet der Patient über ein vermehrtes Durstgefühl, Nykturie, eine vermehrte Müdigkeit und einen Gewichtsverlust.<br /><br />Erbrechen, Nausea, Lähmungserscheinungen und Obstipation werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "e4ba4b7e-7c2f-4ffc-9e6d-9440e18bdb51",
+  "topic": "endocrinology"
+}

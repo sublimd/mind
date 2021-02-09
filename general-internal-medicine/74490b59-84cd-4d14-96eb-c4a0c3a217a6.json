@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Follikulitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lentigo simplex"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Molluscum contagiosum Infektion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Anaphylaktische Reaktion"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Stomatitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (30) bei einer Hautveränderung an den Lippen seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über Mundgeruch.<br /><br />Pruritus, eine Hautschwellung, Dyspnoe, Rhinorrhoe, eine Augenschwellung, Appetitverlust und Erhöhter Speichelfluss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "74490b59-84cd-4d14-96eb-c4a0c3a217a6",
+  "topic": "general-internal-medicine"
+}

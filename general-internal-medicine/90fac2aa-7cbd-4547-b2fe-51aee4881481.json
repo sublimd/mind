@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Mechanischer Ileus"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Corpus luteum Zyste"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Pneumatosis cystoides intestinalis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Kollagene Kolitis"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (42) bei Blähungen seit fünf Tagen.<br /><br />Bauchschmerzen, Diarrhoe, Erbrechen, ein Gewichtsverlust, Fieber, Pollakisurie und Hämatochezie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 16py (20 Zigaretten täglich während 16 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",
+  "id": "90fac2aa-7cbd-4547-b2fe-51aee4881481",
+  "topic": "general-internal-medicine"
+}

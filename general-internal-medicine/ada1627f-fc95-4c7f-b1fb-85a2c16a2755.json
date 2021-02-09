@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Otogene laterale Sinusvenenthrombose"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Pilz Meningitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hirnabszess"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hirnmetastasen"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (20) bei Kopfschmerzen seit einer Woche.<br /><br />Zusätzlich berichtet der Patient über Fieber, Nackenschmerzen und Dysarthrie.<br /><br />Bradykardien, Nausea, Erbrechen, eine Photophobie, eine Phonophobie, Lähmungserscheinungen, Sensibilitätsstörungen, Sehstörungen, Schwindel, Halsschmerzen, eine kürzlicher Bewusstseinsverlust und eine Hörminderung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 3 x / Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "ada1627f-fc95-4c7f-b1fb-85a2c16a2755",
+  "topic": "general-internal-medicine"
+}

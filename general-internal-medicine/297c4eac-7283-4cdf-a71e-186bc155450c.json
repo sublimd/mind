@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Okuläre Rosazea"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Intraokulärer Fremdkörper"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute bakterielle Keratitis"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akutes Winkelblockglaukom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Hornhautabrieb"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (67) bei Augenschmerzen seit einem Tag.<br /><br />Im Zusammenhang mit den Augenschmerzen sei es ausserdem zu Sehstörungen gekommen.<br /><br />Zusätzlich berichtet die Patientin über Fremdkörpergefühl im Auge und übermässigen Tränenfluss.<br /><br />Eine Augenrötung im Zusammenhang mit den Augenschmerzen wird verneint. <br /><br />Augentrockenheit, Augenschwellung und Juckreiz in den Augen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 20py (10 Zigaretten täglich während 39 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag.",
+  "id": "297c4eac-7283-4cdf-a71e-186bc155450c",
+  "topic": "general-internal-medicine"
+}

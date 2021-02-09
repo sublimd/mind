@@ -1,0 +1,32 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Lungenkarzinom"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Rupturiertes thorakales Aortenaneurysma"
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Vaping assoziierte Lungenverletzung"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Anaphylaktischer Schock"
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Myokardinfarkt"
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (64) bei Dyspnoe seit fünf Tagen.<br /><br />Zusätzlich berichtet der Patient über Husten, Thoraxschmerzen, Nausea, Fieber und Diarrhoe.<br /><br />Verstärkung der Thoraxschmerzen durch tiefe Inspiration.<br /><br />Tachykardien, Synkopen, niedrige Blutdruckwerte, Hämoptoe, Dysphonie und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 59py (30 Zigaretten täglich während 39 Jahren), seit 2 Jahren Konsum von E-Zigaretten. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "95fe5c43-3e9b-43f8-9c9b-db3d717de3a2",
+  "topic": "general-internal-medicine"
+}

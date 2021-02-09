@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Primäre Nebennierenrindeninsuffizienz (M. Addison)</i> besser erklärt sind: Hypotonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hepatotoxizität",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Bakterielle Endokarditis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Primäre Nebennierenrindeninsuffizienz (M. Addison)</i> besser erklärt sind: Hypotonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Bakterielle Endokarditis</i> erhöhen würden: Fieber, Schüttelfrost, Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Bakterielle Endokarditis</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Bakterielle Endokarditis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Primäre Nebennierenrindeninsuffizienz (M. Addison)</i> besser erklärt sind: Hypotonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hyperkalzämie",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Primäre Nebennierenrindeninsuffizienz (M. Addison)</i> besser erklärt sind: Hypotonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische tubulointerstitielle Nephritis</i> erhöhen würden: Pruritus, Oligurie, Polyurie, Schwellung der Unterschenkel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische tubulointerstitielle Nephritis</i> erhöhen würden: Verwendung von Analgetika, kürzliche Verwendung von Antibiotika</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische tubulointerstitielle Nephritis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Primäre Nebennierenrindeninsuffizienz (M. Addison)",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (76) bei einer vermehrten Müdigkeit seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Nausea, einen Appetitverlust und Hypotonie.<br /><br /> Eine Therapie mit Analgetika wird verneint. Die kürzliche Verwendung von Antibiotika wird verneint. <br /><br />Dyspnoe, Fieber, Schlafstörungen, Bauchschmerzen, eine Verwirrtheit, Polyurie, eine depressive Stimmung, eine Schwellung der Unterschenkel, Obstipation, Synkopen und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "48f42b98-a2bf-4d0c-90ad-589a845c2769",
+  "topic": "endocrinology"
+}
