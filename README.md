@@ -1,18 +1,31 @@
-<h1 align="center">MIND by sublimd</h1>
-
-<p align="center">
+<div align="center">
   <img src="https://sublimd.com/images/logo-mind-by-sublimd.png" alt="mind-by-sublimd-logo" width="150"/>
-  <br>
-  <i>MIND by sublimd sind medizinische Aufgaben für die Zugfahrt, zur Vorbereitung des Staatsexamens (eidgenössische Prüfung), einfach mal Zwischendurch oder als Fall-Beispiel für den Morgenrapport oder die Lunch-Weiterbildung.</i>
-  <br>
-</p>
+	<h1>MIND by sublimd</h1>
+	<p>
+		<strong>Das erste Quiz mit 100% algorithmisch erzeugten medizinischen Aufgaben</strong>
+	</p>
+  <p>
+    <a href="https://sublimd.com/de/mind"><strong>MIND by sublimd</strong></a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://sublimd.com/de/mind"><strong>MIND by sublimd</strong></a>
-  <br>
-</p>
+## Intro
 
-<hr>
+_MIND by sublimd_ sind medizinische Aufgaben für die Zugfahrt, zur Vorbereitung des Staatsexamens (eidgenössische Prüfung), einfach mal Zwischendurch oder als Fall-Beispiel für den Morgenrapport oder die Lunch-Weiterbildung.
+
+## Features
+
+* ✅ 500+ Fall-Vignetten
+* ✅ 23 Fachgebiete
+* ✅ Strukturierte Dateien im `JSON` Format
+
+## Feedback
+
+Hast du Feedback für uns? Sende uns eine [Nachricht](feedback@sublimd.com).
+
+## Credits
+
+Elmar, Eric, Marc, Reto und Thomas vom [sublimd](https://sublimd.com) Team.
 
 ## Lizenz
 
