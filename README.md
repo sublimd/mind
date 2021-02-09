@@ -21,7 +21,7 @@ _MIND by sublimd_ sind medizinische Aufgaben für die Zugfahrt, zur Vorbereitung
 
 ## Feedback
 
-Hast du Feedback für uns? Sende uns eine [Nachricht](feedback@sublimd.com).
+Hast du Feedback für uns? Sende uns eine [Nachricht](mailto:feedback@sublimd.com).
 
 ## Credits
 
