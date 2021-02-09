@@ -16,8 +16,10 @@ _MIND by sublimd_ sind medizinische Aufgaben für die Zugfahrt, zur Vorbereitung
 ## Features
 
 * ✅ 500+ Fall-Vignetten
-* ✅ 23 Fachgebiete
+* ✅ 23 medizinische Fachgebiete
 * ✅ Strukturierte Dateien im `JSON` Format
+* ✅ [Single Choice](https://de.wikipedia.org/wiki/Multiple_Choice#Unterschiedliche_Formate_und_Begrifflichkeiten): eine gültige Antwort aus 5 Möglichkeiten
+* ✅ Teilweise mit Erklärungen zur Lösung
 
 ## Feedback
 
