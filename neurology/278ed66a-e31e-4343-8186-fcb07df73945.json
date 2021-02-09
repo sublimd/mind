@@ -1,28 +1,24 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.diabeticKetoacidosis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Diabetische Ketoazidose</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Bauchschmerzen, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Diabetische Ketoazidose",
       "references": {}
     },
     {
-      "diagnosisId": "D.radialNerveLesion",
       "explanation": "",
       "isCorrect": true,
       "label": "Läsion des N. radialis",
       "references": {}
     },
     {
-      "diagnosisId": "D.whiplashInjury",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Nackenschmerzen, kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Distorsionstrauma der Halswirbelsäule",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypomagnesemia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypomagnesiämie</i> erhöhen würden: Tremor, Muskelkrämpfe, Gliederschmerzen, Krampfanfall, Verwirrtheit</li></ul>",
       "isCorrect": false,
       "label": "Hypomagnesiämie",
@@ -33,7 +29,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Hyperosmolare hyperglykämische Entgleisung",

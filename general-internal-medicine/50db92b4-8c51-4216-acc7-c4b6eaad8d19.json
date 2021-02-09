@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.polymyositis",
       "explanation": "",
       "isCorrect": false,
       "label": "Polymyositis"
     },
     {
-      "diagnosisId": "D.fibromyalgia",
       "explanation": "",
       "isCorrect": true,
       "label": "Fibromyalgie"
     },
     {
-      "diagnosisId": "D.lacticAcidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Laktatazidose"
     },
     {
-      "diagnosisId": "D.drugInducedMyopathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Myopathie"
     },
     {
-      "diagnosisId": "D.osteomalacia",
       "explanation": "",
       "isCorrect": false,
       "label": "Osteomalazie"

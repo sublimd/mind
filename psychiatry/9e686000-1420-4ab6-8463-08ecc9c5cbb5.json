@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hepaticEncephalopathy",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Verwirrtheit, Krampfanfall, Angstzustände</li></ul>",
       "isCorrect": false,
       "label": "Hepatische Enzephalopathie",
@@ -12,21 +11,18 @@
       }
     },
     {
-      "diagnosisId": "D.majorDepressiveEpisode",
       "explanation": "",
       "isCorrect": true,
       "label": "Ausgeprägte depressive Episode",
       "references": {}
     },
     {
-      "diagnosisId": "D.alcoholUseDisorder",
       "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Alkoholüberkonsum</i> erhöhen würden: retrosternales Brennen, Thoraxschmerzen, saures Aufstossen, erhöhter Blutdruck, Angstzustände</li></ul>",
       "isCorrect": false,
       "label": "Alkoholüberkonsum",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhter Blutdruck, erektile Dysfunktion, Schwellung der Unterschenkel, Schwellung der Beine, Hautschwellung, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
       "isCorrect": false,
       "label": "Cushing Syndrom",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Schlafstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",

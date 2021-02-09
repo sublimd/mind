@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Block II°, Mobitz II</i> erhöhen würden: Bradykardien, Synkope</li></ul>",
       "isCorrect": false,
       "label": "AV-Block II°, Mobitz II",
       "references": {}
     },
     {
-      "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
       "explanation": "<ul></ul>",
       "isCorrect": false,
       "label": "Anämie im Rahmen chronischer Erkrankung",
       "references": {}
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Eisenmangelanämie",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.ventricularSeptalDefect",
       "explanation": "<ul><li><i>Eisenmangelanämie</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Ventrikelseptumdefekt (VSD)‎",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.aorticInsufficiency",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aortenklappen-Insuffizienz</i> erhöhen würden: Palpitationen, Tachykardien, Orthopnoe, Husten, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Aortenklappen-Insuffizienz",

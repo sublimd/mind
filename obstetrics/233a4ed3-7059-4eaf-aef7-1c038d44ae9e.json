@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.preeclampsia",
       "explanation": "",
       "isCorrect": true,
       "label": "Präeklampsie"
     },
     {
-      "diagnosisId": "D.rightSidedHeartFailure",
       "explanation": "<ul><li>Symptome, welche durch <i>Präeklampsie</i> besser erklärt sind: erhöhter Blutdruck, Schwindel</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Rechtsherzinsuffizienz</i> erhöhen würden: Dyspnoe, Nykturie</li></ul>",
       "isCorrect": false,
       "label": "Rechtsherzinsuffizienz"
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "<ul><li>Symptome, welche durch <i>Präeklampsie</i> besser erklärt sind: Schwindel</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Menstruationsbeschwerden, Ausbleiben der Periode, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Cushing Syndrom"
     },
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "<ul><li>Symptome, welche durch <i>Präeklampsie</i> besser erklärt sind: Schwellung der Beine, Gewichtszunahme</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Kopfschmerzen, Dyspnoe, Orthopnoe, Thoraxschmerzen, Bauchschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Bekannte arterielle Hypertonie, Nikotinabusus</li></ul>",
       "isCorrect": false,
       "label": "Hypertensiver Notfall"
     },
     {
-      "diagnosisId": "D.hypertensiveNephrosclerosis",
       "explanation": "<ul><li>Symptome, welche durch <i>Präeklampsie</i> besser erklärt sind: Gewichtszunahme, Schwindel</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Hypertensive Nephropathie</i> erhöhen würden: Nausea, Erbrechen, Appetitverlust, Geschmacksstörung, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Nephropathie</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Hypertensive Nephropathie"

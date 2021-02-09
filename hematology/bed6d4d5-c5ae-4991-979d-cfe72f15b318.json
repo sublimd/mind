@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hodgkinLymphoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Hodgkin Lymphom"
     },
     {
-      "diagnosisId": "D.chronicLymphaticLeukemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronische lymphatische Leukämie"
     },
     {
-      "diagnosisId": "D.myelodysplasticSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Myelodysplastisches Syndrom"
     },
     {
-      "diagnosisId": "D.castlemanDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Morbus Castleman"
     },
     {
-      "diagnosisId": "D.lues",
       "explanation": "",
       "isCorrect": false,
       "label": "Lues"

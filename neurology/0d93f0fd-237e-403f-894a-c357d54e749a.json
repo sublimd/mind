@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.radialNerveLesion",
       "explanation": "",
       "isCorrect": true,
       "label": "Läsion des N. radialis"
     },
     {
-      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperosmolare hyperglykämische Entgleisung"
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage3",
       "explanation": "",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 3"
     },
     {
-      "diagnosisId": "D.carotidArteryAneurysm",
       "explanation": "",
       "isCorrect": false,
       "label": "Aneurysma der Arteria carotis"
     },
     {
-      "diagnosisId": "D.comaDiabeticum",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperglykämisches Koma"

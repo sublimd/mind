@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "",
       "isCorrect": false,
       "label": "Typhus abdominalis"
     },
     {
-      "diagnosisId": "D.chikungunyaFever",
       "explanation": "",
       "isCorrect": false,
       "label": "Chikungunya Fieber"
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose"
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "",
       "isCorrect": true,
       "label": "Lyme Borreliose Stadium 1"
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "HIV-Primoinfektion"

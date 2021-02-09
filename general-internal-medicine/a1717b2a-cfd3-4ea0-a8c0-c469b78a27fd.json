@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.serialRibFracture",
       "explanation": "",
       "isCorrect": false,
       "label": "Rippenserienfraktur"
     },
     {
-      "diagnosisId": "D.acuteAsthma",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Exazerbation eines Asthma bronchiale"
     },
     {
-      "diagnosisId": "D.copdExacerbation",
       "explanation": "",
       "isCorrect": false,
       "label": "COPD Exazerbation"
     },
     {
-      "diagnosisId": "D.thymoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Thymom"
     },
     {
-      "diagnosisId": "D.pneumothorax",
       "explanation": "",
       "isCorrect": false,
       "label": "Pneumothorax"

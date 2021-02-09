@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.drugInducedHypercalcemia",
       "explanation": "<ul><li><i>Alkohol-Intoxikation</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hyperkalzämie",
       "references": {}
     },
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "<ul><li><i>Alkohol-Intoxikation</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion</li></ul>",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie",
@@ -19,14 +17,12 @@
       }
     },
     {
-      "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "<ul><li><i>Alkohol-Intoxikation</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Bauchschmerzen, Appetitverlust, Gewichtsverlust, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hepatotoxizität",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypoglykemia",
       "explanation": "<ul><li><i>Alkohol-Intoxikation</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Tremor, Hyperhidrose, Nachtschweiss, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Hypoglykämie",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.alcoholIntoxication",
       "explanation": "",
       "isCorrect": true,
       "label": "Alkohol-Intoxikation",

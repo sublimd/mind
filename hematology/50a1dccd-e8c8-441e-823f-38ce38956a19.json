@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.multipleMyeloma",
       "explanation": "<ul><li><i>Makrozytäre Anämie</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Multiples Myelom",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.pulmonaryEmphysema",
       "explanation": "<ul><li>Probleme, welche durch <i>Makrozytäre Anämie</i> besser erklärt sind: Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lungenemphysem",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": true,
       "label": "Makrozytäre Anämie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Schwellung der Unterschenkel</li></ul>",
       "isCorrect": false,
       "label": "Myokarditis",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteAsthma",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Exazerbation eines Asthma bronchiale</i> erhöhen würden: Dyspnoe, Husten</li></ul>",
       "isCorrect": false,
       "label": "Akute Exazerbation eines Asthma bronchiale",

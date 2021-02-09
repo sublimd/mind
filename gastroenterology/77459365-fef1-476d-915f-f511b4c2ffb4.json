@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hemorrhoids",
       "explanation": "",
       "isCorrect": false,
       "label": "Hämorrhoiden"
     },
     {
-      "diagnosisId": "D.analFissures",
       "explanation": "",
       "isCorrect": false,
       "label": "Analfissur"
     },
     {
-      "diagnosisId": "D.analAbscess",
       "explanation": "",
       "isCorrect": true,
       "label": "Analabszess"
     },
     {
-      "diagnosisId": "D.acuteProstatitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Prostatitis"
     },
     {
-      "diagnosisId": "D.proctitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Proktitis"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteHepatitisC",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Hepatitis C-Infektion"
     },
     {
-      "diagnosisId": "D.acuteHepatitisB",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Hepatitis B-Infektion"
     },
     {
-      "diagnosisId": "D.uremia",
       "explanation": "",
       "isCorrect": true,
       "label": "Urämisches Syndrom"
     },
     {
-      "diagnosisId": "D.acuteHepatitisA",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Hepatitis A-Infektion"
     },
     {
-      "diagnosisId": "D.primaryMyelofibrosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Primäre Myelofibrose (PMF)"

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lymphoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Lymphom",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.breastCancer",
       "explanation": "",
       "isCorrect": true,
       "label": "Mammakarzinom",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.breastAbscess",
       "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Brustabszess</i> erhöhen würden: Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Brustabszess",
       "references": {}
     },
     {
-      "diagnosisId": "D.breastCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
       "isCorrect": false,
       "label": "Brustzyste",
       "references": {}
     },
     {
-      "diagnosisId": "D.erysipelas",
       "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: Knoten in der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost, Schwellung der Beine</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Erysipel",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.bakersCystRuptured",
       "explanation": "",
       "isCorrect": false,
       "label": "Rupturierte Baker Zyste"
     },
     {
-      "diagnosisId": "D.abscess",
       "explanation": "",
       "isCorrect": true,
       "label": "Abszess"
     },
     {
-      "diagnosisId": "D.stasisDermatitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Stauungsekzem"
     },
     {
-      "diagnosisId": "D.cutaneousLeishmaniasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Kutane Leishmaniose"
     },
     {
-      "diagnosisId": "D.distalBicepsTendonTendinopathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Tendinitis der distalen Bizepssehne"

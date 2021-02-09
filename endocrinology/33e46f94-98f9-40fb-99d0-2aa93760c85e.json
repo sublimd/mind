@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.goiter",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Struma</i> erhöhen würden: Halsschwellung</li></ul>",
       "isCorrect": false,
       "label": "Struma",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypothyroidism",
       "explanation": "",
       "isCorrect": true,
       "label": "Hypothyreose",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypothyreose</i> besser erklärt sind: erektile Dysfunktion, Dyspnoe, Kälteintoleranz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Palpitationen, Tachykardien</li></ul>",
       "isCorrect": false,
       "label": "Hypokaliämie",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.copdExacerbation",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypothyreose</i> besser erklärt sind: Obstipation, erektile Dysfunktion, Kälteintoleranz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>COPD Exazerbation</i> erhöhen würden: Husten</li></ul>",
       "isCorrect": false,
       "label": "COPD Exazerbation",
       "references": {}
     },
     {
-      "diagnosisId": "D.pulmonaryEmphysema",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypothyreose</i> besser erklärt sind: Obstipation, erektile Dysfunktion, Kälteintoleranz</li></ul>",
       "isCorrect": false,
       "label": "Lungenemphysem",

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.osteomalacia",
       "explanation": "",
       "isCorrect": false,
       "label": "Osteomalazie",
@@ -15,25 +14,21 @@
       }
     },
     {
-      "diagnosisId": "D.hyperphosphatemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Hyperphosphatämie"
     },
     {
-      "diagnosisId": "D.hypocalcemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypokalzämie"
     },
     {
-      "diagnosisId": "D.chronicVenousInsufficiency",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronisch venöse Insuffizienz"
     },
     {
-      "diagnosisId": "D.hypomagnesemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypomagnesiämie"

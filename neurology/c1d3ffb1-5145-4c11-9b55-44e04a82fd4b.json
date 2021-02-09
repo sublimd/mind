@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.polymyalgiaRheumatica",
       "explanation": "<ul><li><i>Spannungstyp-Kopfschmerz</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Spannungstyp-Kopfschmerz</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polymyalgia rheumatica</i> erhöhen würden: Appetitverlust, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Polymyalgia rheumatica",
@@ -12,21 +11,18 @@
       }
     },
     {
-      "diagnosisId": "D.whiplashInjury",
       "explanation": "<ul><li><i>Spannungstyp-Kopfschmerz</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Sensibilitätsstörungen, Muskelschwäche</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Distorsionstrauma der Halswirbelsäule",
       "references": {}
     },
     {
-      "diagnosisId": "D.vertebralFracture",
       "explanation": "<ul><li>Probleme, welche durch <i>Spannungstyp-Kopfschmerz</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Wirbelkörperfraktur</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Wirbelkörperfraktur",
       "references": {}
     },
     {
-      "diagnosisId": "D.thoracicOutletSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Spannungstyp-Kopfschmerz</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thoracic Outlet Syndrome (TOS)</i> erhöhen würden: Schulterschmerzen, Armschmerzen, Sensibilitätsstörungen, Muskelschwäche</li></ul>",
       "isCorrect": false,
       "label": "Thoracic Outlet Syndrome (TOS)",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.tensionTypeHeadache",
       "explanation": "",
       "isCorrect": true,
       "label": "Spannungstyp-Kopfschmerz",

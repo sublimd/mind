@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.functionalCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperprolaktinämie</i> besser erklärt sind: unerfüllter Kinderwunsch, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Funktionelle Zyste des Ovars",
       "references": {}
     },
     {
-      "diagnosisId": "D.menopause",
       "explanation": "<ul><li>Das Alter der Patientin passt besser zu <i>Hyperprolaktinämie</i></li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Wärmeintoleranz, Nachtschweiss, Schlafstörungen, Probleme beim Geschlechtsverkehr, vaginaler Juckreiz</li></ul>",
       "isCorrect": false,
       "label": "Klimakterisches Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.tensionTypeHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperprolaktinämie</i> besser erklärt sind: unerfüllter Kinderwunsch, Menstruationsbeschwerden</li></ul>",
       "isCorrect": false,
       "label": "Spannungstyp-Kopfschmerz",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperprolactinemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Hyperprolaktinämie",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.uterinePolyp",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperprolaktinämie</i> besser erklärt sind: Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Korpuspolyp",

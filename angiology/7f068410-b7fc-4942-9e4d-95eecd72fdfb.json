@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.vertebralArteryDissection",
       "explanation": "",
       "isCorrect": true,
       "label": "Dissektion der Arteria vertebralis",
       "references": {}
     },
     {
-      "diagnosisId": "D.myopia",
       "explanation": "<ul><li>Probleme, welche durch <i>Dissektion der Arteria vertebralis</i> besser erklärt sind: Nackenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myopie</i> erhöhen würden: Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Myopie",
@@ -19,21 +17,18 @@
       }
     },
     {
-      "diagnosisId": "D.acuteBacterialMeningitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Meningitis</i> erhöhen würden: Nackensteifigkeit, Fieber, Verwirrtheit, Amnesie</li></ul>",
       "isCorrect": false,
       "label": "Akute bakterielle Meningitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.clavicleContusion",
       "explanation": "<ul><li>Probleme, welche durch <i>Dissektion der Arteria vertebralis</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kontusion der Clavicula</i> erhöhen würden: Schulterschmerzen, Hautschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Kontusion der Clavicula</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Kontusion der Clavicula",
       "references": {}
     },
     {
-      "diagnosisId": "D.dystonia",
       "explanation": "<ul><li>Probleme, welche durch <i>Dissektion der Arteria vertebralis</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie, Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Dystonie",

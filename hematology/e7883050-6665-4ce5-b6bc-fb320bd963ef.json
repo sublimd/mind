@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.rheumatoidArthritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Chronische myeloische Leukämie</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rheumatoide Arthritis</i> erhöhen würden: Handschmerzen, Handgelenksschmerzen, Gelenkschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Rheumatoide Arthritis",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "<ul><li><i>Nierenkarzinom</i> kommt häufiger bei männlichen Patienten vor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
       "isCorrect": false,
       "label": "Nierenkarzinom",
       "references": {}
     },
     {
-      "diagnosisId": "D.lues",
       "explanation": "<ul><li>Probleme, welche durch <i>Chronische myeloische Leukämie</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lues</i> erhöhen würden: offene Wunde, vergrösserte Lymphknoten, Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Lues",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicMyeloidLeukemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Chronische myeloische Leukämie",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.acutePyelonephritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Chronische myeloische Leukämie</i> besser erklärt sind: Nachtschweiss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Flankenschmerzen, Dysurie, Pollakisurie</li></ul>",
       "isCorrect": false,
       "label": "Akute Pyelonephritis",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.otogenicBrainAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Otogener Hirnabszess"
     },
     {
-      "diagnosisId": "D.otitisExternaDiffusa",
       "explanation": "",
       "isCorrect": true,
       "label": "Otitis externa diffusa"
     },
     {
-      "diagnosisId": "D.menieresDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "M. Menière"
     },
     {
-      "diagnosisId": "D.chronicOtitisMedia",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronische Otitis media"
     },
     {
-      "diagnosisId": "D.erysipelasOfExternalEar",
       "explanation": "",
       "isCorrect": false,
       "label": "Erysipel des Ohres"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Sarkoidose"
     },
     {
-      "diagnosisId": "D.chronicHypersensitivityPneumonitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Exogen-allergische Alveolitis (chronisch)"
     },
     {
-      "diagnosisId": "D.pulmonaryFibrosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenfibrose"
     },
     {
-      "diagnosisId": "D.lymphoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Lymphom"
     },
     {
-      "diagnosisId": "D.granulomatosisWithPolyangiitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Granulomatose mit Polyangiitis"

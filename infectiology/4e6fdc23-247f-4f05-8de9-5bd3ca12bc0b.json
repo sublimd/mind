@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sarkoidose"
     },
     {
-      "diagnosisId": "D.tularemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Tularämie"
     },
     {
-      "diagnosisId": "D.measles",
       "explanation": "",
       "isCorrect": true,
       "label": "Masern"
     },
     {
-      "diagnosisId": "D.zikaVirus",
       "explanation": "",
       "isCorrect": false,
       "label": "Zika Virus Infektion"
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "HIV-Primoinfektion"

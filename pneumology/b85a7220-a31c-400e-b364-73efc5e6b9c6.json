@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.measles",
       "explanation": "<ul><li><i>Viraler Infekt der oberen Atemwege</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Viraler Infekt der oberen Atemwege</i> besser erklärt sind: Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Masern</i> erhöhen würden: Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Masern",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "<ul><li>Probleme, welche durch <i>Viraler Infekt der oberen Atemwege</i> besser erklärt sind: Fieber, Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Nausea, Erbrechen, Bauchschmerzen, Diarrhoe, Blähungen, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.acuteLaryngitis",
       "explanation": "<ul><li><i>Viraler Infekt der oberen Atemwege</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Viraler Infekt der oberen Atemwege</i> besser erklärt sind: nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Akute Laryngitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "",
       "isCorrect": true,
       "label": "Viraler Infekt der oberen Atemwege",
       "references": {}
     },
     {
-      "diagnosisId": "D.allergicRhinitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Viraler Infekt der oberen Atemwege</i> besser erklärt sind: Fieber, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Allergische Rhinitis",

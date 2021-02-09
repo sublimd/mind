@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cerebralVenousSinusThrombosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Sinusvenenthrombose"
     },
     {
-      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
       "explanation": "",
       "isCorrect": false,
       "label": "Thrombotisch-thrombozytopenische Purpura (TTP)"
     },
     {
-      "diagnosisId": "D.hypoglykemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypoglykämie"
     },
     {
-      "diagnosisId": "D.subduralHematoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Subduralhämatom"
     },
     {
-      "diagnosisId": "D.anaphylacticShock",
       "explanation": "",
       "isCorrect": false,
       "label": "Anaphylaktischer Schock"

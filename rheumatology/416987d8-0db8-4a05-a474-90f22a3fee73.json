@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.spondylarthrosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Spondylarthrose"
     },
     {
-      "diagnosisId": "D.lumbarHerniatedDisc",
       "explanation": "",
       "isCorrect": true,
       "label": "Lumbale Diskushernie"
     },
     {
-      "diagnosisId": "D.uterineDescensus",
       "explanation": "",
       "isCorrect": false,
       "label": "Descensus uteri"
     },
     {
-      "diagnosisId": "D.placentaPrevia",
       "explanation": "",
       "isCorrect": false,
       "label": "Placenta praevia"
     },
     {
-      "diagnosisId": "D.rectocele",
       "explanation": "",
       "isCorrect": false,
       "label": "Rektozele"

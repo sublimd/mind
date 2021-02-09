@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.obstructiveSleepApneaSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Obstruktives Schlafapnoesyndrom (OSAS)"
     },
     {
-      "diagnosisId": "D.essentialHypertension",
       "explanation": "",
       "isCorrect": true,
       "label": "Essentielle Hypertonie"
     },
     {
-      "diagnosisId": "D.primaryHyperaldosteronism",
       "explanation": "",
       "isCorrect": false,
       "label": "Primärer Hyperaldosteronismus (Conn-Syndrom)"
     },
     {
-      "diagnosisId": "D.polycysticKidneyDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Polyzystische Nierenerkrankung (PKD)"
     },
     {
-      "diagnosisId": "D.renalArteryStenosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Nierenarterienstenose"

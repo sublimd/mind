@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.chondrocalcinosis",
       "explanation": "",
       "isCorrect": false,
       "label": "CPP-Kristall-Arthritis (Pseudogicht)"
     },
     {
-      "diagnosisId": "D.goutyArthritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Gichtarthritis"
     },
     {
-      "diagnosisId": "D.wristGanglion",
       "explanation": "",
       "isCorrect": true,
       "label": "Handgelenksganglion"
     },
     {
-      "diagnosisId": "D.psoriaticArthritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Psoriasis-Arthritis (PsA)"
     },
     {
-      "diagnosisId": "D.scapholunateDissociation",
       "explanation": "",
       "isCorrect": false,
       "label": "Skapholunäre Dissoziation"

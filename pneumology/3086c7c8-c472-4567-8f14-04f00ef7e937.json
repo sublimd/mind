@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lymphoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Lymphom"
     },
     {
-      "diagnosisId": "D.pulmonaryEmbolism",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenembolie"
     },
     {
-      "diagnosisId": "D.pseudoCroup",
       "explanation": "",
       "isCorrect": false,
       "label": "Laryngitis subglottica (Pseudokrupp)"
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "",
       "isCorrect": true,
       "label": "Ambulant erworbene atypische Pneumonie"
     },
     {
-      "diagnosisId": "D.brucellosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Brucellose"

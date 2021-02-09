@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.majorDepressiveEpisode",
       "explanation": "<ul><li>Probleme, welche durch <i>Alkoholüberkonsum</i> besser erklärt sind: retrosternales Brennen, erhöhter Blutdruck</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ausgeprägte depressive Episode</i> erhöhen würden: Gewichtsverlust, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li></ul>",
       "isCorrect": false,
       "label": "Ausgeprägte depressive Episode",
       "references": {}
     },
     {
-      "diagnosisId": "D.gastrooesophagealRefluxDisease",
       "explanation": "<ul><li>Probleme, welche durch <i>Alkoholüberkonsum</i> besser erklärt sind: Schlafstörungen, erhöhter Blutdruck, depressive Verstimmung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gastroösophageale Refluxkrankheit</i> erhöhen würden: Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Gastroösophageale Refluxkrankheit",
@@ -19,14 +17,12 @@
       }
     },
     {
-      "diagnosisId": "D.alcoholUseDisorder",
       "explanation": "",
       "isCorrect": true,
       "label": "Alkoholüberkonsum",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "<ul><li>Probleme, welche durch <i>Alkoholüberkonsum</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, Schwellung der Unterschenkel, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
       "isCorrect": false,
       "label": "Cushing Syndrom",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.obstructiveSleepApneaSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Alkoholüberkonsum</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Schnarchen</li></ul>",
       "isCorrect": false,
       "label": "Obstruktives Schlafapnoesyndrom (OSAS)",

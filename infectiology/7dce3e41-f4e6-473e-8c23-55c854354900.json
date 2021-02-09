@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.dengueFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Müdigkeit, Augenrötung, Diarrhoe, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Dengue Fieber",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "<ul><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Gliederschmerzen, Augenrötung, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Bauchschmerzen, Nausea, Erbrechen, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hepatotoxizität",
       "references": {}
     },
     {
-      "diagnosisId": "D.influenza",
       "explanation": "<ul><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Hautveränderungen, Augenrötung, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Kopfschmerzen, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Influenza",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.chikungunyaFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Müdigkeit, Augenrötung, Diarrhoe, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chikungunya Fieber</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Chikungunya Fieber",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.measles",
       "explanation": "",
       "isCorrect": true,
       "label": "Masern",

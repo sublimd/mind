@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteHepatitisA",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Hepatitis A-Infektion"
     },
     {
-      "diagnosisId": "D.uremia",
       "explanation": "",
       "isCorrect": true,
       "label": "Urämisches Syndrom"
     },
     {
-      "diagnosisId": "D.scabies",
       "explanation": "",
       "isCorrect": false,
       "label": "Scabies (Krätze)"
     },
     {
-      "diagnosisId": "D.liverCirrhosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Leberzirrhose"
     },
     {
-      "diagnosisId": "D.nonHodgkinLymphoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Non-Hodgkin Lymphom"

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.polycysticKidneyDisease",
       "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polyzystische Nierenerkrankung (PKD)</i> erhöhen würden: Erhöhter Blutdruck</li></ul>",
       "isCorrect": false,
       "label": "Polyzystische Nierenerkrankung (PKD)",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteKidneyInjury",
       "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Schwellung der Unterschenkel, Oligurie, Polyurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Akute Nierenschädigung",
@@ -23,14 +21,12 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "",
       "isCorrect": true,
       "label": "Nierenkarzinom",
       "references": {}
     },
     {
-      "diagnosisId": "D.immuneThrombocytopenia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Immunthrombozytopenie (ITP)</i> erhöhen würden: Zahnfleischbluten, Nasenbluten, Hautveränderungen, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Immunthrombozytopenie (ITP)",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.benignProstaticHyperplasia",
       "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prostatahyperplasie</i> erhöhen würden: Dysurie, Pollakisurie, Nykturie, Urininkontinenz</li></ul>",
       "isCorrect": false,
       "label": "Prostatahyperplasie",

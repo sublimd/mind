@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acutePyelonephritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Harnwegsinfekt</i> besser erklärt sind: Urininkontinenz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Flankenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute Pyelonephritis",
       "references": {}
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "",
       "isCorrect": true,
       "label": "Harnwegsinfekt",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Harnwegsinfekt</i> besser erklärt sind: Dysurie, Fieber, Urininkontinenz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Eisenmangelanämie",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.rhabdomyolysis",
       "explanation": "<ul><li><i>Harnwegsinfekt</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Harnwegsinfekt</i> besser erklärt sind: Urininkontinenz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rhabdomyolyse</i> erhöhen würden: Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Rhabdomyolyse",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "<ul><li>Probleme, welche durch <i>Harnwegsinfekt</i> besser erklärt sind: Müdigkeit, Urininkontinenz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Menstruationsbeschwerden, vaginale Blutung, Probleme beim Geschlechtsverkehr, vaginaler Ausfluss, urethraler Ausfluss</li></ul>",
       "isCorrect": false,
       "label": "Pelvic Inflammatory Disease",

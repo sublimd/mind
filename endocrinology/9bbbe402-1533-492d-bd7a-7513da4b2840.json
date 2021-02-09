@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypothyroidism",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypothyreose"
     },
     {
-      "diagnosisId": "D.pulmonaryValveStenosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Pulmonalklappenstenose"
     },
     {
-      "diagnosisId": "D.rightSidedHeartFailure",
       "explanation": "",
       "isCorrect": false,
       "label": "Rechtsherzinsuffizienz"
     },
     {
-      "diagnosisId": "D.hashimotoThyroiditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hashimoto Thyreoditis"
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "",
       "isCorrect": true,
       "label": "Cushing Syndrom"

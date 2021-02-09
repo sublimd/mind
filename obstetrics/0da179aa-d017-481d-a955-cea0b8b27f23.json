@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cervicalCarcinoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Zervixkarzinom"
     },
     {
-      "diagnosisId": "D.placentaPrevia",
       "explanation": "",
       "isCorrect": true,
       "label": "Placenta praevia"
     },
     {
-      "diagnosisId": "D.atrophicVaginitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Atrophe Vaginitis"
     },
     {
-      "diagnosisId": "D.stablePelvicRingFracture",
       "explanation": "",
       "isCorrect": false,
       "label": "Stabile Beckenringfraktur"
     },
     {
-      "diagnosisId": "D.gonococcalCervicitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Gonokokken-Zervizitis"

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.premenstrualSyndrome",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: Bauchschmerzen, depressive Stimmung, Angstzustände, Blähungen</li></ul>",
       "isCorrect": false,
       "label": "Prämenstruelles Syndrom",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.lumbarVertebralSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Lumbovertebrales Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.uterineMyoma",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Uterusmyom</i> erhöhen würden: Menstruationsbeschwerden, vaginale Blutung, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Uterusmyom",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.corpusLutealCyst",
       "explanation": "<ul><li><i>Lumbovertebrales Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Corpus luteum Zyste</i> erhöhen würden: Bauchschmerzen, Blähungen, Pollakisurie, Dysurie</li></ul>",
       "isCorrect": false,
       "label": "Corpus luteum Zyste",
       "references": {}
     },
     {
-      "diagnosisId": "D.rectocele",
       "explanation": "<ul><li><i>Lumbovertebrales Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rektozele</i> erhöhen würden: Obstipation, Stuhlinkontinenz</li></ul>",
       "isCorrect": false,
       "label": "Rektozele",

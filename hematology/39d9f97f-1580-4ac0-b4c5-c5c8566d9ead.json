@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteDisseminatedIntravascularCoagulation",
       "explanation": "<ul><li>Probleme, welche durch <i>Immunthrombozytopenie (ITP)</i> besser erklärt sind: Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute disseminierte intravasale Gerinnung (DIC)",
       "references": {}
     },
     {
-      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
       "explanation": "<ul><li><i>Immunthrombozytopenie (ITP)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Nausea, Bauchschmerzen, Erbrechen, Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.immuneThrombocytopenia",
       "explanation": "",
       "isCorrect": true,
       "label": "Immunthrombozytopenie (ITP)",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.liverCirrhosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Immunthrombozytopenie (ITP)</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Gewichtsverlust, Appetitverlust, Ikterus, Pruritus, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Leberzirrhose",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteMyeloidLeukemia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute myeloische Leukämie</i> erhöhen würden: Nachtschweiss</li></ul>",
       "isCorrect": false,
       "label": "Akute myeloische Leukämie",

@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.foreignBodyInConjunctiva",
       "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Augentrockenheit</li></ul>",
       "isCorrect": false,
       "label": "Konjunktivaler Fremdkörper",
       "references": {}
     },
     {
-      "diagnosisId": "D.pinguecula",
       "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Übermässiger Tränenfluss</li></ul>",
       "isCorrect": false,
       "label": "Pinguecula",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.entropion",
       "explanation": "",
       "isCorrect": true,
       "label": "Entropium",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.bellsPalsy",
       "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Fremdkörpergefühl im Auge, übermässiger Tränenfluss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Idiopathische Fazialisparese</i> erhöhen würden: Muskelschwäche, hängendes Augenlid, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Idiopathische Fazialisparese",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.pterygium",
       "explanation": "<ul><li>Probleme, welche durch <i>Entropium</i> besser erklärt sind: Übermässiger Tränenfluss</li></ul>",
       "isCorrect": false,
       "label": "Pterygium",

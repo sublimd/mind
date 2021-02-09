@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cervicalRadiculopathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Zervikale Radikulopathie"
     },
     {
-      "diagnosisId": "D.erysipelas",
       "explanation": "",
       "isCorrect": false,
       "label": "Erysipel"
     },
     {
-      "diagnosisId": "D.compartmentSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Kompartmentsyndrom"
     },
     {
-      "diagnosisId": "D.herpesZoster",
       "explanation": "",
       "isCorrect": false,
       "label": "Herpes zoster"
     },
     {
-      "diagnosisId": "D.complexRegionalPainSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Komplexes regionales Schmerzsyndrom"

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hyperthyroidism",
       "explanation": "<ul><li>Probleme, welche durch <i>Klimakterisches Syndrom</i> besser erklärt sind: Probleme beim Geschlechtsverkehr, vaginaler Juckreiz, Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Gewichtsverlust, Dyspnoe, Tremor, Diarrhoe</li></ul>",
       "isCorrect": false,
       "label": "Hyperthyreose",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.pheochromocytoma",
       "explanation": "<ul><li><i>Klimakterisches Syndrom</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Klimakterisches Syndrom</i> besser erklärt sind: Menstruationsbeschwerden, Nachtschweiss, Schmerzen beim Geschlechtsverkehr, vaginaler Juckreiz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Phäochromozytom</i> erhöhen würden: erhöhter Blutdruck</li></ul>",
       "isCorrect": false,
       "label": "Phäochromozytom",
@@ -23,14 +21,12 @@
       }
     },
     {
-      "diagnosisId": "D.menopause",
       "explanation": "",
       "isCorrect": true,
       "label": "Klimakterisches Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.gravesDisease",
       "explanation": "<ul><li><i>Klimakterisches Syndrom</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Klimakterisches Syndrom</i> besser erklärt sind: Menstruationsbeschwerden, Probleme beim Geschlechtsverkehr, vaginaler Juckreiz</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Gewichtsverlust, Dyspnoe, Tremor, Diarrhoe</li></ul>",
       "isCorrect": false,
       "label": "Morbus Basedow",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.prolactinoma",
       "explanation": "<ul><li><i>Klimakterisches Syndrom</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Klimakterisches Syndrom</i> besser erklärt sind: Wärmeintoleranz, Nachtschweiss, Schlafstörungen, vaginaler Juckreiz, Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prolaktinom</i> erhöhen würden: Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Prolaktinom",

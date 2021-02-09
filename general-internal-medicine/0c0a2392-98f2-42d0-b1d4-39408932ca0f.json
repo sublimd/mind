@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.gonarthrosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Gonarthrose"
     },
     {
-      "diagnosisId": "D.psoriaticArthritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Psoriasis-Arthritis (PsA)"
     },
     {
-      "diagnosisId": "D.overweight",
       "explanation": "",
       "isCorrect": false,
       "label": "Übergewicht"
     },
     {
-      "diagnosisId": "D.osgoodSchlatterDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Morbus Osgood-Schlatter"
     },
     {
-      "diagnosisId": "D.meniscusLesion",
       "explanation": "",
       "isCorrect": false,
       "label": "Meniskusläsion"

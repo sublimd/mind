@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.atelectasis",
       "explanation": "<ul><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Fieber</li></ul>",
       "isCorrect": false,
       "label": "Atelektase",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.pulmonaryTuberculosis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungentuberkulose</i> erhöhen würden: Hämoptoe, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lungentuberkulose",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "<ul><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Nausea, Erbrechen, Bauchschmerzen, Diarrhoe, Blähungen</li></ul>",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.pulmonaryAspiration",
       "explanation": "",
       "isCorrect": true,
       "label": "Aspirationspneumonie",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.pulmonaryEdema",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenödem</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li></ul>",
       "isCorrect": false,
       "label": "Lungenödem",

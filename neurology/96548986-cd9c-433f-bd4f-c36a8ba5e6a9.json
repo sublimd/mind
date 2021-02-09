@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.multipleSclerosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Multiple Sklerose"
     },
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "",
       "isCorrect": false,
       "label": "Hordeolum"
     },
     {
-      "diagnosisId": "D.hyphema",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyphäma"
     },
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sarkoidose"
     },
     {
-      "diagnosisId": "D.uveitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Uveitis"

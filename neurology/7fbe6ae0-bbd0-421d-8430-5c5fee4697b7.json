@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.bacterialKeratitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Kopfschmerzen, Muskelschwäche, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Keratitis</i> erhöhen würden: Augenschmerzen, Fremdkörpergefühl im Auge, Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Akute bakterielle Keratitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.clusterHeadache",
       "explanation": "",
       "isCorrect": true,
       "label": "Cluster-Kopfschmerz",
@@ -19,21 +17,18 @@
       }
     },
     {
-      "diagnosisId": "D.bacterialConjunctivitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Kopfschmerzen, Muskelschwäche, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Konjunktivitis</i> erhöhen würden: Augenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute bakterielle Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.foreignBodyInConjunctiva",
       "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Kopfschmerzen, Muskelschwäche, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Konjunktivaler Fremdkörper</i> erhöhen würden: Fremdkörpergefühl im Auge, Juckreiz im Auge, Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Konjunktivaler Fremdkörper",
       "references": {}
     },
     {
-      "diagnosisId": "D.viralConjunctivitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Cluster-Kopfschmerz</i> besser erklärt sind: Kopfschmerzen, Muskelschwäche, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Konjunktivitis</i> erhöhen würden: Juckreiz im Auge, Fieber, Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Virale Konjunktivitis",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.anteriorScleritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Skleritis anterior"
     },
     {
-      "diagnosisId": "D.dacryocystitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Dakryozystitis"
     },
     {
-      "diagnosisId": "D.ocularRosacea",
       "explanation": "",
       "isCorrect": false,
       "label": "Okuläre Rosazea"
     },
     {
-      "diagnosisId": "D.foreignBodyInConjunctiva",
       "explanation": "",
       "isCorrect": true,
       "label": "Konjunktivaler Fremdkörper"
     },
     {
-      "diagnosisId": "D.trichiasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Trichiasis"

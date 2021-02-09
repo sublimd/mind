@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.motionSickness",
       "explanation": "",
       "isCorrect": false,
       "label": "Reisekrankheit"
     },
     {
-      "diagnosisId": "D.vestibularMigraine",
       "explanation": "",
       "isCorrect": false,
       "label": "Vestibuläre Migräne"
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": false,
       "label": "Makrozytäre Anämie"
     },
     {
-      "diagnosisId": "D.orthostaticDysregulation",
       "explanation": "",
       "isCorrect": true,
       "label": "Orthostatische Dysregulation"
     },
     {
-      "diagnosisId": "D.vestibularNeuritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Neuritis vestibularis"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteHepatitisB",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Hepatitis B-Infektion"
     },
     {
-      "diagnosisId": "D.acuteHepaticFailure",
       "explanation": "",
       "isCorrect": false,
       "label": "Akutes Leberversagen"
     },
     {
-      "diagnosisId": "D.chronicHepatitisB",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronische Hepatitis B-Infektion"
     },
     {
-      "diagnosisId": "D.typhus",
       "explanation": "",
       "isCorrect": false,
       "label": "Typhus abdominalis"
     },
     {
-      "diagnosisId": "D.volvulus",
       "explanation": "",
       "isCorrect": true,
       "label": "Volvulus"

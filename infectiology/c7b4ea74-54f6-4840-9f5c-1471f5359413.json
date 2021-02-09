@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.abscess",
       "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde, Müdigkeit</li></ul>",
       "isCorrect": false,
       "label": "Abszess",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.lues",
       "explanation": "",
       "isCorrect": true,
       "label": "Lues",
@@ -23,14 +21,12 @@
       }
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Kopfschmerzen, Gliederschmerzen, Gelenkschmerzen, Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1",
       "references": {}
     },
     {
-      "diagnosisId": "D.decubitalUlcer",
       "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: vergrösserter Lymphknoten bzw. subkutaner Knoten, Fieber, Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Druckgeschwür</i> erhöhen würden: Hautschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Druckgeschwür</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Druckgeschwür",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.erysipelas",
       "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde, Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautüberwärmung, Hautschwellung, Schwellung der Beine</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Erysipel",

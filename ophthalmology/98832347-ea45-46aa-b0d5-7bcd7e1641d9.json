@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.subduralHematoma",
       "explanation": "<ul><li><i>Presbyopie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subduralhämatom</i> erhöhen würden: Bewusstseinsverlust, Synkope, Somnolenz, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subduralhämatom</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Subduralhämatom",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.vestibularMigraine",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vestibuläre Migräne</i> erhöhen würden: Schwindel, Photophobie, Phonophobie, Tinnitus, Hörminderung, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Vestibuläre Migräne",
       "references": {}
     },
     {
-      "diagnosisId": "D.subarachnoidHemorrhage",
       "explanation": "<ul><li><i>Presbyopie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Nackenschmerzen, Nackensteifigkeit, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Subarachnoidalblutung",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.presbyopia",
       "explanation": "",
       "isCorrect": true,
       "label": "Presbyopie",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.epiduralHematoma",
       "explanation": "<ul><li><i>Presbyopie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: Bewusstseinsverlust, Synkope, Somnolenz, Nausea, Erbrechen, Verwirrtheit, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Epiduralhämatom",

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.intracerebralHemorrhage",
       "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Bewusstseinsverlust, erhöhter Blutdruck, Muskelschwäche, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Kürzliches Schädeltrauma, bekannte arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Intrazerebrale Blutung",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Dysphagie, Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Migräne",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.wallenbergSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Wallenberg-Syndrom",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfBrain",
       "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirntumor</i> erhöhen würden: Krampfanfall, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Hirntumor",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.superiorVenaCavaSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> erhöhen würden: Dyspnoe, Hautschwellung, Armschwellung, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)",

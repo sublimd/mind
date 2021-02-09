@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.epididymitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Epididymitis"
     },
     {
-      "diagnosisId": "D.spermatocele",
       "explanation": "",
       "isCorrect": true,
       "label": "Spermatozele"
     },
     {
-      "diagnosisId": "D.inguinalHernia",
       "explanation": "",
       "isCorrect": false,
       "label": "Akuter Harnverhalt"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "",
       "isCorrect": false,
       "label": "Nierenkarzinom"
     },
     {
-      "diagnosisId": "D.testicularTorsion",
       "explanation": "",
       "isCorrect": false,
       "label": "Hodentorsion"

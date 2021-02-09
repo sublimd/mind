@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.diaphragmaticHernia",
       "explanation": "",
       "isCorrect": true,
       "label": "Hiatushernie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Fieber, Schüttelfrost, vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.diffuseEsophagealSpasm",
       "explanation": "<ul><li><i>Hiatushernie</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Diffuser Oesophagusspasmus",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.achalasia",
       "explanation": "<ul><li><i>Hiatushernie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Achalasie</i> erhöhen würden: Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Achalasie",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.streptococcalTonsillitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Streptokokkentonsillitis</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Streptokokkentonsillitis",

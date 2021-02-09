@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.subduralHematoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Subduralhämatom"
     },
     {
-      "diagnosisId": "D.subarachnoidHemorrhage",
       "explanation": "",
       "isCorrect": false,
       "label": "Subarachnoidalblutung"
     },
     {
-      "diagnosisId": "D.intracerebralHemorrhage",
       "explanation": "",
       "isCorrect": true,
       "label": "Intrazerebrale Blutung"
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "",
       "isCorrect": false,
       "label": "Migräne"
     },
     {
-      "diagnosisId": "D.concussion",
       "explanation": "",
       "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)"

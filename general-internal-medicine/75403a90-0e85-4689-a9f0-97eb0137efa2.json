@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteMyeloidLeukemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute myeloische Leukämie"
     },
     {
-      "diagnosisId": "D.castlemanDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Morbus Castleman"
     },
     {
-      "diagnosisId": "D.primaryMyelofibrosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Primäre Myelofibrose (PMF)"
     },
     {
-      "diagnosisId": "D.lues",
       "explanation": "",
       "isCorrect": false,
       "label": "Lues"
     },
     {
-      "diagnosisId": "D.hodgkinLymphoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Hodgkin Lymphom"

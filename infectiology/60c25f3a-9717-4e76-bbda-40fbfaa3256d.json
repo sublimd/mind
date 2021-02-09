@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.relapsingFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Rückfallfieber",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.bacterialEnteritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Rigor, Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Bakterielle Enteritis",
       "references": {}
     },
     {
-      "diagnosisId": "D.foodIntoxication",
       "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Kopfschmerzen, Gliederschmerzen, Rigor, Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Nahrungsmittelvergiftung",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.dengueFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Bauchschmerzen, Diarrhoe, Rigor</li></ul>",
       "isCorrect": false,
       "label": "Dengue Fieber",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.viralGastroenteritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Rigor, Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Virale Gastroenteritis",

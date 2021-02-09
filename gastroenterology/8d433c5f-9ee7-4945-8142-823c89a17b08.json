@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.gastricUlcer",
       "explanation": "<ul><li>Probleme, welche durch <i>Medikamenteninduzierte Hepatotoxizität</i> besser erklärt sind: Müdigkeit, Fieber</li></ul>",
       "isCorrect": false,
       "label": "Ulcus ventriculi",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "",
       "isCorrect": true,
       "label": "Medikamenteninduzierte Hepatotoxizität",
       "references": {}
     },
     {
-      "diagnosisId": "D.cholangitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Cholangitis",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteAppendicitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Appendizitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.drugInducedHypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Medikamenteninduzierte Hepatotoxizität</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hyperkalzämie",

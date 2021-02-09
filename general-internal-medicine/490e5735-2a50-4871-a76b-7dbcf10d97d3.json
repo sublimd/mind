@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.epicondylitisLateralis",
       "explanation": "",
       "isCorrect": true,
       "label": "Epicondylitis humeri lateralis"
     },
     {
-      "diagnosisId": "D.looseBodiesElbow",
       "explanation": "",
       "isCorrect": false,
       "label": "Freie Gelenkkörper im Ellbogen"
     },
     {
-      "diagnosisId": "D.ankylosingSpondilitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Spondylitis ankylosans"
     },
     {
-      "diagnosisId": "D.distalBicepsTendonTendinopathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Tendinitis der distalen Bizepssehne"
     },
     {
-      "diagnosisId": "D.radialTunnelSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Radialtunnelsyndrom"

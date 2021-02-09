@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie"
     },
     {
-      "diagnosisId": "D.allergicRhinoconjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Allergische Rhinokonjunktivitis"
     },
     {
-      "diagnosisId": "D.anaphylacticReaction",
       "explanation": "",
       "isCorrect": false,
       "label": "Anaphylaktische Reaktion"
     },
     {
-      "diagnosisId": "D.acuteRhinoSinusitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Rhinosinusitis"
     },
     {
-      "diagnosisId": "D.allergicRhinitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Allergische Rhinitis"

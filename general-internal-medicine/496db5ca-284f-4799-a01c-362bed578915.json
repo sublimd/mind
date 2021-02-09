@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.leftSidedHeartFailure",
       "explanation": "",
       "isCorrect": false,
       "label": "Linksherzinsuffizienz"
     },
     {
-      "diagnosisId": "D.chronicAsthma",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronisches Asthma bronchiale"
     },
     {
-      "diagnosisId": "D.bicuspidAorticValve",
       "explanation": "",
       "isCorrect": false,
       "label": "Bikuspide Aortenklappe"
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Eisenmangelanämie"
     },
     {
-      "diagnosisId": "D.centralSleepApneaSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Zentrales Schlafapnoesyndrom"

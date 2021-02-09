@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Pelvic Inflammatory Disease"
     },
     {
-      "diagnosisId": "D.polycysticOvarySyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Polyzystisches Ovarialsyndrom"
     },
     {
-      "diagnosisId": "D.uterinePolyp",
       "explanation": "",
       "isCorrect": false,
       "label": "Korpuspolyp"
     },
     {
-      "diagnosisId": "D.prolactinoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Prolaktinom"
     },
     {
-      "diagnosisId": "D.hyperprolactinemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperprolaktinämie"

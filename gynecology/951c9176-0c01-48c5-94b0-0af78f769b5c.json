@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.rightSidedHeartFailure",
       "explanation": "",
       "isCorrect": false,
       "label": "Rechtsherzinsuffizienz"
     },
     {
-      "diagnosisId": "D.urethralStricture",
       "explanation": "",
       "isCorrect": false,
       "label": "Urethrastriktur"
     },
     {
-      "diagnosisId": "D.acutePyelonephritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Pyelonephritis"
     },
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperkalzämie"
     },
     {
-      "diagnosisId": "D.cystocele",
       "explanation": "",
       "isCorrect": true,
       "label": "Zystozele"

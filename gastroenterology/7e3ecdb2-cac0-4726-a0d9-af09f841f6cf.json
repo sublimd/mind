@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.colorectalCancer",
       "explanation": "",
       "isCorrect": false,
       "label": "Kolonkarzinom"
     },
     {
-      "diagnosisId": "D.gastricUlcer",
       "explanation": "",
       "isCorrect": true,
       "label": "Ulcus ventriculi"
     },
     {
-      "diagnosisId": "D.acuteHepaticFailure",
       "explanation": "",
       "isCorrect": false,
       "label": "Akutes Leberversagen"
     },
     {
-      "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hepatotoxizität"
     },
     {
-      "diagnosisId": "D.crohnsDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "M. Crohn"

@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Fieber, Schüttelfrost, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
       "references": {}
     },
     {
-      "diagnosisId": "D.anginaPectorisStable",
       "explanation": "",
       "isCorrect": false,
       "label": "Stabile Angina pectoris",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicHypersensitivityPneumonitis",
       "explanation": "<ul><li><i>Chronisch obstruktive Lungenkrankheit (COPD)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Exogen-allergische Alveolitis (chronisch)</i> erhöhen würden: Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Exogen-allergische Alveolitis (chronisch)",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.copd",
       "explanation": "",
       "isCorrect": true,
       "label": "Chronisch obstruktive Lungenkrankheit (COPD)",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteAsthma",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Exazerbation eines Asthma bronchiale",

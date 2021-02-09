@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Allergische Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.viralConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.chalazion",
       "explanation": "",
       "isCorrect": false,
       "label": "Chalazion",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.allergicRhinoconjunctivitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Niesen</li></ul>",
       "isCorrect": false,
       "label": "Allergische Rhinokonjunktivitis",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.foreignBodyInConjunctiva",
       "explanation": "",
       "isCorrect": false,
       "label": "Konjunktivaler Fremdkörper",

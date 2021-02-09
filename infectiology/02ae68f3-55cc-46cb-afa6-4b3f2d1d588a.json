@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteBacterialMeningitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute bakterielle Meningitis"
     },
     {
-      "diagnosisId": "D.relapsingFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Rückfallfieber"
     },
     {
-      "diagnosisId": "D.foodIntoxication",
       "explanation": "",
       "isCorrect": false,
       "label": "Nahrungsmittelvergiftung"
     },
     {
-      "diagnosisId": "D.acuteAppendicitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Appendizitis"
     },
     {
-      "diagnosisId": "D.abdominalAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Abdominaler Abszess"

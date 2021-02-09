@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.whiplashInjury",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Nackenschmerzen, Sensibilitätsstörungen, Muskelschwäche</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Distorsionstrauma der Halswirbelsäule",
       "references": {}
     },
     {
-      "diagnosisId": "D.erysipelas",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Erysipel",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.herpesZoster",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes zoster</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Herpes zoster</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Herpes zoster",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.rotatorCuffTendinitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Tendinitis der Rotatorenmanschette",
       "references": {}
     },
     {
-      "diagnosisId": "D.polymyalgiaRheumatica",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polymyalgia rheumatica</i> erhöhen würden: Appetitverlust, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Polymyalgia rheumatica",

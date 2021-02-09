@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.familialMediterraneanFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Familiäres Mittelmeerfieber"
     },
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "",
       "isCorrect": false,
       "label": "Typhus abdominalis"
     },
     {
-      "diagnosisId": "D.acuteHepatitisA",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Hepatitis A-Infektion"
     },
     {
-      "diagnosisId": "D.sickleCellCrisis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sichelzellkrise"
     },
     {
-      "diagnosisId": "D.polyarteritisNodosa",
       "explanation": "",
       "isCorrect": false,
       "label": "Polyarteriitis nodosa"

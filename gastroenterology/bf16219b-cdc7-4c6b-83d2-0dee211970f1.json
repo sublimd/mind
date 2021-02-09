@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lumbarVertebralSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Trokarhernie</i> besser erklärt sind: Abdominale Vorwölbung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lumbovertebrales Syndrom</i> erhöhen würden: Rückenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lumbovertebrales Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.trocarHernia",
       "explanation": "",
       "isCorrect": true,
       "label": "Trokarhernie",
       "references": {}
     },
     {
-      "diagnosisId": "D.pulmonaryEdema",
       "explanation": "<ul><li>Probleme, welche durch <i>Trokarhernie</i> besser erklärt sind: Abdominale Vorwölbung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenödem</i> erhöhen würden: Dyspnoe, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Husten</li></ul>",
       "isCorrect": false,
       "label": "Lungenödem",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.epiduralHematoma",
       "explanation": "<ul><li><i>Trokarhernie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Trokarhernie</i> besser erklärt sind: Abdominale Vorwölbung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: Bewusstseinsverlust, Synkope, Somnolenz, Kopfschmerzen, Nausea, Erbrechen, Verwirrtheit, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: kürzliches Schädeltrauma</li></ul>",
       "isCorrect": false,
       "label": "Epiduralhämatom",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.umbilicalHernia",
       "explanation": "<ul><li><i>Trokarhernie</i> tritt statistisch häufiger auf</li><li>Die Lokalisation passt besser zu <i>Trokarhernie</i></li></ul>",
       "isCorrect": false,
       "label": "Umbilikalhernie",

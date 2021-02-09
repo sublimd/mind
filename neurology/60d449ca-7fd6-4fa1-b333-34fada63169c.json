@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.raynaudsDisease",
       "explanation": "<ul><li><i>Polyneuropathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Raynaud-Syndrom</i> erhöhen würden: Handrötung, Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Raynaud-Syndrom",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.carpalTunnelSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Polyneuropathie</i> besser erklärt sind: Fussschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Karpaltunnelsyndrom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.polyneuropathy",
       "explanation": "",
       "isCorrect": true,
       "label": "Polyneuropathie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicVenousInsufficiency",
       "explanation": "<ul><li>Probleme, welche durch <i>Polyneuropathie</i> besser erklärt sind: Fussschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronisch venöse Insuffizienz</i> erhöhen würden: Schwellung der Unterschenkel, Varizen, Wadenschmerzen, Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Chronisch venöse Insuffizienz",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Polyneuropathie</i> besser erklärt sind: Fussschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Kopfschmerzen, Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Migräne",

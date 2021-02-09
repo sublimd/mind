@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.chronicTubulointerstitialNephritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronische tubulointerstitielle Nephritis"
     },
     {
-      "diagnosisId": "D.proteinDeficiencyEdema",
       "explanation": "",
       "isCorrect": false,
       "label": "Eiweissmangeloedem"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "",
       "isCorrect": false,
       "label": "Nierenkarzinom"
     },
     {
-      "diagnosisId": "D.focalSegmentalGlomerulosclerosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Fokal segmentale Glomerulosklerose (FSGS)"
     },
     {
-      "diagnosisId": "D.alportSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Alport Syndrom"

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.morsicatioBuccarum",
       "explanation": "<ul><li>Probleme, welche durch <i>Mundhöhlenkarzinom</i> besser erklärt sind: Halsschmerzen, Müdigkeit</li></ul>",
       "isCorrect": false,
       "label": "Morsicatio buccarum (Chronisches Wangenkauen)",
@@ -12,28 +11,24 @@
       }
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Probleme, welche durch <i>Mundhöhlenkarzinom</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Schmerzen im Mund</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Husten</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",
       "references": {}
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Mundhöhlenkarzinom</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Schmerzen im Mund</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Fieber, Schüttelfrost, Dysphonie, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Virale Pharyngitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Mundhöhlenkarzinom</i> besser erklärt sind: Schmerzen im Mund</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Fieber, Schüttelfrost, Gliederschmerzen, Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit, mehrere Sexualpartner, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
       "isCorrect": false,
       "label": "HIV-Primoinfektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.oralCancer",
       "explanation": "",
       "isCorrect": true,
       "label": "Mundhöhlenkarzinom",

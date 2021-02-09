@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.radialTunnelSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Radialtunnelsyndrom"
     },
     {
-      "diagnosisId": "D.tricepsTendinopathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Tendinitis der distalen Trizepssehne"
     },
     {
-      "diagnosisId": "D.looseBodiesElbow",
       "explanation": "",
       "isCorrect": false,
       "label": "Freie Gelenkkörper im Ellbogen"
     },
     {
-      "diagnosisId": "D.distalBicepsTendonTendinopathy",
       "explanation": "",
       "isCorrect": true,
       "label": "Tendinitis der distalen Bizepssehne"
     },
     {
-      "diagnosisId": "D.osteochondritisDissecans",
       "explanation": "",
       "isCorrect": false,
       "label": "Osteochondritis dissecans"

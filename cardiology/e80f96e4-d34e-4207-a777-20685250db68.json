@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "",
       "isCorrect": true,
       "label": "Hypertensiver Notfall",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.polycysticKidneyDisease",
       "explanation": "<ul><li><i>Hypertensiver Notfall</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Hypertensiver Notfall</i> besser erklärt sind: Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Polyzystische Nierenerkrankung (PKD)",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.delirium",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypertensiver Notfall</i> besser erklärt sind: Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Delir",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.alcoholUseDisorder",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypertensiver Notfall</i> besser erklärt sind: Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Alkoholüberkonsum</i> erhöhen würden: Schlafstörungen, Angstzustände, depressive Stimmung</li></ul>",
       "isCorrect": false,
       "label": "Alkoholüberkonsum",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypertensiveNephrosclerosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypertensiver Notfall</i> besser erklärt sind: Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensive Nephropathie</i> erhöhen würden: Schwellung der Unterschenkel</li></ul>",
       "isCorrect": false,
       "label": "Hypertensive Nephropathie",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1"
     },
     {
-      "diagnosisId": "D.cholangitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Cholangitis"
     },
     {
-      "diagnosisId": "D.chronicHepatitisB",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronische Hepatitis B-Infektion"
     },
     {
-      "diagnosisId": "D.hepatitisE",
       "explanation": "",
       "isCorrect": true,
       "label": "Hepatitis E"
     },
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "",
       "isCorrect": false,
       "label": "Typhus abdominalis"

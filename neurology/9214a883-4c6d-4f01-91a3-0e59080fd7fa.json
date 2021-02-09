@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hyperkalemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperkaliämie"
     },
     {
-      "diagnosisId": "D.bellsPalsy",
       "explanation": "",
       "isCorrect": true,
       "label": "Idiopathische Fazialisparese"
     },
     {
-      "diagnosisId": "D.clusterHeadache",
       "explanation": "",
       "isCorrect": false,
       "label": "Cluster-Kopfschmerz"
     },
     {
-      "diagnosisId": "D.hypertensiveEncephalopathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypertensive Enzephalopathie"
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage3",
       "explanation": "",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 3"

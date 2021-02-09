@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercalcemiaOfMalignancy",
       "explanation": "",
       "isCorrect": true,
       "label": "Tumorhyperkalzämie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.ischemicStroke",
       "explanation": "<ul><li>Probleme, welche durch <i>Tumorhyperkalzämie</i> besser erklärt sind: Polyurie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Sensibilitätsstörungen, Dysarthrie, Aphasie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Diabetes mellitus, Nikotinabusus</li></ul>",
       "isCorrect": false,
       "label": "Ischämischer Schlaganfall",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.hypertensiveEncephalopathy",
       "explanation": "<ul><li>Probleme, welche durch <i>Tumorhyperkalzämie</i> besser erklärt sind: Polyurie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensive Enzephalopathie</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Enzephalopathie</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Hypertensive Enzephalopathie",
       "references": {}
     },
     {
-      "diagnosisId": "D.concussion",
       "explanation": "<ul><li>Probleme, welche durch <i>Tumorhyperkalzämie</i> besser erklärt sind: Polyurie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Amnesie, Bewusstseinsverlust, Synkope, Somnolenz, Kopfschmerzen, Unfall, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Schädeltrauma</li></ul>",
       "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
       "references": {}
     },
     {
-      "diagnosisId": "D.hyperkalemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Tumorhyperkalzämie</i> besser erklärt sind: Verwirrtheit</li></ul>",
       "isCorrect": false,
       "label": "Hyperkaliämie",

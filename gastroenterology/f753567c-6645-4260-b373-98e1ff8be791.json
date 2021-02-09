@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteAdnexitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Adnexitis"
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Urolithiasis"
     },
     {
-      "diagnosisId": "D.acuteAppendicitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Appendizitis"
     },
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Divertikulitis"
     },
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Pelvic Inflammatory Disease"

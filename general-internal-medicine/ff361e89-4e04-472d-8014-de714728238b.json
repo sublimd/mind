@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.thrombosedExternalHemorrhoid",
       "explanation": "",
       "isCorrect": false,
       "label": "Thrombosierte Hämorrhoide"
     },
     {
-      "diagnosisId": "D.morbusCrohn",
       "explanation": "",
       "isCorrect": false,
       "label": "M. Crohn"
     },
     {
-      "diagnosisId": "D.analCancer",
       "explanation": "",
       "isCorrect": false,
       "label": "Analkarzinom"
     },
     {
-      "diagnosisId": "D.analSkinTags",
       "explanation": "",
       "isCorrect": true,
       "label": "Marisken"
     },
     {
-      "diagnosisId": "D.analFissures",
       "explanation": "",
       "isCorrect": false,
       "label": "Analfissur"

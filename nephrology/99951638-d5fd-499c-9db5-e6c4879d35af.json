@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.malignantNeoplasmOfBladder",
       "explanation": "",
       "isCorrect": true,
       "label": "Blasenkarzinom"
     },
     {
-      "diagnosisId": "D.gonococcalUrethritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Gonokokken-Urethritis"
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Urolithiasis"
     },
     {
-      "diagnosisId": "D.epididymitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Epididymitis"
     },
     {
-      "diagnosisId": "D.acutePyelonephritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Pyelonephritis"

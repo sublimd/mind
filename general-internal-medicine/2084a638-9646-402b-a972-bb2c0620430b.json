@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.entropion",
       "explanation": "",
       "isCorrect": false,
       "label": "Entropium"
     },
     {
-      "diagnosisId": "D.paroxysmalHemicrania",
       "explanation": "",
       "isCorrect": false,
       "label": "Paroxysmale Hemikranie"
     },
     {
-      "diagnosisId": "D.ocularRosacea",
       "explanation": "",
       "isCorrect": false,
       "label": "Okuläre Rosazea"
     },
     {
-      "diagnosisId": "D.acuteBlepharitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Blepharitis"
     },
     {
-      "diagnosisId": "D.allergicRhinoconjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Allergische Rhinokonjunktivitis"

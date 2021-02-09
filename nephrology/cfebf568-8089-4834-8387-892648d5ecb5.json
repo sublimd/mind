@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.vonWillebrandDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Von-Willebrand-Krankheit"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfLung",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenkarzinom"
     },
     {
-      "diagnosisId": "D.pulmonaryTuberculosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungentuberkulose"
     },
     {
-      "diagnosisId": "D.goodpastureSyndrom",
       "explanation": "",
       "isCorrect": true,
       "label": "Goodpasture-Syndrom"
     },
     {
-      "diagnosisId": "D.pulmonaryHemorrhage",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenblutung"

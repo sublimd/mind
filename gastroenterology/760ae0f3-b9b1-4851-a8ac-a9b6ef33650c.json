@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.vibrioEnteritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Vibrio-Gastroenteritis",
       "references": {}
     },
     {
-      "diagnosisId": "D.mesenterialIschemia",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Mesenterialinfarkt</i> erhöhen würden: Nikotinabusus, Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Mesenterialinfarkt",
@@ -19,14 +17,12 @@
       }
     },
     {
-      "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Appetitverlust, Gewichtsverlust, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hepatotoxizität",
       "references": {}
     },
     {
-      "diagnosisId": "D.ulcerativeColitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Vibrio-Gastroenteritis</i> besser erklärt sind: Erbrechen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Colitis ulcerosa",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.crohnsDisease",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Crohn</i> erhöhen würden: Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "M. Crohn",

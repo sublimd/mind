@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.interstitialLungDisease",
       "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Interstitielle Lungenerkrankung",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.pleuralEffusion",
       "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pleuraerguss</i> erhöhen würden: Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Pleuraerguss",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.vocalCordDysfunctionSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Vocal Cord Dysfunction (VCD)",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.atelectasis",
       "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Atelektase",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Fieber, Schüttelfrost, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",

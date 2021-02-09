@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.streptococcalTonsillitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Streptokokkentonsillitis"
     },
     {
-      "diagnosisId": "D.erythemaInfectiosum",
       "explanation": "",
       "isCorrect": false,
       "label": "Ringelröteln (Erythema infectiosum)"
     },
     {
-      "diagnosisId": "D.influenza",
       "explanation": "",
       "isCorrect": false,
       "label": "Influenza"
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Pharyngitis"
     },
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokarditis"

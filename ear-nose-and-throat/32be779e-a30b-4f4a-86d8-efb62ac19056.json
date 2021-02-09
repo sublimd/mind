@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.mastoiditis",
       "explanation": "<ul><li><i>Akute Otitis media</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mastoiditis</i> erhöhen würden: Leistungsabfall, Müdigkeit, allgemeines Schwächegefühl, Hautschwellung</li></ul>",
       "isCorrect": false,
       "label": "Mastoiditis",
@@ -12,21 +11,18 @@
       }
     },
     {
-      "diagnosisId": "D.cerumenObturans",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Otitis media</i> besser erklärt sind: Ausfluss aus dem Ohr</li></ul>",
       "isCorrect": false,
       "label": "Cerumen obturans",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteOtitisMedia",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Otitis media",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteRhinoSinusitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Otitis media</i> besser erklärt sind: Ausfluss aus dem Ohr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Kopfschmerzen, Gesichtsschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute Rhinosinusitis",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicOtitisMedia",
       "explanation": "<ul></ul>",
       "isCorrect": false,
       "label": "Chronische Otitis media",

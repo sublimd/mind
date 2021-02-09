@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.gravesDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Morbus Basedow"
     },
     {
-      "diagnosisId": "D.acuteCoronarySyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokardinfarkt"
     },
     {
-      "diagnosisId": "D.autonomousThyroidNodules",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperthyreose bei Schilddrüsenautonomie"
     },
     {
-      "diagnosisId": "D.diffuseEsophagealSpasm",
       "explanation": "",
       "isCorrect": true,
       "label": "Diffuser Oesophagusspasmus"
     },
     {
-      "diagnosisId": "D.esophagealStrictures",
       "explanation": "",
       "isCorrect": false,
       "label": "Oesophagusstrikturen"

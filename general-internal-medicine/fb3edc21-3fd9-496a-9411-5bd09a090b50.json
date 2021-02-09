@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.comaDiabeticum",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperglykämisches Koma"
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "",
       "isCorrect": false,
       "label": "Migräne"
     },
     {
-      "diagnosisId": "D.postictalState",
       "explanation": "",
       "isCorrect": false,
       "label": "Postiktaler Zustand"
     },
     {
-      "diagnosisId": "D.ischemicStroke",
       "explanation": "",
       "isCorrect": true,
       "label": "Ischämischer Schlaganfall"
     },
     {
-      "diagnosisId": "D.diabeticKetoacidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Diabetische Ketoazidose"

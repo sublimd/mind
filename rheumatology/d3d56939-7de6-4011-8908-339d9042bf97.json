@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.shoulderContusion",
       "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Hautschwellung, Schulterrötung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Schulterkontusion</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der oberen Extremität, Vorangehendes Trauma</li></ul>",
       "isCorrect": false,
       "label": "Schulterkontusion",
       "references": {}
     },
     {
-      "diagnosisId": "D.chondrocalcinosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Hautschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>CPP-Kristall-Arthritis (Pseudogicht)</i> erhöhen würden: Knieschmerzen, Knieschwellung, Knierötung, Hautüberwärmung</li></ul>",
       "isCorrect": false,
       "label": "CPP-Kristall-Arthritis (Pseudogicht)",
       "references": {}
     },
     {
-      "diagnosisId": "D.shoulderDislocation",
       "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Schulterrötung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schulterluxation</i> erhöhen würden: Muskelschwäche, Unfall</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Schulterluxation</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der oberen Extremität, Vorangehendes Trauma</li></ul>",
       "isCorrect": false,
       "label": "Schulterluxation",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.erysipelas",
       "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Schulterrötung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Hautüberwärmung, Fieber, Schüttelfrost, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Erysipel",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.subacromialBursitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Subakromiale Bursitis",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteTubularNecrosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Tubulusnekrose"
     },
     {
-      "diagnosisId": "D.bakersCystRuptured",
       "explanation": "",
       "isCorrect": true,
       "label": "Rupturierte Baker Zyste"
     },
     {
-      "diagnosisId": "D.nonseminomaOfTestis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hodenkarzinom (Non-Seminom)"
     },
     {
-      "diagnosisId": "D.kneeContusion",
       "explanation": "",
       "isCorrect": false,
       "label": "Kniekontusion"
     },
     {
-      "diagnosisId": "D.distalFibularFracture",
       "explanation": "",
       "isCorrect": false,
       "label": "Distale Fibulafraktur"

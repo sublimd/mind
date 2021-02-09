@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.allergicRhinoconjunctivitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Virale Konjunktivitis</i> besser erklärt sind: Halsschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Augenschwellung, Niesen</li></ul>",
       "isCorrect": false,
       "label": "Allergische Rhinokonjunktivitis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.chalazion",
       "explanation": "<ul><li>Probleme, welche durch <i>Virale Konjunktivitis</i> besser erklärt sind: Juckreiz im Auge, Halsschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chalazion</i> erhöhen würden: Augenschwellung</li></ul>",
       "isCorrect": false,
       "label": "Chalazion",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.bacterialConjunctivitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Virale Konjunktivitis</i> besser erklärt sind: Juckreiz im Auge, Halsschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
       "isCorrect": false,
       "label": "Akute bakterielle Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.viralConjunctivitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Virale Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "<ul><li>Probleme, welche durch <i>Virale Konjunktivitis</i> besser erklärt sind: Juckreiz im Auge, Halsschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Augenschwellung</li></ul>",
       "isCorrect": false,
       "label": "Hordeolum",

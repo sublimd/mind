@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pseudoCroup",
       "explanation": "",
       "isCorrect": false,
       "label": "Laryngitis subglottica (Pseudokrupp)"
     },
     {
-      "diagnosisId": "D.qFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Q Fieber"
     },
     {
-      "diagnosisId": "D.tickborneEncephalitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Frühsommer-Meningoencephalitis (FSME)"
     },
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "",
       "isCorrect": false,
       "label": "Typhus abdominalis"
     },
     {
-      "diagnosisId": "D.acuteBronchitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Bronchitis"

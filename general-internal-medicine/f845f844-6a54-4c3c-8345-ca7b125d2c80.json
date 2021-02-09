@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.herpesZoster",
       "explanation": "",
       "isCorrect": false,
       "label": "Herpes zoster"
     },
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Divertikulitis"
     },
     {
-      "diagnosisId": "D.viralGastroenteritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Gastroenteritis"
     },
     {
-      "diagnosisId": "D.psoasHematoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Psoashämatom"
     },
     {
-      "diagnosisId": "D.coprostasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Koprostase"

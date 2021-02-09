@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.superiorVenaCavaSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)"
     },
     {
-      "diagnosisId": "D.pleuralEffusion",
       "explanation": "<ul><li>Symptome, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Kopfschmerzen, Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Pleuraerguss"
     },
     {
-      "diagnosisId": "D.pulmonaryEmbolism",
       "explanation": "<ul><li>Symptome, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Kopfschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Lungenembolie</i> erhöhen würden: Orthopnoe, Hämoptoe</li></ul>",
       "isCorrect": false,
       "label": "Lungenembolie"
     },
     {
-      "diagnosisId": "D.acuteAsthma",
       "explanation": "<ul><li>Symptome, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Akute Exazerbation eines Asthma bronchiale"
     },
     {
-      "diagnosisId": "D.aorticInsufficiency",
       "explanation": "<ul><li>Symptome, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Kopfschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Aortenklappen-Insuffizienz</i> erhöhen würden: Palpitationen, Tachykardien, Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall, Orthopnoe, Schwellung der Unterschenkel</li></ul>",
       "isCorrect": false,
       "label": "Aortenklappen-Insuffizienz"

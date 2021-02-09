@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.sickSinusSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Sick-Sinus-Syndrom"
     },
     {
-      "diagnosisId": "D.polycythemiaVera",
       "explanation": "",
       "isCorrect": false,
       "label": "Polycythämia vera"
     },
     {
-      "diagnosisId": "D.acuteViralMeningitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute virale Meningitis"
     },
     {
-      "diagnosisId": "D.cerebralMetastasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hirnmetastasen"
     },
     {
-      "diagnosisId": "D.syndromeOfInappropriateAntidiureticHormoneSecretion",
       "explanation": "",
       "isCorrect": false,
       "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)"

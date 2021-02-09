@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.corPulmonale",
       "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cor pulmonale</i> erhöhen würden: Dyspnoe, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Schwindel, Schwellung der Unterschenkel, Schwellung der Beine</li></ul>",
       "isCorrect": false,
       "label": "Cor pulmonale",
@@ -12,21 +11,18 @@
       }
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Husten, Dyspnoe, Kopfschmerzen, Ohrenschmerzen, Halsschmerzen, Gelenkschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",
       "references": {}
     },
     {
-      "diagnosisId": "D.musculoskelettalChestPain",
       "explanation": "",
       "isCorrect": true,
       "label": "Muskuloskelettale Thoraxschmerzen",
       "references": {}
     },
     {
-      "diagnosisId": "D.avNodalReentrantTachycardia",
       "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Knoten-Reentry-Tachykardie</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "AV-Knoten-Reentry-Tachykardie",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Block II°, Mobitz II</i> erhöhen würden: Schwindel, Bradykardien, Synkope, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "AV-Block II°, Mobitz II",

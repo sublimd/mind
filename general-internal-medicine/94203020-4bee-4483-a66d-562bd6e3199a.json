@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pulmonaryEmbolism",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenembolie"
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": false,
       "label": "Makrozytäre Anämie"
     },
     {
-      "diagnosisId": "D.costochondritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Costochondritis (Tietze-Syndrom)"
     },
     {
-      "diagnosisId": "D.metabolicAlkalosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Metabolische Alkalose"
     },
     {
-      "diagnosisId": "D.sinusTachycardia",
       "explanation": "",
       "isCorrect": false,
       "label": "Sinustachykardie"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie"
     },
     {
-      "diagnosisId": "D.celiacDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Zöliakie"
     },
     {
-      "diagnosisId": "D.coprostasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Koprostase"
     },
     {
-      "diagnosisId": "D.lymphocyticColitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Lymphozytäre Kolitis"
     },
     {
-      "diagnosisId": "D.lactoseIntolerance",
       "explanation": "",
       "isCorrect": true,
       "label": "Laktoseintoleranz"

@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.proximalFemoralFracture",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Proximale Femurfraktur</i> erhöhen würden: kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Proximale Femurfraktur",
       "references": {}
     },
     {
-      "diagnosisId": "D.peripheralArteryDisease",
       "explanation": "",
       "isCorrect": true,
       "label": "Periphere arterielle Verschlusskrankheit (PAVK)",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.varicoseVeins",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Varikosis</i> erhöhen würden: Varizen Schwellung der Beine</li></ul>",
       "isCorrect": false,
       "label": "Varikosis",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.lumbarRadicularSyndrome",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lumboradikuläres Syndrom</i> erhöhen würden: Rückenschmerzen, Lähmungserscheinungen, Sensibilitätsstörungen</li></ul>",
       "isCorrect": false,
       "label": "Lumboradikuläres Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.lumbarSpondylogenicSyndrome",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lumbospondylogenes Syndrom</i> erhöhen würden: Rückenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lumbospondylogenes Syndrom",

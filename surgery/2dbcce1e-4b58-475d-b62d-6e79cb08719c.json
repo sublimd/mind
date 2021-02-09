@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.ankylosingSpondilitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Spondylitis ankylosans"
     },
     {
-      "diagnosisId": "D.epiphysiolysisCapitisFemoris",
       "explanation": "",
       "isCorrect": false,
       "label": "Epiphysiolysis capitis femoris"
     },
     {
-      "diagnosisId": "D.perthesDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Morbus Perthes"
     },
     {
-      "diagnosisId": "D.trochantericBursitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Bursitis trochanterica"
     },
     {
-      "diagnosisId": "D.osteonecrosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Hüftkopfnekrose"

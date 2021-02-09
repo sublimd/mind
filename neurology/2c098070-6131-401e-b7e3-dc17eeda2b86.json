@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.epiduralHematoma",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: Kopfschmerzen, Unfall, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Epiduralhämatom</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Schädeltrauma</li></ul>",
       "isCorrect": false,
       "label": "Epiduralhämatom",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.complexFocalEpilepticSeizure",
       "explanation": "",
       "isCorrect": true,
       "label": "Komplex fokaler epileptischer Anfall",
       "references": {}
     },
     {
-      "diagnosisId": "D.statusEpilepticus",
       "explanation": "<ul><li>Probleme, welche durch <i>Komplex fokaler epileptischer Anfall</i> besser erklärt sind: Verwirrtheit, Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Status epilepticus",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyponatremia",
       "explanation": "<ul><li>Probleme, welche durch <i>Komplex fokaler epileptischer Anfall</i> besser erklärt sind: Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Hyponatriämie",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.hepaticEncephalopathy",
       "explanation": "<ul><li>Probleme, welche durch <i>Komplex fokaler epileptischer Anfall</i> besser erklärt sind: Sehstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Schlafstörungen</li></ul>",
       "isCorrect": false,
       "label": "Hepatische Enzephalopathie",

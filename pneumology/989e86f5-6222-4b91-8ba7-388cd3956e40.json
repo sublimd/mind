@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sarkoidose",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteAsthma",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Exazerbation eines Asthma bronchiale",
       "references": {}
     },
     {
-      "diagnosisId": "D.pulmonaryEmbolism",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Müdigkeit, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lungenembolie",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Fieber, Schüttelfrost, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
       "references": {}
     },
     {
-      "diagnosisId": "D.cardiacTamponade",
       "explanation": "<ul><li><i>Akute Exazerbation eines Asthma bronchiale</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Perikardtamponade</i> erhöhen würden: Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Perikardtamponade",

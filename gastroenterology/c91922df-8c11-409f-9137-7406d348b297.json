@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteLaryngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Verschluckter Fremdkörper</i> besser erklärt sind: Erbrechen, Thoraxschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie, Husten, Fieber, Schüttelfrost, Rhinorrhoe</li></ul>",
       "isCorrect": false,
       "label": "Akute Laryngitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Verschluckter Fremdkörper</i> besser erklärt sind: Erbrechen, Thoraxschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Fieber, Schüttelfrost, vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.gastrooesophagealRefluxDisease",
       "explanation": "<ul><li>Probleme, welche durch <i>Verschluckter Fremdkörper</i> besser erklärt sind: Erbrechen, Odynophagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gastroösophageale Refluxkrankheit</i> erhöhen würden: Bauchschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Gastroösophageale Refluxkrankheit</i> erhöhen würden: Übermässiger Alkoholkonsum, Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Gastroösophageale Refluxkrankheit",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.diffuseEsophagealSpasm",
       "explanation": "<ul><li><i>Verschluckter Fremdkörper</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Diffuser Oesophagusspasmus</i> erhöhen würden: saures Aufstossen, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Diffuser Oesophagusspasmus",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.foreignBodyIngestion",
       "explanation": "",
       "isCorrect": true,
       "label": "Verschluckter Fremdkörper",

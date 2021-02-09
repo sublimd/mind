@@ -1,35 +1,30 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.majorDepressiveEpisode",
       "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Epistaxis</li></ul>",
       "isCorrect": false,
       "label": "Ausgeprägte depressive Episode",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteBronchitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Bronchitis</i> erhöhen würden: Husten, Dyspnoe, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute Bronchitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.hyperkalemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkaliämie</i> erhöhen würden: Muskelschwäche</li></ul>",
       "isCorrect": false,
       "label": "Hyperkaliämie",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
       "isCorrect": false,
       "label": "Hypokaliämie",
       "references": {}
     },
     {
-      "diagnosisId": "D.myelodysplasticSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Myelodysplastisches Syndrom",

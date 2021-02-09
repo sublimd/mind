@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.stasisDermatitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Ulcus cruris</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stauungsekzem</i> erhöhen würden: Varizen</li></ul>",
       "isCorrect": false,
       "label": "Stauungsekzem",
       "references": {}
     },
     {
-      "diagnosisId": "D.decubitalUlcer",
       "explanation": "",
       "isCorrect": false,
       "label": "Druckgeschwür",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.ulcusCruris",
       "explanation": "",
       "isCorrect": true,
       "label": "Ulcus cruris",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.lues",
       "explanation": "<ul><li>Probleme, welche durch <i>Ulcus cruris</i> besser erklärt sind: Schwellung der Unterschenkel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lues</i> erhöhen würden: vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
       "isCorrect": false,
       "label": "Lues",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.thrombophlebitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Ulcus cruris</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombophlebitis</i> erhöhen würden: Bein- oder Wadenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Thrombophlebitis",

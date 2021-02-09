@@ -1,35 +1,30 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.viralConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.bacterialConjunctivitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Konjunktivitis</i> erhöhen würden: Augenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute bakterielle Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.chalazion",
       "explanation": "",
       "isCorrect": false,
       "label": "Chalazion",
       "references": {}
     },
     {
-      "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Allergische Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "",
       "isCorrect": false,
       "label": "Hordeolum",

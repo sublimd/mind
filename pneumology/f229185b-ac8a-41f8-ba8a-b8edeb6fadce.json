@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "<ul><li>Probleme, welche durch <i>Mesotheliom</i> besser erklärt sind: Husten, Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Palpitationen, Tachykardien, Schwellung der Unterschenkel, Schwellung der Beine</li></ul>",
       "isCorrect": false,
       "label": "Myokarditis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.aorticInsufficiency",
       "explanation": "<ul><li>Probleme, welche durch <i>Mesotheliom</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aortenklappen-Insuffizienz</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Synkope, Bewusstseinsverlust, Orthopnoe</li></ul>",
       "isCorrect": false,
       "label": "Aortenklappen-Insuffizienz",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "<ul><li>Probleme, welche durch <i>Mesotheliom</i> besser erklärt sind: Husten, Dysphonie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Makrozytäre Anämie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "<ul><li><i>Eisenmangelanämie</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Mesotheliom</i> besser erklärt sind: Husten, Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Eisenmangelanämie",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.mesothelioma",
       "explanation": "",
       "isCorrect": true,
       "label": "Mesotheliom",

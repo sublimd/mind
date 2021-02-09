@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.ulcusCruris",
       "explanation": "",
       "isCorrect": true,
       "label": "Ulcus cruris"
     },
     {
-      "diagnosisId": "D.thrombophlebitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Thrombophlebitis"
     },
     {
-      "diagnosisId": "D.stasisDermatitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Stauungsekzem"
     },
     {
-      "diagnosisId": "D.deepVeinThrombosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Tiefe Venenthrombose"
     },
     {
-      "diagnosisId": "D.lues",
       "explanation": "",
       "isCorrect": false,
       "label": "Lues"

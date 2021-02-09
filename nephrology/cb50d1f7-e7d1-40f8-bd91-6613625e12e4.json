@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.epididymitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akuter Harnverhalt</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Hodenschmerzen, Leistenschmerzen, Schwellung oder Vergrösserung des Hodens</li></ul>",
       "isCorrect": false,
       "label": "Epididymitis",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.urinaryRetention",
       "explanation": "",
       "isCorrect": true,
       "label": "Akuter Harnverhalt",
       "references": {}
     },
     {
-      "diagnosisId": "D.spontaneousBacterialPeritonitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Spontan bakterielle Peritonitis (SBP)</i> erhöhen würden: Fieber, Diarrhoe</li></ul>",
       "isCorrect": false,
       "label": "Spontan bakterielle Peritonitis (SBP)",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "<ul><li><i>Harnwegsinfekt</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Akuter Harnverhalt</i> besser erklärt sind: Verwirrtheit</li></ul>",
       "isCorrect": false,
       "label": "Harnwegsinfekt",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteProstatitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akuter Harnverhalt</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Prostatitis</i> erhöhen würden: Fieber, Schüttelfrost, Hämaturie</li></ul>",
       "isCorrect": false,
       "label": "Akute Prostatitis",

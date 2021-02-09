@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.erythemaNodosum",
       "explanation": "",
       "isCorrect": false,
       "label": "Erythema nodosum"
     },
     {
-      "diagnosisId": "D.thrombophlebitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Thrombophlebitis"
     },
     {
-      "diagnosisId": "D.visceralLeishmaniasis",
       "explanation": "",
       "isCorrect": true,
       "label": "Leishmaniose"
     },
     {
-      "diagnosisId": "D.analAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Analabszess"
     },
     {
-      "diagnosisId": "D.chikungunyaFever",
       "explanation": "",
       "isCorrect": false,
       "label": "Chikungunya Fieber"

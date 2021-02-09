@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.erysipelas",
       "explanation": "<ul><li>Probleme, welche durch <i>Chikungunya Fieber</i> besser erklärt sind: Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautüberwärmung, Hautschwellung, Beinschwellung, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Erysipel",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.chikungunyaFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Chikungunya Fieber",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1",
       "references": {}
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "<ul><li><i>Chikungunya Fieber</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Dysphagie, Halsschmerzen, Odynophagie, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Konsum von intravenösen Drogen, ungeschützter Geschlechtsverkehr, mehrere Sexualpartner, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
       "isCorrect": false,
       "label": "HIV-Primoinfektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.measles",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Masern</i> erhöhen würden: Dysphagie, Halsschmerzen, Odynophagie</li></ul>",
       "isCorrect": false,
       "label": "Masern",

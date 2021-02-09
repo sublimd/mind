@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cataract",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypermetropie</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Katarakt</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Katarakt",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.transientIschemicAttack",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Muskelschwäche, Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus, Nikotinabusus</li></ul>",
       "isCorrect": false,
       "label": "Transitorische ischämische Attacke (TIA)",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.temporalArteritis",
       "explanation": "<ul><li><i>Hypermetropie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Arteriitis temporalis</i> erhöhen würden: Fieber</li></ul>",
       "isCorrect": false,
       "label": "Arteriitis temporalis",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.subarachnoidHemorrhage",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Nackenschmerzen, Nackensteifigkeit, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Subarachnoidalblutung",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypermetropia",
       "explanation": "",
       "isCorrect": true,
       "label": "Hypermetropie",

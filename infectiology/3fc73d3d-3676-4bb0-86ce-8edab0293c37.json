@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.dengueFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li></ul>",
       "isCorrect": false,
       "label": "Dengue Fieber",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li></ul>",
       "isCorrect": false,
       "label": "Typhus abdominalis",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.chikungunyaFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li></ul>",
       "isCorrect": false,
       "label": "Chikungunya Fieber",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Hämaturie, Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.schistosomiasis",
       "explanation": "",
       "isCorrect": true,
       "label": "Schistosomiasis",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperkalzämie"
     },
     {
-      "diagnosisId": "D.alcoholIntoxication",
       "explanation": "",
       "isCorrect": false,
       "label": "Alkohol-Intoxikation"
     },
     {
-      "diagnosisId": "D.acuteHepaticFailure",
       "explanation": "",
       "isCorrect": true,
       "label": "Akutes Leberversagen"
     },
     {
-      "diagnosisId": "D.lacticAcidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Laktatazidose"
     },
     {
-      "diagnosisId": "D.comaDiabeticum",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperglykämisches Koma"

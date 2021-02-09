@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.vestibularMigraine",
       "explanation": "",
       "isCorrect": true,
       "label": "Vestibuläre Migräne"
     },
     {
-      "diagnosisId": "D.subarachnoidHemorrhage",
       "explanation": "",
       "isCorrect": false,
       "label": "Subarachnoidalblutung"
     },
     {
-      "diagnosisId": "D.concussion",
       "explanation": "",
       "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)"
     },
     {
-      "diagnosisId": "D.neoplasticMeningitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Meningeosis neoplastica"
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Eisenmangelanämie"

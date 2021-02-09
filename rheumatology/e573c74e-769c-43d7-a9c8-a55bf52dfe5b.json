@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.periarthropathiaCoxae",
       "explanation": "",
       "isCorrect": true,
       "label": "Periarthropathia coxae",
       "references": {}
     },
     {
-      "diagnosisId": "D.hipOsteoarthritis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Coxarthrose</i> erhöhen würden: Hüftsteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Coxarthrose",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.epididymitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Schwellung oder Vergrösserung des Hodens, Hautschwellung, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Epididymitis",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.pertrochantericFemoralFracture",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pertrochantäre Femurfraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der unteren Extremität, Vorangehendes Trauma</li></ul>",
       "isCorrect": false,
       "label": "Pertrochantäre Femurfraktur",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.femoralNeckFracture",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Schenkelhalsfraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der unteren Extremität, Vorangehendes Trauma</li></ul>",
       "isCorrect": false,
       "label": "Schenkelhalsfraktur",

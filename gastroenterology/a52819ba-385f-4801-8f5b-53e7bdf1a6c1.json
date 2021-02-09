@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Divertikulitis"
     },
     {
-      "diagnosisId": "D.bowelPolyps",
       "explanation": "",
       "isCorrect": true,
       "label": "Darmpolypen"
     },
     {
-      "diagnosisId": "D.bacterialEnteritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Bakterielle Enteritis"
     },
     {
-      "diagnosisId": "D.coprostasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Koprostase"
     },
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "",
       "isCorrect": false,
       "label": "Typhus abdominalis"

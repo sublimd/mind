@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
       "explanation": "<ul><li><i>Myelodysplastisches Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Nausea, Bauchschmerzen, Erbrechen, Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.myelodysplasticSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Myelodysplastisches Syndrom",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.temporalArteritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Arteriitis temporalis</i> erhöhen würden: Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Arteriitis temporalis",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.acutePericarditis",
       "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Perikarditis</i> erhöhen würden: Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute Perikarditis",

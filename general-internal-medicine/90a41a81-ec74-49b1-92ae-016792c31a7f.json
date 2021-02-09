@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.rhabdomyosarcoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Rhabdomyosarkom"
     },
     {
-      "diagnosisId": "D.lupusNephritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Lupusnephritis"
     },
     {
-      "diagnosisId": "D.myelodysplasticSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Myelodysplastisches Syndrom"
     },
     {
-      "diagnosisId": "D.angiomyolipoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Angiomyolipom"
     },
     {
-      "diagnosisId": "D.bartterSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Bartter Syndrom"

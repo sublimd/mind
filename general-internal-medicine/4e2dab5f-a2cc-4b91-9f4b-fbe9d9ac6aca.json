@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.herpesSimplexVirusCervicitis",
       "explanation": "",
       "isCorrect": false,
       "label": "HSV-Zervizitis"
     },
     {
-      "diagnosisId": "D.vaginalYeastInfection",
       "explanation": "",
       "isCorrect": true,
       "label": "Vaginale Mykose"
     },
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Pelvic Inflammatory Disease"
     },
     {
-      "diagnosisId": "D.atrophicVaginitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Atrophe Vaginitis"
     },
     {
-      "diagnosisId": "D.acuteAdnexitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Adnexitis"

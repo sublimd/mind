@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hipDysplasia",
       "explanation": "",
       "isCorrect": true,
       "label": "Hüftdysplasie"
     },
     {
-      "diagnosisId": "D.psoasHematoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Psoashämatom"
     },
     {
-      "diagnosisId": "D.inguinalHernia",
       "explanation": "",
       "isCorrect": false,
       "label": "Inguinalhernie"
     },
     {
-      "diagnosisId": "D.hipContusion",
       "explanation": "",
       "isCorrect": false,
       "label": "Hüftkontusion"
     },
     {
-      "diagnosisId": "D.hipOsteoarthritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Coxarthrose"

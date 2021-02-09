@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>GHB-Intoxikation</i> besser erklärt sind: Aggressivität, Bradykardien, Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.concussion",
       "explanation": "<ul><li>Probleme, welche durch <i>GHB-Intoxikation</i> besser erklärt sind: Aggressivität, Bradykardien</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Kürzliches Schädeltrauma</li></ul>",
       "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
       "references": {}
     },
     {
-      "diagnosisId": "D.alcoholIntoxication",
       "explanation": "<ul><li>Probleme, welche durch <i>GHB-Intoxikation</i> besser erklärt sind: Bradykardien, Amnesie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Alkohol-Intoxikation</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Alkohol-Intoxikation",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.ghbIntoxication",
       "explanation": "",
       "isCorrect": true,
       "label": "GHB-Intoxikation",
       "references": {}
     },
     {
-      "diagnosisId": "D.comaDiabeticum",
       "explanation": "<ul><li>Probleme, welche durch <i>GHB-Intoxikation</i> besser erklärt sind: Aggressivität, Bradykardien, Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperglykämisches Koma</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Bauchschmerzen, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperglykämisches Koma</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Hyperglykämisches Koma",

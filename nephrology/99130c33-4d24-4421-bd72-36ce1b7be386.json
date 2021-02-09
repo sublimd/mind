@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
       "isCorrect": false,
       "label": "Nierenkarzinom",
       "references": {}
     },
     {
-      "diagnosisId": "D.erysipelas",
       "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Hautüberwärmung, Hautschwellung, vergrösserter Lymphknoten</li></ul>",
       "isCorrect": false,
       "label": "Erysipel",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.benignParoxysmalPositionalVertigo",
       "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Benigner paroxysmaler Lagerungsschwindel</i> erhöhen würden: Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Benigner paroxysmaler Lagerungsschwindel",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.orthostaticDysregulation",
       "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Orthostatische Dysregulation</i> erhöhen würden: Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Orthostatische Dysregulation",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.renalInfarction",
       "explanation": "",
       "isCorrect": true,
       "label": "Niereninfarkt",

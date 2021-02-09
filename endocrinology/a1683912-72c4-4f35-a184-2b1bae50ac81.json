@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hyperthyroidism",
       "explanation": "",
       "isCorrect": true,
       "label": "Hyperthyreose",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperventilationSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Tremor, Halsschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperventilationssyndrom</i> erhöhen würden: Sensibilitätsstörungen, Schwindel, Muskelkrämpfe</li></ul>",
       "isCorrect": false,
       "label": "Hyperventilationssyndrom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Tremor, Halsschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Makrozytäre Anämie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.sinusTachycardia",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Tremor, Halsschwellung</li></ul>",
       "isCorrect": false,
       "label": "Sinustachykardie",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.atrialFibrillation",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Tremor, Halsschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Vorhofflimmern",

@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteOtitisMedia",
       "explanation": "<ul><li>Probleme, welche durch <i>Mastoiditis</i> besser erklärt sind: Leistungsabfall, Hautveränderung, Hautschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Otitis media</i> erhöhen würden: Hörminderung</li></ul>",
       "isCorrect": false,
       "label": "Akute Otitis media",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteRhinoSinusitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Mastoiditis</i> besser erklärt sind: Hautveränderungen, Hautschwellung, Ausfluss aus dem Ohr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Kopfschmerzen, Gesichtsschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute Rhinosinusitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.mastoiditis",
       "explanation": "",
       "isCorrect": true,
       "label": "Mastoiditis",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Mastoiditis</i> besser erklärt sind: Ohrenschmerzen, Hautschwellung, Ausfluss aus dem Ohr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteParotitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Mastoiditis</i> besser erklärt sind: Ohrenschmerzen, Ausfluss aus dem Ohr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Parotitis acuta</i> erhöhen würden: Gesichtsschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Parotitis acuta",

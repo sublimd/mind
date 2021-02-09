@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.urethralStricture",
       "explanation": "<ul><li><i>Harnwegsinfekt</i> tritt statistisch häufiger auf</li><li><i>Urethrastriktur</i> kommt häufiger bei männlichen Patienten vor</li></ul>",
       "isCorrect": false,
       "label": "Urethrastriktur",
       "references": {}
     },
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: vaginale Blutung, Probleme beim Geschlechtsverkehr, vaginaler Ausfluss, urethraler Ausfluss</li></ul>",
       "isCorrect": false,
       "label": "Pelvic Inflammatory Disease",
@@ -19,14 +17,12 @@
       }
     },
     {
-      "diagnosisId": "D.chlamydialCervicitis",
       "explanation": "<ul><li><i>Harnwegsinfekt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chlamydien-Zervizitis</i> erhöhen würden: Vaginaler Ausfluss, vaginale Blutung, Probleme beim Geschlechtsverkehr</li></ul>",
       "isCorrect": false,
       "label": "Chlamydien-Zervizitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "",
       "isCorrect": true,
       "label": "Harnwegsinfekt",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.acutePyelonephritis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Flankenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute Pyelonephritis",

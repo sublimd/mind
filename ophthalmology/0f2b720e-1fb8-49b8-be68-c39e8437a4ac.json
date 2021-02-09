@@ -1,35 +1,30 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Juckreiz im Auge, Augenschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: bekannte Allergie auf Umweltfaktoren (z.B. Pollen)</li></ul>",
       "isCorrect": false,
       "label": "Allergische Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.cataract",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Augenschmerzen, Fremdkörpergefühl im Auge, Ausfluss aus dem Auge</li></ul>",
       "isCorrect": false,
       "label": "Katarakt",
       "references": {}
     },
     {
-      "diagnosisId": "D.bacterialKeratitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute bakterielle Keratitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.viralConjunctivitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Konjunktivitis</i> erhöhen würden: Juckreiz im Auge</li></ul>",
       "isCorrect": false,
       "label": "Virale Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Lidschwellung, Fieber</li></ul>",
       "isCorrect": false,
       "label": "Hordeolum",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.vulvovaginitisHerpetica",
       "explanation": "",
       "isCorrect": false,
       "label": "Vulvovaginitis herpetica"
     },
     {
-      "diagnosisId": "D.gonococcalCervicitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Gonokokken-Zervizitis"
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "Harnwegsinfekt"
     },
     {
-      "diagnosisId": "D.vaginalYeastInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "Vaginale Mykose"
     },
     {
-      "diagnosisId": "D.ectopicPregnancy",
       "explanation": "",
       "isCorrect": true,
       "label": "Extrauterine Gravidität (EUG)"

@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.atrioventricularReentrantTachycardia",
       "explanation": "<ul><li>Probleme, welche durch <i>Pulmonalklappenstenose</i> besser erklärt sind: Schwellung der Unterschenkel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atrioventrikuläre Reentry-Tachykardie (AVRT)</i> erhöhen würden: Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Atrioventrikuläre Reentry-Tachykardie (AVRT)",
       "references": {}
     },
     {
-      "diagnosisId": "D.chronicKidneyDisease",
       "explanation": "<ul><li>Probleme, welche durch <i>Pulmonalklappenstenose</i> besser erklärt sind: Dyspnoe, Schwindel, Palpitationen</li></ul>",
       "isCorrect": false,
       "label": "Chronische Niereninsuffizienz",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicVenousInsufficiency",
       "explanation": "<ul><li>Probleme, welche durch <i>Pulmonalklappenstenose</i> besser erklärt sind: Dyspnoe, Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Chronisch venöse Insuffizienz",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.pulmonaryValveStenosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Pulmonalklappenstenose",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.sepsis",
       "explanation": "<ul><li>Probleme, welche durch <i>Pulmonalklappenstenose</i> besser erklärt sind: Schwellung der Unterschenkel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sepsis</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
       "isCorrect": false,
       "label": "Sepsis",

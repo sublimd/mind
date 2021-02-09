@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.vestibularNeuritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Neuritis vestibularis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.benignParoxysmalPositionalVertigo",
       "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
       "isCorrect": false,
       "label": "Benigner paroxysmaler Lagerungsschwindel",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.motionSickness",
       "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
       "isCorrect": false,
       "label": "Reisekrankheit",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.orthostaticDysregulation",
       "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
       "isCorrect": false,
       "label": "Orthostatische Dysregulation",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Kopfschmerzen, Photophobie, Phonophobie</li></ul>",
       "isCorrect": false,
       "label": "Migräne",

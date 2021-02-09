@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pulmonaryEdema",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lungenödem",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.anginaPectorisStable",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Husten, Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Stabile Angina pectoris",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.atelectasis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Atelektase",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.ribFracture",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Rippenfraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Thoraxtrauma</li></ul>",
       "isCorrect": false,
       "label": "Rippenfraktur",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteAsthma",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Exazerbation eines Asthma bronchiale",

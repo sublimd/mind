@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.irritableBowelSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Colon irritabile"
     },
     {
-      "diagnosisId": "D.whippleDisease",
       "explanation": "",
       "isCorrect": true,
       "label": "Whipple-Krankheit"
     },
     {
-      "diagnosisId": "D.ulcerativeColitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Colitis ulcerosa"
     },
     {
-      "diagnosisId": "D.crohnsDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "M. Crohn"
     },
     {
-      "diagnosisId": "D.colorectalCancer",
       "explanation": "",
       "isCorrect": false,
       "label": "Kolonkarzinom"

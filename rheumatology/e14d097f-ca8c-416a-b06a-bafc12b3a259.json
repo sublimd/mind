@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lumbarVertebralSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Lumbovertebrales Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.ankylosingSpondilitis",
       "explanation": "<ul><li><i>Lumbovertebrales Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Spondylitis ankylosans</i> erhöhen würden: Hüftschmerzen, Schulterschmerzen, Gelenkschmerzen, Fussgelenksschmerzen, Ellbogenschmerzen, Knieschmerzen, Fussschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Spondylitis ankylosans",
@@ -19,14 +17,12 @@
       }
     },
     {
-      "diagnosisId": "D.stablePelvicRingFracture",
       "explanation": "<ul><li><i>Lumbovertebrales Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Beckenringfraktur</i> erhöhen würden: Bauchschmerzen, Schmerzen im Genitalbereich, Unfall, Sensibilitätsstörungen, Unfall</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Beckenringfraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Trauma der unteren Extremität, Vorangehendes Trauma</li></ul>",
       "isCorrect": false,
       "label": "Stabile Beckenringfraktur",
       "references": {}
     },
     {
-      "diagnosisId": "D.herpesZoster",
       "explanation": "<ul><li><i>Lumbovertebrales Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes zoster</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Herpes zoster</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Herpes zoster",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.lumbarSpondylogenicSyndrome",
       "explanation": "<ul></ul>",
       "isCorrect": false,
       "label": "Lumbospondylogenes Syndrom",

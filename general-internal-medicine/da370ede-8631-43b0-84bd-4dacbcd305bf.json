@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.transverseMyelitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Transverse Myelitis"
     },
     {
-      "diagnosisId": "D.proximalHumeralFracture",
       "explanation": "",
       "isCorrect": false,
       "label": "Proximale Humerusfraktur"
     },
     {
-      "diagnosisId": "D.ischemicStroke",
       "explanation": "",
       "isCorrect": false,
       "label": "Ischämischer Schlaganfall"
     },
     {
-      "diagnosisId": "D.polyneuropathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Polyneuropathie"
     },
     {
-      "diagnosisId": "D.thoracicOutletSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Thoracic Outlet Syndrome (TOS)"

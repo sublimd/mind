@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokarditis"
     },
     {
-      "diagnosisId": "D.corPulmonale",
       "explanation": "",
       "isCorrect": false,
       "label": "Cor pulmonale"
     },
     {
-      "diagnosisId": "D.pulmonaryEdema",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenödem"
     },
     {
-      "diagnosisId": "D.cardiacTamponade",
       "explanation": "",
       "isCorrect": true,
       "label": "Perikardtamponade"
     },
     {
-      "diagnosisId": "D.leftSidedHeartFailure",
       "explanation": "",
       "isCorrect": false,
       "label": "Linksherzinsuffizienz"

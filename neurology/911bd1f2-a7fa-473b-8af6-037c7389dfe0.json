@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.benignParoxysmalPositionalVertigo",
       "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
       "isCorrect": false,
       "label": "Benigner paroxysmaler Lagerungsschwindel",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperemesisGravidarum",
       "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperemesis gravidarum</i> erhöhen würden: Schwangerschaft</li></ul>",
       "isCorrect": false,
       "label": "Hyperemesis gravidarum",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.vestibularNeuritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Neuritis vestibularis",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.orthostaticDysregulation",
       "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
       "isCorrect": false,
       "label": "Orthostatische Dysregulation",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.situationalSyncope",
       "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Situative Synkope</i> erhöhen würden: Synkope, Bewusstseinsverlust</li></ul>",
       "isCorrect": false,
       "label": "Situative Synkope",

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.analAbscess",
       "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Analabszess</i> erhöhen würden: vergrösserter Lymphknoten, Hautabszess</li></ul>",
       "isCorrect": false,
       "label": "Analabszess",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hemorrhoids",
       "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hämorrhoiden</i> erhöhen würden: analer Juckreiz</li></ul>",
       "isCorrect": false,
       "label": "Hämorrhoiden",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.proctitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Proktitis",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.colorectalCancer",
       "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: anale Schmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kolonkarzinom</i> erhöhen würden: Gewichtsverlust, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Kolonkarzinom",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.bacterialEnteritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Proktitis</i> besser erklärt sind: anale Schmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Bakterielle Enteritis</i> erhöhen würden: Fieber, Bauchschmerzen, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Bakterielle Enteritis",

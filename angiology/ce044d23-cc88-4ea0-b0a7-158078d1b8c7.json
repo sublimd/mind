@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.compartmentSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Kompartmentsyndrom"
     },
     {
-      "diagnosisId": "D.chronicVenousInsufficiency",
       "explanation": "",
       "isCorrect": true,
       "label": "Chronisch venöse Insuffizienz"
     },
     {
-      "diagnosisId": "D.deepVeinThrombosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Tiefe Venenthrombose"
     },
     {
-      "diagnosisId": "D.tibialStressFracture",
       "explanation": "",
       "isCorrect": false,
       "label": "Tibia-Stressfraktur"
     },
     {
-      "diagnosisId": "D.tibialFracture",
       "explanation": "",
       "isCorrect": false,
       "label": "Tibiafraktur"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.sickleCellCrisis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sichelzellkrise"
     },
     {
-      "diagnosisId": "D.boneMetastasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Knochenmetastasen"
     },
     {
-      "diagnosisId": "D.muscleStrain",
       "explanation": "",
       "isCorrect": true,
       "label": "Muskelzerrung"
     },
     {
-      "diagnosisId": "D.temporalArteritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Arteriitis temporalis"
     },
     {
-      "diagnosisId": "D.polymyalgiaRheumatica",
       "explanation": "",
       "isCorrect": false,
       "label": "Polymyalgia rheumatica"

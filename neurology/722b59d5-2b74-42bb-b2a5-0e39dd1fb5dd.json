@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.vestibularNeuritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Verwirrtheit, Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Neuritis vestibularis</i> erhöhen würden: Schwindel, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Neuritis vestibularis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.acousticNeuroma",
       "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akustikusneurinom</i> erhöhen würden: Hörminderung, Tinnitus</li></ul>",
       "isCorrect": false,
       "label": "Akustikusneurinom",
@@ -23,14 +21,12 @@
       }
     },
     {
-      "diagnosisId": "D.ghbIntoxication",
       "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>GHB-Intoxikation</i> erhöhen würden: Aggressivität, innere Anspannung, Angstzustände, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "GHB-Intoxikation",
       "references": {}
     },
     {
-      "diagnosisId": "D.transientIschemicAttack",
       "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Muskelschwäche, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Transitorische ischämische Attacke (TIA)",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.korsakoffsSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Korsakow-Syndrom",

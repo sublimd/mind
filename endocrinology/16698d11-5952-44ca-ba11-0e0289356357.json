@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.polycysticOvarySyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Prolaktinom</i> besser erklärt sind: Sehstörungen, Probleme beim Geschlechtsverkehr</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polyzystisches Ovarialsyndrom</i> erhöhen würden: unerfüllter Kinderwunsch, Haarausfall</li></ul>",
       "isCorrect": false,
       "label": "Polyzystisches Ovarialsyndrom",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.prolactinoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Prolaktinom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "<ul><li>Probleme, welche durch <i>Prolaktinom</i> besser erklärt sind: Sehstörungen, Ausfluss aus der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost, Vaginaler Ausfluss, urethraler Ausfluss, Dysurie</li></ul>",
       "isCorrect": false,
       "label": "Pelvic Inflammatory Disease",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.menopause",
       "explanation": "<ul><li>Probleme, welche durch <i>Prolaktinom</i> besser erklärt sind: Sehstörungen, Ausfluss aus der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Wärmeintoleranz, Nachtschweiss, Schlafstörungen, vaginaler Juckreiz</li></ul>",
       "isCorrect": false,
       "label": "Klimakterisches Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteAdnexitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Prolaktinom</i> besser erklärt sind: Sehstörungen, Ausfluss aus der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Adnexitis</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost, Vaginaler Ausfluss</li></ul>",
       "isCorrect": false,
       "label": "Akute Adnexitis",

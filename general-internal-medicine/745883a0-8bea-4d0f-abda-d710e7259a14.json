@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Allergische Konjunktivitis"
     },
     {
-      "diagnosisId": "D.chalazion",
       "explanation": "",
       "isCorrect": false,
       "label": "Chalazion"
     },
     {
-      "diagnosisId": "D.foreignBodyInConjunctiva",
       "explanation": "",
       "isCorrect": false,
       "label": "Konjunktivaler Fremdkörper"
     },
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "",
       "isCorrect": true,
       "label": "Hordeolum"
     },
     {
-      "diagnosisId": "D.acuteBlepharitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Blepharitis"

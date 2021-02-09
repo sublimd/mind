@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.reactiveArthritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Reaktive Arthritis"
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Hautveränderungen, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Kopfschmerzen, Gliederschmerzen, Nackensteifigkeit, Appetitverlust, Gewichtsverlust, vergrösserter Lymphknoten, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1"
     },
     {
-      "diagnosisId": "D.malaria",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Malaria</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Malaria</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Malaria"
     },
     {
-      "diagnosisId": "D.chikungunyaFever",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Chikungunya Fieber</i> erhöhen würden: Fieber, Schüttelfrost, Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chikungunya Fieber</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Chikungunya Fieber"
     },
     {
-      "diagnosisId": "D.bacterialEndocarditis",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Bakterielle Endokarditis</i> erhöhen würden: Fieber, Schüttelfrost, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Dyspnoe, Palpitationen, Tachykardien, Thoraxschmerzen, Nachtschweiss, Hyperhidrose</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Bakterielle Endokarditis</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Bakterielle Endokarditis"

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "<ul><li>Probleme, welche durch <i>Schwangerschaft</i> besser erklärt sind: Ausbleiben der Periode</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost, vaginaler Ausfluss, Dysurie</li></ul>",
       "isCorrect": false,
       "label": "Pelvic Inflammatory Disease",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.functionalCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Schwangerschaft</i> besser erklärt sind: Nausea, vaginale Blutung</li></ul>",
       "isCorrect": false,
       "label": "Funktionelle Zyste des Ovars",
       "references": {}
     },
     {
-      "diagnosisId": "D.pregnancy",
       "explanation": "",
       "isCorrect": true,
       "label": "Schwangerschaft",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.ectopicPregnancy",
       "explanation": "<ul><li><i>Schwangerschaft</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Extrauterine Gravidität (EUG)</i> erhöhen würden: Bauchschmerzen, Dysurie, Pollakisurie</li></ul>",
       "isCorrect": false,
       "label": "Extrauterine Gravidität (EUG)",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperprolactinemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Schwangerschaft</i> besser erklärt sind: Nausea, vaginale Blutung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperprolaktinämie</i> erhöhen würden: unerfüllter Kinderwunsch, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Hyperprolaktinämie",

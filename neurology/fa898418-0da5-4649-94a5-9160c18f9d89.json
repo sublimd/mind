@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypovolemicShock",
       "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypovolämischer Schock</i> erhöhen würden: Schwindel, Dyspnoe, Bewusstseinsverlust, Nausea, Erbrechen, Oligurie</li></ul>",
       "isCorrect": false,
       "label": "Hypovolämischer Schock",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.korsakoffsSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Korsakow-Syndrom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.sepsis",
       "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sepsis</i> erhöhen würden: Fieber, Schüttelfrost, Dyspnoe, Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Sepsis",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.cardiogenicShock",
       "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kardiogener Schock</i> erhöhen würden: Tachykardien, Palpitationen, Thoraxschmerzen, Bauchschmerzen, Dyspnoe, Bradykardien, Synkope, Bewusstseinsverlust</li></ul>",
       "isCorrect": false,
       "label": "Kardiogener Schock",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.acutePeritonitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Peritonitis</i> erhöhen würden: Bauchschmerzen, Fieber, Diarrhoe</li></ul>",
       "isCorrect": false,
       "label": "Akute Peritonitis",

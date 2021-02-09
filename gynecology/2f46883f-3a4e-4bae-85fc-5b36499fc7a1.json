@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pregnancy",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schwangerschaft</i> erhöhen würden: Ausbleiben der Periode, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Schwangerschaft",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.uterinePolyp",
       "explanation": "",
       "isCorrect": true,
       "label": "Korpuspolyp",
       "references": {}
     },
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost, Dysurie</li></ul>",
       "isCorrect": false,
       "label": "Pelvic Inflammatory Disease",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteAdnexitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Adnexitis</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost</li></ul>",
       "isCorrect": false,
       "label": "Akute Adnexitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.spontaneousAbortion",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Spontanabort</i> erhöhen würden: Bauchschmerzen, Schmerzen im Genitalbereich</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Spontanabort</i> erhöhen würden: Schwangerschaft</li></ul>",
       "isCorrect": false,
       "label": "Spontanabort",

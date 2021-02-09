@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.whiplashInjury",
       "explanation": "<ul><li><i>Spannungstyp-Kopfschmerz</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Sensibilitätsstörungen, Muskelschwäche</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Distorsionstrauma der Halswirbelsäule",
       "references": {}
     },
     {
-      "diagnosisId": "D.premenstrualSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Spannungstyp-Kopfschmerz</i> besser erklärt sind: Nackenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: Bauchschmerzen, depressive Verstimmung, Angstzustände, Blähungen</li></ul>",
       "isCorrect": false,
       "label": "Prämenstruelles Syndrom",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.tensionTypeHeadache",
       "explanation": "",
       "isCorrect": true,
       "label": "Spannungstyp-Kopfschmerz",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.vertebralArteryDissection",
       "explanation": "<ul><li><i>Spannungstyp-Kopfschmerz</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Dissektion der Arteria vertebralis",
       "references": {}
     },
     {
-      "diagnosisId": "D.carotidArteryDissection",
       "explanation": "<ul><li><i>Spannungstyp-Kopfschmerz</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Dissektion der Arteria carotis",

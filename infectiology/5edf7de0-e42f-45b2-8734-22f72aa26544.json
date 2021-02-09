@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "<ul><li>Symptome, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Augenrötung</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Hautveränderungen, vergrösserter Lymphknoten, Gelenkschmerzen, Nachtschweiss, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
       "isCorrect": false,
       "label": "HIV-Primoinfektion"
     },
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Symptome, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Kopfschmerzen, Diarrhoe</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Dyspnoe, Niesen</li></ul>",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege"
     },
     {
-      "diagnosisId": "D.influenza",
       "explanation": "<ul><li>Symptome, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Augenrötung, Diarrhoe</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Dyspnoe, Niesen</li></ul>",
       "isCorrect": false,
       "label": "Influenza"
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "<ul><li>Symptome, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Kopfschmerzen, Augenrötung, Diarrhoe</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie, vergrösserter Lymphknoten</li></ul>",
       "isCorrect": false,
       "label": "Virale Pharyngitis"
     },
     {
-      "diagnosisId": "D.leptospirosisStage1",
       "explanation": "",
       "isCorrect": true,
       "label": "Leptospirose Stadium I"

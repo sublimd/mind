@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acutePericarditis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Perikarditis"
     },
     {
-      "diagnosisId": "D.atrioventricularReentrantTachycardia",
       "explanation": "",
       "isCorrect": false,
       "label": "Atrioventrikuläre Reentry-Tachykardie (AVRT)"
     },
     {
-      "diagnosisId": "D.corPulmonale",
       "explanation": "",
       "isCorrect": false,
       "label": "Cor pulmonale"
     },
     {
-      "diagnosisId": "D.lungAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenabszess"
     },
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sarkoidose"

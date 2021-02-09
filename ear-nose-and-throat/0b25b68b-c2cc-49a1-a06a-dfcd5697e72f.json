@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.menieresDisease",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Menière</i> erhöhen würden: Schwindel, Nausea, Erbrechen, Hyperhidrose</li></ul>",
       "isCorrect": false,
       "label": "M. Menière",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.vestibularMigraine",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vestibuläre Migräne</i> erhöhen würden: Schwindel, Kopfschmerzen, Photophobie, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Vestibuläre Migräne",
       "references": {}
     },
     {
-      "diagnosisId": "D.presbyacusis",
       "explanation": "",
       "isCorrect": true,
       "label": "Presbyakusis",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.acousticNeuroma",
       "explanation": "<ul><li><i>Presbyakusis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akustikusneurinom</i> erhöhen würden: Schwindel, Ataxie</li></ul>",
       "isCorrect": false,
       "label": "Akustikusneurinom",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteRhinoSinusitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Kopfschmerzen, Gesichtsschmerzen, Fieber, Schüttelfrost</li></ul>",
       "isCorrect": false,
       "label": "Akute Rhinosinusitis",

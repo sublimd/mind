@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.otogenicLateralSinusThrombosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Otogene laterale Sinusvenenthrombose"
     },
     {
-      "diagnosisId": "D.acuteFungalMeningitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Pilz Meningitis"
     },
     {
-      "diagnosisId": "D.brainAbscess",
       "explanation": "",
       "isCorrect": true,
       "label": "Hirnabszess"
     },
     {
-      "diagnosisId": "D.cerebralMetastasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hirnmetastasen"
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose"

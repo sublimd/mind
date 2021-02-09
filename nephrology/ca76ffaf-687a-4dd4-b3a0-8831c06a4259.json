@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.obstructiveUropathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Obstruktive Uropathie (Harnstau)"
     },
     {
-      "diagnosisId": "D.acuteTubulointerstitialNephritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute tubulointerstitielle Nephritis"
     },
     {
-      "diagnosisId": "D.acutePyelonephritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Pyelonephritis"
     },
     {
-      "diagnosisId": "D.rupturedAbdominalAorticAneurysm",
       "explanation": "",
       "isCorrect": false,
       "label": "Rupturiertes abdominales Aortenaneurysma"
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "",
       "isCorrect": true,
       "label": "Urolithiasis"

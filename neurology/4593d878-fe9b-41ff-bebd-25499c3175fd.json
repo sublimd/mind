@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.concussion",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Amnesie, Bewusstseinsverlust, Synkope, Somnolenz, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Kürzliches Schädeltrauma</li></ul>",
       "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypertensiveEncephalopathy",
       "explanation": "",
       "isCorrect": true,
       "label": "Hypertensive Enzephalopathie",
       "references": {}
     },
     {
-      "diagnosisId": "D.delirium",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypertensive Enzephalopathie</i> besser erklärt sind: Kopfschmerzen, Erbrechen, Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Delir",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteAngleClosureGlaucoma",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypertensive Enzephalopathie</i> besser erklärt sind: erhöhter Blutdruck, Verwirrtheit</li></ul>",
       "isCorrect": false,
       "label": "Akutes Winkelblockglaukom",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypertensive Enzephalopathie</i> besser erklärt sind: erhöhter Blutdruck, Kopfschmerzen, Sehstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",

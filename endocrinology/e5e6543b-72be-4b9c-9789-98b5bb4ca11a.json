@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.drugInducedHypercalcemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Medikamenteninduzierte Hyperkalzämie"
     },
     {
-      "diagnosisId": "D.metabolicAcidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Metabolische Azidose"
     },
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Divertikulitis"
     },
     {
-      "diagnosisId": "D.cystadenoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Zystadenom"
     },
     {
-      "diagnosisId": "D.acuteGeneralizedAnxietyDisorder",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute generalisierte Angststörung"

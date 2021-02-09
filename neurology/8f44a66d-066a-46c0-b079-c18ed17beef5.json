@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.gravesDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Morbus Basedow"
     },
     {
-      "diagnosisId": "D.hypoglykemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypoglykämie"
     },
     {
-      "diagnosisId": "D.corticobasalDegeneration",
       "explanation": "",
       "isCorrect": false,
       "label": "Kortikobasale Degeneration"
     },
     {
-      "diagnosisId": "D.multipleSystemAtrophy",
       "explanation": "",
       "isCorrect": false,
       "label": "Multisystematrophie"
     },
     {
-      "diagnosisId": "D.essentialTremor",
       "explanation": "",
       "isCorrect": true,
       "label": "Essentieller Tremor"

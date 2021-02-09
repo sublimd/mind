@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.obstructiveSleepApneaSyndrome",
       "explanation": "<ul><li>Symptome, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> erhöhen würden: Schnarchen, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Obstruktives Schlafapnoesyndrom (OSAS)"
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "<ul><li>Symptome, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhter Blutdruck, Menstruationsbeschwerden, Ausbleiben der Periode, Schwellung der Beine, Hautschwellung, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Cushing Syndrom"
     },
     {
-      "diagnosisId": "D.hepaticEncephalopathy",
       "explanation": "<ul><li>Symptome, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Verwirrtheit, Krampfanfall, Angstzustände, Mundgeruch</li></ul>",
       "isCorrect": false,
       "label": "Hepatische Enzephalopathie"
     },
     {
-      "diagnosisId": "D.majorDepressiveEpisode",
       "explanation": "",
       "isCorrect": true,
       "label": "Ausgeprägte depressive Episode"
     },
     {
-      "diagnosisId": "D.gravesDisease",
       "explanation": "<ul><li><i>Ausgeprägte depressive Episode</i> ist häufiger</li><li>Symptome, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Augenschmerzen, Augenschwellung, Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Morbus Basedow"

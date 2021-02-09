@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypokalzämie</i> besser erklärt sind: Muskelkrämpfe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Hyperosmolare hyperglykämische Entgleisung",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypocalcemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Hypokalzämie",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypomagnesemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypokalzämie</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypomagnesiämie</i> erhöhen würden: Tremor, Muskelschwäche, Gliederschmerzen, Verwirrtheit</li></ul>",
       "isCorrect": false,
       "label": "Hypomagnesiämie",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypokalzämie</i> besser erklärt sind: Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hypokaliämie",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperkalemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypokalzämie</i> besser erklärt sind: Muskelkrämpfe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkaliämie</i> erhöhen würden: Muskelschwäche</li></ul>",
       "isCorrect": false,
       "label": "Hyperkaliämie",

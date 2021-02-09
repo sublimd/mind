@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.functionalCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: vaginale Blutung</li></ul>",
       "isCorrect": false,
       "label": "Funktionelle Zyste des Ovars",
       "references": {}
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: vaginale Blutung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Dysurie, Pollakisurie</li></ul>",
       "isCorrect": false,
       "label": "Harnwegsinfekt",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.premenstrualSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: vaginale Blutung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: depressive Verstimmung, Angstzustände, Blähungen</li></ul>",
       "isCorrect": false,
       "label": "Prämenstruelles Syndrom",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.spontaneousAbortion",
       "explanation": "",
       "isCorrect": true,
       "label": "Spontanabort",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.atrophicVaginitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atrophe Vaginitis</i> erhöhen würden: vaginaler Juckreiz, Probleme beim Geschlechtsverkehr</li></ul>",
       "isCorrect": false,
       "label": "Atrophe Vaginitis",

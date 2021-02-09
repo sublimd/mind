@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": false,
       "label": "Makrozytäre Anämie"
     },
     {
-      "diagnosisId": "D.bacterialEndocarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Bakterielle Endokarditis"
     },
     {
-      "diagnosisId": "D.tricuspidalValveInsufficiency",
       "explanation": "",
       "isCorrect": true,
       "label": "Trikuspidalklappen-Insuffizienz"
     },
     {
-      "diagnosisId": "D.copd",
       "explanation": "",
       "isCorrect": false,
       "label": "COPD"
     },
     {
-      "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
       "explanation": "",
       "isCorrect": false,
       "label": "Anämie im Rahmen chronischer Erkrankung"

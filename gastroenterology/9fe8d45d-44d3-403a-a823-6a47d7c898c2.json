@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.splenicAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Milzabszess"
     },
     {
-      "diagnosisId": "D.gallbladderEmpyema",
       "explanation": "",
       "isCorrect": true,
       "label": "Gallenblasenempyem"
     },
     {
-      "diagnosisId": "D.echinococcosisOfLiver",
       "explanation": "",
       "isCorrect": false,
       "label": "Echinokokkose der Leber"
     },
     {
-      "diagnosisId": "D.paracetamolIntoxication",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Paracetamol-Intoxikation"
     },
     {
-      "diagnosisId": "D.acuteProstatitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Prostatitis"

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.mesenterialIschemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Magenkarzinom</i> besser erklärt sind: Gewichtsverlust, Meläna</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Mesenterialinfarkt</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Mesenterialinfarkt",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfStomach",
       "explanation": "",
       "isCorrect": true,
       "label": "Magenkarzinom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Magenkarzinom</i> besser erklärt sind: Gewichtsverlust, Meläna</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfPancreas",
       "explanation": "<ul><li>Probleme, welche durch <i>Magenkarzinom</i> besser erklärt sind: Meläna</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: Ikterus, Rückenschmerzen, Diarrhoe</li></ul>",
       "isCorrect": false,
       "label": "Pankreaskarzinom",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.alcoholicLiverDisease",
       "explanation": "<ul><li>Probleme, welche durch <i>Magenkarzinom</i> besser erklärt sind: Meläna</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Appetitverlust, Ikterus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Alkoholische Steatohepatitis",

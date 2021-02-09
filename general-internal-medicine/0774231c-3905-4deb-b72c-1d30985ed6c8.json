@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.bowelPolyps",
       "explanation": "",
       "isCorrect": true,
       "label": "Darmpolypen"
     },
     {
-      "diagnosisId": "D.analCancer",
       "explanation": "",
       "isCorrect": false,
       "label": "Analkarzinom"
     },
     {
-      "diagnosisId": "D.rectalProlapse",
       "explanation": "",
       "isCorrect": false,
       "label": "Rektalprolaps"
     },
     {
-      "diagnosisId": "D.bacterialEnteritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Bakterielle Enteritis"
     },
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "",
       "isCorrect": false,
       "label": "Typhus abdominalis"

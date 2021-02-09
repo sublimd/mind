@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Cushing Syndrom</i> besser erklärt sind: erhöhter Blutdruck, erektile Dysfunktion, Schwellung der Unterschenkel, Rückenschmerzen, Kopfschmerzen, Schlafstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteKidneyInjury",
       "explanation": "<ul><li>Probleme, welche durch <i>Cushing Syndrom</i> besser erklärt sind: erektile Dysfunktion, Rückenschmerzen, Kopfschmerzen, Bauchschmerzen, Schlafstörungen</li></ul>",
       "isCorrect": false,
       "label": "Akute Nierenschädigung",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "",
       "isCorrect": true,
       "label": "Cushing Syndrom",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "<ul><li>Probleme, welche durch <i>Cushing Syndrom</i> besser erklärt sind: Müdigkeit, erektile Dysfunktion, Schwellung der Unterschenkel, Rückenschmerzen, Schlafstörungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Bekannte arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Hypertensiver Notfall",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.obstructiveSleepApneaSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Cushing Syndrom</i> besser erklärt sind: erektile Dysfunktion, Schwellung der Unterschenkel, Rückenschmerzen, Polyurie, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Obstruktives Schlafapnoesyndrom (OSAS)",

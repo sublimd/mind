@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pneumothorax",
       "explanation": "<ul><li>Probleme, welche durch <i>Aszites</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pneumothorax</i> erhöhen würden: Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Pneumothorax",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.ascites",
       "explanation": "",
       "isCorrect": true,
       "label": "Aszites",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Aszites</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Husten, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Sarkoidose",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.pulmonaryEdema",
       "explanation": "<ul><li>Probleme, welche durch <i>Aszites</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenödem</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Husten</li></ul>",
       "isCorrect": false,
       "label": "Lungenödem",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.goiter",
       "explanation": "<ul><li>Probleme, welche durch <i>Aszites</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Struma</i> erhöhen würden: Halsschwellung</li></ul>",
       "isCorrect": false,
       "label": "Struma",

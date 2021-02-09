@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
       "explanation": "",
       "isCorrect": false,
       "label": "AV-Block II°, Mobitz II"
     },
     {
-      "diagnosisId": "D.mitralValveProlapse",
       "explanation": "",
       "isCorrect": false,
       "label": "Mitralklappenprolaps Syndrom (Barlow-Syndrom)"
     },
     {
-      "diagnosisId": "D.pneumothorax",
       "explanation": "",
       "isCorrect": false,
       "label": "Pneumothorax"
     },
     {
-      "diagnosisId": "D.acuteCoronarySyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokardinfarkt"
     },
     {
-      "diagnosisId": "D.pulmonaryEmbolism",
       "explanation": "",
       "isCorrect": true,
       "label": "Lungenembolie"

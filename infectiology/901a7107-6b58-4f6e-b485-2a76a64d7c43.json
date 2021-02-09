@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Chikungunya Fieber</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Husten, Halsschmerzen, Odynophagie, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
       "references": {}
     },
     {
-      "diagnosisId": "D.chikungunyaFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Chikungunya Fieber",
@@ -19,14 +17,12 @@
       }
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1",
       "references": {}
     },
     {
-      "diagnosisId": "D.malaria",
       "explanation": "<ul><li>Probleme, welche durch <i>Chikungunya Fieber</i> besser erklärt sind: Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Malaria",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Chikungunya Fieber</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Virale Pharyngitis",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.anaphylacticShock",
       "explanation": "",
       "isCorrect": false,
       "label": "Anaphylaktischer Schock"
     },
     {
-      "diagnosisId": "D.acuteBacterialMeningitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute bakterielle Meningitis"
     },
     {
-      "diagnosisId": "D.subarachnoidHemorrhage",
       "explanation": "",
       "isCorrect": true,
       "label": "Subarachnoidalblutung"
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": false,
       "label": "Makrozytäre Anämie"
     },
     {
-      "diagnosisId": "D.syndromeOfInappropriateAntidiureticHormoneSecretion",
       "explanation": "",
       "isCorrect": false,
       "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)"

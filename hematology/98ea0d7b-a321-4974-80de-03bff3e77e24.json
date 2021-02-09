@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.sickleCellCrisis",
       "explanation": "",
       "isCorrect": true,
       "label": "Sichelzellkrise",
       "references": {}
     },
     {
-      "diagnosisId": "D.rhizarthrosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Sichelzellkrise</i> besser erklärt sind: Dyspnoe, Fieber, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rhizarthrose</i> erhöhen würden: Handsteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Rhizarthrose",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperventilationSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Sichelzellkrise</i> besser erklärt sind: Handschmerzen, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperventilationssyndrom</i> erhöhen würden: Sensibilitätsstörungen, Muskelkrämpfe</li></ul>",
       "isCorrect": false,
       "label": "Hyperventilationssyndrom",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.sepsis",
       "explanation": "<ul><li>Probleme, welche durch <i>Sichelzellkrise</i> besser erklärt sind: Handschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Sepsis",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.tenosynovitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Sichelzellkrise</i> besser erklärt sind: Dyspnoe, Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Tendosynovitis",

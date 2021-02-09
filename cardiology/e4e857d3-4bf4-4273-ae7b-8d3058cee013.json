@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.tricuspidalValveInsufficiency",
       "explanation": "",
       "isCorrect": true,
       "label": "Trikuspidalklappen-Insuffizienz"
     },
     {
-      "diagnosisId": "D.cardiacTamponade",
       "explanation": "",
       "isCorrect": false,
       "label": "Perikardtamponade"
     },
     {
-      "diagnosisId": "D.avNodalReentrantTachycardia",
       "explanation": "",
       "isCorrect": false,
       "label": "AV-Knoten-Reentry-Tachykardie"
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": false,
       "label": "Makrozytäre Anämie"
     },
     {
-      "diagnosisId": "D.acuteKidneyInjury",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Nierenschädigung"

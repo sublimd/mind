@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.malignantNeoplasmOfBrain",
       "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirntumor</i> erhöhen würden: Kopfschmerzen, Krampfanfall</li></ul>",
       "isCorrect": false,
       "label": "Hirntumor",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteAngleClosureGlaucoma",
       "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Sensibilitätsstörungen, Dysphagie, Dysphonie, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akutes Winkelblockglaukom</i> erhöhen würden: Augenrötung</li></ul>",
       "isCorrect": false,
       "label": "Akutes Winkelblockglaukom",
       "references": {}
     },
     {
-      "diagnosisId": "D.wallenbergSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Wallenberg-Syndrom",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.acousticNeuroma",
       "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Dysphagie, Sehstörungen, Dysphonie, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akustikusneurinom</i> erhöhen würden: Hörminderung, Tinnitus</li></ul>",
       "isCorrect": false,
       "label": "Akustikusneurinom",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypoglykemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Wallenberg-Syndrom</i> besser erklärt sind: Gesichtsschmerzen, Dysphagie, Dysphonie, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Tremor, Hyperhidrose</li></ul>",
       "isCorrect": false,
       "label": "Hypoglykämie",

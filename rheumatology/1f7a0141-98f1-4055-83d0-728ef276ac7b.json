@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.sternoclavicularJointDislocation",
       "explanation": "<ul><li><i>Costochondritis (Tietze-Syndrom)</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Sternoklavikuläre Luxation</i> erhöhen würden: Unfall, Kürzliches Trauma, Kürzliches Thoraxtrauma</li></ul>",
       "isCorrect": false,
       "label": "Sternoklavikuläre Luxation",
       "references": {}
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall, Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Makrozytäre Anämie",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.sinusTachycardia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sinustachykardie</i> erhöhen würden: Palpitationen, Tachykardien, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Sinustachykardie",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.atrialFibrillation",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Palpitationen, Tachykardien</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Vorhofflimmern",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.costochondritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Costochondritis (Tietze-Syndrom)",

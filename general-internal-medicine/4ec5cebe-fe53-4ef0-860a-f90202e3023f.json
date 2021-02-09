@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperkalzämie"
     },
     {
-      "diagnosisId": "D.tuboOvarianAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Tuboovarialabszess"
     },
     {
-      "diagnosisId": "D.gastrooesophagealRefluxDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Gastroösophageale Refluxkrankheit"
     },
     {
-      "diagnosisId": "D.cholelithiasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Cholelithiasis"
     },
     {
-      "diagnosisId": "D.abdominalAbscess",
       "explanation": "",
       "isCorrect": true,
       "label": "Abdominaler Abszess"

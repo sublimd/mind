@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperkalzämie"
     },
     {
-      "diagnosisId": "D.hyperparathyroidism",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperparathyroidismus"
     },
     {
-      "diagnosisId": "D.porphyria",
       "explanation": "",
       "isCorrect": true,
       "label": "Porphyrie"
     },
     {
-      "diagnosisId": "D.coprostasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Koprostase"
     },
     {
-      "diagnosisId": "D.diabeticKetoacidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Diabetische Ketoazidose"

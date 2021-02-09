@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.granulomatosisWithPolyangiitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Granulomatose mit Polyangiitis</i> erhöhen würden: Rhinorrhoe</li></ul>",
       "isCorrect": false,
       "label": "Granulomatose mit Polyangiitis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.pancoastTumor",
       "explanation": "",
       "isCorrect": true,
       "label": "Pancoast-Tumor",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.pulmonaryTuberculosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungentuberkulose</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lungentuberkulose</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Lungentuberkulose",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.anginaPectorisStable",
       "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lungenkarzinom",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.lungMetastasis",
       "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lungenmetastasen",

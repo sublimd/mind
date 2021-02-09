@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.nonHodgkinLymphoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Non-Hodgkin Lymphom"
     },
     {
-      "diagnosisId": "D.vulvarInclusionCyst",
       "explanation": "",
       "isCorrect": true,
       "label": "Einschlusszyste der Vulva"
     },
     {
-      "diagnosisId": "D.abscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Abszess"
     },
     {
-      "diagnosisId": "D.lipoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Lipom"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfOvary",
       "explanation": "",
       "isCorrect": false,
       "label": "Ovarialkarzinom"

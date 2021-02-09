@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lumbarSpondylogenicSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Lumbospondylogenes Syndrom"
     },
     {
-      "diagnosisId": "D.lumbarRadicularSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Lumboradikuläres Syndrom"
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "",
       "isCorrect": true,
       "label": "Urolithiasis"
     },
     {
-      "diagnosisId": "D.acutePyelonephritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Pyelonephritis"
     },
     {
-      "diagnosisId": "D.spondylolysis",
       "explanation": "",
       "isCorrect": false,
       "label": "Spondylolyse"

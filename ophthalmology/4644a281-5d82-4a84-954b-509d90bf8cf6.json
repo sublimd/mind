@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.wernickesEncephalopathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Wernicke-Enzephalopathie"
     },
     {
-      "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Allergische Konjunktivitis"
     },
     {
-      "diagnosisId": "D.keratoconjunctivitisSicca",
       "explanation": "",
       "isCorrect": false,
       "label": "Keratokonjunktivitis sicca"
     },
     {
-      "diagnosisId": "D.bruxism",
       "explanation": "",
       "isCorrect": false,
       "label": "Bruxismus"
     },
     {
-      "diagnosisId": "D.cataract",
       "explanation": "",
       "isCorrect": true,
       "label": "Katarakt"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege"
     },
     {
-      "diagnosisId": "D.epiglottitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Epiglottitis"
     },
     {
-      "diagnosisId": "D.ludwigAngina",
       "explanation": "",
       "isCorrect": false,
       "label": "Ludwig-Angina"
     },
     {
-      "diagnosisId": "D.pulmonaryAspiration",
       "explanation": "",
       "isCorrect": false,
       "label": "Aspirationspneumonie"
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose"

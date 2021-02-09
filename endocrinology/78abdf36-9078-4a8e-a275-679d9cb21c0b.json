@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.diabetesMellitusType1",
       "explanation": "",
       "isCorrect": true,
       "label": "Diabetes mellitus Typ 1",
       "references": {}
     },
     {
-      "diagnosisId": "D.diabeticKetoacidosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Diabetes mellitus Typ 1</i> besser erklärt sind: Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Diabetische Ketoazidose</i> erhöhen würden: Nausea, Erbrechen, Bauchschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Diabetische Ketoazidose</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Diabetische Ketoazidose",
       "references": {}
     },
     {
-      "diagnosisId": "D.hyperparathyroidism",
       "explanation": "<ul><li><i>Hyperparathyroidismus</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Diabetes mellitus Typ 1</i> besser erklärt sind: Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperparathyroidismus</i> erhöhen würden: Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperparathyroidismus",
@@ -26,14 +23,12 @@
       }
     },
     {
-      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
       "explanation": "<ul><li>Probleme, welche durch <i>Diabetes mellitus Typ 1</i> besser erklärt sind: Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Sehstörungen, Muskelschwäche, Sensibilitätsstörungen, Krampfanfall, Verwirrtheit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Hyperosmolare hyperglykämische Entgleisung",
       "references": {}
     },
     {
-      "diagnosisId": "D.drugInducedHypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Diabetes mellitus Typ 1</i> besser erklärt sind: Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hyperkalzämie",

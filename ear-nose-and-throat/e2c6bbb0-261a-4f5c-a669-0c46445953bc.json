@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.chronicOtitisMedia",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronische Otitis media"
     },
     {
-      "diagnosisId": "D.foreignBodyInExternalAuditoryCanal",
       "explanation": "",
       "isCorrect": false,
       "label": "Fremdkörper im äusseren Gehörgang"
     },
     {
-      "diagnosisId": "D.otitisExternaDiffusa",
       "explanation": "",
       "isCorrect": true,
       "label": "Otitis externa diffusa"
     },
     {
-      "diagnosisId": "D.acuteOtitisMedia",
       "explanation": "",
       "isCorrect": false,
       "label": "Vestibuläre Neuritis"
     },
     {
-      "diagnosisId": "D.otitisMediaWithEffusion",
       "explanation": "",
       "isCorrect": false,
       "label": "Seromukotympanon"

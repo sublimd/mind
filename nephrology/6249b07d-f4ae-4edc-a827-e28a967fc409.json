@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.bacterialVaginosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Harnwegsinfekt</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Bakterielle Vaginose</i> erhöhen würden: vaginaler Ausfluss, vaginaler Juckreiz</li></ul>",
       "isCorrect": false,
       "label": "Bakterielle Vaginose",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.acutePyelonephritis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Flankenschmerzen, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Akute Pyelonephritis",
       "references": {}
     },
     {
-      "diagnosisId": "D.rhabdomyolysis",
       "explanation": "<ul><li><i>Harnwegsinfekt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rhabdomyolyse</i> erhöhen würden: Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Rhabdomyolyse",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "",
       "isCorrect": true,
       "label": "Harnwegsinfekt",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.atrophicVaginitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Harnwegsinfekt</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atrophe Vaginitis</i> erhöhen würden: vaginaler Juckreiz, Probleme beim Geschlechtsverkehr, vaginale Blutung, vaginaler Ausfluss</li></ul>",
       "isCorrect": false,
       "label": "Atrophe Vaginitis",

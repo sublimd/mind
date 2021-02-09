@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Eisenmangelanämie"
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1"
     },
     {
-      "diagnosisId": "D.tickborneEncephalitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Frühsommer-Meningoencephalitis (FSME)"
     },
     {
-      "diagnosisId": "D.syndromeOfInappropriateAntidiureticHormoneSecretion",
       "explanation": "",
       "isCorrect": false,
       "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)"
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": false,
       "label": "Makrozytäre Anämie"

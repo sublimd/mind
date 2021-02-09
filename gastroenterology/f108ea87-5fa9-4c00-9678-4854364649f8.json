@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.diverticularBleeding",
       "explanation": "",
       "isCorrect": true,
       "label": "Divertikelblutung",
       "references": {}
     },
     {
-      "diagnosisId": "D.ulcerativeColitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Diarrhoe, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Colitis ulcerosa",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.ischemicColitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ischämische Kolitis</i> erhöhen würden: Diarrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ischämische Kolitis</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Ischämische Kolitis",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.proctitis",
       "explanation": "<ul><li><i>Divertikelblutung</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Diarrhoe, anale Schmerzen</li></ul>",
       "isCorrect": false,
       "label": "Proktitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Typhus abdominalis",

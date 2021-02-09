@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> besser erklärt sind: Schnarchen, Schlafstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.obstructiveSleepApneaSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Obstruktives Schlafapnoesyndrom (OSAS)",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.majorDepressiveEpisode",
       "explanation": "<ul><li>Probleme, welche durch <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> besser erklärt sind: Schnarchen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ausgeprägte depressive Episode</i> erhöhen würden: Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Ausgeprägte depressive Episode",
       "references": {}
     },
     {
-      "diagnosisId": "D.diabetesMellitusType2",
       "explanation": "<ul><li>Probleme, welche durch <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> besser erklärt sind: Schnarchen, Schlafstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Diabetes mellitus Typ 2</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl</li></ul>",
       "isCorrect": false,
       "label": "Diabetes mellitus Typ 2",
       "references": {}
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> besser erklärt sind: Schnarchen, Schlafstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Dysurie, Pollakisurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Harnwegsinfekt",

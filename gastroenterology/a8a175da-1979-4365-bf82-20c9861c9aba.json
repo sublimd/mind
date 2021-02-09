@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
       "explanation": "<ul><li>Probleme, welche durch <i>Salmonellen-Enteritis</i> besser erklärt sind: Hämatochezie, Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Husten, Dyspnoe, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene Pneumonie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.salmonellaEnteritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Salmonellen-Enteritis",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.ulcerativeColitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Salmonellen-Enteritis</i> besser erklärt sind: Nausea, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Colitis ulcerosa",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.bacterialEnteritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Salmonellen-Enteritis</i> besser erklärt sind: Müdigkeit, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Bakterielle Enteritis",
       "references": {}
     },
     {
-      "diagnosisId": "D.viralGastroenteritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Salmonellen-Enteritis</i> besser erklärt sind: Müdigkeit, Hämatochezie, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Virale Gastroenteritis",

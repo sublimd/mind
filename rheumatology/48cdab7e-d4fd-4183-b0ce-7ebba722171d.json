@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hipOsteoarthritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Coxarthrose",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.inguinalHernia",
       "explanation": "<ul><li>Probleme, welche durch <i>Coxarthrose</i> besser erklärt sind: Rückenschmerzen, Hüftsteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Inguinalhernie",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.hipDysplasia",
       "explanation": "<ul><li>Probleme, welche durch <i>Coxarthrose</i> besser erklärt sind: Hüftsteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Hüftdysplasie",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.lumbarVertebralSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Coxarthrose</i> besser erklärt sind: Leistenschmerzen, Hüftsteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Lumbovertebrales Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.lumbarRadicularSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Coxarthrose</i> besser erklärt sind: Leistenschmerzen, Hüftsteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lumboradikuläres Syndrom</i> erhöhen würden: Muskelschwäche, Sensibilitätsstörungen</li></ul>",
       "isCorrect": false,
       "label": "Lumboradikuläres Syndrom",

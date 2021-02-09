@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.tickborneEncephalitis",
       "explanation": "<ul><li><i>AV-Block II°, Mobitz I (Wenckebach)</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>AV-Block II°, Mobitz I (Wenckebach)</i> besser erklärt sind: Bradykardien</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Kopfschmerzen, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Fieber, Gliederschmerzen, Gelenkschmerzen, Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Frühsommer-Meningoencephalitis (FSME)",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.cardiogenicSyncope",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kardiogene Synkope</i> erhöhen würden: Synkope, Bewusstseinsverlust, Hypotonie, Dyspnoe, Thoraxschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Kardiogene Synkope</i> erhöhen würden: Diabetes mellitus, Plötzlicher Todesfall in der Familie</li></ul>",
       "isCorrect": false,
       "label": "Kardiogene Synkope",
       "references": {}
     },
     {
-      "diagnosisId": "D.cardiogenicShock",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kardiogener Schock</i> erhöhen würden: Hypotonie, Tachykardien, Palpitationen, Thoraxschmerzen, Bauchschmerzen, Dyspnoe, Synkope, Bewusstseinsverlust</li></ul>",
       "isCorrect": false,
       "label": "Kardiogener Schock",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.anorexiaNervosa",
       "explanation": "<ul><li>Probleme, welche durch <i>AV-Block II°, Mobitz I (Wenckebach)</i> besser erklärt sind: Bradykardien</li></ul>",
       "isCorrect": false,
       "label": "Anorexia nervosa",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.atrioventricularBlockSecondDegreeWenckebach",
       "explanation": "",
       "isCorrect": true,
       "label": "AV-Block II°, Mobitz I (Wenckebach)",

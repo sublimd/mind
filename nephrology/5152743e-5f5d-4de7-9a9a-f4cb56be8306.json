@@ -1,35 +1,30 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lumbarSpondylogenicSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Rupturierte Nierenzyste</i> besser erklärt sind: Hämaturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lumbospondylogenes Syndrom</i> erhöhen würden: Rückenschmerzen, Beinschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lumbospondylogenes Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.rupturedKidneyCyst",
       "explanation": "",
       "isCorrect": true,
       "label": "Rupturierte Nierenzyste",
       "references": {}
     },
     {
-      "diagnosisId": "D.stablePelvicRingFracture",
       "explanation": "<ul><li>Probleme, welche durch <i>Rupturierte Nierenzyste</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Beckenringfraktur</i> erhöhen würden: Hüftschmerzen, Rückenschmerzen, Bauchschmerzen, Schmerzen im Genitalbereich, Sensibilitätsstörungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Beckenringfraktur</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Stabile Beckenringfraktur",
       "references": {}
     },
     {
-      "diagnosisId": "D.lumbarRadicularSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Rupturierte Nierenzyste</i> besser erklärt sind: Hämaturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lumboradikuläres Syndrom</i> erhöhen würden: Rückenschmerzen, Beinschmerzen, Muskelschwäche, Sensibilitätsstörungen</li></ul>",
       "isCorrect": false,
       "label": "Lumboradikuläres Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.rhabdomyolysis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rupturierte Nierenzyste</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rhabdomyolyse</i> erhöhen würden: Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Rhabdomyolyse",

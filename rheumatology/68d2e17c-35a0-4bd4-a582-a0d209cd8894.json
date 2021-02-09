@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteCoronarySyndrome",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Thoraxschmerzen, Bauchschmerzen, Dyspnoe, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Nikotinabusus, Arterielle Hypertonie, Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Myokardinfarkt",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.muscleStrain",
       "explanation": "",
       "isCorrect": true,
       "label": "Muskelzerrung",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.polymyalgiaRheumatica",
       "explanation": "<ul><li><i>Muskelzerrung</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polymyalgia rheumatica</i> erhöhen würden: Appetitverlust, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Polymyalgia rheumatica",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.distalBicepsTendonTear",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Distale Bizepssehnenruptur</i> erhöhen würden: Schulterschwellung, Hautschwellung, Unfall, Muskelschwäche</li></ul>",
       "isCorrect": false,
       "label": "Distale Bizepssehnenruptur",
       "references": {}
     },
     {
-      "diagnosisId": "D.thoracicOutletSyndrome",
       "explanation": "<ul><li><i>Muskelzerrung</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thoracic Outlet Syndrome (TOS)</i> erhöhen würden: Muskelschwäche, Schwellung der Arme</li></ul>",
       "isCorrect": false,
       "label": "Thoracic Outlet Syndrome (TOS)",

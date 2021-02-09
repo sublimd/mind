@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.proctitis",
       "explanation": "<ul><li><i>Perianalthrombose</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Diarrhoe, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Proktitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.lymphogranulomaInguinale",
       "explanation": "<ul><li><i>Perianalthrombose</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lymphogranuloma inguinale</i> erhöhen würden: Hautveränderungen, vergrösserte Lymphknoten, Fieber, Leistenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lymphogranuloma inguinale",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.coprostasis",
       "explanation": "<ul>\\n<li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Koprostase</i> erhöhen würden: Obstipation, Bauchschmerzen</li>\\n</ul>",
       "isCorrect": false,
       "label": "Koprostase",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.perianalVeinThrombosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Perianalthrombose",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.analCancer",
       "explanation": "<ul><li><i>Perianalthrombose</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
       "isCorrect": false,
       "label": "Analkarzinom",

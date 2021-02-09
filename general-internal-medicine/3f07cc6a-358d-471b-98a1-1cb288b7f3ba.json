@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.corPulmonale",
       "explanation": "",
       "isCorrect": false,
       "label": "Cor pulmonale"
     },
     {
-      "diagnosisId": "D.fibrolamellarCarcinoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Fibrolamelläres Karzinom"
     },
     {
-      "diagnosisId": "D.hepatitisE",
       "explanation": "",
       "isCorrect": true,
       "label": "Hepatitis E"
     },
     {
-      "diagnosisId": "D.gastricMucosaAssociatedLymphoidTissueLymphoma",
       "explanation": "",
       "isCorrect": false,
       "label": "MALT-Lymphom des Magens"
     },
     {
-      "diagnosisId": "D.liverMetastases",
       "explanation": "",
       "isCorrect": false,
       "label": "Lebermetastasen"

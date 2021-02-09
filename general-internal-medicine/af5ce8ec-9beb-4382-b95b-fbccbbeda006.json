@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Eisenmangelanämie"
     },
     {
-      "diagnosisId": "D.polycythemiaVera",
       "explanation": "",
       "isCorrect": false,
       "label": "Polycythämia vera"
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": false,
       "label": "Makrozytäre Anämie"
     },
     {
-      "diagnosisId": "D.corPulmonale",
       "explanation": "",
       "isCorrect": true,
       "label": "Cor pulmonale"
     },
     {
-      "diagnosisId": "D.cardiacTamponade",
       "explanation": "",
       "isCorrect": false,
       "label": "Perikardtamponade"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lymeBorreliosisStage3",
       "explanation": "",
       "isCorrect": true,
       "label": "Lyme Borreliose Stadium 3"
     },
     {
-      "diagnosisId": "D.sickleCellCrisis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sichelzellkrise"
     },
     {
-      "diagnosisId": "D.thalassemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Thalassämie"
     },
     {
-      "diagnosisId": "D.hyperphosphatemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperphosphatämie"
     },
     {
-      "diagnosisId": "D.zikaVirus",
       "explanation": "",
       "isCorrect": false,
       "label": "Zika Virus Infektion"

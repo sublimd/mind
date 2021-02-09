@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.benignAdnexalTumor",
       "explanation": "",
       "isCorrect": true,
       "label": "Benigner Adnextumor",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteAppendicitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Appendizitis</i> erhöhen würden: Fieber, Nausea, Erbrechen, Appetitverlust</li></ul>",
       "isCorrect": false,
       "label": "Akute Appendizitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.ascites",
       "explanation": "<ul><li>Probleme, welche durch <i>Benigner Adnextumor</i> besser erklärt sind: Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aszites</i> erhöhen würden: Gewichtszunahme, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Aszites",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.ulcerativeColitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Diarrhoe, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Colitis ulcerosa",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Benigner Adnextumor</i> besser erklärt sind: Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Harnwegsinfekt",

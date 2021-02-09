@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.relapsingFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Rückfallfieber",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.influenza",
       "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Bauchschmerzen, Diarrhoe</li></ul>",
       "isCorrect": false,
       "label": "Influenza",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Bauchschmerzen, Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Dysphagie, Halsschmerzen, Odynophagie, vergrösserter Lymphknoten bzw. subkutaner Knoten, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit, mehrere Sexualpartner, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
       "isCorrect": false,
       "label": "HIV-Primoinfektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteViralMeningitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Bauchschmerzen, Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute virale Meningitis</i> erhöhen würden: Nackensteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Akute virale Meningitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.salmonellaEnteritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Gliederschmerzen, Hautveränderungen, Verwirrtheit</li></ul>",
       "isCorrect": false,
       "label": "Salmonellen-Enteritis",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperosmolare hyperglykämische Entgleisung"
     },
     {
-      "diagnosisId": "D.syndromeOfInappropriateAntidiureticHormoneSecretion",
       "explanation": "",
       "isCorrect": false,
       "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)"
     },
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypertensiver Notfall"
     },
     {
-      "diagnosisId": "D.epiduralHematoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Epiduralhämatom"
     },
     {
-      "diagnosisId": "D.transientGlobalAmnesia",
       "explanation": "",
       "isCorrect": true,
       "label": "Transiente Globale Amnesie (TGA)"

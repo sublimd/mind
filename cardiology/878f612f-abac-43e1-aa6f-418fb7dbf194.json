@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteAsthma",
       "explanation": "<ul><li>Probleme, welche durch <i>Perikardtamponade</i> besser erklärt sind: Schwindel, Schwellung der Unterschenkel, Tachykardien</li></ul>",
       "isCorrect": false,
       "label": "Akute Exazerbation eines Asthma bronchiale",
       "references": {}
     },
     {
-      "diagnosisId": "D.anginaPectorisStable",
       "explanation": "<ul><li>Probleme, welche durch <i>Perikardtamponade</i> besser erklärt sind: Husten, Schwellung der Unterschenkel, Tachykardien</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Stabile Angina pectoris",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.cardiacTamponade",
       "explanation": "",
       "isCorrect": true,
       "label": "Perikardtamponade",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.atrialFibrillation",
       "explanation": "<ul><li>Probleme, welche durch <i>Perikardtamponade</i> besser erklärt sind: Husten, Schwellung der Unterschenkel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Vorhofflimmern",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "<ul><li>Probleme, welche durch <i>Perikardtamponade</i> besser erklärt sind: Schwindel, Husten</li></ul>",
       "isCorrect": false,
       "label": "Myokarditis",

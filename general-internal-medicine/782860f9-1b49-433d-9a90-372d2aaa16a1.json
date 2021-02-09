@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.placentaPrevia",
       "explanation": "",
       "isCorrect": false,
       "label": "Placenta praevia"
     },
     {
-      "diagnosisId": "D.uterinePolyp",
       "explanation": "",
       "isCorrect": false,
       "label": "Korpuspolyp"
     },
     {
-      "diagnosisId": "D.cervicalCarcinoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Zervixkarzinom"
     },
     {
-      "diagnosisId": "D.tuboOvarianAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Tuboovarialabszess"
     },
     {
-      "diagnosisId": "D.vulvaCarcinoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Vulvakarzinom"

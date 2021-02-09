@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.anaphylacticReaction",
       "explanation": "",
       "isCorrect": true,
       "label": "Anaphylaktische Reaktion"
     },
     {
-      "diagnosisId": "D.pulmonaryEmbolism",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenembolie"
     },
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie"
     },
     {
-      "diagnosisId": "D.hypereosinophilicSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypereosinophilie-Syndrom"
     },
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypertensiver Notfall"

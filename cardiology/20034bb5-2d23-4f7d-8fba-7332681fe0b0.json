@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.sickSinusSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Sick-Sinus-Syndrom",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.drugInducedHypercalcemia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hyperkalzämie",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypoglykemia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Tremor, Hyperhidrose, Nachtschweiss, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Hypoglykämie",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Makrozytäre Anämie",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.extrasystoles",
       "explanation": "",
       "isCorrect": true,
       "label": "Extrasystolen",

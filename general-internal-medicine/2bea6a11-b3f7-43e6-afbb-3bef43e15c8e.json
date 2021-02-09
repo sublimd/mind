@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokarditis"
     },
     {
-      "diagnosisId": "D.peritonsillarAbscess",
       "explanation": "",
       "isCorrect": true,
       "label": "Peritonsillarabszess"
     },
     {
-      "diagnosisId": "D.pharyngealCancer",
       "explanation": "",
       "isCorrect": false,
       "label": "Pharynxkarzinom"
     },
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege"
     },
     {
-      "diagnosisId": "D.pseudoCroup",
       "explanation": "",
       "isCorrect": false,
       "label": "Laryngitis subglottica (Pseudokrupp)"

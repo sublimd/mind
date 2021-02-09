@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
       "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Block II°, Mobitz II</i> erhöhen würden: Schwindel, Bradykardien, Synkope</li></ul>",
       "isCorrect": false,
       "label": "AV-Block II°, Mobitz II",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteKidneyInjury",
       "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Schwellung der Unterschenkel, Schwellung der Beine, Hautschwellung, Oligurie, Polyurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Akute Nierenschädigung",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperparathyroidism",
       "explanation": "<ul><li>Probleme, welche durch <i>Myelodysplastisches Syndrom</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperparathyroidismus</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperparathyroidismus",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.myelodysplasticSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Myelodysplastisches Syndrom",

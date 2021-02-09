@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperkalzämie"
     },
     {
-      "diagnosisId": "D.benignSexCordStromalTumor",
       "explanation": "",
       "isCorrect": false,
       "label": "Geschlechtsstrang-Gonadenstromatumor"
     },
     {
-      "diagnosisId": "D.cystadenoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Zystadenom"
     },
     {
-      "diagnosisId": "D.enterocele",
       "explanation": "",
       "isCorrect": false,
       "label": "Enterozele"
     },
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Divertikulitis"

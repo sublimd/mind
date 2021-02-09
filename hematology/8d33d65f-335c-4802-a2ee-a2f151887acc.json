@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose"
     },
     {
-      "diagnosisId": "D.acuteLymphoblasticLeukemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute lymphatische Leukämie"
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1"
     },
     {
-      "diagnosisId": "D.acuteRhinoSinusitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Rhinosinusitis"
     },
     {
-      "diagnosisId": "D.lymphoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Lymphom"

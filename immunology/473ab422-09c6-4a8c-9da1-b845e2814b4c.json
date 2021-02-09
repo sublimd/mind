@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.rheumaticFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Rheumatisches Fieber",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Palpitationen, Tachykardien, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Myokarditis",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rheumatisches Fieber</i> besser erklärt sind: Schwindel, Gelenkschmerzen, Schwellung der Unterschenkel</li></ul>",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.sickleCellCrisis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rheumatisches Fieber</i> besser erklärt sind: Schwellung der Unterschenkel, Halsschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sichelzellkrise</i> erhöhen würden: Gliederschmerzen, Dyspnoe, Palpitationen, Tachykardien</li></ul>",
       "isCorrect": false,
       "label": "Sichelzellkrise",
       "references": {}
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Probleme, welche durch <i>Rheumatisches Fieber</i> besser erklärt sind: Schwindel, Schwellung der Unterschenkel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Husten, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",

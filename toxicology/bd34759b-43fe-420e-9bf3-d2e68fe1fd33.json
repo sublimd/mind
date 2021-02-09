@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pulmonaryEmbolism",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Lungenembolie"
     },
     {
-      "diagnosisId": "D.foodIntolerance",
       "explanation": "",
       "isCorrect": false,
       "label": "Nahrungsmittelunverträglichkeit"
     },
     {
-      "diagnosisId": "D.pheochromocytoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Sinustachykardie"
     },
     {
-      "diagnosisId": "D.sepsis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sepsis"
     },
     {
-      "diagnosisId": "D.amphetamineIntoxication",
       "explanation": "",
       "isCorrect": true,
       "label": "Amphetaminintoxikation"

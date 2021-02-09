@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.achalasia",
       "explanation": "",
       "isCorrect": false,
       "label": "Achalasie"
     },
     {
-      "diagnosisId": "D.anorexiaNervosa",
       "explanation": "",
       "isCorrect": false,
       "label": "Anorexia nervosa"
     },
     {
-      "diagnosisId": "D.salmonellaEnteritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Salmonellen-Enteritis"
     },
     {
-      "diagnosisId": "D.gastricUlcer",
       "explanation": "",
       "isCorrect": true,
       "label": "Ulcus ventriculi"
     },
     {
-      "diagnosisId": "D.gartnerDuctCyst",
       "explanation": "",
       "isCorrect": false,
       "label": "Gartner-Gang-Zyste"

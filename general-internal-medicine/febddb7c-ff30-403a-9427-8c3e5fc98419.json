@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cubitalTunnelSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Kubitaltunnel-Syndrom"
     },
     {
-      "diagnosisId": "D.simpleFocalEpilepticSeizure",
       "explanation": "",
       "isCorrect": false,
       "label": "Einfach fokaler epileptischer Anfall"
     },
     {
-      "diagnosisId": "D.multipleSclerosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Multiple Sklerose"
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage2",
       "explanation": "",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 2"
     },
     {
-      "diagnosisId": "D.frostbite",
       "explanation": "",
       "isCorrect": false,
       "label": "Erfrierung"

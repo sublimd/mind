@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Allergische Konjunktivitis"
     },
     {
-      "diagnosisId": "D.viralConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Konjunktivitis"
     },
     {
-      "diagnosisId": "D.ocularRosacea",
       "explanation": "",
       "isCorrect": false,
       "label": "Okuläre Rosazea"
     },
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "",
       "isCorrect": false,
       "label": "Hordeolum"
     },
     {
-      "diagnosisId": "D.bacterialKeratitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute bakterielle Keratitis"

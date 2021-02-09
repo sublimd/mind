@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.distalRadiusFracture",
       "explanation": "<ul><li>Symptome, welche durch <i>Handgelenksganglion</i> besser erklärt sind: subkutaner Knoten</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Distale Radiusfraktur</i> erhöhen würden: Schwellung der Arme, Handschwellung, Hautschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Distale Radiusfraktur</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Distale Radiusfraktur"
     },
     {
-      "diagnosisId": "D.wristSprain",
       "explanation": "<ul><li>Symptome, welche durch <i>Handgelenksganglion</i> besser erklärt sind: subkutaner Knoten</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Handgelenksverstauchung</i> erhöhen würden: Handschwellung, Hautschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Handgelenksverstauchung</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Handgelenksverstauchung"
     },
     {
-      "diagnosisId": "D.chondrocalcinosis",
       "explanation": "<ul><li>Symptome, welche durch <i>Handgelenksganglion</i> besser erklärt sind: subkutaner Knoten</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>CPP-Kristall-Arthritis (Pseudogicht)</i> erhöhen würden: Knieschmerzen, Knieschwellung, Knierötung, Hautüberwärmung, Schulterschwellung, Schulterrötung, Fussschwellung, Fussrötung, Schwellung des Ellbogens, Ellbogenrötung</li></ul>",
       "isCorrect": false,
       "label": "CPP-Kristall-Arthritis (Pseudogicht)"
     },
     {
-      "diagnosisId": "D.carpalTunnelSyndrome",
       "explanation": "<ul><li>Symptome, welche durch <i>Handgelenksganglion</i> besser erklärt sind: subkutaner Knoten</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Karpaltunnelsyndrom</i> erhöhen würden: Sensibilitätsstörungen, Muskelschwäche</li></ul>",
       "isCorrect": false,
       "label": "Karpaltunnelsyndrom"
     },
     {
-      "diagnosisId": "D.wristGanglion",
       "explanation": "",
       "isCorrect": true,
       "label": "Handgelenksganglion"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.vestibularNeuritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Neuritis vestibularis"
     },
     {
-      "diagnosisId": "D.benignParoxysmalPositionalVertigo",
       "explanation": "<ul><li>Symptome, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
       "isCorrect": false,
       "label": "Benigner paroxysmaler Lagerungsschwindel"
     },
     {
-      "diagnosisId": "D.motionSickness",
       "explanation": "<ul><li>Symptome, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li></ul>",
       "isCorrect": false,
       "label": "Reisekrankheit"
     },
     {
-      "diagnosisId": "D.orthostaticDysregulation",
       "explanation": "<ul><li>Symptome, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Orthostatische Dysregulation</i> erhöhen würden: Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Orthostatische Dysregulation"
     },
     {
-      "diagnosisId": "D.situationalSyncope",
       "explanation": "<ul><li>Symptome, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Situative Synkope</i> erhöhen würden: Synkope, Bewusstseinsverlust</li></ul>",
       "isCorrect": false,
       "label": "Situative Synkope"

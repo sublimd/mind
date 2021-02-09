@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.entropion",
       "explanation": "",
       "isCorrect": true,
       "label": "Entropium"
     },
     {
-      "diagnosisId": "D.herpesSimplexKeratitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Herpes-simplex Keratitis"
     },
     {
-      "diagnosisId": "D.bacterialKeratitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute bakterielle Keratitis"
     },
     {
-      "diagnosisId": "D.ectropion",
       "explanation": "",
       "isCorrect": false,
       "label": "Ektropium"
     },
     {
-      "diagnosisId": "D.intraocularForeignBody",
       "explanation": "",
       "isCorrect": false,
       "label": "Offenwinkelglaukom (Glaucoma chronicum simplex)"

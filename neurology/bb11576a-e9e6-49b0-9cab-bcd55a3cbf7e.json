@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.transientIschemicAttack",
       "explanation": "",
       "isCorrect": true,
       "label": "Transitorische ischämische Attacke (TIA)",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.intracerebralHemorrhage",
       "explanation": "<ul><li><i>Transitorische ischämische Attacke (TIA)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: erhöhter Blutdruck</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Kürzliches Schädeltrauma, bekannte arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Intrazerebrale Blutung",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfBrain",
       "explanation": "<ul><li><i>Transitorische ischämische Attacke (TIA)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirntumor</i> erhöhen würden: Krampfanfall</li></ul>",
       "isCorrect": false,
       "label": "Hirntumor",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.shellfishPoisoning",
       "explanation": "<ul><li><i>Transitorische ischämische Attacke (TIA)</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Transitorische ischämische Attacke (TIA)</i> besser erklärt sind: Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Muschelvergiftung</i> erhöhen würden: Dyspnoe, Ataxie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Muschelvergiftung</i> erhöhen würden: Konsum von ungewöhlichen Nahrungsmitteln</li></ul>",
       "isCorrect": false,
       "label": "Muschelvergiftung",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.wallenbergSyndrome",
       "explanation": "<ul><li><i>Transitorische ischämische Attacke (TIA)</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Transitorische ischämische Attacke (TIA)</i> besser erklärt sind: Muskelschwäche, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Wallenberg-Syndrom</i> erhöhen würden: Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Wallenberg-Syndrom",

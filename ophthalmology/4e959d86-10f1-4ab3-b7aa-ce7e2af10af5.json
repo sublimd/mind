@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.opticNeuritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Neuritis nervi optici (Retrobulbärneuritis)"
     },
     {
-      "diagnosisId": "D.chorioretinitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Chorioretinitis"
     },
     {
-      "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Allergische Konjunktivitis"
     },
     {
-      "diagnosisId": "D.viralConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Konjunktivitis"
     },
     {
-      "diagnosisId": "D.retinalDetachment",
       "explanation": "",
       "isCorrect": false,
       "label": "Amotio retinae"

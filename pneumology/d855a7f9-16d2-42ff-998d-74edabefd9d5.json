@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
       "explanation": "",
       "isCorrect": false,
       "label": "Ambulant erworbene Pneumonie"
     },
     {
-      "diagnosisId": "D.pleurisy",
       "explanation": "",
       "isCorrect": false,
       "label": "Pleuritis"
     },
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokarditis"
     },
     {
-      "diagnosisId": "D.cocaineIntoxication",
       "explanation": "",
       "isCorrect": false,
       "label": "Kokain-Intoxikation"
     },
     {
-      "diagnosisId": "D.hyperventilationSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Hyperventilationssyndrom"

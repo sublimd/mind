@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie"
     },
     {
-      "diagnosisId": "D.bacterialOvergrowthSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Dünndarmfehlbesiedlung"
     },
     {
-      "diagnosisId": "D.benignAdnexalTumor",
       "explanation": "",
       "isCorrect": true,
       "label": "Benigner Adnextumor"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfStomach",
       "explanation": "",
       "isCorrect": false,
       "label": "Magenkarzinom"
     },
     {
-      "diagnosisId": "D.diverticularBleeding",
       "explanation": "",
       "isCorrect": false,
       "label": "Divertikelblutung"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
       "explanation": "",
       "isCorrect": false,
       "label": "Ambulant erworbene Pneumonie"
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "HIV-Primoinfektion"
     },
     {
-      "diagnosisId": "D.hyperthyroidism",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperthyreose"
     },
     {
-      "diagnosisId": "D.bacterialEndocarditis",
       "explanation": "",
       "isCorrect": true,
       "label": "Bakterielle Endokarditis"
     },
     {
-      "diagnosisId": "D.acuteBronchitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Bronchitis"

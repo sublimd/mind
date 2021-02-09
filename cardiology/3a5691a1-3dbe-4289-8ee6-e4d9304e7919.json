@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.aorticInsufficiency",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Aortenklappen-Insuffizienz</i> erhöhen würden: Synkope, Bewusstseinsverlust</li></ul>",
       "isCorrect": false,
       "label": "Aortenklappen-Insuffizienz",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.goiter",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Struma</i> erhöhen würden: Halsschwellung, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
       "isCorrect": false,
       "label": "Struma",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "<ul><li>Probleme, welche durch <i>Linksherzinsuffizienz</i> besser erklärt sind: Husten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Makrozytäre Anämie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.leftSidedHeartFailure",
       "explanation": "",
       "isCorrect": true,
       "label": "Linksherzinsuffizienz",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.pleuralEffusion",
       "explanation": "<ul><li>Probleme, welche durch <i>Linksherzinsuffizienz</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pleuraerguss</i> erhöhen würden: Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Pleuraerguss",

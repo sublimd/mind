@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.malignantNeoplasmOfProstate",
       "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Flankenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Prostatakarzinom",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteKidneyInjury",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Oligurie, Polyurie</li></ul>",
       "isCorrect": false,
       "label": "Akute Nierenschädigung",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.epididymitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Hodenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Epididymitis",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.orchitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Orchitis</i> erhöhen würden: Hodenschmerzen, Nausea</li></ul>",
       "isCorrect": false,
       "label": "Orchitis",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "",
       "isCorrect": true,
       "label": "Nierenkarzinom",

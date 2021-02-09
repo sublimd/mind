@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypoglykemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypoglykämie"
     },
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "",
       "isCorrect": false,
       "label": "Hordeolum"
     },
     {
-      "diagnosisId": "D.keratoconus",
       "explanation": "",
       "isCorrect": true,
       "label": "Keratokonus"
     },
     {
-      "diagnosisId": "D.presbyopia",
       "explanation": "",
       "isCorrect": false,
       "label": "Presbyopie"
     },
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypertensiver Notfall"

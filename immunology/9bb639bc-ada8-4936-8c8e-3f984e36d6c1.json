@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.malignantNeoplasmOfLung",
       "explanation": "<ul><li>Probleme, welche durch <i>Granulomatose mit Polyangiitis</i> besser erklärt sind: Rhinorrhoe und Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenkarzinom</i> erhöhen würden: Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Lungenkarzinom",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.serialRibFracture",
       "explanation": "<ul><li>Probleme, welche durch <i>Granulomatose mit Polyangiitis</i> besser erklärt sind: Rhinorrhoe, Hautveränderungen, Nachtschweiss</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Rippenserienfraktur</i> erhöhen würden: Kürzliches Thoraxtrauma</li></ul>",
       "isCorrect": false,
       "label": "Rippenserienfraktur",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.granulomatosisWithPolyangiitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Granulomatose mit Polyangiitis",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.copd",
       "explanation": "<ul><li>Probleme, welche durch <i>Granulomatose mit Polyangiitis</i> besser erklärt sind: Rhinorrhoe, Hautveränderungen, Nachtschweiss</li></ul>",
       "isCorrect": false,
       "label": "Chronisch obstruktive Lungenkrankheit (COPD)",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteAsthma",
       "explanation": "<ul><li>Probleme, welche durch <i>Granulomatose mit Polyangiitis</i> besser erklärt sind: Rhinorrhoe, Hautveränderungen, Nachtschweiss</li></ul>",
       "isCorrect": false,
       "label": "Akute Exazerbation eines Asthma bronchiale",

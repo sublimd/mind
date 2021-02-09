@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
       "explanation": "",
       "isCorrect": false,
       "label": "AV-Block II°, Mobitz II",
       "references": {}
     },
     {
-      "diagnosisId": "D.mitralValveProlapse",
       "explanation": "<ul><li><i>Aortenklappenstenose</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Mitralklappenprolaps Syndrom (Barlow-Syndrom)",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.ventricularTachycardia",
       "explanation": "",
       "isCorrect": false,
       "label": "Ventrikuläre Tachykardie",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.anginaPectorisStable",
       "explanation": "<ul><li>Probleme, welche durch <i>Aortenklappenstenose</i> besser erklärt sind: Synkope</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Angina pectoris</i> erhöhen würden: Tabakrauchkonsum, Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Stabile Angina pectoris",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.aorticStenosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Aortenklappenstenose",

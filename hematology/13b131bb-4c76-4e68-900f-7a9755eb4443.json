@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
       "explanation": "<ul><li><i>Akute disseminierte intravasale Gerinnung (DIC)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Nausea, Bauchschmerzen, Erbrechen, Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.immuneThrombocytopenia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Immunthrombozytopenie (ITP)</i> erhöhen würden: Kopfschmerzen, Bewusstseinsverlust, Dysarthrie</li></ul>",
       "isCorrect": false,
       "label": "Immunthrombozytopenie (ITP)",
@@ -23,14 +21,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteDisseminatedIntravascularCoagulation",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute disseminierte intravasale Gerinnung (DIC)",
       "references": {}
     },
     {
-      "diagnosisId": "D.erythemaNodosum",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute disseminierte intravasale Gerinnung (DIC)</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erythema nodosum</i> erhöhen würden: Schwellung der Beine</li></ul>",
       "isCorrect": false,
       "label": "Erythema nodosum",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.myelodysplasticSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute disseminierte intravasale Gerinnung (DIC)</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myelodysplastisches Syndrom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
       "isCorrect": false,
       "label": "Myelodysplastisches Syndrom",

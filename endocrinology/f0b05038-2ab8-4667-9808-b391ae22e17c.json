@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschmerzen, Halsschwellung, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hypokaliämie",
@@ -12,21 +11,18 @@
       }
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschwellung, Appetitverlust, Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Virale Pharyngitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.subacuteThyroiditis",
       "explanation": "",
       "isCorrect": true,
       "label": "Subakute granulomatöse Thyreoiditis de Quervain",
       "references": {}
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschwellung, Appetitverlust, Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "<ul><li>Probleme, welche durch <i>Subakute granulomatöse Thyreoiditis de Quervain</i> besser erklärt sind: Halsschwellung, Appetitverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Schwellung der Unterschenkel bzw. der Beine, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Myokarditis",

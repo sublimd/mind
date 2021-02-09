@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.testicularTorsion",
       "explanation": "",
       "isCorrect": true,
       "label": "Hodentorsion"
     },
     {
-      "diagnosisId": "D.rupturedAbdominalAorticAneurysm",
       "explanation": "",
       "isCorrect": false,
       "label": "Rupturiertes abdominales Aortenaneurysma"
     },
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypokaliämie"
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Urolithiasis"
     },
     {
-      "diagnosisId": "D.orthostaticDysregulation",
       "explanation": "",
       "isCorrect": false,
       "label": "Orthostatische Dysregulation"

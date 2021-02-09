@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "",
       "isCorrect": false,
       "label": "Migräne"
     },
     {
-      "diagnosisId": "D.acuteViralMeningitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute virale Meningitis"
     },
     {
-      "diagnosisId": "D.japaneseEncephalitisVirus",
       "explanation": "",
       "isCorrect": true,
       "label": "Japanische Enzephalitis"
     },
     {
-      "diagnosisId": "D.otogenicMeningitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Otogene Meningitis"
     },
     {
-      "diagnosisId": "D.tickborneEncephalitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Frühsommer-Meningoencephalitis (FSME)"

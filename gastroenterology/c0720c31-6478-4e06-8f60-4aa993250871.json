@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acutePancreatitis",
       "explanation": "<ul><li><i>Gastritis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pankreatitis</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
       "isCorrect": false,
       "label": "Akute Pankreatitis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.gastritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Gastritis",
@@ -23,14 +21,12 @@
       }
     },
     {
-      "diagnosisId": "D.chronicHepatitisB",
       "explanation": "<ul><li><i>Gastritis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
       "isCorrect": false,
       "label": "Chronische Hepatitis B-Infektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Fieber, Schüttelfrost, Menstruationsbeschwerden, vaginale Blutung, Probleme beim Geschlechtsverkehr, vaginaler Ausfluss, Dysurie</li></ul>",
       "isCorrect": false,
       "label": "Pelvic Inflammatory Disease",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Gastritis</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
       "isCorrect": false,
       "label": "Hypokaliämie",

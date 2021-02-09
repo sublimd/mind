@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hyponatremia",
       "explanation": "<ul><li>Probleme, welche durch <i>Vitamin D-Intoxikation</i> besser erklärt sind: Polyurie</li></ul>",
       "isCorrect": false,
       "label": "Hyponatriämie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "<ul><li>Probleme, welche durch <i>Vitamin D-Intoxikation</i> besser erklärt sind: allgemeines Schwächegefühl</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie, Nikotinabusus</li></ul>",
       "isCorrect": false,
       "label": "Hypertensiver Notfall",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.dehydration",
       "explanation": "<ul><li>Probleme, welche durch <i>Vitamin D-Intoxikation</i> besser erklärt sind: Polyurie, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dehydratation</i> erhöhen würden: Mundtrockenheit, Schwindel, Krampfanfall</li></ul>",
       "isCorrect": false,
       "label": "Dehydratation",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.alcoholicLiverDisease",
       "explanation": "<ul><li>Probleme, welche durch <i>Vitamin D-Intoxikation</i> besser erklärt sind: Polyurie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Bauchschmerzen, Ikterus, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Alkoholische Steatohepatitis",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.vitaminDIntoxication",
       "explanation": "",
       "isCorrect": true,
       "label": "Vitamin D-Intoxikation",

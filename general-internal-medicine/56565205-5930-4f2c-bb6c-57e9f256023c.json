@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, Schwellung der Unterschenkel, Schwellung der Beine, Hautschwellung, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
       "isCorrect": false,
       "label": "Cushing Syndrom"
     },
     {
-      "diagnosisId": "D.hypertensiveEncephalopathy",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Hypertensive Enzephalopathie</i> erhöhen würden: Kopfschmerzen, Verwirrtheit, Erbrechen, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Enzephalopathie</i> erhöhen würden: Bekannte arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Hypertensive Enzephalopathie"
     },
     {
-      "diagnosisId": "D.essentialHypertension",
       "explanation": "",
       "isCorrect": true,
       "label": "Essentielle Hypertonie"
     },
     {
-      "diagnosisId": "D.hypertensiveNephrosclerosis",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Hypertensive Nephropathie</i> erhöhen würden: Schwellung der Unterschenkel, Schwellung der Beine, Nausea, Erbrechen, Appetitverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Nephropathie</i> erhöhen würden: Bekannte rterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Hypertensive Nephropathie"
     },
     {
-      "diagnosisId": "D.polycysticKidneyDisease",
       "explanation": "<ul><li><i>Essentielle Hypertonie</i> ist häufiger</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Polyzystische Nierenerkrankung (PKD)</i> erhöhen würden: Flankenschmerzen, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Polyzystische Nierenerkrankung (PKD)"

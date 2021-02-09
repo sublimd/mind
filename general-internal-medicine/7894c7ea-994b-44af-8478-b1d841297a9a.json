@@ -1,25 +1,21 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteLaryngitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Laryngitis"
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "HIV-Primoinfektion"
     },
     {
-      "diagnosisId": "D.measles",
       "explanation": "",
       "isCorrect": false,
       "label": "Masern"
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Virale Pharyngitis"

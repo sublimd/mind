@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteMyeloidLeukemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute myeloische Leukämie",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute myeloische Leukämie</i> besser erklärt sind: Nachtschweiss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, Dysphonie, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Virale Pharyngitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.polycythemiaVera",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute myeloische Leukämie</i> besser erklärt sind: vergrösserter Lymphknoten</li></ul>",
       "isCorrect": false,
       "label": "Polycythämia vera",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.abscess",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute myeloische Leukämie</i> besser erklärt sind: Nachtschweiss, Müdigkeit</li></ul>",
       "isCorrect": false,
       "label": "Abszess",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperthyroidism",
       "explanation": "<ul><li><i>Hyperthyreose</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Akute myeloische Leukämie</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Palpitationen, Tachykardien, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
       "isCorrect": false,
       "label": "Hyperthyreose",

@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "<ul><li><i>Masern</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Augenrötung, nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Kopfschmerzen, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
       "isCorrect": false,
       "label": "HIV-Primoinfektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.leptospirosisStage1",
       "explanation": "<ul><li><i>Masern</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leptospirose Stadium I</i> erhöhen würden: Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leptospirose Stadium I</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Leptospirose Stadium I",
       "references": {}
     },
     {
-      "diagnosisId": "D.dengueFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Augenrötung, nasale Obstruktion</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Dengue Fieber",
@@ -26,14 +23,12 @@
       }
     },
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Hautveränderungen, Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
       "references": {}
     },
     {
-      "diagnosisId": "D.measles",
       "explanation": "",
       "isCorrect": true,
       "label": "Masern",

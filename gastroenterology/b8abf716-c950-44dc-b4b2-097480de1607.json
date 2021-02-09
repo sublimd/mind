@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Dysurie, Pollakisurie</li></ul>",
       "isCorrect": false,
       "label": "Harnwegsinfekt",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.malloryWeissSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Mallory-Weiss Syndrom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "<ul><li><i>Urolithiasis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li></ul>",
       "isCorrect": false,
       "label": "Urolithiasis",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.functionalCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Hämatemesis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Funktionelle Zyste des Ovars</i> erhöhen würden: Menstruationsbeschwerden, Ausbleiben der Periode</li></ul>",
       "isCorrect": false,
       "label": "Funktionelle Zyste des Ovars",
       "references": {}
     },
     {
-      "diagnosisId": "D.myelodysplasticSyndrome",
       "explanation": "<ul><li><i>Mallory-Weiss Syndrom</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Mallory-Weiss Syndrom</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myelodysplastisches Syndrom</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myelodysplastisches Syndrom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
       "isCorrect": false,
       "label": "Myelodysplastisches Syndrom",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.urethralStricture",
       "explanation": "",
       "isCorrect": false,
       "label": "Urethrastriktur"
     },
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Divertikulitis"
     },
     {
-      "diagnosisId": "D.acuteProstatitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Prostatitis"
     },
     {
-      "diagnosisId": "D.renalAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Nierenabszess"
     },
     {
-      "diagnosisId": "D.perinephricAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Perinephrischer Abszess"

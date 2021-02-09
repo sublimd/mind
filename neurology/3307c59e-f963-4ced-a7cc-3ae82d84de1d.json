@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1",
       "references": {}
     },
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Palpitationen, Tachykardien, Schwellung der Unterschenkel, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Myokarditis",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteViralMeningitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute virale Meningitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.tickborneEncephalitis",
       "explanation": "</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
       "isCorrect": false,
       "label": "Frühsommer-Meningoencephalitis (FSME)",

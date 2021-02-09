@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.epididymitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Schwellung oder Vergrösserung des Hodens, Hautschwellung, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Epididymitis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.orchitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Orchitis</i> erhöhen würden: Schwellung oder Vergrösserung des Hodens, Nausea, Fieber, Schüttelfrost</li></ul>",
       "isCorrect": false,
       "label": "Orchitis",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.hipOsteoarthritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Coxarthrose",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.hipContusion",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hüftkontusion</i> erhöhen würden: kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Hüftkontusion",
       "references": {}
     },
     {
-      "diagnosisId": "D.pertrochantericFemoralFracture",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pertrochantäre Femurfraktur</i> erhöhen würden: kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Pertrochantäre Femurfraktur",

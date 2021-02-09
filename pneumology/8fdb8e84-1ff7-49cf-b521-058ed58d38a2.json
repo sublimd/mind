@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Kopfschmerzen, Ohrenschmerzen, Halsschmerzen, Gelenkschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",
       "references": {}
     },
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
       "references": {}
     },
     {
-      "diagnosisId": "D.pulmonaryAspiration",
       "explanation": "",
       "isCorrect": true,
       "label": "Aspirationspneumonie",
@@ -26,14 +23,12 @@
       }
     },
     {
-      "diagnosisId": "D.superiorVenaCavaSyndrome",
       "explanation": "<ul><li><i>Aspirationspneumonie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> erhöhen würden: Hautschwellung, Schwellung der Arme, Thoraxschmerzen, Kopfschmerzen, Verwirrtheit, Sehstörungen, Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)",
       "references": {}
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Aspirationspneumonie</i> besser erklärt sind: Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Virale Pharyngitis",

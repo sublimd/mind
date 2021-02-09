@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.carpalTunnelSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Karpaltunnelsyndrom"
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage3",
       "explanation": "",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 3"
     },
     {
-      "diagnosisId": "D.panarteritisNodosa",
       "explanation": "",
       "isCorrect": false,
       "label": "Panarteriitis nodosa"
     },
     {
-      "diagnosisId": "D.hypomagnesemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypomagnesiämie"
     },
     {
-      "diagnosisId": "D.ischemicStroke",
       "explanation": "",
       "isCorrect": false,
       "label": "Ischämischer Schlaganfall"

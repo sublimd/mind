@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hyponatremia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyponatriämie"
     },
     {
-      "diagnosisId": "D.fibromyalgia",
       "explanation": "",
       "isCorrect": false,
       "label": "Fibromyalgie"
     },
     {
-      "diagnosisId": "D.multipleMyeloma",
       "explanation": "",
       "isCorrect": false,
       "label": "Multiples Myelom"
     },
     {
-      "diagnosisId": "D.hypopituitarism",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypophysenvorderlappen-Insuffizienz"
     },
     {
-      "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
       "explanation": "",
       "isCorrect": true,
       "label": "Anämie im Rahmen chronischer Erkrankung"

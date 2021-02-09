@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cerumenObturans",
       "explanation": "",
       "isCorrect": false,
       "label": "Cerumen obturans"
     },
     {
-      "diagnosisId": "D.acuteRhinoSinusitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Rhinosinusitis"
     },
     {
-      "diagnosisId": "D.otitisExternaDiffusa",
       "explanation": "",
       "isCorrect": false,
       "label": "Otitis externa diffusa"
     },
     {
-      "diagnosisId": "D.acuteOtitisMedia",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Otitis media"
     },
     {
-      "diagnosisId": "D.auricularPerichondritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Perichondritis auricularis"

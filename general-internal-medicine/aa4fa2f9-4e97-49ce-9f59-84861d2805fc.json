@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.ectropion",
       "explanation": "",
       "isCorrect": false,
       "label": "Ektropium"
     },
     {
-      "diagnosisId": "D.clusterHeadache",
       "explanation": "",
       "isCorrect": true,
       "label": "Cluster-Kopfschmerz"
     },
     {
-      "diagnosisId": "D.bacterialConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute bakterielle Konjunktivitis"
     },
     {
-      "diagnosisId": "D.viralConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Konjunktivitis"
     },
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "",
       "isCorrect": false,
       "label": "Hordeolum"

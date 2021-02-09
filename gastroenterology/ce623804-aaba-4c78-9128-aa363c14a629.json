@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.diverticularBleeding",
       "explanation": "",
       "isCorrect": true,
       "label": "Divertikelblutung",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Divertikulitis</i> erhöhen würden: Bauchschmerzen, Nausea, Erbrechen, Fieber, Obstipation, Diarrhoe</li></ul>",
       "isCorrect": false,
       "label": "Akute Divertikulitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.perianalVeinThrombosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Divertikelblutung</i> besser erklärt sind: Blähungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Perianalthrombose</i> erhöhen würden: anale Schmerzen</li></ul>",
       "isCorrect": false,
       "label": "Perianalthrombose",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.hemorrhoids",
       "explanation": "<ul><li>Probleme, welche durch <i>Divertikelblutung</i> besser erklärt sind: Blähungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hämorrhoiden</i> erhöhen würden: anale Schmerzen, analer Juckreiz</li></ul>",
       "isCorrect": false,
       "label": "Hämorrhoiden",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.bowelPolyps",
       "explanation": "<ul><li>Probleme, welche durch <i>Divertikelblutung</i> besser erklärt sind: Blähungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Darmpolypen</i> erhöhen würden: Obstipation, Diarrhoe</li></ul>",
       "isCorrect": false,
       "label": "Darmpolypen",

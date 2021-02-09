@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.diabeticKetoacidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Diabetische Ketoazidose"
     },
     {
-      "diagnosisId": "D.whiplashInjury",
       "explanation": "",
       "isCorrect": false,
       "label": "Distorsionstrauma der Halswirbelsäule"
     },
     {
-      "diagnosisId": "D.radialNerveLesion",
       "explanation": "",
       "isCorrect": true,
       "label": "Läsion des N. radialis"
     },
     {
-      "diagnosisId": "D.comaDiabeticum",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperglykämisches Koma"
     },
     {
-      "diagnosisId": "D.hypophosphatemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypophosphatämie"

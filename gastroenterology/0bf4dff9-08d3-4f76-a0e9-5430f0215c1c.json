@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.liverCirrhosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Leberzirrhose"
     },
     {
-      "diagnosisId": "D.duodenalUlcer",
       "explanation": "",
       "isCorrect": false,
       "label": "Ulcus duodeni"
     },
     {
-      "diagnosisId": "D.foreignBodyIngestion",
       "explanation": "",
       "isCorrect": false,
       "label": "Verschluckter Fremdkörper"
     },
     {
-      "diagnosisId": "D.esophagealVaricealBleeding",
       "explanation": "",
       "isCorrect": true,
       "label": "Oesophagusvarizen-Blutung"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfOesophagus",
       "explanation": "",
       "isCorrect": false,
       "label": "Oesophaguskarzinom"

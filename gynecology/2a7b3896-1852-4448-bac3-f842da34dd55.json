@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pulmonaryEmphysema",
       "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: Knoten in der Brust, Hautveränderung der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenemphysem</i> erhöhen würden: Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Lungenemphysem",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.breastCancer",
       "explanation": "",
       "isCorrect": true,
       "label": "Mammakarzinom",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.breastCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: Hautveränderung der Brust, Müdigkeit</li></ul>",
       "isCorrect": false,
       "label": "Brustzyste",
       "references": {}
     },
     {
-      "diagnosisId": "D.breastAbscess",
       "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Brustabszess</i> erhöhen würden: Brustschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Brustabszess",
       "references": {}
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Mammakarzinom</i> besser erklärt sind: Knoten in der Brust, Hautveränderung der Brust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Eisenmangelanämie",

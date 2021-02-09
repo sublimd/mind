@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.systemicLupusErythematodes",
       "explanation": "<ul><li>Probleme, welche durch <i>Löfgren Syndrom (Akute Sarkoidose)</i> besser erklärt sind: Fussschwellung, Husten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Systemischer Lupus erythematodes</i> erhöhen würden: Thoraxschmerzen, Dyspnoe, Fieber, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Systemischer Lupus erythematodes",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Löfgren Syndrom (Akute Sarkoidose)</i> besser erklärt sind: Fussschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Fieber, Schüttelfrost, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gliederschmerzen, Kopfschmerzen, Dysphagie, Halsschmerzen, Odynophagie, vergrösserter Lymphknoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen, Konsum von intravenösen Drogen, ungeschützter Geschlechtsverkehr</li></ul>",
       "isCorrect": false,
       "label": "HIV-Primoinfektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.granulomatosisWithPolyangiitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Löfgren Syndrom (Akute Sarkoidose)</i> besser erklärt sind: Fussschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Granulomatose mit Polyangiitis</i> erhöhen würden: Rhinorrhoe, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Granulomatose mit Polyangiitis",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.dengueFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Löfgren Syndrom (Akute Sarkoidose)</i> besser erklärt sind: Fussschwellung, Husten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Dengue Fieber",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.lofgrenSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Löfgren Syndrom (Akute Sarkoidose)",

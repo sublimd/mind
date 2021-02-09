@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.bacterialEndocarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Bakterielle Endokarditis"
     },
     {
-      "diagnosisId": "D.hemorrhagicCystitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hämorrhagische Zystitis"
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "",
       "isCorrect": false,
       "label": "Cushing Syndrom"
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "Harnwegsinfekt"
     },
     {
-      "diagnosisId": "D.igANephropathy",
       "explanation": "",
       "isCorrect": true,
       "label": "IgA Nephropathie (M. Berger)"

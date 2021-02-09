@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pulmonaryEmbolism",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenembolie</i> erhöhen würden: Thoraxschmerzen, Husten</li></ul>",
       "isCorrect": false,
       "label": "Lungenembolie",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.cocaineIntoxication",
       "explanation": "",
       "isCorrect": true,
       "label": "Kokain-Intoxikation",
       "references": {}
     },
     {
-      "diagnosisId": "D.atelectasis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atelektase</i> erhöhen würden: Husten</li></ul>",
       "isCorrect": false,
       "label": "Atelektase",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.atrialFibrillation",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Vorhofflimmern",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.pheochromocytoma",
       "explanation": "<ul><li><i>Kokain-Intoxikation</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Kokain-Intoxikation</i> besser erklärt sind: Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Phäochromozytom</i> erhöhen würden: Kopfschmerzen, Hyperhidrose, Wärmeintoleranz</li></ul>",
       "isCorrect": false,
       "label": "Phäochromozytom",

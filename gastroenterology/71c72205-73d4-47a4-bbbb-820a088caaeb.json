@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.anaphylacticReaction",
       "explanation": "<ul><li>Probleme, welche durch <i>Gastrinom (Zollinger-Ellison-Syndrom)</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktische Reaktion</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, niedrige Blutdruckwerte</li></ul>",
       "isCorrect": false,
       "label": "Anaphylaktische Reaktion",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.zikaVirus",
       "explanation": "<ul><li>Probleme, welche durch <i>Gastrinom (Zollinger-Ellison-Syndrom)</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Zika Virus Infektion</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zika Virus Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Zika Virus Infektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.gastrinoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Gastrinom (Zollinger-Ellison-Syndrom)",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.coprostasis",
       "explanation": "<ul><li>Probleme, welche durch <i>Gastrinom (Zollinger-Ellison-Syndrom)</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Koprostase</i> erhöhen würden: Obstipation, Blähungen, Nausea, Appetitverlust</li></ul>",
       "isCorrect": false,
       "label": "Koprostase",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfPancreas",
       "explanation": "<ul><li>Probleme, welche durch <i>Gastrinom (Zollinger-Ellison-Syndrom)</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: allgemeines Schwächegefühl, Leistungsabfall, Appetitverlust, Ikterus, Nausea, Erbrechen, Rückenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Pankreaskarzinom",

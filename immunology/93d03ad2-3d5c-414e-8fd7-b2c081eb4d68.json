@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.rheumaticFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Rheumatisches Fieber",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gliederschmerzen, vergrösserte Lymphknoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
       "isCorrect": false,
       "label": "HIV-Primoinfektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.qFever",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Q Fieber</i> erhöhen würden: Rhinorrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Q Fieber</i> erhöhen würden: Ungewöhnlicher Kontakt zu Tieren</li></ul>",
       "isCorrect": false,
       "label": "Q Fieber",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.influenza",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Husten, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Influenza",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.septicArthritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rheumatisches Fieber</i> besser erklärt sind: Halsschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Septische Arthritis",

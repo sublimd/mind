@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.ischemicStroke",
       "explanation": "<ul><li>Probleme, welche durch <i>Akuter peripherer Arterienverschluss</i> besser erklärt sind: Beinschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Dysarthrie, Aphasie</li></ul>",
       "isCorrect": false,
       "label": "Ischämischer Schlaganfall",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.lericheSyndrome",
       "explanation": "<ul><li><i>Akuter peripherer Arterienverschluss</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leriche Syndrom</i> erhöhen würden: erektile Dysfunktion</li></ul>",
       "isCorrect": false,
       "label": "Leriche Syndrom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.peripheralArteryDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Periphere arterielle Verschlusskrankheit (PAVK)",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteLimbIschemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Akuter peripherer Arterienverschluss",
       "references": {}
     },
     {
-      "diagnosisId": "D.transientIschemicAttack",
       "explanation": "<ul><li>Probleme, welche durch <i>Akuter peripherer Arterienverschluss</i> besser erklärt sind: Beinschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Dysarthrie</li></ul>",
       "isCorrect": false,
       "label": "Transitorische ischämische Attacke (TIA)",

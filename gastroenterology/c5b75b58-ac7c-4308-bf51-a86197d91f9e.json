@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.thyroidStorm",
       "explanation": "",
       "isCorrect": false,
       "label": "Thyreotoxische Krise"
     },
     {
-      "diagnosisId": "D.biliaryLeak",
       "explanation": "",
       "isCorrect": false,
       "label": "Gallengangsleckage"
     },
     {
-      "diagnosisId": "D.alcoholicLiverDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Alkoholische Steatohepatitis"
     },
     {
-      "diagnosisId": "D.cholangitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Cholangitis"
     },
     {
-      "diagnosisId": "D.gallbladderEmpyema",
       "explanation": "",
       "isCorrect": false,
       "label": "Gallenblasenempyem"

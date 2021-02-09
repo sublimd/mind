@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.erythemaInfectiosum",
       "explanation": "",
       "isCorrect": false,
       "label": "Ringelröteln (Erythema infectiosum)"
     },
     {
-      "diagnosisId": "D.epidemicParotitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Parotitis epidemica (Mumps)"
     },
     {
-      "diagnosisId": "D.rheumaticFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Rheumatisches Fieber"
     },
     {
-      "diagnosisId": "D.sickleCellCrisis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sichelzellkrise"
     },
     {
-      "diagnosisId": "D.viralConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Konjunktivitis"

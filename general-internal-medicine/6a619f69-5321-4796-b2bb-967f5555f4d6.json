@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.presbyacusis",
       "explanation": "",
       "isCorrect": true,
       "label": "Presbyakusis"
     },
     {
-      "diagnosisId": "D.menieresDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "M. Menière"
     },
     {
-      "diagnosisId": "D.acousticNeuroma",
       "explanation": "",
       "isCorrect": false,
       "label": "Akustikusneurinom"
     },
     {
-      "diagnosisId": "D.chronicOtitisMedia",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronische Otitis media"
     },
     {
-      "diagnosisId": "D.vestibularMigraine",
       "explanation": "",
       "isCorrect": false,
       "label": "Vestibuläre Migräne"

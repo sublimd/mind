@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.vulvovaginitisHerpetica",
       "explanation": "",
       "isCorrect": true,
       "label": "Vulvovaginitis herpetica"
     },
     {
-      "diagnosisId": "D.menopause",
       "explanation": "",
       "isCorrect": false,
       "label": "Klimakterisches Syndrom"
     },
     {
-      "diagnosisId": "D.trichomoniasisVaginalis",
       "explanation": "",
       "isCorrect": false,
       "label": "Trichomoniasis vaginalis"
     },
     {
-      "diagnosisId": "D.bacterialVaginosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Bakterielle Vaginose"
     },
     {
-      "diagnosisId": "D.atrophicVaginitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Atrophe Vaginitis"

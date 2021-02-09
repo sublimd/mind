@@ -1,28 +1,24 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.corpusLutealCyst",
       "explanation": "<ul><li><i>Pelvic Inflammatory Disease</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Pelvic Inflammatory Disease</i> besser erklärt sind: Menstruationsbeschwerden, Vaginaler Ausfluss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Corpus luteum Zyste</i> erhöhen würden: Rückenschmerzen, Blähungen</li></ul>",
       "isCorrect": false,
       "label": "Corpus luteum Zyste",
       "references": {}
     },
     {
-      "diagnosisId": "D.tuboOvarianAbscess",
       "explanation": "<ul><li><i>Pelvic Inflammatory Disease</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Tuboovarialabszess",
       "references": {}
     },
     {
-      "diagnosisId": "D.functionalCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Pelvic Inflammatory Disease</i> besser erklärt sind: Vaginaler Ausfluss, Probleme beim Geschlechtsverkehr</li></ul>",
       "isCorrect": false,
       "label": "Funktionelle Zyste des Ovars",
       "references": {}
     },
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "",
       "isCorrect": true,
       "label": "Pelvic Inflammatory Disease",
@@ -33,7 +29,6 @@
       }
     },
     {
-      "diagnosisId": "D.uterineMyoma",
       "explanation": "<ul><li>Probleme, welche durch <i>Pelvic Inflammatory Disease</i> besser erklärt sind: Probleme beim Geschlechtsverkehr</li></ul>",
       "isCorrect": false,
       "label": "Uterusmyom",

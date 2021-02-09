@@ -1,35 +1,30 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acutePyelonephritis",
       "explanation": "<ul><li><i>Akute Pyelonephritis</i> kommt häufiger bei weiblichen Patienten vor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Flankenschmerzen, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Akute Pyelonephritis",
       "references": {}
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Urolithiasis</i> erhöhen würden: Flankenschmerzen, Bauchschmerzen, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Urolithiasis",
       "references": {}
     },
     {
-      "diagnosisId": "D.myelodysplasticSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Nierenkarzinom</i> besser erklärt sind: Dysurie</li></ul>",
       "isCorrect": false,
       "label": "Myelodysplastisches Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.obstructiveUropathy",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Obstruktive Uropathie (Harnstau)</i> erhöhen würden: Flankenschmerzen, Bauchschmerzen, Urininkontinenz, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Obstruktive Uropathie (Harnstau)",
       "references": {}
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "",
       "isCorrect": true,
       "label": "Nierenkarzinom",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.folateDeficiency",
       "explanation": "",
       "isCorrect": false,
       "label": "Folsäuremangel"
     },
     {
-      "diagnosisId": "D.concussion",
       "explanation": "",
       "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)"
     },
     {
-      "diagnosisId": "D.acuteCoronarySyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokardinfarkt"
     },
     {
-      "diagnosisId": "D.orthostaticDysregulation",
       "explanation": "",
       "isCorrect": true,
       "label": "Orthostatische Dysregulation"
     },
     {
-      "diagnosisId": "D.menieresDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "M. Menière"

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.erythemaInfectiosum",
       "explanation": "<ul><li>Probleme, welche durch <i>Hand-Fuss-Mund-Krankheit</i> besser erklärt sind: Appetitverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ringelröteln (Erythema infectiosum)</i> erhöhen würden: Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Ringelröteln (Erythema infectiosum)",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.measles",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Masern</i> erhöhen würden: Schüttelfrost, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Masern",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Hand-Fuss-Mund-Krankheit</i> besser erklärt sind: Hautveränderungen, Appetitverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Virale Pharyngitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.handFootAndMouthDisease",
       "explanation": "",
       "isCorrect": true,
       "label": "Hand-Fuss-Mund-Krankheit",

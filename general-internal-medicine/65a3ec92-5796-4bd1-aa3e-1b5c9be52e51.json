@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie"
     },
     {
-      "diagnosisId": "D.otitisExternaCircumscripta",
       "explanation": "",
       "isCorrect": false,
       "label": "Otitis externa circumscripta"
     },
     {
-      "diagnosisId": "D.peritonsillarAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Peritonsillarabszess"
     },
     {
-      "diagnosisId": "D.acuteOtitisMedia",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Otitis media"
     },
     {
-      "diagnosisId": "D.auricularPerichondritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Perichondritis auricularis"

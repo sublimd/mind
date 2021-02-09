@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Divertikulitis"
     },
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperkalzämie"
     },
     {
-      "diagnosisId": "D.pneumatosisCystoidesIntestinalis",
       "explanation": "",
       "isCorrect": false,
       "label": "Pneumatosis cystoides intestinalis"
     },
     {
-      "diagnosisId": "D.paralyticIleus",
       "explanation": "",
       "isCorrect": false,
       "label": "Paralytischer Ileus"
     },
     {
-      "diagnosisId": "D.coprostasis",
       "explanation": "",
       "isCorrect": true,
       "label": "Koprostase"

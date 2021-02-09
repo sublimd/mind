@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.retropharyngealAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Retropharyngealabszess"
     },
     {
-      "diagnosisId": "D.dystonia",
       "explanation": "",
       "isCorrect": false,
       "label": "Dystonie"
     },
     {
-      "diagnosisId": "D.clavicleContusion",
       "explanation": "",
       "isCorrect": false,
       "label": "Kontusion der Clavicula"
     },
     {
-      "diagnosisId": "D.myopia",
       "explanation": "",
       "isCorrect": false,
       "label": "Myopie"
     },
     {
-      "diagnosisId": "D.vertebralArteryDissection",
       "explanation": "",
       "isCorrect": true,
       "label": "Dissektion der Arteria vertebralis"

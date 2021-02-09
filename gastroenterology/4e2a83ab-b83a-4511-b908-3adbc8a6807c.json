@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.corPulmonale",
       "explanation": "",
       "isCorrect": false,
       "label": "Cor pulmonale"
     },
     {
-      "diagnosisId": "D.nash",
       "explanation": "",
       "isCorrect": true,
       "label": "Nicht-alkoholische Steatohepatitis (NASH)"
     },
     {
-      "diagnosisId": "D.gastricMucosaAssociatedLymphoidTissueLymphoma",
       "explanation": "",
       "isCorrect": false,
       "label": "MALT-Lymphom des Magens"
     },
     {
-      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperosmolare hyperglykämische Entgleisung"
     },
     {
-      "diagnosisId": "D.rightSidedHeartFailure",
       "explanation": "",
       "isCorrect": false,
       "label": "Rechtsherzinsuffizienz"

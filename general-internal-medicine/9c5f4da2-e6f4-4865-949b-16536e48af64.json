@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.carotidArteryAneurysm",
       "explanation": "",
       "isCorrect": false,
       "label": "Aneurysma der Arteria carotis"
     },
     {
-      "diagnosisId": "D.chronicVenousInsufficiency",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronisch venöse Insuffizienz"
     },
     {
-      "diagnosisId": "D.frostbite",
       "explanation": "",
       "isCorrect": false,
       "label": "Erfrierung"
     },
     {
-      "diagnosisId": "D.hypoparathyroidism",
       "explanation": "",
       "isCorrect": true,
       "label": "Hypoparathyroidismus"
     },
     {
-      "diagnosisId": "D.mortonsNeuroma",
       "explanation": "",
       "isCorrect": false,
       "label": "Morton-Neuralgie"

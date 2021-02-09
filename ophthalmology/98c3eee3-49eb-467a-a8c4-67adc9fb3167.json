@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.dystonia",
       "explanation": "<ul><li><i>Hypertensive Retinopathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie, Nackenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Dystonie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypertensiveRetinopathy",
       "explanation": "",
       "isCorrect": true,
       "label": "Hypertensive Retinopathie",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Sarkoidose",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Augenrötung, Ausfluss aus dem Auge, Juckreiz im Auge, Augenschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: bekannte Allergie auf Umweltfaktoren</li></ul>",
       "isCorrect": false,
       "label": "Allergische Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.polycythemiaVera",
       "explanation": "<ul><li><i>Hypertensive Retinopathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polycythämia vera</i> erhöhen würden: Nachtschweiss, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Polycythämia vera",

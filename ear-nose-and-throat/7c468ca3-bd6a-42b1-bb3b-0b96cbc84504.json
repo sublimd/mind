@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie"
     },
     {
-      "diagnosisId": "D.chronicRhinoSinusitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Chronische Rhinosinusitis"
     },
     {
-      "diagnosisId": "D.streptococcalTonsillitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Streptokokkentonsillitis"
     },
     {
-      "diagnosisId": "D.clusterHeadache",
       "explanation": "",
       "isCorrect": false,
       "label": "Cluster-Kopfschmerz"
     },
     {
-      "diagnosisId": "D.anaphylacticShock",
       "explanation": "",
       "isCorrect": false,
       "label": "Anaphylaktischer Schock"

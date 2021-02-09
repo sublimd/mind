@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.multipleSystemAtrophy",
       "explanation": "",
       "isCorrect": true,
       "label": "Multisystematrophie"
     },
     {
-      "diagnosisId": "D.essentialTremor",
       "explanation": "",
       "isCorrect": false,
       "label": "Essentieller Tremor"
     },
     {
-      "diagnosisId": "D.corticobasalDegeneration",
       "explanation": "",
       "isCorrect": false,
       "label": "Kortikobasale Degeneration"
     },
     {
-      "diagnosisId": "D.parkinsonsDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Morbus Parkinson"
     },
     {
-      "diagnosisId": "D.parkinsonianSyndromes",
       "explanation": "",
       "isCorrect": false,
       "label": "Sekundäres Parkinson-Syndrom"

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: Bewusstseinsverlust, erhöhter Blutdruck</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie</li></ul>",
       "isCorrect": false,
       "label": "Migräne",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.subduralHematoma",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck, Dysarthrie</li></ul>",
       "isCorrect": false,
       "label": "Subduralhämatom",
@@ -23,14 +21,12 @@
       }
     },
     {
-      "diagnosisId": "D.concussion",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck, Dysarthrie</li></ul>",
       "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
       "references": {}
     },
     {
-      "diagnosisId": "D.intracerebralHemorrhage",
       "explanation": "",
       "isCorrect": true,
       "label": "Intrazerebrale Blutung",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.transientIschemicAttack",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus, Nikotinabusus</li></ul>",
       "isCorrect": false,
       "label": "Transitorische ischämische Attacke (TIA)",

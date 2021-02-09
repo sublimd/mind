@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperkalzämie"
     },
     {
-      "diagnosisId": "D.drugInducedHypercalcemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hyperkalzämie"
     },
     {
-      "diagnosisId": "D.hypercalcemiaOfMalignancy",
       "explanation": "",
       "isCorrect": false,
       "label": "Tumorhyperkalzämie"
     },
     {
-      "diagnosisId": "D.cardiogenicShock",
       "explanation": "",
       "isCorrect": false,
       "label": "Kardiogener Schock"
     },
     {
-      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
       "explanation": "",
       "isCorrect": true,
       "label": "Hyperosmolare hyperglykämische Entgleisung"

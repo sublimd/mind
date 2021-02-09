@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.mitralValveInsufficiency",
       "explanation": "",
       "isCorrect": false,
       "label": "Mitralklappen-Insuffizienz"
     },
     {
-      "diagnosisId": "D.anginaPectorisStable",
       "explanation": "",
       "isCorrect": false,
       "label": "Stabile Angina pectoris"
     },
     {
-      "diagnosisId": "D.mitralValveProlapse",
       "explanation": "",
       "isCorrect": false,
       "label": "Mitralklappenprolaps Syndrom (Barlow-Syndrom)"
     },
     {
-      "diagnosisId": "D.thalassemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Thalassämie"
     },
     {
-      "diagnosisId": "D.corPulmonale",
       "explanation": "",
       "isCorrect": true,
       "label": "Cor pulmonale"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
       "explanation": "<ul><li>Symptome, welche durch <i>Chronische myeloische Leukämie</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Husten, Dyspnoe, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene Pneumonie"
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Hautveränderungen, Kopfschmerzen, Gliederschmerzen, Gelenkschmerzen, Nackensteifigkeit, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1"
     },
     {
-      "diagnosisId": "D.crohnsDisease",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>M. Crohn</i> erhöhen würden: Diarrhoe, Bauchschmerzen, Hämatochezie</li></ul>",
       "isCorrect": false,
       "label": "M. Crohn"
     },
     {
-      "diagnosisId": "D.ulcerativeColitis",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Diarrhoe, Bauchschmerzen, Hämatochezie, Stuhlinkontinenz, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Colitis ulcerosa"
     },
     {
-      "diagnosisId": "D.chronicMyeloidLeukemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Chronische myeloische Leukämie"

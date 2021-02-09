@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cerebralMetastasis",
       "explanation": "",
       "isCorrect": true,
       "label": "Hirnmetastasen"
     },
     {
-      "diagnosisId": "D.tensionTypeHeadache",
       "explanation": "",
       "isCorrect": false,
       "label": "Spannungskopfschmerzen"
     },
     {
-      "diagnosisId": "D.subarachnoidHemorrhage",
       "explanation": "",
       "isCorrect": false,
       "label": "Subarachnoidalblutung"
     },
     {
-      "diagnosisId": "D.trigeminalNeuralgia",
       "explanation": "",
       "isCorrect": false,
       "label": "Trigeminusneuralgie"
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": false,
       "label": "Makrozytäre Anämie"

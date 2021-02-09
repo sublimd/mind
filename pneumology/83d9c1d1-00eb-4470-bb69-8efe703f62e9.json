@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.mitralValveStenosis",
       "explanation": "<ul><li><i>COPD Exazerbation</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Mitralklappen-Stenose",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.vocalCordDysfunctionSyndrome",
       "explanation": "<ul><li><i>COPD Exazerbation</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vocal Cord Dysfunction (VCD)</i> erhöhen würden: Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Vocal Cord Dysfunction (VCD)",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene Pneumonie",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.copdExacerbation",
       "explanation": "",
       "isCorrect": true,
       "label": "COPD Exazerbation",
       "references": {}
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",

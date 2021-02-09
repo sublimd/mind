@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Fieber, Schüttelfrost, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
       "references": {}
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfThyroidGland",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schilddrüsenkarzinom</i> erhöhen würden: Halsschwellung, vergrösserter Lymphknoten bzw. subkutaner Knoten, Dysphagie</li></ul>",
       "isCorrect": false,
       "label": "Schilddrüsenkarzinom",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.vocalCordDysfunctionSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Vocal Cord Dysfunction (VCD)",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.pleuralEffusion",
       "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pleuraerguss</i> erhöhen würden: Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Pleuraerguss",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.leftSidedHeartFailure",
       "explanation": "<ul><li>Probleme, welche durch <i>Vocal Cord Dysfunction (VCD)</i> besser erklärt sind: Dysphonie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Linksherzinsuffizienz</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li></ul>",
       "isCorrect": false,
       "label": "Linksherzinsuffizienz",

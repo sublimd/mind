@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteLaryngitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Laryngitis"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfThyroidGland",
       "explanation": "",
       "isCorrect": false,
       "label": "Schilddrüsenkarzinom"
     },
     {
-      "diagnosisId": "D.pseudoCroup",
       "explanation": "",
       "isCorrect": false,
       "label": "Laryngitis subglottica (Pseudokrupp)"
     },
     {
-      "diagnosisId": "D.epiglottitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Epiglottitis"
     },
     {
-      "diagnosisId": "D.pulmonaryAspiration",
       "explanation": "",
       "isCorrect": false,
       "label": "Aspirationspneumonie"

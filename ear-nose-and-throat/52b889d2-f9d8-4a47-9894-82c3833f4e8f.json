@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteBacterialMeningitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Meningitis</i> erhöhen würden: Nackensteifigkeit, Fieber, Verwirrtheit, Amnesie, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute bakterielle Meningitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.menieresDisease",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Menière</i> erhöhen würden: Schwindel, Tinnitus, Nausea, Erbrechen, Hyperhidrose</li></ul>",
       "isCorrect": false,
       "label": "M. Menière",
@@ -19,21 +17,18 @@
       }
     },
     {
-      "diagnosisId": "D.ototoxicHearingLoss",
       "explanation": "<ul><li><i>Cerumen obturans</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ototoxischer Hörverlust</i> erhöhen würden: Schwindel, Tinnitus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ototoxischer Hörverlust</i> erhöhen würden: Einnahme von ototoxischen Medikamenten</li></ul>",
       "isCorrect": false,
       "label": "Ototoxischer Hörverlust",
       "references": {}
     },
     {
-      "diagnosisId": "D.cerumenObturans",
       "explanation": "",
       "isCorrect": true,
       "label": "Cerumen obturans",
       "references": {}
     },
     {
-      "diagnosisId": "D.acousticNeuroma",
       "explanation": "<ul><li><i>Cerumen obturans</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akustikusneurinom</i> erhöhen würden: Tinnitus, Schwindel, Ataxie</li></ul>",
       "isCorrect": false,
       "label": "Akustikusneurinom",

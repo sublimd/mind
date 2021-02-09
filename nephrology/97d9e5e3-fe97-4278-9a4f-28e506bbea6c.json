@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "<ul><li>Probleme, welche durch <i>Epididymitis</i> besser erklärt sind: Hodenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Nierenkarzinom",
       "references": {}
     },
     {
-      "diagnosisId": "D.nonseminomaOfTestis",
       "explanation": "<ul><li><i>Epididymitis</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Hodenkarzinom (Non-Seminom)",
       "references": {}
     },
     {
-      "diagnosisId": "D.epididymitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Epididymitis",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.inguinalHernia",
       "explanation": "<ul></ul>",
       "isCorrect": false,
       "label": "Inguinalhernie",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "<ul><li>Probleme, welche durch <i>Epididymitis</i> besser erklärt sind: Schwellung des Hodens</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Urolithiasis</i> erhöhen würden: Nausea, Erbrechen, Bauchschmerzen, Flankenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Urolithiasis",

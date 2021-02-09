@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.malignantNeoplasmOfLung",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenkarzinom"
     },
     {
-      "diagnosisId": "D.rupturedThoracicAorticAneurysm",
       "explanation": "",
       "isCorrect": false,
       "label": "Rupturiertes thorakales Aortenaneurysma"
     },
     {
-      "diagnosisId": "D.eCigaretteOrVapingProductUseAssociatedLungInjury",
       "explanation": "",
       "isCorrect": true,
       "label": "Vaping assoziierte Lungenverletzung"
     },
     {
-      "diagnosisId": "D.anaphylacticShock",
       "explanation": "",
       "isCorrect": false,
       "label": "Anaphylaktischer Schock"
     },
     {
-      "diagnosisId": "D.acuteCoronarySyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokardinfarkt"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypertensiveLowerEsophagealSphincter",
       "explanation": "",
       "isCorrect": true,
       "label": "Hyperkontraktiler unterer Ösophagussphinkter"
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose"
     },
     {
-      "diagnosisId": "D.functionalDyspepsia",
       "explanation": "",
       "isCorrect": false,
       "label": "Funktionelle Dyspepsie"
     },
     {
-      "diagnosisId": "D.transientIschemicAttack",
       "explanation": "",
       "isCorrect": false,
       "label": "Transitorische ischämische Attacke (TIA)"
     },
     {
-      "diagnosisId": "D.oesophagealCandidiasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Soorösophagitis"

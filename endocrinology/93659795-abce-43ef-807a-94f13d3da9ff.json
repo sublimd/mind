@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.goiter",
       "explanation": "",
       "isCorrect": false,
       "label": "Euthyreote Struma"
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "",
       "isCorrect": false,
       "label": "Cushing Syndrom"
     },
     {
-      "diagnosisId": "D.endometriosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Endometriose"
     },
     {
-      "diagnosisId": "D.hashimotoThyroiditis",
       "explanation": "",
       "isCorrect": true,
       "label": "Hashimoto-Thyreoiditis"
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Eisenmangelanämie"

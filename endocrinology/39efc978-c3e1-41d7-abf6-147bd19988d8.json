@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Pharyngitis"
     },
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege"
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose"
     },
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokarditis"
     },
     {
-      "diagnosisId": "D.subacuteThyroiditis",
       "explanation": "",
       "isCorrect": true,
       "label": "Subakute granulomatöse Thyreoiditis de Quervain"

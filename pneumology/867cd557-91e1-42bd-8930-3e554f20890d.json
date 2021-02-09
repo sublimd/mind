@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pulmonaryEmbolism",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Bronchitis</i> besser erklärt sind: Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenembolie</i> erhöhen würden: Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lungenembolie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfLung",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Bronchitis</i> besser erklärt sind: Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenkarzinom</i> erhöhen würden: allgemeine Müdigkeit, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Lungenkarzinom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteBronchitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Bronchitis",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.granulomatosisWithPolyangiitis",
       "explanation": "<ul><li><i>Akute Bronchitis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Granulomatose mit Polyangiitis</i> erhöhen würden: Rhinorrhoe</li></ul>",
       "isCorrect": false,
       "label": "Granulomatose mit Polyangiitis",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Bronchitis</i> besser erklärt sind: Hämoptoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie</li></ul>",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",

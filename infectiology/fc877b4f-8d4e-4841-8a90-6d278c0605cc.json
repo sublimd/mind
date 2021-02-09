@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Pruritus</li></ul>",
       "isCorrect": false,
       "label": "Typhus abdominalis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.schistosomiasis",
       "explanation": "",
       "isCorrect": true,
       "label": "Schistosomiasis",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteBronchitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Exanthem, Pruritus, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute Bronchitis",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteCholecystitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Exanthem, Gliederschmerzen, Husten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Cholezystitis</i> erhöhen würden: Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Akute Cholezystitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.malaria",
       "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Exanthem, Pruritus</li></ul>",
       "isCorrect": false,
       "label": "Malaria",

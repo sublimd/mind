@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.typhus",
       "explanation": "",
       "isCorrect": false,
       "label": "Fleckfieber"
     },
     {
-      "diagnosisId": "D.dengueFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Dengue Fieber"
     },
     {
-      "diagnosisId": "D.rockyMountainSpottedFever",
       "explanation": "",
       "isCorrect": false,
       "label": "Rocky-Mountains-Fleckfieber"
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "HIV-Primoinfektion"
     },
     {
-      "diagnosisId": "D.malaria",
       "explanation": "",
       "isCorrect": false,
       "label": "Malaria"

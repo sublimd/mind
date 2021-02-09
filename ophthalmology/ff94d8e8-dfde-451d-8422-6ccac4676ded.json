@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteAngleClosureGlaucoma",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge, Ausfluss aus dem Auge</li></ul>",
       "isCorrect": false,
       "label": "Akutes Winkelblockglaukom",
       "references": {}
     },
     {
-      "diagnosisId": "D.chalazion",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chalazion</i> erhöhen würden: Lidschwellung</li></ul>",
       "isCorrect": false,
       "label": "Chalazion",
@@ -19,14 +17,12 @@
       }
     },
     {
-      "diagnosisId": "D.bacterialKeratitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute bakterielle Keratitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge, Ausfluss aus dem Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Sarkoidose",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.herpesZosterOphthalmicus",
       "explanation": "<ul><li><i>Akute bakterielle Keratitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge, Ausfluss aus dem Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Zoster ophthalmicus</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zoster ophthalmicus</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Zoster ophthalmicus",

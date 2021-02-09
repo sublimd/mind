@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.tensionTypeHeadache",
       "explanation": "",
       "isCorrect": false,
       "label": "Spannungstyp-Kopfschmerz"
     },
     {
-      "diagnosisId": "D.hyponatremia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyponatriämie"
     },
     {
-      "diagnosisId": "D.acuteMountainSickness",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Höhenkrankheit"
     },
     {
-      "diagnosisId": "D.obstructiveSleepApneaSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Obstruktives Schlafapnoesyndrom (OSAS)"
     },
     {
-      "diagnosisId": "D.facialSkullFracture",
       "explanation": "",
       "isCorrect": false,
       "label": "Gesichtsschädelfraktur"

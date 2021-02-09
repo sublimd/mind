@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.breastCyst",
       "explanation": "",
       "isCorrect": false,
       "label": "Brustzyste"
     },
     {
-      "diagnosisId": "D.fibroadenoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Fibroadenom"
     },
     {
-      "diagnosisId": "D.breastCancer",
       "explanation": "",
       "isCorrect": false,
       "label": "Mammakarzinom"
     },
     {
-      "diagnosisId": "D.papillaryApocrineChange",
       "explanation": "",
       "isCorrect": false,
       "label": "Papilläre apokrine Mammaveränderung"
     },
     {
-      "diagnosisId": "D.breastHematoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Brusthämatom"

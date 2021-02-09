@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.meniscusLesion",
       "explanation": "",
       "isCorrect": false,
       "label": "Meniskusläsion"
     },
     {
-      "diagnosisId": "D.iliotibialBandSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Ilio-tibiales Bandsyndrom (Läuferknie)"
     },
     {
-      "diagnosisId": "D.psoriaticArthritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Psoriasis-Arthritis (PsA)"
     },
     {
-      "diagnosisId": "D.gonarthrosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Gonarthrose"
     },
     {
-      "diagnosisId": "D.adipositas",
       "explanation": "",
       "isCorrect": false,
       "label": "Adipositas"

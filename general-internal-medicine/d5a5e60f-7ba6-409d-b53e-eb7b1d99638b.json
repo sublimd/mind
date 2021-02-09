@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hyperemesisGravidarum",
       "explanation": "",
       "isCorrect": true,
       "label": "Hyperemesis gravidarum"
     },
     {
-      "diagnosisId": "D.acuteKidneyInjury",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Nierenschädigung"
     },
     {
-      "diagnosisId": "D.foreignBodyIngestion",
       "explanation": "",
       "isCorrect": false,
       "label": "Verschluckter Fremdkörper"
     },
     {
-      "diagnosisId": "D.acuteHepatitisB",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Hepatitis B-Infektion"
     },
     {
-      "diagnosisId": "D.diabeticKetoacidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Diabetische Ketoazidose"

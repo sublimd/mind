@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteTubularNecrosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Tubulusnekrose"
     },
     {
-      "diagnosisId": "D.urethralStricture",
       "explanation": "",
       "isCorrect": true,
       "label": "Urethrastriktur"
     },
     {
-      "diagnosisId": "D.transverseMyelitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Transverse Myelitis"
     },
     {
-      "diagnosisId": "D.intestinalParasitosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Darmparasitose"
     },
     {
-      "diagnosisId": "D.perinephricAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Perinephrischer Abszess"

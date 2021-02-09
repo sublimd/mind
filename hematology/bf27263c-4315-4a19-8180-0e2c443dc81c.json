@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.polyneuropathy",
       "explanation": "<ul><li>Probleme, welche durch <i>Kryoglobulinämie</i> besser erklärt sind: Hautveränderungen, Gelenkschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Polyneuropathie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypomagnesemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Kryoglobulinämie</i> besser erklärt sind: Hautveränderungen, Gelenkschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypomagnesiämie</i> erhöhen würden: Tremor, Muskelkrämpfe, Krampfanfall, Verwirrtheit</li></ul>",
       "isCorrect": false,
       "label": "Hypomagnesiämie",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
       "explanation": "<ul><li>Probleme, welche durch <i>Kryoglobulinämie</i> besser erklärt sind: Hautveränderungen, Gelenkschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Bekannter Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Hyperosmolare hyperglykämische Entgleisung",
       "references": {}
     },
     {
-      "diagnosisId": "D.zikaVirus",
       "explanation": "<ul><li>Probleme, welche durch <i>Kryoglobulinämie</i> besser erklärt sind: Muskelschwäche</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Zika Virus Infektion</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Zika Virus Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Zika Virus Infektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.cryoglobulinemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Kryoglobulinämie",

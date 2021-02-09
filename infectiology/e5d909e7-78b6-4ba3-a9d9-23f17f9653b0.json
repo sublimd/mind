@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.leptospirosisStage1",
       "explanation": "<ul><li><i>Masern</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leptospirose Stadium I</i> erhöhen würden: Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leptospirose Stadium I</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Leptospirose Stadium I",
       "references": {}
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Exanthem, Augenrötung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Virale Pharyngitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Augenrötung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Typhus abdominalis",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.schistosomiasis",
       "explanation": "<ul><li><i>Masern</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Augenrötung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schistosomiasis</i> erhöhen würden: Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Schistosomiasis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Schistosomiasis",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.measles",
       "explanation": "",
       "isCorrect": true,
       "label": "Masern",

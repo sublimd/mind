@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.malloryWeissSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Mallory-Weiss Syndrom",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.gastritis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gastritis</i> erhöhen würden: Nausea, Appetitverlust</li></ul>",
       "isCorrect": false,
       "label": "Gastritis",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicMyeloidLeukemia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall, Fieber, Nachtschweiss, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
       "isCorrect": false,
       "label": "Chronische myeloische Leukämie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfOesophagus",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Oesophaguskarzinom</i> erhöhen würden: Dysphagie, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Oesophaguskarzinom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
       "isCorrect": false,
       "label": "Oesophaguskarzinom",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.gastricUlcer",
       "explanation": "",
       "isCorrect": false,
       "label": "Ulcus ventriculi",

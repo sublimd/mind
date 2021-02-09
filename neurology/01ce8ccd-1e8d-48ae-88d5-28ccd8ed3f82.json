@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.bellsPalsy",
       "explanation": "",
       "isCorrect": true,
       "label": "Idiopathische Fazialisparese",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.acousticNeuroma",
       "explanation": "<ul><li><i>Idiopathische Fazialisparese</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akustikusneurinom</i> erhöhen würden: Tinnitus, Schwindel, Ataxie</li></ul>",
       "isCorrect": false,
       "label": "Akustikusneurinom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.transientIschemicAttack",
       "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Transitorische ischämische Attacke (TIA)",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteRhinoSinusitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Muskelschwäche, Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Fieber, Schüttelfrost</li></ul>",
       "isCorrect": false,
       "label": "Akute Rhinosinusitis",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Migräne",

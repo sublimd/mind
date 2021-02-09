@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.abscessOfBartholinsGland",
       "explanation": "",
       "isCorrect": true,
       "label": "Bartholinitis",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Bartholinitis</i> besser erklärt sind: Schwellung im Genitalbereich</li></ul>",
       "isCorrect": false,
       "label": "Harnwegsinfekt",
       "references": {}
     },
     {
-      "diagnosisId": "D.bartholinCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Bartholinitis</i> besser erklärt sind: Fieber</li></ul>",
       "isCorrect": false,
       "label": "Bartholin-Zyste",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.chlamydialCervicitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Bartholinitis</i> besser erklärt sind: Schwellung im Genitalbereich</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chlamydien-Zervizitis</i> erhöhen würden: vaginaler Ausfluss, vaginale Blutung, Dysurie, Pollakisurie</li></ul>",
       "isCorrect": false,
       "label": "Chlamydien-Zervizitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.epidermoidCyst",
       "explanation": "<ul><li>Probleme, welche durch <i>Bartholinitis</i> besser erklärt sind: Schmerzen im Genitalbereich, Probleme beim Geschlechtsverkehr, Fieber</li></ul>",
       "isCorrect": false,
       "label": "Atherom (Epidermoidzyste)",

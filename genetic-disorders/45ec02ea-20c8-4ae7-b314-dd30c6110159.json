@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.goiter",
       "explanation": "<ul><li>Probleme, welche durch <i>Liddle-Syndrom</i> besser erklärt sind: erhöhter Blutdruck</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Struma</i> erhöhen würden: Halsschwellung</li></ul>",
       "isCorrect": false,
       "label": "Struma",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.drugInducedHypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Liddle-Syndrom</i> besser erklärt sind: erhöhter Blutdruck</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hyperkalzämie",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "<ul><li>Probleme, welche durch <i>Liddle-Syndrom</i> besser erklärt sind: Obstipation, Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erektile Dysfunktion, Schwellung der Unterschenkel, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
       "isCorrect": false,
       "label": "Cushing Syndrom",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.liddleSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Liddle-Syndrom",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "<ul><li>Probleme, welche durch <i>Liddle-Syndrom</i> besser erklärt sind: erhöhter Blutdruck, Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Makrozytäre Anämie",

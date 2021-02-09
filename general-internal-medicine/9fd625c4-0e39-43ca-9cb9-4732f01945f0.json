@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.ectropion",
       "explanation": "",
       "isCorrect": false,
       "label": "Ektropium"
     },
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "",
       "isCorrect": false,
       "label": "Hordeolum"
     },
     {
-      "diagnosisId": "D.acuteBlepharitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Blepharitis"
     },
     {
-      "diagnosisId": "D.chalazion",
       "explanation": "",
       "isCorrect": false,
       "label": "Chalazion"
     },
     {
-      "diagnosisId": "D.foreignBodyInConjunctiva",
       "explanation": "",
       "isCorrect": true,
       "label": "Konjunktivaler Fremdkörper"

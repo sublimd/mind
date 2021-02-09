@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.poplitealArteryAneurysm",
       "explanation": "",
       "isCorrect": false,
       "label": "Aneurysma der Arteria poplitea"
     },
     {
-      "diagnosisId": "D.vertebralFracture",
       "explanation": "",
       "isCorrect": false,
       "label": "Wirbelkörperfraktur"
     },
     {
-      "diagnosisId": "D.lericheSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Leriche Syndrom"
     },
     {
-      "diagnosisId": "D.acuteLimbIschemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Akuter peripherer Arterienverschluss"
     },
     {
-      "diagnosisId": "D.subperiostealHematomaTibia",
       "explanation": "",
       "isCorrect": false,
       "label": "Subperiostales Hämatom der Tibia"

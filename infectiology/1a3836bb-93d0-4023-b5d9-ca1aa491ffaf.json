@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.dengueFever",
       "explanation": "<ul><li>Symptome, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Augenrötung, Diarrhoe</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Dengue Fieber",
@@ -12,21 +11,18 @@
       }
     },
     {
-      "diagnosisId": "D.leptospirosisStage1",
       "explanation": "",
       "isCorrect": true,
       "label": "Leptospirose Stadium I",
       "references": {}
     },
     {
-      "diagnosisId": "D.acutePericarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Perikarditis",
       "references": {}
     },
     {
-      "diagnosisId": "D.tickborneEncephalitis",
       "explanation": "<ul><li>Symptome, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Augenrötung</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Frühsommer-Meningoencephalitis (FSME)",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.malaria",
       "explanation": "<ul><li>Symptome, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Augenrötung</li></ul>",
       "isCorrect": false,
       "label": "Malaria",

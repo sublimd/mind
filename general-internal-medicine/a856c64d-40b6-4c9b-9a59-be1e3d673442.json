@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypokaliämie"
     },
     {
-      "diagnosisId": "D.colorectalCancer",
       "explanation": "",
       "isCorrect": true,
       "label": "Kolonkarzinom"
     },
     {
-      "diagnosisId": "D.proctitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Divertikulitis"
     },
     {
-      "diagnosisId": "D.hemorrhoids",
       "explanation": "",
       "isCorrect": false,
       "label": "Hämorrhoiden"
     },
     {
-      "diagnosisId": "D.acuteAppendicitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Appendizitis"

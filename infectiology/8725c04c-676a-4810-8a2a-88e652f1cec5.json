@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lymeBorreliosisStage3",
       "explanation": "",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 3"
     },
     {
-      "diagnosisId": "D.lungAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenabszess"
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "HIV-Primoinfektion"
     },
     {
-      "diagnosisId": "D.fungalPneumonia",
       "explanation": "",
       "isCorrect": false,
       "label": "Pilzpneumonie"
     },
     {
-      "diagnosisId": "D.leptospirosisStage2",
       "explanation": "",
       "isCorrect": true,
       "label": "Leptospirose Stadium II"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteRhinoSinusitis",
       "explanation": "<ul><li>Symptome, welche durch <i>Frühsommer-Meningoencephalitis (FSME)</i> besser erklärt sind: Gliederschmerzen, Nackensteifigkeit, Bewusstseinsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe</li></ul>",
       "isCorrect": false,
       "label": "Akute Rhinosinusitis"
     },
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "<ul><li>Symptome, welche durch <i>Frühsommer-Meningoencephalitis (FSME)</i> besser erklärt sind: Nackensteifigkeit, Bewusstseinsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Typhus abdominalis"
     },
     {
-      "diagnosisId": "D.tickborneEncephalitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Frühsommer-Meningoencephalitis (FSME)"
     },
     {
-      "diagnosisId": "D.influenza",
       "explanation": "<ul><li>Symptome, welche durch <i>Frühsommer-Meningoencephalitis (FSME)</i> besser erklärt sind: Nackensteifigkeit, Bewusstseinsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Dyspnoe, Halsschmerzen, Odynophagie, Dysphagie, Niesen</li></ul>",
       "isCorrect": false,
       "label": "Influenza"
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Symptome, welche durch <i>Frühsommer-Meningoencephalitis (FSME)</i> besser erklärt sind: Gliederschmerzen, Nackensteifigkeit, Bewusstseinsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie"

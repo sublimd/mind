@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.diaphragmaticHernia",
       "explanation": "",
       "isCorrect": true,
       "label": "Hiatushernie"
     },
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "<ul><li>Symptome, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen, Dysphagie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie"
     },
     {
-      "diagnosisId": "D.diffuseEsophagealSpasm",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Diffuser Oesophagusspasmus</i> erhöhen würden: Thoraxschmerzen, saures Aufstossen, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Diffuser Oesophagusspasmus"
     },
     {
-      "diagnosisId": "D.streptococcalTonsillitis",
       "explanation": "<ul><li>Symptome, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen, Husten</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Streptokokkentonsillitis</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
       "isCorrect": false,
       "label": "Streptokokkentonsillitis"
     },
     {
-      "diagnosisId": "D.alcoholUseDisorder",
       "explanation": "<ul><li>Symptome, welche durch <i>Hiatushernie</i> besser erklärt sind: Dysphagie, Husten, Erbrechen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Alkoholüberkonsum</i> erhöhen würden: Schlafstörungen, erhöhter Blutdruck, Angstzustände, depressive Stimmung</li></ul>",
       "isCorrect": false,
       "label": "Alkoholüberkonsum"

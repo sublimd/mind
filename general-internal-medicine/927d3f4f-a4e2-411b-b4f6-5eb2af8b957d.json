@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.keratoconjunctivitisSicca",
       "explanation": "",
       "isCorrect": false,
       "label": "Keratokonjunktivitis sicca"
     },
     {
-      "diagnosisId": "D.cerebralMetastasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hirnmetastasen"
     },
     {
-      "diagnosisId": "D.pterygium",
       "explanation": "",
       "isCorrect": false,
       "label": "Pterygium"
     },
     {
-      "diagnosisId": "D.insulinoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Insulinom"
     },
     {
-      "diagnosisId": "D.wetAgeRelatedMacularDegeneration",
       "explanation": "",
       "isCorrect": true,
       "label": "Feuchte altersbedingte Makuladegeneration"

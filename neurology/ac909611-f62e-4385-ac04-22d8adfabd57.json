@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.panarteritisNodosa",
       "explanation": "",
       "isCorrect": false,
       "label": "Panarteriitis nodosa"
     },
     {
-      "diagnosisId": "D.vestibularMigraine",
       "explanation": "",
       "isCorrect": false,
       "label": "Vestibuläre Migräne"
     },
     {
-      "diagnosisId": "D.cerebralMetastasis",
       "explanation": "",
       "isCorrect": true,
       "label": "Hirnmetastasen"
     },
     {
-      "diagnosisId": "D.neoplasticMeningitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Meningeosis neoplastica"
     },
     {
-      "diagnosisId": "D.trigeminalNeuralgia",
       "explanation": "",
       "isCorrect": false,
       "label": "Trigeminusneuralgie"

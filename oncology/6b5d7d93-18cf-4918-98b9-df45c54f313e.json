@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lumbarSpondylosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Lumbale Spondylose"
     },
     {
-      "diagnosisId": "D.epididymitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Epididymitis"
     },
     {
-      "diagnosisId": "D.seminomaOfTestis",
       "explanation": "",
       "isCorrect": true,
       "label": "Hodenkarzinom (Seminom)"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "",
       "isCorrect": false,
       "label": "Nierenkarzinom"
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Urolithiasis"

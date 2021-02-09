@@ -1,35 +1,30 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.subarachnoidHemorrhage",
       "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Nackenschmerzen, Nackensteifigkeit, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subarachnoidalblutung</i> erhöhen würden: Kürzliches Schädeltrauma</li></ul>",
       "isCorrect": false,
       "label": "Subarachnoidalblutung",
       "references": {}
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Migräne",
       "references": {}
     },
     {
-      "diagnosisId": "D.concussion",
       "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Verwirrtheit, Amnesie, Bewusstseinsverlust, Synkope, Somnolenz, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Kürzliches Schädeltrauma</li></ul>",
       "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
       "references": {}
     },
     {
-      "diagnosisId": "D.tickborneEncephalitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Fieber, Gliederschmerzen, Gelenkschmerzen, Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Frühsommer-Meningoencephalitis (FSME)",
       "references": {}
     },
     {
-      "diagnosisId": "D.bellsPalsy",
       "explanation": "",
       "isCorrect": true,
       "label": "Idiopathische Fazialisparese",

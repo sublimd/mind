@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.ulcerativeColitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Colitis ulcerosa"
     },
     {
-      "diagnosisId": "D.lactoseIntolerance",
       "explanation": "<ul><li>Symptome, welche durch <i>Colitis ulcerosa</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Laktoseintoleranz</i> erhöhen würden: Blähungen</li></ul>",
       "isCorrect": false,
       "label": "Laktoseintoleranz"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfPancreas",
       "explanation": "<ul><li>Symptome, welche durch <i>Colitis ulcerosa</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: allgemeines Schwächegefühl, Leistungsabfall, Appetitverlust, Ikterus, Nausea, Erbrechen, Rückenschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: Nikotinabusus</li></ul>",
       "isCorrect": false,
       "label": "Pankreaskarzinom"
     },
     {
-      "diagnosisId": "D.irritableBowelSyndrome",
       "explanation": "<ul><li>Symptome, welche durch <i>Colitis ulcerosa</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Colon irritabile</i> erhöhen würden: Blähungen</li></ul>",
       "isCorrect": false,
       "label": "Colon irritabile"
     },
     {
-      "diagnosisId": "D.pseudomembranousColitis",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Kürzliche Verwendung von Antibiotika, Hospitalisation in den letzten drei Monaten</li></ul>",
       "isCorrect": false,
       "label": "Pseudomembranöse Kolitis"

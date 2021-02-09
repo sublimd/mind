@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.porphyria",
       "explanation": "",
       "isCorrect": true,
       "label": "Porphyrie"
     },
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypokaliämie"
     },
     {
-      "diagnosisId": "D.cholelithiasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Cholelithiasis"
     },
     {
-      "diagnosisId": "D.endometriosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Endometriose"
     },
     {
-      "diagnosisId": "D.acuteAppendicitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Appendizitis"

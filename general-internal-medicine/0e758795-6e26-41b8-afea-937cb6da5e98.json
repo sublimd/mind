@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.antralGCellHyperplasia",
       "explanation": "",
       "isCorrect": false,
       "label": "Antrale G-Zell-Hyperplasie"
     },
     {
-      "diagnosisId": "D.diaphragmaticHernia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hiatushernie"
     },
     {
-      "diagnosisId": "D.gastrooesophagealRefluxDisease",
       "explanation": "",
       "isCorrect": true,
       "label": "Gastroösophageale Refluxkrankheit"
     },
     {
-      "diagnosisId": "D.hypertensivePeristalsis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperkontraktiler Oesophagus"
     },
     {
-      "diagnosisId": "D.men1",
       "explanation": "",
       "isCorrect": false,
       "label": "Multiple endokrine Neoplasie (MEN 1)"

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "",
       "isCorrect": true,
       "label": "Myokarditis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.corPulmonale",
       "explanation": "<ul><li>Probleme, welche durch <i>Myokarditis</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cor pulmonale</i> erhöhen würden: Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Cor pulmonale",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Probleme, welche durch <i>Myokarditis</i> besser erklärt sind: Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Husten</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",
       "references": {}
     },
     {
-      "diagnosisId": "D.copdExacerbation",
       "explanation": "<ul><li>Probleme, welche durch <i>Myokarditis</i> besser erklärt sind: Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>COPD Exazerbation</i> erhöhen würden: Husten</li></ul>",
       "isCorrect": false,
       "label": "COPD Exazerbation",
       "references": {}
     },
     {
-      "diagnosisId": "D.pulmonaryEmphysema",
       "explanation": "<ul><li>Probleme, welche durch <i>Myokarditis</i> besser erklärt sind: Palpitationen, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lungenemphysem",

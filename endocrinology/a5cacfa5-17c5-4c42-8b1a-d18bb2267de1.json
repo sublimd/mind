@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.atrialFlutter",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vorhofflattern</i> erhöhen würden: Schwindel, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Vorhofflattern",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperparathyroidism",
       "explanation": "",
       "isCorrect": true,
       "label": "Hyperparathyroidismus",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li></ul>",
       "isCorrect": false,
       "label": "Eisenmangelanämie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Muskelschwäche</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Makrozytäre Anämie",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.sinusTachycardia",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation, Müdigkeit, Muskelschwäche</li></ul>",
       "isCorrect": false,
       "label": "Sinustachykardie",

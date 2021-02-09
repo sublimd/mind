@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.postictalState",
       "explanation": "",
       "isCorrect": false,
       "label": "Postiktaler Zustand"
     },
     {
-      "diagnosisId": "D.insulinoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Insulinom"
     },
     {
-      "diagnosisId": "D.toxicConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Toxische Konjunktivitis"
     },
     {
-      "diagnosisId": "D.breastCancer",
       "explanation": "",
       "isCorrect": false,
       "label": "Mammakarzinom"
     },
     {
-      "diagnosisId": "D.fibroadenoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Fibroadenom"

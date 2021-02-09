@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cholangitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cholangitis</i> erhöhen würden: Ikterus, Nausea, Erbrechen, Hypotonie</li></ul>",
       "isCorrect": false,
       "label": "Cholangitis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.viralGastroenteritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Peritonitis</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Gastroenteritis</i> erhöhen würden: Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Virale Gastroenteritis",
@@ -23,14 +21,12 @@
       }
     },
     {
-      "diagnosisId": "D.acutePeritonitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Peritonitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.pseudomembranousColitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Peritonitis</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Kürzliche Verwendung von Antibiotika, Hospitalisation in den letzten drei Monaten</li></ul>",
       "isCorrect": false,
       "label": "Pseudomembranöse Kolitis",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Peritonitis</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Husten, Dyspnoe, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene Pneumonie",

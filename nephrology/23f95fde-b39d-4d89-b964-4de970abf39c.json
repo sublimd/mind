@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Urolithiasis"
     },
     {
-      "diagnosisId": "D.membranousGlomerulonephritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Membranöse Glomerulonephritis"
     },
     {
-      "diagnosisId": "D.chronicKidneyDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronische Niereninsuffizienz"
     },
     {
-      "diagnosisId": "D.myelodysplasticSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Myelodysplastisches Syndrom"
     },
     {
-      "diagnosisId": "D.stablePelvicRingFracture",
       "explanation": "",
       "isCorrect": false,
       "label": "Stabile Beckenringfraktur"

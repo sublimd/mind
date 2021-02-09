@@ -1,35 +1,30 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.drugInducedHypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hyperkalzämie",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",
       "references": {}
     },
     {
-      "diagnosisId": "D.hyperparathyroidism",
       "explanation": "<ul><li>Probleme, welche durch <i>Alzheimer-Demenz</i> besser erklärt sind: Amnesie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperparathyroidismus</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperparathyroidismus",
       "references": {}
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfBrain",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirntumor</i> erhöhen würden: Kopfschmerzen, Schwindel, Krampfanfall, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Hirntumor",
       "references": {}
     },
     {
-      "diagnosisId": "D.dementiaAlzheimer",
       "explanation": "",
       "isCorrect": true,
       "label": "Alzheimer-Demenz",

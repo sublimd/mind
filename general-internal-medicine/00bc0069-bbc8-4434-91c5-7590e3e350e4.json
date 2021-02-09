@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "",
       "isCorrect": false,
       "label": "Migräne"
     },
     {
-      "diagnosisId": "D.herpesZosterOticus",
       "explanation": "",
       "isCorrect": true,
       "label": "Zoster oticus"
     },
     {
-      "diagnosisId": "D.auricularPerichondritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Perichondritis auricularis"
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage2",
       "explanation": "",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 2"
     },
     {
-      "diagnosisId": "D.erysipelaOfExternalEar",
       "explanation": "",
       "isCorrect": false,
       "label": "Erysipel des Ohres"

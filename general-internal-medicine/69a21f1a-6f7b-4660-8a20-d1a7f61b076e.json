@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypovolemicShock",
       "explanation": "<ul><li>Probleme, welche durch <i>Hitzschlag</i> besser erklärt sind: Fieber, Kopfschmerzen, Bauchschmerzen, Muskelkrämpfe, Ataxie, Hautveränderungen, Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypovolämischer Schock</i> erhöhen würden: Tachykardien, Hypotonie, Dyspnoe, Oligurie</li></ul>",
       "isCorrect": false,
       "label": "Hypovolämischer Schock",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
       "explanation": "<ul><li><i>Hitzschlag</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Hitzschlag</i> besser erklärt sind: Hyperhidrose, Muskelkrämpfe, Ataxie</li></ul>",
       "isCorrect": false,
       "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypoglykemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Hitzschlag</i> besser erklärt sind: Fieber, Bauchschmerzen, Muskelkrämpfe, Ataxie, allgemeines Schwächegefühl, Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Tremor</li></ul>",
       "isCorrect": false,
       "label": "Hypoglykämie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.heatStroke",
       "explanation": "",
       "isCorrect": true,
       "label": "Hitzschlag",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.relapsingFever",
       "explanation": "<ul><li><i>Hitzschlag</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Hitzschlag</i> besser erklärt sind: Hyperhidrose, Ataxie, allgemeines Schwächegefühl, Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rückfallfieber</i> erhöhen würden: Gliederschmerzen, Gelenkschmerzen, Diarrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Rückfallfieber</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Rückfallfieber",

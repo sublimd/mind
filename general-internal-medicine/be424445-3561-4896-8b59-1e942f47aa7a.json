@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.aorticInsufficiency",
       "explanation": "",
       "isCorrect": true,
       "label": "Aortenklappen-Insuffizienz"
     },
     {
-      "diagnosisId": "D.mitralValveInsufficiency",
       "explanation": "",
       "isCorrect": false,
       "label": "Mitralklappen-Insuffizienz"
     },
     {
-      "diagnosisId": "D.avNodalReentrantTachycardia",
       "explanation": "",
       "isCorrect": false,
       "label": "AV-Knoten-Reentry-Tachykardie"
     },
     {
-      "diagnosisId": "D.atrioventricularBlockThirdDegree",
       "explanation": "",
       "isCorrect": false,
       "label": "AV-Block III°"
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": false,
       "label": "Makrozytäre Anämie"

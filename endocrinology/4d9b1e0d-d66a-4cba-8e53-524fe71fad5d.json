@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.epidemicParotitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Schilddrüsenkarzinom</i> besser erklärt sind: Halsschwellung, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Larynxkarzinom",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperthyroidism",
       "explanation": "<ul><li><i>Hyperthyreose</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Schilddrüsenkarzinom</i> besser erklärt sind: Dysphonie, Husten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Palpitationen, Tachykardien, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
       "isCorrect": false,
       "label": "Hyperthyreose",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.goiter",
       "explanation": "<ul><li>Probleme, welche durch <i>Schilddrüsenkarzinom</i> besser erklärt sind: Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Struma",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfThyroidGland",
       "explanation": "",
       "isCorrect": true,
       "label": "Schilddrüsenkarzinom",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteLaryngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Schilddrüsenkarzinom</i> besser erklärt sind: Halsschwellung, Gewichtsverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Fieber, Schüttelfrost, Rhinorrhoe</li></ul>",
       "isCorrect": false,
       "label": "Akute Laryngitis",

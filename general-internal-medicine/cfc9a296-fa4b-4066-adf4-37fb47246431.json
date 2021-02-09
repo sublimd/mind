@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lipoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Lipom"
     },
     {
-      "diagnosisId": "D.lymphadenitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Lymphadenitis"
     },
     {
-      "diagnosisId": "D.vulvarInclusionCyst",
       "explanation": "",
       "isCorrect": true,
       "label": "Einschlusszyste der Vulva"
     },
     {
-      "diagnosisId": "D.bacterialVaginosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Bakterielle Vaginose"
     },
     {
-      "diagnosisId": "D.hodgkinLymphoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Hodgkin Lymphom"

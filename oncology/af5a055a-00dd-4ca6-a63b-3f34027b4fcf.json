@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lumbarVertebralSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens</li></ul>",
       "isCorrect": false,
       "label": "Lumbovertebrales Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.epididymitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Epididymitis</i> erhöhen würden: Hodenschmerzen, Leistenschmerzen, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Epididymitis",
@@ -19,21 +17,18 @@
       }
     },
     {
-      "diagnosisId": "D.lumbarSpondylogenicSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Seminom)</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens</li></ul>",
       "isCorrect": false,
       "label": "Lumbospondylogenes Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.seminomaOfTestis",
       "explanation": "",
       "isCorrect": true,
       "label": "Hodenkarzinom (Seminom)",
       "references": {}
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
       "isCorrect": false,
       "label": "Nierenkarzinom",

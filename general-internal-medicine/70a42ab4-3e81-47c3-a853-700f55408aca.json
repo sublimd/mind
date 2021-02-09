@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.rupturedAbdominalAorticAneurysm",
       "explanation": "",
       "isCorrect": false,
       "label": "Rupturiertes abdominales Aortenaneurysma"
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "",
       "isCorrect": true,
       "label": "Urolithiasis"
     },
     {
-      "diagnosisId": "D.testicularTorsion",
       "explanation": "",
       "isCorrect": false,
       "label": "Hodentorsion"
     },
     {
-      "diagnosisId": "D.acutePyelonephritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Pyelonephritis"
     },
     {
-      "diagnosisId": "D.renalInfarction",
       "explanation": "",
       "isCorrect": false,
       "label": "Niereninfarkt"

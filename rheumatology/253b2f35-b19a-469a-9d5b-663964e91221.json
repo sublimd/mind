@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.majorDepressiveEpisode",
       "explanation": "",
       "isCorrect": false,
       "label": "Ausgeprägte depressive Episode"
     },
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperkalzämie"
     },
     {
-      "diagnosisId": "D.polymyalgiaRheumatica",
       "explanation": "",
       "isCorrect": true,
       "label": "Polymyalgia rheumatica"
     },
     {
-      "diagnosisId": "D.chondrocalcinosis",
       "explanation": "",
       "isCorrect": false,
       "label": "CPP-Kristall-Arthritis (Pseudogicht)"
     },
     {
-      "diagnosisId": "D.rotatorCuffTendinitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Tendinitis der Rotatorenmanschette"

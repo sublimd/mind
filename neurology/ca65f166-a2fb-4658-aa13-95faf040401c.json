@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit, Nackenschmerzen, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Palpitationen, Tachykardien, Schwellung der Unterschenkel, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Myokarditis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Fieber, Gliederschmerzen, Nackensteifigkeit, Nackenschmerzen, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Eisenmangelanämie",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.infectiousMononucleosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit, Nackenschmerzen, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
       "isCorrect": false,
       "label": "Infektiöse Mononukleose",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteViralMeningitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute virale Meningitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackenschmerzen, Hörminderung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1",

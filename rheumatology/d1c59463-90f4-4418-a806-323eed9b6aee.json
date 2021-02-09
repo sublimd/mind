@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.systemicLupusErythematodes",
       "explanation": "<ul><li><i>Rheumatoide Arthritis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Nachtschweiss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Systemischer Lupus erythematodes</i> erhöhen würden: Hautveränderungen, Thoraxschmerzen, Dyspnoe, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Systemischer Lupus erythematodes",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.goutyArthritis",
       "explanation": "<ul><li><i>Gichtarthritis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Müdigkeit, Nachtschweiss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gichtarthritis</i> erhöhen würden: Fussschwellung, Knieschwellung, Handschwellung, Schwellung des Ellbogens, Fussrötung, Knierötung</li></ul>",
       "isCorrect": false,
       "label": "Gichtarthritis",
       "references": {}
     },
     {
-      "diagnosisId": "D.reactiveArthritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Müdigkeit, Nachtschweiss, Fieber</li></ul>",
       "isCorrect": false,
       "label": "Reaktive Arthritis",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.tenosynovitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Knieschmerzen, Müdigkeit, Nachtschweiss</li></ul>",
       "isCorrect": false,
       "label": "Tendosynovitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.rheumatoidArthritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Rheumatoide Arthritis",

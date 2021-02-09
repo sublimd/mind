@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lumbarVertebralSyndrome",
       "explanation": "<ul></ul>",
       "isCorrect": false,
       "label": "Lumbovertebrales Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.ankylosingSpondilitis",
       "explanation": "<ul><li><i>Lumbospondylogenes Syndrom</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Spondylitis ankylosans</i> erhöhen würden: Gelenkschmerzen, Fussgelenksschmerzen, Ellbogenschmerzen, Knieschmerzen, Fussschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Spondylitis ankylosans",
@@ -19,14 +17,12 @@
       }
     },
     {
-      "diagnosisId": "D.lumbarSpondylogenicSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Lumbospondylogenes Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.hipOsteoarthritis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Coxarthrose</i> erhöhen würden: Hüftsteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Coxarthrose",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.menopause",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Menstruationsbeschwerden, Ausbleiben der Periode, Wärmeintoleranz, Nachtschweiss, Schlafstörungen, Probleme beim Geschlechtsverkehr, vaginaler Juckreiz</li></ul>",
       "isCorrect": false,
       "label": "Klimakterisches Syndrom",

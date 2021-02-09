@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.rhythmogenicSyncope",
       "explanation": "",
       "isCorrect": true,
       "label": "Rhythmogene Synkope"
     },
     {
-      "diagnosisId": "D.hyponatremia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyponatriämie"
     },
     {
-      "diagnosisId": "D.complexFocalEpilepticSeizure",
       "explanation": "",
       "isCorrect": false,
       "label": "Komplex fokaler epileptischer Anfall"
     },
     {
-      "diagnosisId": "D.vasovagalSyncope",
       "explanation": "",
       "isCorrect": false,
       "label": "Vasovagale Synkope"
     },
     {
-      "diagnosisId": "D.concussion",
       "explanation": "",
       "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cardiogenicSyncope",
       "explanation": "",
       "isCorrect": false,
       "label": "Kardiogene Synkope"
     },
     {
-      "diagnosisId": "D.ulcerativeColitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Colitis ulcerosa"
     },
     {
-      "diagnosisId": "D.goiter",
       "explanation": "",
       "isCorrect": false,
       "label": "Struma"
     },
     {
-      "diagnosisId": "D.primaryAdrenalInsufficiency",
       "explanation": "",
       "isCorrect": false,
       "label": "Primäre Nebennierenrindeninsuffizienz (M. Addison)"
     },
     {
-      "diagnosisId": "D.hypopituitarism",
       "explanation": "",
       "isCorrect": true,
       "label": "Hypophysenvorderlappen-Insuffizienz"

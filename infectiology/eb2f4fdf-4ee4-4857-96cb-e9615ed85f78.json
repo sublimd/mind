@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Typhus abdominalis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.tickborneEncephalitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Q Fieber</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Frühsommer-Meningoencephalitis (FSME)",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.malaria",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Malaria</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Malaria",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteLaryngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Q Fieber</i> besser erklärt sind: Kopfschmerzen, Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Akute Laryngitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.qFever",
       "explanation": "",
       "isCorrect": true,
       "label": "Q Fieber",

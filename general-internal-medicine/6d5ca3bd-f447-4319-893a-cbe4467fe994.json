@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.diabeticKetoacidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Diabetische Ketoazidose"
     },
     {
-      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperosmolare hyperglykämische Entgleisung"
     },
     {
-      "diagnosisId": "D.shellfishPoisoning",
       "explanation": "",
       "isCorrect": true,
       "label": "Muschelvergiftung"
     },
     {
-      "diagnosisId": "D.comaDiabeticum",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperglykämisches Koma"
     },
     {
-      "diagnosisId": "D.cerebralMetastasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hirnmetastasen"

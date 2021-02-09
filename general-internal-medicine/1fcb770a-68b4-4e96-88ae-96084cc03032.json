@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "Harnwegsinfekt"
     },
     {
-      "diagnosisId": "D.caudaEquinaSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Cauda-equina-Syndrom"
     },
     {
-      "diagnosisId": "D.overactiveBladder",
       "explanation": "",
       "isCorrect": false,
       "label": "Überaktive Blase"
     },
     {
-      "diagnosisId": "D.uterineProlapse",
       "explanation": "",
       "isCorrect": true,
       "label": "Uterusprolaps"
     },
     {
-      "diagnosisId": "D.transverseMyelitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Transverse Myelitis"

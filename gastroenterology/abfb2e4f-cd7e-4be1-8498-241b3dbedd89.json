@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.gallBladderPerforation",
       "explanation": "<ul><li><i>Cholangitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Cholangitis</i> besser erklärt sind: Verwirrtheit</li></ul>",
       "isCorrect": false,
       "label": "Gallenblasenperforation",
       "references": {}
     },
     {
-      "diagnosisId": "D.alcoholicLiverDisease",
       "explanation": "<ul><li>Probleme, welche durch <i>Cholangitis</i> besser erklärt sind: Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Alkoholische Steatohepatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Alkoholische Steatohepatitis",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "<ul><li>Probleme, welche durch <i>Cholangitis</i> besser erklärt sind: Ikterus, Verwirrtheit</li></ul>",
       "isCorrect": false,
       "label": "Urolithiasis",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.erysipelas",
       "explanation": "<ul><li>Probleme, welche durch <i>Cholangitis</i> besser erklärt sind: Ikterus, Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Schwellung der Beine, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Erysipel",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.cholangitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Cholangitis",

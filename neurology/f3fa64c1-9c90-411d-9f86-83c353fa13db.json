@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.concussion",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Amnesie, Bewusstseinsverlust, Synkope, Somnolenz, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Kürzliches Schädeltrauma</li></ul>",
       "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypoglykemia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Tremor, Hyperhidrose, Nachtschweiss</li></ul>",
       "isCorrect": false,
       "label": "Hypoglykämie",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.transientIschemicAttack",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Transitorische ischämische Attacke (TIA)",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.anaphylacticReaction",
       "explanation": "<ul><li>Probleme, welche durch <i>Hypertensive Enzephalopathie</i> besser erklärt sind: Sehstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktische Reaktion</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
       "isCorrect": false,
       "label": "Anaphylaktische Reaktion",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypertensiveEncephalopathy",
       "explanation": "",
       "isCorrect": true,
       "label": "Hypertensive Enzephalopathie",

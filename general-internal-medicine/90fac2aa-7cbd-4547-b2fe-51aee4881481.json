@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.intestinalObstruction",
       "explanation": "",
       "isCorrect": false,
       "label": "Mechanischer Ileus"
     },
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Divertikulitis"
     },
     {
-      "diagnosisId": "D.corpusLutealCyst",
       "explanation": "",
       "isCorrect": true,
       "label": "Corpus luteum Zyste"
     },
     {
-      "diagnosisId": "D.pneumatosisCystoidesIntestinalis",
       "explanation": "",
       "isCorrect": false,
       "label": "Pneumatosis cystoides intestinalis"
     },
     {
-      "diagnosisId": "D.collagenousColitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Kollagene Kolitis"

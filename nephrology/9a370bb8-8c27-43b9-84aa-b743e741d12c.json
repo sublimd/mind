@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteHepatitisB",
       "explanation": "<ul><li>Symptome, welche durch <i>Chronische tubulointerstitielle Nephritis</i> besser erklärt sind: Oligurie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Akute Hepatitis B-Infektion</i> erhöhen würden: Bauchschmerzen, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
       "isCorrect": false,
       "label": "Akute Hepatitis B-Infektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteHepatitisA",
       "explanation": "<ul><li>Symptome, welche durch <i>Chronische tubulointerstitielle Nephritis</i> besser erklärt sind: Oligurie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Bauchschmerzen, Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Akute Hepatitis A-Infektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.liverCirrhosis",
       "explanation": "<ul><li>Symptome, welche durch <i>Chronische tubulointerstitielle Nephritis</i> besser erklärt sind: Oligurie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Gewichtsverlust, Appetitverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Leberzirrhose",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicKidneyDisease",
       "explanation": "<ul><li>Symptome, welche durch <i>Chronische tubulointerstitielle Nephritis</i> besser erklärt sind: Oligurie</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Chronische Niereninsuffizienz</i> erhöhen würden: Schwellung der Unterschenkel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Niereninsuffizienz</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Chronische Niereninsuffizienz",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicTubulointerstitialNephritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Chronische tubulointerstitielle Nephritis",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.autonomousThyroidNodules",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperthyreose bei Schilddrüsenautonomie"
     },
     {
-      "diagnosisId": "D.lues",
       "explanation": "",
       "isCorrect": false,
       "label": "Lues"
     },
     {
-      "diagnosisId": "D.chronicLymphaticLeukemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronische lymphatische Leukämie"
     },
     {
-      "diagnosisId": "D.rhabdomyosarcoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Rhabdomyosarkom"
     },
     {
-      "diagnosisId": "D.nonHodgkinLymphoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Non-Hodgkin Lymphom"

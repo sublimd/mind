@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hyperthyroidism",
       "explanation": "<ul><li>Probleme, welche durch <i>Achalasie</i> besser erklärt sind: Thoraxschmerzen, retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
       "isCorrect": false,
       "label": "Hyperthyreose",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.corPulmonale",
       "explanation": "<ul><li>Probleme, welche durch <i>Achalasie</i> besser erklärt sind: Dysphagie</li></ul>",
       "isCorrect": false,
       "label": "Cor pulmonale",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.achalasia",
       "explanation": "",
       "isCorrect": true,
       "label": "Achalasie",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.alcoholUseDisorder",
       "explanation": "<ul><li>Probleme, welche durch <i>Achalasie</i> besser erklärt sind: Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Alkoholüberkonsum</i> erhöhen würden: Schlafstörungen, erhöhter Blutdruck, Angstzustände, depressive Stimmung</li></ul>",
       "isCorrect": false,
       "label": "Alkoholüberkonsum",
       "references": {}
     },
     {
-      "diagnosisId": "D.pharyngealCancer",
       "explanation": "<ul><li><i>Pharynxkarzinom</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Achalasie</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pharynxkarzinom</i> erhöhen würden: vergrösserter Lymphknoten, Halsschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pharynxkarzinom</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Pharynxkarzinom",

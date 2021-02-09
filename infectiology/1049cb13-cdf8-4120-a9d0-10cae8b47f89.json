@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.brainAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Hirnabszess"
     },
     {
-      "diagnosisId": "D.epiduralEmpyema",
       "explanation": "",
       "isCorrect": false,
       "label": "Epiduraler Abszess"
     },
     {
-      "diagnosisId": "D.leptospirosisStage2",
       "explanation": "",
       "isCorrect": true,
       "label": "Leptospirose Stadium II"
     },
     {
-      "diagnosisId": "D.influenza",
       "explanation": "",
       "isCorrect": false,
       "label": "Influenza"
     },
     {
-      "diagnosisId": "D.leptospirosisStage1",
       "explanation": "",
       "isCorrect": false,
       "label": "Leptospirose Stadium I"

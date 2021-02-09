@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.malignantNeoplasmOfStomach",
       "explanation": "<ul><li>Symptome, welche durch <i>Oesophagusdivertikel</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Magenkarzinom</i> erhöhen würden: Bauchschmerzen, retrosternales Brennen, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Magenkarzinom</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Magenkarzinom",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.esophagealDiverticulum",
       "explanation": "",
       "isCorrect": true,
       "label": "Oesophagusdivertikel",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.hyperthyroidism",
       "explanation": "<ul><li>Symptome, welche durch <i>Oesophagusdivertikel</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
       "isCorrect": false,
       "label": "Hyperthyreose",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.gravesDisease",
       "explanation": "<ul><li>Symptome, welche durch <i>Oesophagusdivertikel</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
       "isCorrect": false,
       "label": "Morbus Basedow",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfThyroidGland",
       "explanation": "<ul><li>Symptome, welche durch <i>Oesophagusdivertikel</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Schilddrüsenkarzinom</i> erhöhen würden: Halsschwellung,  Dysphonie, Husten, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Schilddrüsenkarzinom",

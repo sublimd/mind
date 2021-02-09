@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pharyngealCancer",
       "explanation": "",
       "isCorrect": false,
       "label": "Pharynxkarzinom"
     },
     {
-      "diagnosisId": "D.acuteTubularNecrosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Tubulusnekrose"
     },
     {
-      "diagnosisId": "D.bacterialEndocarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Bakterielle Endokarditis"
     },
     {
-      "diagnosisId": "D.alportSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Alport Syndrom"
     },
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokarditis"

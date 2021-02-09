@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.viralConjunctivitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteBlepharitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Blepharitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.allergicRhinoconjunctivitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Rhinokonjunktivitis</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Niesen</li></ul>",
       "isCorrect": false,
       "label": "Allergische Rhinokonjunktivitis",
@@ -26,14 +23,12 @@
       }
     },
     {
-      "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Allergische Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.foreignBodyInConjunctiva",
       "explanation": "<ul><li>Probleme, welche durch <i>Allergische Konjunktivitis</i> besser erklärt sind: Lidschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Konjunktivaler Fremdkörper</i> erhöhen würden: Fremdkörpergefühl im Auge</li></ul>",
       "isCorrect": false,
       "label": "Konjunktivaler Fremdkörper",

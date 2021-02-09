@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pseudomembranousColitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Pseudomembranöse Kolitis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.irritableBowelSyndrome",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colon irritabile</i> erhöhen würden: Blähungen</li></ul>",
       "isCorrect": false,
       "label": "Colon irritabile",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.lactoseIntolerance",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Laktoseintoleranz</i> erhöhen würden: Blähungen</li></ul>",
       "isCorrect": false,
       "label": "Laktoseintoleranz",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.ischemicColitis",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ischämische Kolitis</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Ischämische Kolitis",

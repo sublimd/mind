@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Bekannte arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Hypertensiver Notfall",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.syndromeOfInappropriateAntidiureticHormoneSecretion",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Syndrom der inadäquaten ADH-Sekretion (SIADH)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.extrasystoles",
       "explanation": "",
       "isCorrect": false,
       "label": "Extrasystolen",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.orthostaticDysregulation",
       "explanation": "",
       "isCorrect": true,
       "label": "Orthostatische Dysregulation",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Kopfschmerzen, Photophobie, Phonophobie</li></ul>",
       "isCorrect": false,
       "label": "Migräne",

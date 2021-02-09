@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.liverCirrhosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Polycythämia vera</i> besser erklärt sind: Nachtschweiss, Kopfschmerzen, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Leberzirrhose",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicMyeloidLeukemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Polycythämia vera</i> besser erklärt sind: Kopfschmerzen, Schwindel, Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Nikotinabusus</li></ul>",
       "isCorrect": false,
       "label": "Chronische myeloische Leukämie",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.temporalArteritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Polycythämia vera</i> besser erklärt sind: Schwindel, Bauchschmerzen, Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Arteriitis temporalis</i> erhöhen würden: Fieber</li></ul>",
       "isCorrect": false,
       "label": "Arteriitis temporalis",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.polycythemiaVera",
       "explanation": "",
       "isCorrect": true,
       "label": "Polycythämia vera",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicHepatitisB",
       "explanation": "<ul><li>Probleme, welche durch <i>Polycythämia vera</i> besser erklärt sind: Nachtschweiss, Kopfschmerzen, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Nausea, Erbrechen, Appetitverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit, mehrere Sexualpartner, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
       "isCorrect": false,
       "label": "Chronische Hepatitis B-Infektion",

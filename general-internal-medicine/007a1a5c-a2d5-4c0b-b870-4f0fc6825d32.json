@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.dystonia",
       "explanation": "",
       "isCorrect": false,
       "label": "Dystonie"
     },
     {
-      "diagnosisId": "D.vertebralArteryDissection",
       "explanation": "",
       "isCorrect": true,
       "label": "Dissektion der Arteria vertebralis"
     },
     {
-      "diagnosisId": "D.clavicleContusion",
       "explanation": "",
       "isCorrect": false,
       "label": "Kontusion der Clavicula"
     },
     {
-      "diagnosisId": "D.retropharyngealAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Retropharyngealabszess"
     },
     {
-      "diagnosisId": "D.cervicalSpinalStenosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Zervikale Spinalkanalstenose"

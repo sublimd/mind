@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.folliculitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Follikulitis"
     },
     {
-      "diagnosisId": "D.lentigoSimplex",
       "explanation": "",
       "isCorrect": false,
       "label": "Lentigo simplex"
     },
     {
-      "diagnosisId": "D.molluscumContagiosumInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "Molluscum contagiosum Infektion"
     },
     {
-      "diagnosisId": "D.anaphylacticReaction",
       "explanation": "",
       "isCorrect": false,
       "label": "Anaphylaktische Reaktion"
     },
     {
-      "diagnosisId": "D.stomatitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Stomatitis"

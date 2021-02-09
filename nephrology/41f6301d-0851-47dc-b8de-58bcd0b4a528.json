@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.epididymitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Epididymitis"
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "Harnwegsinfekt"
     },
     {
-      "diagnosisId": "D.acuteProstatitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Prostatitis"
     },
     {
-      "diagnosisId": "D.hemorrhagicCystitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hämorrhagische Zystitis"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfProstate",
       "explanation": "",
       "isCorrect": false,
       "label": "Prostatakarzinom"

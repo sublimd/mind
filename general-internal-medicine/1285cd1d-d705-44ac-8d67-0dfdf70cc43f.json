@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Eisenmangelanämie"
     },
     {
-      "diagnosisId": "D.hashimotoThyroiditis",
       "explanation": "",
       "isCorrect": true,
       "label": "Hashimoto Thyreoditis"
     },
     {
-      "diagnosisId": "D.hypercalcemiaOfMalignancy",
       "explanation": "",
       "isCorrect": false,
       "label": "Tumorhyperkalzämie"
     },
     {
-      "diagnosisId": "D.hyperkalemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperkaliämie"
     },
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypokaliämie"

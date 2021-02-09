@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.tularemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Tularämie"
     },
     {
-      "diagnosisId": "D.pediculosisCapitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Pediculosis capitis"
     },
     {
-      "diagnosisId": "D.foodIntoxication",
       "explanation": "",
       "isCorrect": false,
       "label": "Nahrungsmittelvergiftung"
     },
     {
-      "diagnosisId": "D.roseolaInfantum",
       "explanation": "",
       "isCorrect": false,
       "label": "Roseola infantum (Exanthema subitum)"
     },
     {
-      "diagnosisId": "D.kikuchisDisease",
       "explanation": "",
       "isCorrect": true,
       "label": "Kikuchi-Fujimoto-Syndrom"

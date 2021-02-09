@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pulmonaryTuberculosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungentuberkulose"
     },
     {
-      "diagnosisId": "D.acuteHypersensitivityPneumonitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Exogen-allergische Alveolitis (akut)"
     },
     {
-      "diagnosisId": "D.superiorVenaCavaSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)"
     },
     {
-      "diagnosisId": "D.pulmonaryFibrosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Lungenfibrose"
     },
     {
-      "diagnosisId": "D.granulomatosisWithPolyangiitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Granulomatose mit Polyangiitis"

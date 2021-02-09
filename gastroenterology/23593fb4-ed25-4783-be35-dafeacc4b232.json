@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.chronicHepatitisB",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
       "isCorrect": false,
       "label": "Chronische Hepatitis B-Infektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.alcoholicLiverDisease",
       "explanation": "",
       "isCorrect": true,
       "label": "Alkoholische Steatohepatitis",
@@ -19,21 +17,18 @@
       }
     },
     {
-      "diagnosisId": "D.acuteHepatitisB",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Hepatitis B-Infektion</i> erhöhen würden: Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen, Konsum von intravenösen Drogen, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
       "isCorrect": false,
       "label": "Akute Hepatitis B-Infektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteHepatitisC",
       "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis B-Infektion</i> erhöhen würden: Bluttransfusionen, Konsum von intravenösen Drogen, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
       "isCorrect": false,
       "label": "Akute Hepatitis C-Infektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.choledocholithiasis",
       "explanation": "<ul><li>Probleme, welche durch <i>Alkoholische Steatohepatitis</i> besser erklärt sind: Müdigkeit, Fieber</li></ul>",
       "isCorrect": false,
       "label": "Choledocholithiasis",

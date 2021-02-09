@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.urethralStricture",
       "explanation": "",
       "isCorrect": false,
       "label": "Urethrastriktur"
     },
     {
-      "diagnosisId": "D.benignProstaticHyperplasia",
       "explanation": "",
       "isCorrect": false,
       "label": "Prostatahyperplasie"
     },
     {
-      "diagnosisId": "D.urolithiasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Urolithiasis"
     },
     {
-      "diagnosisId": "D.chlamydialUrethritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Chlamydien Urethritis"
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "Harnwegsinfekt"

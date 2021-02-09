@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.carpalTunnelSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Karpaltunnelsyndrom"
     },
     {
-      "diagnosisId": "D.perniciousAnemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Perniziöse Anämie"
     },
     {
-      "diagnosisId": "D.hyperparathyroidism",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperparathyroidismus"
     },
     {
-      "diagnosisId": "D.respiratoryAcidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Respiratorische Azidose"
     },
     {
-      "diagnosisId": "D.lacticAcidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Laktatazidose"

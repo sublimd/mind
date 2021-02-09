@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.dengueFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Zerebrale Malaria</i> besser erklärt sind: Krampfanfall</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Dengue Fieber",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.heatStroke",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hitzschlag</i> erhöhen würden: Hyperhidrose, Verwirrtheit, Muskelkrämpfe, Ataxie, Schwindel, Hautveränderungen</li></ul>",
       "isCorrect": false,
       "label": "Hitzschlag",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.brainAbscess",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirnabszess</i> erhöhen würden: Somnolenz, Bewusstseinsverlust, Verwirrtheit, Nackenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Hirnabszess",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.chikungunyaFever",
       "explanation": "<ul><li>Probleme, welche durch <i>Zerebrale Malaria</i> besser erklärt sind: Krampfanfall</li></ul>",
       "isCorrect": false,
       "label": "Chikungunya Fieber",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.cerebralMalaria",
       "explanation": "",
       "isCorrect": true,
       "label": "Zerebrale Malaria",

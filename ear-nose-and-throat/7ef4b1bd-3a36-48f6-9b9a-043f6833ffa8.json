@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.granulomatosisWithPolyangiitis",
       "explanation": "<ul><li><i>Fremdkörper in der Nase</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Granulomatose mit Polyangiitis</i> erhöhen würden: Husten, Hämoptoe, Dyspnoe, Fieber</li></ul>",
       "isCorrect": false,
       "label": "Granulomatose mit Polyangiitis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypochondriasis",
       "explanation": "<ul><li>Probleme, welche durch <i>Fremdkörper in der Nase</i> besser erklärt sind: Rhinorrhoe</li></ul>",
       "isCorrect": false,
       "label": "Hypochondrie",
@@ -23,14 +21,12 @@
       }
     },
     {
-      "diagnosisId": "D.intranasalForeignBody",
       "explanation": "",
       "isCorrect": true,
       "label": "Fremdkörper in der Nase",
       "references": {}
     },
     {
-      "diagnosisId": "D.anaphylacticShock",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktischer Schock</i> erhöhen würden: niedrige Blutdruckwerte, Tachykardien, Schwindel, Hautveränderungen, Pruritus, Hautschwellung, Nausea, Erbrechen, Bauchschmerzen, Diarrhoe, Synkope, Bewusstseinsverlust</li></ul>",
       "isCorrect": false,
       "label": "Anaphylaktischer Schock",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicRhinoSinusitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische Rhinosinusitis</i> erhöhen würden: Kopfschmerzen, Gesichtsschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Chronische Rhinosinusitis",

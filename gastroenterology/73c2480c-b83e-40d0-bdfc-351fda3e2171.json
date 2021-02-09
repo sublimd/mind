@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteHepatitisA",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Hepatitis A-Infektion"
     },
     {
-      "diagnosisId": "D.acuteHepatitisC",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Hepatitis C-Infektion"
     },
     {
-      "diagnosisId": "D.chronicHypersensitivityPneumonitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Exogen-allergische Alveolitis (chronisch)"
     },
     {
-      "diagnosisId": "D.pulmonaryFibrosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenfibrose"
     },
     {
-      "diagnosisId": "D.gilbertsSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "M. Meulengracht"

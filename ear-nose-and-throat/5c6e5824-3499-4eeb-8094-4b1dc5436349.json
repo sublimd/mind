@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pharyngealCancer",
       "explanation": "",
       "isCorrect": false,
       "label": "Pharynxkarzinom"
     },
     {
-      "diagnosisId": "D.laryngealCancer",
       "explanation": "",
       "isCorrect": true,
       "label": "Larynxkarzinom"
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Pharyngitis"
     },
     {
-      "diagnosisId": "D.acuteLaryngitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Laryngitis"
     },
     {
-      "diagnosisId": "D.peritonsillarAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Peritonsillarabszess"

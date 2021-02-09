@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.malignantNeoplasmOfStomach",
       "explanation": "",
       "isCorrect": true,
       "label": "Magenkarzinom"
     },
     {
-      "diagnosisId": "D.duodenalUlcer",
       "explanation": "<ul><li>Symptome, welche durch <i>Magenkarzinom</i> besser erklärt sind: Blähungen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Ulcus duodeni</i> erhöhen würden: Nausea, Erbrechen, Appetitverlust, Hämatemesis</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ulcus duodeni</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Ulcus duodeni"
     },
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "<ul><li>Symptome, welche durch <i>Magenkarzinom</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie"
     },
     {
-      "diagnosisId": "D.coprostasis",
       "explanation": "<ul><li>Symptome, welche durch <i>Magenkarzinom</i> besser erklärt sind: Gewichtsverlust</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Koprostase</i> erhöhen würden: Obstipation, Nausea, Appetitverlust</li></ul>",
       "isCorrect": false,
       "label": "Koprostase"
     },
     {
-      "diagnosisId": "D.chronicPancreatitis",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Chronische Pankreatitis</i> erhöhen würden: Diarrhoe, Steatorrhoe, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Pankreatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Chronische Pankreatitis"

@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.atrioventricularBlockThirdDegree",
       "explanation": "<ul><li>Probleme, welche durch <i>Chronische Niereninsuffizienz</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Block III°</i> erhöhen würden: Schwindel, Palpitationen, Bradykardien</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>AV-Block III°</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "AV-Block III°",
       "references": {}
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "<ul><li><i>Eisenmangelanämie</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Chronische Niereninsuffizienz</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Eisenmangelanämie",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.buddChiariSyndrome",
       "explanation": "<ul><li><i>Chronische Niereninsuffizienz</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Budd-Chiari-Syndrom</i> erhöhen würden: Ikterus, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Budd-Chiari-Syndrom",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicKidneyDisease",
       "explanation": "",
       "isCorrect": true,
       "label": "Chronische Niereninsuffizienz",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Chronische Niereninsuffizienz</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pseudomembranousColitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Pseudomembranöse Kolitis"
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
       "explanation": "",
       "isCorrect": false,
       "label": "Ambulant erworbene Pneumonie"
     },
     {
-      "diagnosisId": "D.ulcerativeColitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Colitis ulcerosa"
     },
     {
-      "diagnosisId": "D.lactoseIntolerance",
       "explanation": "",
       "isCorrect": false,
       "label": "Laktoseintoleranz"
     },
     {
-      "diagnosisId": "D.irritableBowelSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Colon irritabile"

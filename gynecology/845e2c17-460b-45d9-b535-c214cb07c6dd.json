@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.tuboOvarianAbscess",
       "explanation": "",
       "isCorrect": true,
       "label": "Tuboovarialabszess"
     },
     {
-      "diagnosisId": "D.endometrialCarcinoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Endometriumkarzinom"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfOvary",
       "explanation": "",
       "isCorrect": false,
       "label": "Ovarialkarzinom"
     },
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Divertikulitis"
     },
     {
-      "diagnosisId": "D.hydrosalpinx",
       "explanation": "",
       "isCorrect": false,
       "label": "Hydrosalpinx"

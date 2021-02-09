@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.seminomaOfTestis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hodenkarzinom (Seminom)",
@@ -15,7 +14,6 @@
       }
     },
     {
-      "diagnosisId": "D.testicularTorsion",
       "explanation": "",
       "isCorrect": true,
       "label": "Hodentorsion",
@@ -29,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.testicularVaricocele",
       "explanation": "",
       "isCorrect": false,
       "label": "Varicocele testis",
@@ -39,7 +36,6 @@
       }
     },
     {
-      "diagnosisId": "D.spermatocele",
       "explanation": "",
       "isCorrect": false,
       "label": "Spermatozele",
@@ -53,7 +49,6 @@
       }
     },
     {
-      "diagnosisId": "D.nonseminomaOfTestis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hodenkarzinom (Non-Seminom)",

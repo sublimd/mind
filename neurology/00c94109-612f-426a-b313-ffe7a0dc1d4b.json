@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.transientIschemicAttack",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhte Blutdruckwerte, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Transitorische ischämische Attacke (TIA)",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: Bewusstseinsverlust, erhöhte Blutdruckwerte</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie</li></ul>",
       "isCorrect": false,
       "label": "Migräne",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.cerebralMetastasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hirnmetastasen",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.intracerebralHemorrhage",
       "explanation": "",
       "isCorrect": true,
       "label": "Intrazerebrale Blutung",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.concussion",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhte Blutdruckwerte, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Amnesie</li></ul>",
       "isCorrect": false,
       "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",

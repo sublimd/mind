@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.primaryAdrenalInsufficiency",
       "explanation": "",
       "isCorrect": false,
       "label": "Primäre Nebennierenrindeninsuffizienz (M. Addison)"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfOvary",
       "explanation": "",
       "isCorrect": false,
       "label": "Ovarialkarzinom"
     },
     {
-      "diagnosisId": "D.pregnancy",
       "explanation": "",
       "isCorrect": true,
       "label": "Schwangerschaft"
     },
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Pelvic Inflammatory Disease"
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "",
       "isCorrect": false,
       "label": "Cushing Syndrom"

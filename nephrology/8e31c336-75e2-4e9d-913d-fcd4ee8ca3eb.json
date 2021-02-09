@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.orthostaticDysregulation",
       "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Orthostatische Dysregulation</i> erhöhen würden: Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Orthostatische Dysregulation",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
       "isCorrect": false,
       "label": "Hypokaliämie",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.renalInfarction",
       "explanation": "",
       "isCorrect": true,
       "label": "Niereninfarkt",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
       "isCorrect": false,
       "label": "Nierenkarzinom",

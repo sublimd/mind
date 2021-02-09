@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Hyperkalzämie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.colorectalCancer",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kolonkarzinom</i> erhöhen würden: Hämatochezie, Meläna, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Kolonkarzinom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperkalzämie</i> besser erklärt sind: Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Kopfschmerzen, Photophobie, Phonophobie</li></ul>",
       "isCorrect": false,
       "label": "Migräne",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.viralGastroenteritis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Gastroenteritis</i> erhöhen würden: Diarrhoe</li></ul>",
       "isCorrect": false,
       "label": "Virale Gastroenteritis",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.analAbscess",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Analabszess</i> erhöhen würden: anale Schmerzen, vergrösserte Lymphknoten</li></ul>",
       "isCorrect": false,
       "label": "Analabszess",

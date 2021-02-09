@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cyclicalVomitingSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Syndrom des zyklischen Erbrechens"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfOesophagus",
       "explanation": "",
       "isCorrect": false,
       "label": "Oesophaguskarzinom"
     },
     {
-      "diagnosisId": "D.esophagealPerforation",
       "explanation": "",
       "isCorrect": false,
       "label": "Oesophagusperforation"
     },
     {
-      "diagnosisId": "D.alcoholIntoxication",
       "explanation": "",
       "isCorrect": false,
       "label": "Alkohol-Intoxikation"
     },
     {
-      "diagnosisId": "D.eosinophilicEsophagitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Eosinophile Ösophagitis"

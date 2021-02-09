@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege"
     },
     {
-      "diagnosisId": "D.panarteritisNodosa",
       "explanation": "",
       "isCorrect": false,
       "label": "Panarteriitis nodosa"
     },
     {
-      "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
       "explanation": "",
       "isCorrect": false,
       "label": "Anämie im Rahmen chronischer Erkrankung"
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Eisenmangelanämie"
     },
     {
-      "diagnosisId": "D.obstructiveSleepApneaSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Obstruktives Schlafapnoesyndrom (OSAS)"

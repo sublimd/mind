@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Lidschwellung</li></ul>",
       "isCorrect": false,
       "label": "Hordeolum",
@@ -12,28 +11,24 @@
       }
     },
     {
-      "diagnosisId": "D.bacterialKeratitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute bakterielle Keratitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Juckreiz im Auge, Lidschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Bekannte Allergien</li></ul>",
       "isCorrect": false,
       "label": "Allergische Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.foreignBodyInConjunctiva",
       "explanation": "",
       "isCorrect": false,
       "label": "Konjunktivaler Fremdkörper",
       "references": {}
     },
     {
-      "diagnosisId": "D.bacterialConjunctivitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute bakterielle Keratitis</i> besser erklärt sind: Fremdkörpergefühl im Auge</li></ul>",
       "isCorrect": false,
       "label": "Akute bakterielle Konjunktivitis",

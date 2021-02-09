@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteTracheitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Tracheitis"
     },
     {
-      "diagnosisId": "D.eosinophilicGranulomatosisWithPolyangiitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Eosinophile Granulomatose mit Polyangiitis (EGPA)"
     },
     {
-      "diagnosisId": "D.influenza",
       "explanation": "",
       "isCorrect": false,
       "label": "Influenza"
     },
     {
-      "diagnosisId": "D.nocardiosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Nokardiose"
     },
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sarkoidose"

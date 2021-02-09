@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.analSkinTags",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Marisken</i> erhöhen würden: analer Juckreiz</li></ul>",
       "isCorrect": false,
       "label": "Marisken"
     },
     {
-      "diagnosisId": "D.rectocele",
       "explanation": "<ul><li>Symptome, welche durch <i>Perianalthrombose</i> besser erklärt sind: anale Schmerzen</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Rektozele</i> erhöhen würden: Rückenschmerzen, Stuhlinkontinenz</li></ul>",
       "isCorrect": false,
       "label": "Rektozele"
     },
     {
-      "diagnosisId": "D.proctitis",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Diarrhoe, Hämatochezie, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Proktitis"
     },
     {
-      "diagnosisId": "D.analCancer",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Hämatochezie, analer Juckreiz</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Nikotinabusus</li></ul>",
       "isCorrect": false,
       "label": "Analkarzinom"
     },
     {
-      "diagnosisId": "D.perianalVeinThrombosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Perianalthrombose"

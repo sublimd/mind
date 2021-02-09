@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Eisenmangelanämie"
     },
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypertensiver Notfall"
     },
     {
-      "diagnosisId": "D.superiorVenaCavaSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)"
     },
     {
-      "diagnosisId": "D.leftSidedHeartFailure",
       "explanation": "",
       "isCorrect": false,
       "label": "Linksherzinsuffizienz"
     },
     {
-      "diagnosisId": "D.pleuralEffusion",
       "explanation": "",
       "isCorrect": false,
       "label": "Pleuraerguss"

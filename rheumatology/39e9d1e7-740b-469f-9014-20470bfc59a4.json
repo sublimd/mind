@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.dystonia",
       "explanation": "<ul><li><i>Nackenschmerzen (Myalgie)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie, Sehstörungen</li></ul>",
       "isCorrect": false,
       "label": "Dystonie",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.clavicleContusion",
       "explanation": "<ul><li><i>Nackenschmerzen (Myalgie)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kontusion der Clavicula</i> erhöhen würden: Schulterschmerzen, Hautschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Kontusion der Clavicula</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "Kontusion der Clavicula",
       "references": {}
     },
     {
-      "diagnosisId": "D.thoracicOutletSyndrome",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thoracic Outlet Syndrome (TOS)</i> erhöhen würden: Schulterschmerzen, Armschmerzen, Sensibilitätsstörungen, Muskelschwäche</li></ul>",
       "isCorrect": false,
       "label": "Thoracic Outlet Syndrome (TOS)",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.cervicalSpineSprain",
       "explanation": "",
       "isCorrect": true,
       "label": "Nackenschmerzen (Myalgie)",
       "references": {}
     },
     {
-      "diagnosisId": "D.acromioclavicularJointDislocation",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AC-Gelenksluxation</i> erhöhen würden: Schulterschmerzen, Hautschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>AC-Gelenksluxation</i> erhöhen würden: Kürzliches Trauma</li></ul>",
       "isCorrect": false,
       "label": "AC-Gelenksluxation",

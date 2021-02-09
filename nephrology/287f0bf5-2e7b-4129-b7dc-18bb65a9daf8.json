@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "<ul><li><i>Harnwegsinfekt</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Obstruktive Uropathie (Harnstau)</i> besser erklärt sind: Flankenschmerzen, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Harnwegsinfekt",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteKidneyInjury",
       "explanation": "<ul><li>Probleme, welche durch <i>Obstruktive Uropathie (Harnstau)</i> besser erklärt sind: Dysurie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Schwellung der Unterschenkel, Oligurie, Polyurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Akute Nierenschädigung",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.rhabdomyolysis",
       "explanation": "<ul><li>Probleme, welche durch <i>Obstruktive Uropathie (Harnstau)</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rhabdomyolyse</i> erhöhen würden: Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Rhabdomyolyse",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.orchitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Obstruktive Uropathie (Harnstau)</i> besser erklärt sind: Flankenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Orchitis</i> erhöhen würden: Hodenschmerzen, Leistenschmerzen, Schwellung oder Vergrösserung des Hodens, Fieber, Schüttelfrost</li></ul>",
       "isCorrect": false,
       "label": "Orchitis",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.obstructiveUropathy",
       "explanation": "",
       "isCorrect": true,
       "label": "Obstruktive Uropathie (Harnstau)",

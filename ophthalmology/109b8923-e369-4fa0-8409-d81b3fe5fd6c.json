@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.diabeticKetoacidosis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Diabetische Ketoazidose</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Bauchschmerzen, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Diabetische Ketoazidose</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Diabetische Ketoazidose",
       "references": {}
     },
     {
-      "diagnosisId": "D.viralConjunctivitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Konjunktivitis</i> erhöhen würden: Augenrötung, Ausfluss aus dem Auge, Juckreiz im Auge, Fieber</li></ul>",
       "isCorrect": false,
       "label": "Virale Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypertensiveRetinopathy",
       "explanation": "",
       "isCorrect": true,
       "label": "Hypertensive Retinopathie",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Augenschmerzen, Augenschwellung, Augenrötung, Ausfluss aus dem Auge, Fieber</li></ul>",
       "isCorrect": false,
       "label": "Hordeolum",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Sarkoidose",

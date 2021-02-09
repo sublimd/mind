@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": false,
       "label": "Makrozytäre Anämie"
     },
     {
-      "diagnosisId": "D.acutePericarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Perikarditis"
     },
     {
-      "diagnosisId": "D.sickleCellCrisis",
       "explanation": "",
       "isCorrect": true,
       "label": "Sichelzellkrise"
     },
     {
-      "diagnosisId": "D.thalassemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Thalassämie"
     },
     {
-      "diagnosisId": "D.rheumatoidArthritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Rheumatoide Arthritis"

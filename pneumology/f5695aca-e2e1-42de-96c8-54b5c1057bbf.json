@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Pharyngitis"
     },
     {
-      "diagnosisId": "D.pulmonaryEmbolism",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenembolie"
     },
     {
-      "diagnosisId": "D.acuteHypersensitivityPneumonitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Exogen-allergische Alveolitis (akut)"
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "",
       "isCorrect": true,
       "label": "Ambulant erworbene atypische Pneumonie"
     },
     {
-      "diagnosisId": "D.bronchiectasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Bronchiektasen"

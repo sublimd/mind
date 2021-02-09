@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.celiacDisease",
       "explanation": "",
       "isCorrect": true,
       "label": "Zöliakie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.chronicPancreatitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Zöliakie</i> besser erklärt sind: Blähungen, Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische Pankreatitis</i> erhöhen würden: Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Pankreatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Chronische Pankreatitis",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.foodAllergy",
       "explanation": "<ul><li>Probleme, welche durch <i>Zöliakie</i> besser erklärt sind: Müdigkeit, Steatorrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, Hypotonie</li></ul>",
       "isCorrect": false,
       "label": "Nahrungsmittelallergie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.premenstrualSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Zöliakie</i> besser erklärt sind: Steatorrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: Depressive Stimmung, Angstzustände</li></ul>",
       "isCorrect": false,
       "label": "Prämenstruelles Syndrom",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.lactoseIntolerance",
       "explanation": "<ul><li>Probleme, welche durch <i>Zöliakie</i> besser erklärt sind: Müdigkeit, Steatorrhoe</li></ul>",
       "isCorrect": false,
       "label": "Laktoseintoleranz",

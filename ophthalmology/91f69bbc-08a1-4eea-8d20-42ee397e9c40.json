@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.myopia",
       "explanation": "",
       "isCorrect": true,
       "label": "Myopie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.prolactinoma",
       "explanation": "<ul><li><i>Myopie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prolaktinom</i> erhöhen würden: Kopfschmerzen, erektile Dysfunktion</li></ul>",
       "isCorrect": false,
       "label": "Prolaktinom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.keratoconus",
       "explanation": "<ul><li><i>Myopie</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Keratokonus",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.generalizedEpilepticSeizure",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Generalisierter epileptischer Anfall</i> erhöhen würden: Krampfanfall, Bewusstseinsverlust, Synkope, Verwirrtheit</li></ul>",
       "isCorrect": false,
       "label": "Generalisierter epileptischer Anfall",
       "references": {}
     },
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sarkoidose</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Sarkoidose",

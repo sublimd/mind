@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.entropion",
       "explanation": "<ul><li>Probleme, welche durch <i>Akutes Winkelblockglaukom</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Entropium</i> erhöhen würden: Fremdkörpergefühl im Auge, Übermässiger Tränenfluss, Ausfluss aus dem Auge, Augentrockenheit</li></ul>",
       "isCorrect": false,
       "label": "Entropium",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteAngleClosureGlaucoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Akutes Winkelblockglaukom",
       "references": {}
     },
     {
-      "diagnosisId": "D.orthostaticDysregulation",
       "explanation": "<ul><li>Probleme, welche durch <i>Akutes Winkelblockglaukom</i> besser erklärt sind: Augenschmerzen, Augenrötung</li></ul>",
       "isCorrect": false,
       "label": "Orthostatische Dysregulation",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.ectropion",
       "explanation": "<ul><li>Probleme, welche durch <i>Akutes Winkelblockglaukom</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ektropium</i> erhöhen würden: Fremdkörpergefühl im Auge, Übermässiger Tränenfluss, Ausfluss aus dem Auge, Augentrockenheit</li></ul>",
       "isCorrect": false,
       "label": "Ektropium",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "<ul><li>Probleme, welche durch <i>Akutes Winkelblockglaukom</i> besser erklärt sind: Augenrötung, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Schwellung des Augenlides, Rötung des Augenlides</li></ul>",
       "isCorrect": false,
       "label": "Hordeolum",

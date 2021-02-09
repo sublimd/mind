@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.vertebralFracture",
       "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Wirbelkörperfraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, kein Auslöser</li></ul>",
       "isCorrect": false,
       "label": "Wirbelkörperfraktur",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.myelodysplasticSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Myelodysplastisches Syndrom",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypercalcemiaOfMalignancy",
       "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tumorhyperkalzämie</i> erhöhen würden: Muskelschwäche, Nausea, Erbrechen, Obstipation, Polyurie, vermehrtes Durstgefühl</li></ul>",
       "isCorrect": false,
       "label": "Tumorhyperkalzämie",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.multipleMyeloma",
       "explanation": "",
       "isCorrect": true,
       "label": "Multiples Myelom",

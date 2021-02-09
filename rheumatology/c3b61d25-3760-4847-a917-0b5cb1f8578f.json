@@ -1,28 +1,24 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cardiogenicSyncope",
       "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kardiogene Synkope</i> erhöhen würden: Synkope, Bewusstseinsverlust, Palpitationen, Tachykardien, Bradykardien, Hypotonie, Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Kardiogene Synkope</i> erhöhen würden: Diabetes mellitus, Plötzlicher Todesfall in der Familie</li></ul>",
       "isCorrect": false,
       "label": "Kardiogene Synkope",
       "references": {}
     },
     {
-      "diagnosisId": "D.musculoskelettalChestPain",
       "explanation": "",
       "isCorrect": true,
       "label": "Muskuloskelettale Thoraxschmerzen",
       "references": {}
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Husten, Dyspnoe, Kopfschmerzen, Ohrenschmerzen, Halsschmerzen, Gelenkschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",
       "references": {}
     },
     {
-      "diagnosisId": "D.herpesZoster",
       "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes zoster</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Herpes zoster</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Herpes zoster",
@@ -33,7 +29,6 @@
       }
     },
     {
-      "diagnosisId": "D.esophagealDiverticulum",
       "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Oesophagusdivertikel</i> erhöhen würden: Dysphagie, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Oesophagusdivertikel",

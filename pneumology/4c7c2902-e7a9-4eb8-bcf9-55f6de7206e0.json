@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": false,
       "label": "Makrozytäre Anämie"
     },
     {
-      "diagnosisId": "D.centralSleepApneaSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Zentrales Schlafapnoesyndrom"
     },
     {
-      "diagnosisId": "D.leftSidedHeartFailure",
       "explanation": "",
       "isCorrect": false,
       "label": "Linksherzinsuffizienz"
     },
     {
-      "diagnosisId": "D.ironDeficiencyAnemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Eisenmangelanämie"
     },
     {
-      "diagnosisId": "D.obstructiveSleepApneaSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Obstruktives Schlafapnoesyndrom (OSAS)"

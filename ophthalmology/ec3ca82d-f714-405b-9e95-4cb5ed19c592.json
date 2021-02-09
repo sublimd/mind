@@ -1,35 +1,30 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypermetropia",
       "explanation": "<ul><li>Probleme, welche durch <i>Katarakt</i> besser erklärt sind: Photophobie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypermetropie</i> erhöhen würden: Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Hypermetropie",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypertensiveRetinopathy",
       "explanation": "<ul><li>Probleme, welche durch <i>Katarakt</i> besser erklärt sind: Photophobie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Retinopathie</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
       "isCorrect": false,
       "label": "Hypertensive Retinopathie",
       "references": {}
     },
     {
-      "diagnosisId": "D.tickborneEncephalitis",
       "explanation": "<ul><li><i>Katarakt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Frühsommer-Meningoencephalitis (FSME)</i> erhöhen würden: Kopfschmerzen, Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Fieber, Gliederschmerzen, Gelenkschmerzen, Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
       "isCorrect": false,
       "label": "Frühsommer-Meningoencephalitis (FSME)",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteBacterialMeningitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Meningitis</i> erhöhen würden: Nackensteifigkeit, Fieber, Verwirrtheit, Amnesie, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Akute bakterielle Meningitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.cataract",
       "explanation": "",
       "isCorrect": true,
       "label": "Katarakt",

@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Hautveränderungen, Gelenkschmerzen, Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1",
       "references": {}
     },
     {
-      "diagnosisId": "D.multipleMyeloma",
       "explanation": "",
       "isCorrect": true,
       "label": "Multiples Myelom",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.pulmonaryEmphysema",
       "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lungenemphysem</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
       "isCorrect": false,
       "label": "Lungenemphysem",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.menopause",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Wärmeintoleranz, Nachtschweiss, Schlafstörungen</li></ul>",
       "isCorrect": false,
       "label": "Klimakterisches Syndrom",
       "references": {}
     },
     {
-      "diagnosisId": "D.chronicMyeloidLeukemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Multiples Myelom</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Nachtschweiss, Fieber</li></ul>",
       "isCorrect": false,
       "label": "Chronische myeloische Leukämie",

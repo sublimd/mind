@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.ulcerativeColitis",
       "explanation": "<ul><li><i>Hämorrhoiden</i> ist häufiger</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Diarrhoe, Bauchschmerzen, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Colitis ulcerosa"
     },
     {
-      "diagnosisId": "D.proctitis",
       "explanation": "<ul><li><i>Hämorrhoiden</i> sind häufiger</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Diarrhoe, anale Schmerzen, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Proktitis"
     },
     {
-      "diagnosisId": "D.diverticularBleeding",
       "explanation": "<ul><li><i>Hämorrhoiden</i> sind häufiger</li></ul>",
       "isCorrect": false,
       "label": "Divertikelblutung"
     },
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Akute Divertikulitis</i> erhöhen würden: Bauchschmerzen, Nausea, Erbrechen, Fieber, Diarrhoe</li></ul>",
       "isCorrect": false,
       "label": "Akute Divertikulitis"
     },
     {
-      "diagnosisId": "D.hemorrhoids",
       "explanation": "",
       "isCorrect": true,
       "label": "Hämorrhoiden"

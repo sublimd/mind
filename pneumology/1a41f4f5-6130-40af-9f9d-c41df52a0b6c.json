@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.foreignBodyAspiration",
       "explanation": "",
       "isCorrect": false,
       "label": "Fremdkörper-Aspiration"
     },
     {
-      "diagnosisId": "D.aorticInsufficiency",
       "explanation": "",
       "isCorrect": false,
       "label": "Aortenklappen-Insuffizienz"
     },
     {
-      "diagnosisId": "D.sarcoidosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Sarkoidose"
     },
     {
-      "diagnosisId": "D.foreignBodyAtelectasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Atelektase durch Fremdkörper"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfLung",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenkarzinom"

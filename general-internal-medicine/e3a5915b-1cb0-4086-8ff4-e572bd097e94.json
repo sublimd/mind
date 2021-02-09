@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.polycysticKidneyDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Polyzystische Nierenerkrankung (PKD)"
     },
     {
-      "diagnosisId": "D.renalArteryStenosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Nierenarterienstenose"
     },
     {
-      "diagnosisId": "D.pheochromocytoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Phäochromozytom"
     },
     {
-      "diagnosisId": "D.essentialHypertension",
       "explanation": "",
       "isCorrect": true,
       "label": "Essentielle Hypertonie"
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "",
       "isCorrect": false,
       "label": "Cushing Syndrom"

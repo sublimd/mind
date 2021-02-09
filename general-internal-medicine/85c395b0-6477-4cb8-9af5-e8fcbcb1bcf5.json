@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.polycysticKidneyDisease",
       "explanation": "",
       "isCorrect": true,
       "label": "Polyzystische Nierenerkrankung (PKD)"
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "",
       "isCorrect": false,
       "label": "Nierenkarzinom"
     },
     {
-      "diagnosisId": "D.angiomyolipoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Angiomyolipom"
     },
     {
-      "diagnosisId": "D.wilmsTumor",
       "explanation": "",
       "isCorrect": false,
       "label": "Wilms-Tumor"
     },
     {
-      "diagnosisId": "D.placentalAbruption",
       "explanation": "",
       "isCorrect": false,
       "label": "Abruptio placentae"

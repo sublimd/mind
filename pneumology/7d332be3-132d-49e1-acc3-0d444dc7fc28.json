@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen, Gelenkschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie"
     },
     {
-      "diagnosisId": "D.acuteAsthma",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Exazerbation eines Asthma bronchiale"
     },
     {
-      "diagnosisId": "D.goiter",
       "explanation": "<ul><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Struma</i> erhöhen würden: Halsschwellung</li></ul>",
       "isCorrect": false,
       "label": "Struma"
     },
     {
-      "diagnosisId": "D.mitralValveStenosis",
       "explanation": "<ul><li><i>Akute Exazerbation eines Asthma bronchiale</i> ist häufiger</li></ul>",
       "isCorrect": false,
       "label": "Mitralklappen-Stenose"
     },
     {
-      "diagnosisId": "D.interstitialLungDisease",
       "explanation": "<ul><li><i>Akute Exazerbation eines Asthma bronchiale</i> ist häufiger</li></ul>",
       "isCorrect": false,
       "label": "Interstitielle Lungenerkrankung"

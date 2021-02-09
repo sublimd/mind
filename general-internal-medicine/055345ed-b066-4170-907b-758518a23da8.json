@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acutePericarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Perikarditis"
     },
     {
-      "diagnosisId": "D.metabolicAlkalosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Metabolische Alkalose"
     },
     {
-      "diagnosisId": "D.hyperparathyroidism",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperparathyroidismus"
     },
     {
-      "diagnosisId": "D.hypocalcemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypokalzämie"
     },
     {
-      "diagnosisId": "D.rightSidedHeartFailure",
       "explanation": "",
       "isCorrect": false,
       "label": "Rechtsherzinsuffizienz"

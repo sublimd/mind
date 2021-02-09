@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.malignantNeoplasmOfKidney",
       "explanation": "<ul><li><i>Prostatahyperplasie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Prostatahyperplasie</i> besser erklärt sind: Urininkontinenz</li></ul>",
       "isCorrect": false,
       "label": "Nierenkarzinom",
       "references": {}
     },
     {
-      "diagnosisId": "D.benignProstaticHyperplasia",
       "explanation": "",
       "isCorrect": true,
       "label": "Prostatahyperplasie",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.obstructiveUropathy",
       "explanation": "<ul><li><i>Prostatahyperplasie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Obstruktive Uropathie (Harnstau)</i> erhöhen würden: Flankenschmerzen, Bauchschmerzen, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Obstruktive Uropathie (Harnstau)",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.malignantNeoplasmOfProstate",
       "explanation": "<ul><li><i>Prostatahyperplasie</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Prostatakarzinom",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.urinaryTractInfection",
       "explanation": "<ul><li><i>Harnwegsinfekt</i> kommt häufiger bei weiblichen Patienten vor</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Harnwegsinfekt",

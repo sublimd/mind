@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
       "explanation": "<ul><li>Probleme, welche durch <i>Agranulozytose</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Odynophagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Dyspnoe, Thoraxschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene Pneumonie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.agranulocytosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Agranulozytose",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Agranulozytose</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Dyspnoe, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
       "references": {}
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Agranulozytose</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Virale Pharyngitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gliederschmerzen, Hautveränderungen, Kopfschmerzen, vergrösserte Lymphknoten, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen, Konsum von intravenösen Drogen, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
       "isCorrect": false,
       "label": "HIV-Primoinfektion",

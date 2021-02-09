@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.thalassemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Thalassämie"
     },
     {
-      "diagnosisId": "D.orthostaticDysregulation",
       "explanation": "",
       "isCorrect": true,
       "label": "Orthostatische Dysregulation"
     },
     {
-      "diagnosisId": "D.hypoglykemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypoglykämie"
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "",
       "isCorrect": false,
       "label": "Migräne"
     },
     {
-      "diagnosisId": "D.acuteGeneralizedAnxietyDisorder",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute generalisierte Angststörung"

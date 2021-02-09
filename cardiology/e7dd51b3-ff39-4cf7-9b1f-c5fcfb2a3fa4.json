@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pulmonaryHypertension",
       "explanation": "",
       "isCorrect": false,
       "label": "Pulmonale Hypertonie"
     },
     {
-      "diagnosisId": "D.tricuspidalValveInsufficiency",
       "explanation": "",
       "isCorrect": false,
       "label": "Trikuspidalklappen-Insuffizienz"
     },
     {
-      "diagnosisId": "D.corPulmonale",
       "explanation": "",
       "isCorrect": true,
       "label": "Cor pulmonale"
     },
     {
-      "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
       "explanation": "",
       "isCorrect": false,
       "label": "AV-Block II°, Mobitz II"
     },
     {
-      "diagnosisId": "D.aorticInsufficiency",
       "explanation": "",
       "isCorrect": false,
       "label": "Aortenklappen-Insuffizienz"

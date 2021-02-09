@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.copdExacerbation",
       "explanation": "<ul><li>Probleme, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Schwindel</li></ul>",
       "isCorrect": false,
       "label": "COPD Exazerbation",
       "references": {}
     },
     {
-      "diagnosisId": "D.superiorVenaCavaSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Vena-cava-superior-Syndrom (Obere Einflussstauung)",
       "references": {}
     },
     {
-      "diagnosisId": "D.pneumothorax",
       "explanation": "<ul><li>Probleme, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Kopfschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Pneumothorax",
@@ -26,14 +23,12 @@
       }
     },
     {
-      "diagnosisId": "D.acuteAsthma",
       "explanation": "<ul><li>Probleme, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Hautschwellung, Schwindel</li></ul>",
       "isCorrect": false,
       "label": "Akute Exazerbation eines Asthma bronchiale",
       "references": {}
     },
     {
-      "diagnosisId": "D.preeclampsia",
       "explanation": "<ul><li>Probleme, welche durch <i>Vena-cava-superior-Syndrom (Obere Einflussstauung)</i> besser erklärt sind: Husten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Präeklampsie</i> erhöhen würden: erhöhter Blutdruck, Gewichtszunahme, Sehstörungen, Bauchschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Präeklampsie</i> erhöhen würden: Schwangerschaft</li></ul>",
       "isCorrect": false,
       "label": "Präeklampsie",

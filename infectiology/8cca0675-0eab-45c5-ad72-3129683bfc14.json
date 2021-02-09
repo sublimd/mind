@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "<ul><li>Probleme, welche durch <i>Lyme Borreliose Stadium 1</i> besser erklärt sind: Gliederschmerzen, Nackensteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Bauchschmerzen, Nausea, Erbrechen, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hepatotoxizität",
       "references": {}
     },
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Lyme Borreliose Stadium 1</i> besser erklärt sind: Hautveränderungen, Nackensteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Obstipation, Palpitationen, Tachykardien</li></ul>",
       "isCorrect": false,
       "label": "Hypokaliämie",
@@ -19,21 +17,18 @@
       }
     },
     {
-      "diagnosisId": "D.acuteHepatitisA",
       "explanation": "<ul><li>Probleme, welche durch <i>Lyme Borreliose Stadium 1</i> besser erklärt sind: Gliederschmerzen, Nackensteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Bauchschmerzen, Nausea, Erbrechen, Fieber, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Akute Hepatitis A-Infektion",
       "references": {}
     },
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "",
       "isCorrect": true,
       "label": "Lyme Borreliose Stadium 1",
       "references": {}
     },
     {
-      "diagnosisId": "D.dermatomyositis",
       "explanation": "<ul><li><i>Lyme Borreliose Stadium 1</i> tritt statistisch häufiger auf</li><li><i>Dermatomyositis</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Lyme Borreliose Stadium 1</i> besser erklärt sind: Nackensteifigkeit, Appetitverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dermatomyositis</i> erhöhen würden: Muskelschwäche</li></ul>",
       "isCorrect": false,
       "label": "Dermatomyositis",

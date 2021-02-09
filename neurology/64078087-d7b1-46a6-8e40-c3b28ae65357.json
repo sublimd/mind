@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.reactiveArthritis",
       "explanation": "<ul><li><i>Polyneuropathie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Polyneuropathie</i> besser erklärt sind: Sensibilitätsstörungen</li></ul>",
       "isCorrect": false,
       "label": "Reaktive Arthritis",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.raynaudsDisease",
       "explanation": "<ul><li><i>Polyneuropathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Raynaud-Syndrom</i> erhöhen würden: Handrötung</li></ul>",
       "isCorrect": false,
       "label": "Raynaud-Syndrom",
@@ -23,14 +21,12 @@
       }
     },
     {
-      "diagnosisId": "D.goutyArthritis",
       "explanation": "<ul><li><i>Gichtarthritis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Polyneuropathie</i> besser erklärt sind: Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gichtarthritis</i> erhöhen würden: Fussrötung, Handrötung</li></ul>",
       "isCorrect": false,
       "label": "Gichtarthritis",
       "references": {}
     },
     {
-      "diagnosisId": "D.septicArthritis",
       "explanation": "<ul><li><i>Polyneuropathie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Polyneuropathie</i> besser erklärt sind: Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Septische Arthritis</i> erhöhen würden: Handrötung, Fussrötung, Fieber, Schüttelfrost</li></ul>",
       "isCorrect": false,
       "label": "Septische Arthritis",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.polyneuropathy",
       "explanation": "",
       "isCorrect": true,
       "label": "Polyneuropathie",

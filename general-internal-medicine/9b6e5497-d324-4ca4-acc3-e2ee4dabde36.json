@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hepatitisD",
       "explanation": "",
       "isCorrect": false,
       "label": "Hepatitis D"
     },
     {
-      "diagnosisId": "D.yellowFever",
       "explanation": "",
       "isCorrect": false,
       "label": "Gelbfieber"
     },
     {
-      "diagnosisId": "D.dubinJohnsonSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Dubin-Johnson-Syndrom"
     },
     {
-      "diagnosisId": "D.gilbertsSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "M. Meulengracht"
     },
     {
-      "diagnosisId": "D.buddChiariSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Budd-Chiari-Syndrom"

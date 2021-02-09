@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie, Nikotinabusus</li></ul>",
       "isCorrect": false,
       "label": "Hypertensiver Notfall",
@@ -12,21 +11,18 @@
       }
     },
     {
-      "diagnosisId": "D.nonproliferativeDiabeticRetinopathy",
       "explanation": "",
       "isCorrect": true,
       "label": "Nichtproliferative diabetische Retinopathie",
       "references": {}
     },
     {
-      "diagnosisId": "D.allergicConjunctivitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Augenrötung, Ausfluss aus dem Auge, Juckreiz im Auge, Augenschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Allergien auf Umweltfaktoren</li></ul>",
       "isCorrect": false,
       "label": "Allergische Konjunktivitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.gravesDisease",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Gewichtsverlust, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
       "isCorrect": false,
       "label": "Morbus Basedow",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.dystonia",
       "explanation": "<ul><li><i>Nichtproliferative diabetische Retinopathie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie, Nackenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Dystonie",

@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.streptococcalTonsillitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Rhinosinusitis</i> besser erklärt sind: Nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Streptokokkentonsillitis</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie</li></ul>",
       "isCorrect": false,
       "label": "Streptokokkentonsillitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteRhinoSinusitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Rhinosinusitis",
@@ -19,21 +17,18 @@
       }
     },
     {
-      "diagnosisId": "D.upperAirwayInfection",
       "explanation": "<ul><li>Probleme, welche durch <i>Akute Rhinosinusitis</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Halsschmerzen, Odynophagie, Dyspnoe, Gliederschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Viraler Infekt der oberen Atemwege",
       "references": {}
     },
     {
-      "diagnosisId": "D.chronicRhinoSinusitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronische Rhinosinusitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.influenza",
       "explanation": "<ul><li><i>Akute Rhinosinusitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Akute Rhinosinusitis</i> besser erklärt sind: Nasale Obstruktion</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Gliederschmerzen, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Influenza",

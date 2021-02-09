@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.atelectasis",
       "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atelektase</i> erhöhen würden: Dyspnoe, Husten</li></ul>",
       "isCorrect": false,
       "label": "Atelektase",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteCoronarySyndrome",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Dyspnoe, Nausea, Erbrechen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Myokardinfarkt</i> erhöhen würden: Nikotinabusus, Arterielle Hypertonie, Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Myokardinfarkt",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithTypicalBacteria",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Husten, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene Pneumonie",
@@ -34,14 +31,12 @@
       }
     },
     {
-      "diagnosisId": "D.musculoskelettalChestPain",
       "explanation": "",
       "isCorrect": true,
       "label": "Muskuloskelettale Thoraxschmerzen",
       "references": {}
     },
     {
-      "diagnosisId": "D.preeclampsia",
       "explanation": "<ul><li><i>Muskuloskelettale Thoraxschmerzen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Präeklampsie</i> erhöhen würden: erhöhter Blutdruck, Schwellung der Unterschenkel, Gewichtszunahme, Kopfschmerzen, Sehstörungen, Bauchschmerzen, Schwindel, Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Präeklampsie</i> erhöhen würden: Schwangerschaft</li></ul>",
       "isCorrect": false,
       "label": "Präeklampsie",

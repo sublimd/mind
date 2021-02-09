@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hordeolum",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Augenschmerzen, Augenschwellung, Augenrötung, Ausfluss aus dem Auge, Fieber</li></ul>",
       "isCorrect": false,
       "label": "Hordeolum",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.dystonia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dystonie</i> erhöhen würden: Muskelkrämpfe, Dysphagie</li></ul>",
       "isCorrect": false,
       "label": "Dystonie",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhter Blutdruck, Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie, Nikotinabusus</li></ul>",
       "isCorrect": false,
       "label": "Hypertensiver Notfall",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.keratoconus",
       "explanation": "",
       "isCorrect": true,
       "label": "Keratokonus",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.gravesDisease",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Wärmeintoleranz, Hyperhidrose, Nachtschweiss, Gewichtsverlust, Palpitationen, Tachykardien, Dyspnoe, Tremor, Diarrhoe, Schlafstörungen, innere Anspannung</li></ul>",
       "isCorrect": false,
       "label": "Morbus Basedow",

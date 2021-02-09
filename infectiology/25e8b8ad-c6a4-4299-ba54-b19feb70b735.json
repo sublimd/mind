@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.measles",
       "explanation": "",
       "isCorrect": true,
       "label": "Masern",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.tularemia",
       "explanation": "<ul><li><i>Masern</i> ist häufiger</li><li>Symptome, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Augenrötung</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Tularämie</i> erhöhen würden: Appetitverlust, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Tularämie",
@@ -23,21 +21,18 @@
       }
     },
     {
-      "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "<ul><li>Symptome, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Augenrötung</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Bauchschmerzen, Appetitverlust, Gewichtsverlust, Nausea, Erbrechen, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hepatotoxizität",
       "references": {}
     },
     {
-      "diagnosisId": "D.leptospirosisStage1",
       "explanation": "<ul><li><i>Masern</i> ist häufiger</li><li>Symptome, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Müdigkeit</li><li>Fehlende Symptome, welche die Wahrscheinlichkeit von <i>Leptospirose Stadium I</i> erhöhen würden: Kopfschmerzen, Gliederschmerzen, Husten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leptospirose Stadium I</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Leptospirose Stadium I",
       "references": {}
     },
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "<ul><li>Symptome, welche durch <i>Masern</i> besser erklärt sind: Dysphagie, Augenrötung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Typhus abdominalis",

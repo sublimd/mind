@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.boneMetastasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Knochenmetastasen"
     },
     {
-      "diagnosisId": "D.lumbarSpinalStenosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Lumbale Spinalkanalstenose"
     },
     {
-      "diagnosisId": "D.lumbarVertebralSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Lumbovertebrales Syndrom"
     },
     {
-      "diagnosisId": "D.boneTumor",
       "explanation": "",
       "isCorrect": false,
       "label": "Knochentumor"
     },
     {
-      "diagnosisId": "D.transverseMyelitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Transverse Myelitis"

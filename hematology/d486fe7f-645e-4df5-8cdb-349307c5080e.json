@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.uremia",
       "explanation": "",
       "isCorrect": false,
       "label": "Urämisches Syndrom"
     },
     {
-      "diagnosisId": "D.rheumatoidArthritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Rheumatoide Arthritis"
     },
     {
-      "diagnosisId": "D.bronchiectasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Bronchiektasen"
     },
     {
-      "diagnosisId": "D.acutePericarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Perikarditis"
     },
     {
-      "diagnosisId": "D.primaryMyelofibrosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Primäre Myelofibrose (PMF)"

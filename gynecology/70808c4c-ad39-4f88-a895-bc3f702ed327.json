@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.pregnancy",
       "explanation": "",
       "isCorrect": false,
       "label": "Schwangerschaft"
     },
     {
-      "diagnosisId": "D.uterineMyoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Uterusmyom"
     },
     {
-      "diagnosisId": "D.gonococcalCervicitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Gonokokken-Zervizitis"
     },
     {
-      "diagnosisId": "D.endometrialCarcinoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Endometriumkarzinom"
     },
     {
-      "diagnosisId": "D.pelvicInflammatoryDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Pelvic Inflammatory Disease"

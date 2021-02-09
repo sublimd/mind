@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.rheumatoidArthritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Rheumatoide Arthritis"
     },
     {
-      "diagnosisId": "D.lungAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenabszess"
     },
     {
-      "diagnosisId": "D.acuteMyeloidLeukemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute myeloische Leukämie"
     },
     {
-      "diagnosisId": "D.chronicMyeloidLeukemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Chronische myeloische Leukämie"
     },
     {
-      "diagnosisId": "D.hashimotoThyroiditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hashimoto Thyreoditis"

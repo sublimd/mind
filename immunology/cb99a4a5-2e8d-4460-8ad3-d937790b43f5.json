@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.henochSchonleinPurpura",
       "explanation": "",
       "isCorrect": true,
       "label": "Purpura Schönlein-Henoch"
     },
     {
-      "diagnosisId": "D.chikungunyaFever",
       "explanation": "",
       "isCorrect": false,
       "label": "Chikungunya Fieber"
     },
     {
-      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
       "explanation": "",
       "isCorrect": false,
       "label": "Thrombotisch-thrombozytopenische Purpura (TTP)"
     },
     {
-      "diagnosisId": "D.herpesZoster",
       "explanation": "",
       "isCorrect": false,
       "label": "Herpes zoster"
     },
     {
-      "diagnosisId": "D.hemolyticUremicSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Hämolytisches urämisches Syndrom (HUS)"

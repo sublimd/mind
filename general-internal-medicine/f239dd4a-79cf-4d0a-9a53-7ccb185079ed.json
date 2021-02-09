@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.gastrooesophagealRefluxDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Gastroösophageale Refluxkrankheit"
     },
     {
-      "diagnosisId": "D.mesenterialIschemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Mesenterialinfarkt"
     },
     {
-      "diagnosisId": "D.acuteCoronarySyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokardinfarkt"
     },
     {
-      "diagnosisId": "D.amoebiasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Amöbiasis"
     },
     {
-      "diagnosisId": "D.focalNodularHyperplasia",
       "explanation": "",
       "isCorrect": false,
       "label": "Fokale noduläre Hyperplasie"

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "",
       "isCorrect": false,
       "label": "Migräne"
     },
     {
-      "diagnosisId": "D.transientIschemicAttack",
       "explanation": "",
       "isCorrect": false,
       "label": "Transitorische ischämische Attacke (TIA)"
     },
     {
-      "diagnosisId": "D.wernickesEncephalopathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Wernicke-Enzephalopathie"
     },
     {
-      "diagnosisId": "D.cerebralMetastasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hirnmetastasen"
     },
     {
-      "diagnosisId": "D.amyotrophicLateralSclerosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Amyotrophe Lateralsklerose (ALS)"

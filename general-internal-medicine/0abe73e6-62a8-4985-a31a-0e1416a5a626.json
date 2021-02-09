@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.duodenalUlcer",
       "explanation": "",
       "isCorrect": true,
       "label": "Ulcus duodeni"
     },
     {
-      "diagnosisId": "D.alcoholicLiverDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Alkoholische Steatohepatitis"
     },
     {
-      "diagnosisId": "D.coprostasis",
       "explanation": "",
       "isCorrect": false,
       "label": "Koprostase"
     },
     {
-      "diagnosisId": "D.lacticAcidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Laktatazidose"
     },
     {
-      "diagnosisId": "D.acutePancreatitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Pankreatitis"

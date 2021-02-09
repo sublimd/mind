@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
       "explanation": "",
       "isCorrect": true,
       "label": "Anämie im Rahmen chronischer Erkrankung",
       "references": {}
     },
     {
-      "diagnosisId": "D.bicuspidAorticValve",
       "explanation": "<ul><li><i>Anämie im Rahmen chronischer Erkrankung</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Bikuspide Aortenklappe",
@@ -19,14 +17,12 @@
       }
     },
     {
-      "diagnosisId": "D.drugInducedLiverInjury",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Bauchschmerzen, Appetitverlust, Gewichtsverlust, Nausea, Erbrechen, Ikterus, Pruritus</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
       "isCorrect": false,
       "label": "Medikamenteninduzierte Hepatotoxizität",
       "references": {}
     },
     {
-      "diagnosisId": "D.gilbertsSyndrome",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Meulengracht</i> erhöhen würden: Ikterus</li></ul>",
       "isCorrect": false,
       "label": "M. Meulengracht",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.herpesLabialis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes labialis</i> erhöhen würden: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Herpes labialis</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Herpes labialis",

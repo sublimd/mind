@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.foreignBodyAtelectasis",
       "explanation": "",
       "isCorrect": true,
       "label": "Atelektase durch Fremdkörper"
     },
     {
-      "diagnosisId": "D.vocalCordDysfunctionSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Vocal Cord Dysfunction (VCD)"
     },
     {
-      "diagnosisId": "D.cardiomyopathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Kardiomyopathie"
     },
     {
-      "diagnosisId": "D.silicosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Silikose"
     },
     {
-      "diagnosisId": "D.influenza",
       "explanation": "",
       "isCorrect": false,
       "label": "Influenza"

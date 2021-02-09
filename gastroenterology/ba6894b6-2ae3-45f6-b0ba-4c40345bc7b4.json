@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteProstatitis",
       "explanation": "<ul><li><i>Akute Prostatitis</i> kommt häufiger bei männlichen Patienten vor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Prostatitis</i> erhöhen würden: Dysurie, Pollakisurie, Urininkontinenz, Fieber, Schüttelfrost, Hämaturie</li></ul>",
       "isCorrect": false,
       "label": "Akute Prostatitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.analFissures",
       "explanation": "<ul></ul>",
       "isCorrect": false,
       "label": "Analfissur",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.perianalVeinThrombosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Perianalthrombose",
@@ -30,14 +27,12 @@
       }
     },
     {
-      "diagnosisId": "D.proctitis",
       "explanation": "<ul><li><i>Perianalthrombose</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Diarrhoe, Bauchschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Proktitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.analCancer",
       "explanation": "<ul><li><i>Perianalthrombose</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: analer Juckreiz</li></ul>",
       "isCorrect": false,
       "label": "Analkarzinom",

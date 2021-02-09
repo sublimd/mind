@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.myocarditis",
       "explanation": "",
       "isCorrect": false,
       "label": "Myokarditis"
     },
     {
-      "diagnosisId": "D.hivPrimoInfection",
       "explanation": "",
       "isCorrect": false,
       "label": "HIV-Primoinfektion"
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie"
     },
     {
-      "diagnosisId": "D.epidemicParotitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Parotitis epidemica (Mumps)"
     },
     {
-      "diagnosisId": "D.streptococcalTonsillitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Streptokokkentonsillitis"

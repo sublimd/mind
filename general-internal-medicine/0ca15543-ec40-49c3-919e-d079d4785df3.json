@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypertensiveCrisis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypertensiver Notfall"
     },
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "",
       "isCorrect": false,
       "label": "Migräne"
     },
     {
-      "diagnosisId": "D.cholesteatoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Cholesteatom"
     },
     {
-      "diagnosisId": "D.carotidArteryAneurysm",
       "explanation": "",
       "isCorrect": false,
       "label": "Aneurysma der Arteria carotis"
     },
     {
-      "diagnosisId": "D.herpesZosterOticus",
       "explanation": "",
       "isCorrect": true,
       "label": "Zoster oticus"

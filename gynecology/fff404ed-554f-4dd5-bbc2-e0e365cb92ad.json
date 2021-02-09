@@ -1,28 +1,24 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.tuboOvarianAbscess",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tuboovarialabszess</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
       "isCorrect": false,
       "label": "Tuboovarialabszess",
       "references": {}
     },
     {
-      "diagnosisId": "D.chlamydialCervicitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Extrauterine Gravidität (EUG)</i> besser erklärt sind: Bauchschmerzen, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chlamydien-Zervizitis</i> erhöhen würden: vaginaler Ausfluss, Probleme beim Geschlechtsverkehr</li></ul>",
       "isCorrect": false,
       "label": "Chlamydien-Zervizitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteAdnexitis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Adnexitis</i> erhöhen würden: Fieber, Schüttelfrost, vaginaler Ausfluss</li></ul>",
       "isCorrect": false,
       "label": "Akute Adnexitis",
       "references": {}
     },
     {
-      "diagnosisId": "D.ectopicPregnancy",
       "explanation": "",
       "isCorrect": true,
       "label": "Extrauterine Gravidität (EUG)",
@@ -33,7 +29,6 @@
       }
     },
     {
-      "diagnosisId": "D.atrophicVaginitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Extrauterine Gravidität (EUG)</i> besser erklärt sind: Bauchschmerzen, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atrophe Vaginitis</i> erhöhen würden: vaginaler Juckreiz, Probleme beim Geschlechtsverkehr, vaginaler Ausfluss</li></ul>",
       "isCorrect": false,
       "label": "Atrophe Vaginitis",

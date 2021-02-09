@@ -1,35 +1,30 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.mitralValveStenosis",
       "explanation": "<ul><li><i>Akute Exazerbation eines Asthma bronchiale</i> tritt statistisch häufiger auf</li></ul>",
       "isCorrect": false,
       "label": "Mitralklappen-Stenose",
       "references": {}
     },
     {
-      "diagnosisId": "D.vocalCordDysfunctionSyndrome",
       "explanation": "<ul><li><i>Akute Exazerbation eines Asthma bronchiale</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vocal Cord Dysfunction (VCD)</i> erhöhen würden: Dysphonie</li></ul>",
       "isCorrect": false,
       "label": "Vocal Cord Dysfunction (VCD)",
       "references": {}
     },
     {
-      "diagnosisId": "D.acuteAsthma",
       "explanation": "",
       "isCorrect": true,
       "label": "Akute Exazerbation eines Asthma bronchiale",
       "references": {}
     },
     {
-      "diagnosisId": "D.pulmonaryEdema",
       "explanation": "",
       "isCorrect": false,
       "label": "Lungenödem",
       "references": {}
     },
     {
-      "diagnosisId": "D.communityAcquiredPneumoniaWithAtypicalBacteria",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Fieber, Schüttelfrost, Kopfschmerzen, Halsschmerzen, Gelenkschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Ambulant erworbene atypische Pneumonie",

@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1"
     },
     {
-      "diagnosisId": "D.measles",
       "explanation": "",
       "isCorrect": true,
       "label": "Masern"
     },
     {
-      "diagnosisId": "D.lymphangitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Lymphangitis"
     },
     {
-      "diagnosisId": "D.acuteBronchitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Bronchitis"
     },
     {
-      "diagnosisId": "D.viralPharyngitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Virale Pharyngitis"

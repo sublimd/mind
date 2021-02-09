@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.costochondritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Brustzyste</i> besser erklärt sind: Knoten in der Brust, Brustschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Costochondritis (Tietze-Syndrom)",
@@ -12,21 +11,18 @@
       }
     },
     {
-      "diagnosisId": "D.breastAbscess",
       "explanation": "<ul><li>Probleme, welche durch <i>Brustzyste</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Brustabszess</i> erhöhen würden: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Brustabszess</i> erhöhen würden: Nikotinabusus</li></ul>",
       "isCorrect": false,
       "label": "Brustabszess",
       "references": {}
     },
     {
-      "diagnosisId": "D.breastCyst",
       "explanation": "",
       "isCorrect": true,
       "label": "Brustzyste",
       "references": {}
     },
     {
-      "diagnosisId": "D.breastCancer",
       "explanation": "<ul><li>Probleme, welche durch <i>Brustzyste</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mammakarzinom</i> erhöhen würden: vergrösserter Lymphknoten bzw. subkutaner Knoten, Hautveränderung der Brust</li></ul>",
       "isCorrect": false,
       "label": "Mammakarzinom",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.musculoskelettalChestPain",
       "explanation": "<ul><li>Probleme, welche durch <i>Brustzyste</i> besser erklärt sind: Knoten in der Brust, Brustschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Muskuloskelettale Thoraxschmerzen",

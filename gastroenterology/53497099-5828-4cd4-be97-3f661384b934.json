@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteCholecystitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Cholezystitis"
     },
     {
-      "diagnosisId": "D.thyroidStorm",
       "explanation": "",
       "isCorrect": false,
       "label": "Thyreotoxische Krise"
     },
     {
-      "diagnosisId": "D.spontaneousBacterialPeritonitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Spontan bakterielle Peritonitis (SBP)"
     },
     {
-      "diagnosisId": "D.acuteDiverticulitis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Divertikulitis"
     },
     {
-      "diagnosisId": "D.sepsis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sepsis"

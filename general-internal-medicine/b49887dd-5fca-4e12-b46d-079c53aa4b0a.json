@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "",
       "isCorrect": false,
       "label": "Cushing Syndrom"
     },
     {
-      "diagnosisId": "D.chronicTubulointerstitialNephritis",
       "explanation": "",
       "isCorrect": true,
       "label": "Chronische tubulointerstitielle Nephritis"
     },
     {
-      "diagnosisId": "D.acuteTubulointerstitialNephritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute tubulointerstitielle Nephritis"
     },
     {
-      "diagnosisId": "D.diabeticNephropathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Diabetische Nephropathie"
     },
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "",
       "isCorrect": false,
       "label": "Hypokaliämie"

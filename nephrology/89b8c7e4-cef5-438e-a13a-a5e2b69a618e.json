@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hydrocele",
       "explanation": "",
       "isCorrect": false,
       "label": "Hydrozele"
     },
     {
-      "diagnosisId": "D.testicularVaricocele",
       "explanation": "",
       "isCorrect": false,
       "label": "Varicocele testis"
     },
     {
-      "diagnosisId": "D.epididymitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Epididymitis"
     },
     {
-      "diagnosisId": "D.spermatocele",
       "explanation": "",
       "isCorrect": false,
       "label": "Spermatozele"
     },
     {
-      "diagnosisId": "D.nonseminomaOfTestis",
       "explanation": "",
       "isCorrect": false,
       "label": "Hodenkarzinom (Non-Seminom)"

@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hyperparathyroidism",
       "explanation": "",
       "isCorrect": true,
       "label": "Hyperparathyroidismus",
@@ -12,14 +11,12 @@
       }
     },
     {
-      "diagnosisId": "D.anemiaAssociatedWithChronicDiseases",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Anämie im Rahmen chronischer Erkrankung",
       "references": {}
     },
     {
-      "diagnosisId": "D.ulcerativeColitis",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colitis ulcerosa</i> erhöhen würden: Diarrhoe, Bauchschmerzen, Gewichtsverlust</li></ul>",
       "isCorrect": false,
       "label": "Colitis ulcerosa",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
       "isCorrect": false,
       "label": "Makrozytäre Anämie",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.rectocele",
       "explanation": "<ul><li>Probleme, welche durch <i>Hyperparathyroidismus</i> besser erklärt sind: Müdigkeit, Palpitationen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rektozele</i> erhöhen würden: Rückenschmerzen, Stuhlinkontinenz</li></ul>",
       "isCorrect": false,
       "label": "Rektozele",

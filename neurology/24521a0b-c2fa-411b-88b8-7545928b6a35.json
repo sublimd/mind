@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.migraineHeadache",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: Bewusstseinsverlust, erhöhter Blutdruck, Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie</li></ul>",
       "isCorrect": false,
       "label": "Migräne",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.subduralHematoma",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck, Dysarthrie, Dysphagie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Subduralhämatom</i> erhöhen würden: Unfall, Kürzliches Schädeltrauma</li></ul>",
       "isCorrect": false,
       "label": "Subduralhämatom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.intracerebralHemorrhage",
       "explanation": "",
       "isCorrect": true,
       "label": "Intrazerebrale Blutung",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.transientIschemicAttack",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Transitorische ischämische Attacke (TIA)",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.ischemicStroke",
       "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhter Blutdruck</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Diabetes mellitus</li></ul>",
       "isCorrect": false,
       "label": "Ischämischer Schlaganfall",

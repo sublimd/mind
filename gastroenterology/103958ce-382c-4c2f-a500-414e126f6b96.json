@@ -1,21 +1,18 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.bacterialEnteritis",
       "explanation": "<ul><li>Probleme, welche durch <i>Darmpolypen</i> besser erklärt sind: Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Bakterielle Enteritis</i> erhöhen würden: Fieber, Bauchschmerzen, Nausea, Erbrechen</li></ul>",
       "isCorrect": false,
       "label": "Bakterielle Enteritis",
       "references": {}
     },
     {
-      "diagnosisId": "D.bowelPolyps",
       "explanation": "",
       "isCorrect": true,
       "label": "Darmpolypen",
       "references": {}
     },
     {
-      "diagnosisId": "D.perianalVeinThrombosis",
       "explanation": "<ul><li>Probleme, welche durch <i>Darmpolypen</i> besser erklärt sind: Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Perianalthrombose</i> erhöhen würden: anale Schmerzen</li></ul>",
       "isCorrect": false,
       "label": "Perianalthrombose",
@@ -26,7 +23,6 @@
       }
     },
     {
-      "diagnosisId": "D.typhoidFever",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Kürzliche Reisen in tropische Regionen</li></ul>",
       "isCorrect": false,
       "label": "Typhus abdominalis",
@@ -37,7 +33,6 @@
       }
     },
     {
-      "diagnosisId": "D.analCancer",
       "explanation": "<ul><li><i>Darmpolypen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: anale Schmerzen, analer Juckreiz</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
       "isCorrect": false,
       "label": "Analkarzinom",

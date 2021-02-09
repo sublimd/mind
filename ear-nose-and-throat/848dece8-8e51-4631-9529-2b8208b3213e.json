@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.lymeBorreliosisStage1",
       "explanation": "",
       "isCorrect": false,
       "label": "Lyme Borreliose Stadium 1"
     },
     {
-      "diagnosisId": "D.abscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Abszess"
     },
     {
-      "diagnosisId": "D.salivaryGlandCarcinoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Speicheldrüsenkarzinom"
     },
     {
-      "diagnosisId": "D.lipoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Lipom"
     },
     {
-      "diagnosisId": "D.gravesDisease",
       "explanation": "",
       "isCorrect": false,
       "label": "Morbus Basedow"

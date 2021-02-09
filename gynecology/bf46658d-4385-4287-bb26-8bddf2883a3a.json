@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.tuboOvarianAbscess",
       "explanation": "",
       "isCorrect": false,
       "label": "Tuboovarialabszess"
     },
     {
-      "diagnosisId": "D.cervicalCarcinoma",
       "explanation": "",
       "isCorrect": true,
       "label": "Zervixkarzinom"
     },
     {
-      "diagnosisId": "D.uterineMyoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Uterusmyom"
     },
     {
-      "diagnosisId": "D.endometrialCarcinoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Endometriumkarzinom"
     },
     {
-      "diagnosisId": "D.bacterialVaginosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Bakterielle Vaginose"

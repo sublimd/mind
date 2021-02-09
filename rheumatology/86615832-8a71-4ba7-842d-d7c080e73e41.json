@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.takayasuArteritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Takayasu-Arteriitis"
     },
     {
-      "diagnosisId": "D.varicoseVeins",
       "explanation": "",
       "isCorrect": false,
       "label": "Varikosis"
     },
     {
-      "diagnosisId": "D.ankleOsteoarthritis",
       "explanation": "",
       "isCorrect": false,
       "label": "Sprunggelenksarthrose"
     },
     {
-      "diagnosisId": "D.carpalTunnelSyndrome",
       "explanation": "",
       "isCorrect": false,
       "label": "Karpaltunnelsyndrom"
     },
     {
-      "diagnosisId": "D.plantarFasciitis",
       "explanation": "",
       "isCorrect": true,
       "label": "Fasciitis plantaris"

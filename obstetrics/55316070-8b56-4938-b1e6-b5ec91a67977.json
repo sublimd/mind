@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.multipleSclerosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Multiple Sklerose"
     },
     {
-      "diagnosisId": "D.preeclampsia",
       "explanation": "",
       "isCorrect": false,
       "label": "Präeklampsie"
     },
     {
-      "diagnosisId": "D.insulinoma",
       "explanation": "",
       "isCorrect": false,
       "label": "Insulinom"
     },
     {
-      "diagnosisId": "D.cocaineIntoxication",
       "explanation": "",
       "isCorrect": false,
       "label": "Kokain-Intoxikation"
     },
     {
-      "diagnosisId": "D.eclampsia",
       "explanation": "",
       "isCorrect": true,
       "label": "Eklampsie"

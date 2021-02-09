@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.rightSidedHeartFailure",
       "explanation": "",
       "isCorrect": false,
       "label": "Rechtsherzinsuffizienz"
     },
     {
-      "diagnosisId": "D.bicuspidAorticValve",
       "explanation": "",
       "isCorrect": false,
       "label": "Bikuspide Aortenklappe"
     },
     {
-      "diagnosisId": "D.corPulmonale",
       "explanation": "",
       "isCorrect": false,
       "label": "Cor pulmonale"
     },
     {
-      "diagnosisId": "D.atrioventricularBlockSecondDegreeMobitz",
       "explanation": "",
       "isCorrect": false,
       "label": "AV-Block II°, Mobitz II"
     },
     {
-      "diagnosisId": "D.anemiaMacrocytic",
       "explanation": "",
       "isCorrect": true,
       "label": "Makrozytäre Anämie"

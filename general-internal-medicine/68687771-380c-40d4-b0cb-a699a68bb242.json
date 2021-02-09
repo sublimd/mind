@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.cardiogenicSyncope",
       "explanation": "",
       "isCorrect": false,
       "label": "Kardiogene Synkope"
     },
     {
-      "diagnosisId": "D.septicShock",
       "explanation": "",
       "isCorrect": false,
       "label": "Septischer Schock"
     },
     {
-      "diagnosisId": "D.anaphylacticShock",
       "explanation": "",
       "isCorrect": true,
       "label": "Anaphylaktischer Schock"
     },
     {
-      "diagnosisId": "D.takotsuboCardiomyopathy",
       "explanation": "",
       "isCorrect": false,
       "label": "Stress-Kardiomyopathie (Tako-Tsubo-Syndrom)"
     },
     {
-      "diagnosisId": "D.atrialFlutter",
       "explanation": "",
       "isCorrect": false,
       "label": "Vorhofflattern"

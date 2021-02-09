@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.acuteTubularNecrosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute Tubulusnekrose"
     },
     {
-      "diagnosisId": "D.vitaminDIntoxication",
       "explanation": "",
       "isCorrect": false,
       "label": "Vitamin D-Intoxikation"
     },
     {
-      "diagnosisId": "D.diabeticKetoacidosis",
       "explanation": "",
       "isCorrect": false,
       "label": "Diabetische Ketoazidose"
     },
     {
-      "diagnosisId": "D.drugInducedHypercalcemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Medikamenteninduzierte Hyperkalzämie"
     },
     {
-      "diagnosisId": "D.hyperglycemiaHyperosmolarState",
       "explanation": "",
       "isCorrect": false,
       "label": "Hyperosmolare hyperglykämische Entgleisung"

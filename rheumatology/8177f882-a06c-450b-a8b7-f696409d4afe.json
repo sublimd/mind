@@ -1,31 +1,26 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.carotidArteryAneurysm",
       "explanation": "",
       "isCorrect": false,
       "label": "Aneurysma der Arteria carotis"
     },
     {
-      "diagnosisId": "D.whiplashInjury",
       "explanation": "",
       "isCorrect": false,
       "label": "Distorsionstrauma der Halswirbelsäule"
     },
     {
-      "diagnosisId": "D.cervicalSpondylosis",
       "explanation": "",
       "isCorrect": true,
       "label": "Zervikale Spondylose"
     },
     {
-      "diagnosisId": "D.cervicalSpineSprain",
       "explanation": "",
       "isCorrect": false,
       "label": "Nackenschmerzen (Myalgie)"
     },
     {
-      "diagnosisId": "D.spinalCordInfarction",
       "explanation": "",
       "isCorrect": false,
       "label": "Akute spinale Ischämie"

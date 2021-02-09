@@ -1,14 +1,12 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.rupturedAbdominalAorticAneurysm",
       "explanation": "<ul><li><i>Mesenterialinfarkt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rupturiertes abdominales Aortenaneurysma</i> erhöhen würden: Rückenschmerzen, Flankenschmerzen, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Rupturiertes abdominales Aortenaneurysma",
       "references": {}
     },
     {
-      "diagnosisId": "D.mesenterialIschemia",
       "explanation": "",
       "isCorrect": true,
       "label": "Mesenterialinfarkt",
@@ -19,7 +17,6 @@
       }
     },
     {
-      "diagnosisId": "D.nephroticSyndrome",
       "explanation": "<ul><li>Probleme, welche durch <i>Mesenterialinfarkt</i> besser erklärt sind: Bauchschmerzen, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nephrotisches Syndrom</i> erhöhen würden: Schwellung der Unterschenkel, Dysurie</li></ul>",
       "isCorrect": false,
       "label": "Nephrotisches Syndrom",
@@ -30,7 +27,6 @@
       }
     },
     {
-      "diagnosisId": "D.thromboticThrombocytopenicPurpura",
       "explanation": "<ul><li><i>Mesenterialinfarkt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li></ul>",
       "isCorrect": false,
       "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
@@ -41,7 +37,6 @@
       }
     },
     {
-      "diagnosisId": "D.acuteTrypanosomaCruziInfection",
       "explanation": "<ul><li><i>Mesenterialinfarkt</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Mesenterialinfarkt</i> besser erklärt sind: Bauchschmerzen, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Trypanosoma cruzi Infektion (Chagas)</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
       "isCorrect": false,
       "label": "Akute Trypanosoma cruzi Infektion (Chagas)",

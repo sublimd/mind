@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.snoring",
       "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: depressive Verstimmung</li></ul>",
       "isCorrect": false,
       "label": "Schnarchen",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypercortisolism",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhter Blutdruck, Schwellung der Beine, Polyurie, vermehrtes Durstgefühl</li></ul>",
       "isCorrect": false,
       "label": "Cushing Syndrom",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.hepaticEncephalopathy",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Verwirrtheit, Krampfanfall, Angstzustände</li></ul>",
       "isCorrect": false,
       "label": "Hepatische Enzephalopathie",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypercalcemia",
       "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: Schlafstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitverlust, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hyperkalzämie",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.majorDepressiveEpisode",
       "explanation": "",
       "isCorrect": true,
       "label": "Ausgeprägte depressive Episode",

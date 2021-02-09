@@ -1,7 +1,6 @@
 {
   "answers": [
     {
-      "diagnosisId": "D.hypokalemia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gelenkschmerzen, Obstipation</li></ul>",
       "isCorrect": false,
       "label": "Hypokaliämie",
@@ -12,7 +11,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypoglykemia",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Tremor, Hyperhidrose</li></ul>",
       "isCorrect": false,
       "label": "Hypoglykämie",
@@ -23,7 +21,6 @@
       }
     },
     {
-      "diagnosisId": "D.sickSinusSyndrome",
       "explanation": "",
       "isCorrect": true,
       "label": "Sick-Sinus-Syndrom",
@@ -34,7 +31,6 @@
       }
     },
     {
-      "diagnosisId": "D.hypercalcemiaOfMalignancy",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tumorhyperkalzämie</i> erhöhen würden: Muskelschwäche, Obstipation, Polyurie, vermehrtes Durstgefühl</li></ul>",
       "isCorrect": false,
       "label": "Tumorhyperkalzämie",
@@ -45,7 +41,6 @@
       }
     },
     {
-      "diagnosisId": "D.sickleCellCrisis",
       "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sichelzellkrise</i> erhöhen würden: Gelenkschmerzen, Fieber</li></ul>",
       "isCorrect": false,
       "label": "Sichelzellkrise",
