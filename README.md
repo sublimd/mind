@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://sublimd.com/images/logo-mind-by-sublimd.png" alt="mind-by-sublimd-logo" width="150"/>
 	<h1>MIND by sublimd</h1>
 	<p>
 		<strong>Das erste Quiz mit 100% algorithmisch erzeugten medizinischen Aufgaben</strong>
