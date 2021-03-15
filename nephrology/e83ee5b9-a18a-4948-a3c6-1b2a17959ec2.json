@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Nierenschädigung</i> besser erklärt sind: Schwellung der Unterschenkel, Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhte Blutdruckwerte, Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie, Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypertensiver_Notfall"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Nierenschädigung</i> besser erklärt sind: Oligurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Diabetische Nephropathie</i> erhöhen würden: Diabetes mellitus, Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Diabetische Nephropathie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Diabetische_Nephropathie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Nierenschädigung</i> besser erklärt sind: Oligurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Niereninsuffizienz</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische Niereninsuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronische_Niereninsuffizienz"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Nierenschädigung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Nierensch%C3%A4digung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Nierenschädigung</i> besser erklärt sind: Schwellung der Unterschenkel, Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (73) bei Oligurie.<br /><br />Zusätzlich berichtet der Patient über eine beidseitige Unterschenkelschwellung seit zwei Wochen sowie Nausea und Pruritus.<br /><br />Ein allgemeines Schwächegefühl, Muskelkrämpfe, Schwindel, Hämaturie, Flankenschmerzen, Dyspnoe, Kopfschmerzen, Hautveränderungen, eine Hautüberwärmung und Schlafstörungen werden verneint. <h2>Diagnoseliste</h2>- Linksherzinsuffizienz<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "e83ee5b9-a18a-4948-a3c6-1b2a17959ec2",
+  "topic": "nephrology"
+}

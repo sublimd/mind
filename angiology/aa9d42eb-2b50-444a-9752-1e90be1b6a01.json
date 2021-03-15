@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Thoracic Outlet Syndrome (TOS)</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Thoracic Outlet Syndrome (TOS)</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Läsion des N. radialis</i> erhöhen würden: Operationen in den letzten 3 Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Läsion des N. radialis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Thoracic Outlet Syndrome (TOS)</i> besser erklärt sind: Schulterschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Kopfschmerzen, Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Distorsionstrauma der Halswirbelsäule</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "isCorrect": false,
+      "label": "Distorsionstrauma der Halswirbelsäule",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Thoracic Outlet Syndrome (TOS)</i> besser erklärt sind: Schulterschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkali%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Thoracic Outlet Syndrome (TOS)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Thoracic-outlet-Syndrom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (25) bei Sensibilitätsstörungen im Bereich der oberen Extremität beidseits.<br /><br />Zusätzlich berichtet die Patientin über rechtsseitige Schulterschmerzen (VAS 4 / 10) seit fünf Monaten sowie eine Muskelschwäche im Bereich der oberen Extremität beidseits.<br /><br />Operationen in den letzten drei Monaten sowie ein kürzliches Trauma werden verneint. <br /><br />Schwindel, Kopfschmerzen, Erbrechen, eine Phonophobie, eine Schwellung der Arme, Fieber, eine Schulterschwellung, eine Schulterrötung und eine Schultersteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2x die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "aa9d42eb-2b50-444a-9752-1e90be1b6a01",
+  "topic": "angiology"
+}

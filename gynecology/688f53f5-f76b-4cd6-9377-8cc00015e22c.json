@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialtorsion</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hashimoto-Thyreoiditis</i> erhöhen würden: Obstipation, Dyspnoe, Kälteintoleranz, Gewichtszunahme, Menstruationsbeschwerden</li></ul>",
+      "isCorrect": false,
+      "label": "Hashimoto-Thyreoiditis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hashimoto-Thyreoiditis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialtorsion</i> besser erklärt sind: Hyperhidrose</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Menstruationsbeschwerden, vaginale Blutung, Probleme beim Geschlechtsverkehr, Vaginaler Ausfluss, urethraler Ausfluss, Dysurie</li></ul>",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pelvic_inflammatory_disease"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialtorsion</i> besser erklärt sind: Bauchschmerzen, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vasovagale Synkope</i> erhöhen würden: Bewusstseinsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Vasovagale Synkope",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vasovagale_Synkope"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ovarialtorsion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ovarialtorsion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Ovarialtorsion</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hitzschlag</i> erhöhen würden: Kopfschmerzen, Verwirrtheit, Muskelkrämpfe, Ataxie, Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Hitzschlag",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hitzschlag"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (36) bei einer Hyperhidrose.<br /><br />Zusätzlich berichtet die Patientin über brennende Bauchschmerzen (bis VAS 6 / 10) im linken Unterbauch seit zwei Tagen sowie Nausea und Fieber.<br /><br />Erbrechen, ein kürzlicher Bewusstseinsverlust, Diarrhoe, Obstipation, Menstruationsbeschwerden, Hämatochezie, vaginaler Ausfluss und Probleme beim Geschlechtsverkehr werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 5py (10 Zigaretten täglich während 10 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "688f53f5-f76b-4cd6-9377-8cc00015e22c",
+  "topic": "gynecology"
+}

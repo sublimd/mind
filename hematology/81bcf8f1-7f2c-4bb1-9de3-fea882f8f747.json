@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungentuberkulose</i> erhöhen würden: Husten, Dyspnoe, Thoraxschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lungentuberkulose</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Lungentuberkulose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungentuberkulose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Chronische myeloische Leukämie</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Akute myeloische Leukämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_myeloische_Leuk%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chronische myeloische Leukämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronische_myeloische_Leuk%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Chronische myeloische Leukämie</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Polycythämia vera",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polycythaemia_vera"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Chronische myeloische Leukämie</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Arteriitis temporalis</i> erhöhen würden: Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Arteriitis temporalis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Arteriitis_temporalis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (75) bei Nachtschweiss.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit seit fünf Wochen sowie Fieber.<br /><br />Keine Einschlafneigung tagsüber. Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Schlafstörungen, Schüttelfrost, Dyspnoe, Kopfschmerzen, eine depressive Verstimmung, Nasenbluten und Thoraxschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "81bcf8f1-7f2c-4bb1-9de3-fea882f8f747",
+  "topic": "hematology"
+}

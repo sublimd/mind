@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chronische Pankreatitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronische_Pankreatitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Kürzliche Verwendung von Antibiotika, Hospitalisation in den letzten drei Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Pseudomembranöse Kolitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pseudomembran%C3%B6se_Kolitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: allgemeines Schwächegefühl, Leistungsabfall, Appetitverlust, Rückenschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pankreaskarzinom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Pankreaskarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pankreaskarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pankreatitis</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Pankreatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Pankreatitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Pankreatitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Pankreatitis</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colon irritabile</i> erhöhen würden: Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Colon irritabile",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Colon_irritabile"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (80) bei Diarrhoe.<br /><br />Der Stuhl sei wässrig.<br /><br />Zusätzlich berichtet der Patient über wellenförmige Bauchschmerzen epigastrisch seit zwei Monaten sowie Nausea.<br /><br />Aktuell hätten die Bauchschmerzen eine Intensität von VAS 7 / 10.<br /><br />Eine Hospitalisation in den letzten drei Monaten sowie eine kürzliche Verwendung von Antibiotika werden verneint. <br /><br />Erbrechen, Fieber, Blähungen, Hämatochezie, Obstipation, Schüttelfrost, Meläna, Rückenschmerzen, ein Ikterus und vaginaler Ausfluss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "78e2c3ee-b054-47da-9c66-f315fdadd985",
+  "topic": "gastroenterology"
+}

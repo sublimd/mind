@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Spannungstyp-Kopfschmerz</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische Rhinosinusitis</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische Rhinosinusitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Spannungstyp-Kopfschmerz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Spannungskopfschmerz"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Exazerbation eines Asthma bronchiale</i> erhöhen würden: Dyspnoe, Husten, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Exazerbation eines Asthma bronchiale",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Schnarchen, Schlafstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Obstruktives Schlafapnoesyndrom (OSAS)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Obstruktives_Schlafapnoesyndrom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (59) bei bohrenden Kopfschmerzen (bis VAS 5 / 10) seit vier Monaten.<br /><br />Die aktuellen Kopfschmerzen unterscheiden sich hinsichtlich Schmerzintensität zu früheren Episoden.<br /><br />Nausea, Erbrechen, Schwindel, Sehstörungen, Fieber, eine Photophobie, Nackenschmerzen, eine Phonophobie, Dyspnoe, Lähmungserscheinungen, Sensibilitätsstörungen, Thoraxschmerzen und Schlafstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "34a3e65d-09c3-4e0f-bf52-41c9f8f4bc99",
+  "topic": "neurology"
+}

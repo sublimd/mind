@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rheumatoide Arthritis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rheumatoide_Arthritis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Handschmerzen, Nachtschweiss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Kopfschmerzen, Gesichtsschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Rhinosinusitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sinusitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Rheumatoide Arthritis</i> tritt statistisch häufiger auf</li><li><i>Dermatomyositis</i> kommt häufiger bei weiblichen Patienten vor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dermatomyositis</i> erhöhen würden: Muskelschwäche, Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Dermatomyositis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Dermatomyositis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Rheumatoide Arthritis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Handschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polycythämia vera</i> erhöhen würden: Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Polycythämia vera",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polycythaemia_vera"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Harnwegsinfekt</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Handschmerzen, Nachtschweiss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Dysurie, Pollakisurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Harnwegsinfekt",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Harnwegsinfekt"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (52) bei einer vermehrten Müdigkeit.<br /><br />Zusätzlich berichtet der Patient über linksseitige Handschmerzen seit drei Tagen sowie Nachtschweiss und Fieber.<br /><br />Keine Einschlafneigung tagsüber. <br /><br />Kopfschmerzen, ein Gewichtsverlust, Bauchschmerzen, Gliederschmerzen, eine nasale Obstruktion, vergrösserte Lymphknoten, Knieschmerzen, eine Handsteifigkeit, eine Handschwellung und eine Handrötung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 12py (10 Zigaretten täglich während 23 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "ece72d78-4c18-4d56-ae59-85fa46c1e4c8",
+  "topic": "rheumatology"
+}

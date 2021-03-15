@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Sensibilitätsstörungen, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus, Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Transitorische ischämische Attacke (TIA)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Transitorische_isch%C3%A4mische_Attacke"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Idiopathische Fazialisparese",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fazialisparese"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkali%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Idiopathische Fazialisparese</i> besser erklärt sind: Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tumorhyperkalzämie</i> erhöhen würden: Nausea, Erbrechen, Obstipation, Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Tumorhyperkalzämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Tumorhyperkalz%C3%A4mie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (72) bei einer Muskelschwäche im Gesicht seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über linksseitige Augentrockenheit.<br /><br />Sensibilitätsstörungen, Rückenschmerzen, Erbrechen, Nausea, Kopfschmerzen, ein vermehrtes Durstgefühl, Palpitationen, eine Hörminderung und Fieber werden verneint. <h2>Diagnoseliste</h2>- Rückfallfieber<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "fb0d9c02-b5e6-469f-875e-2906bab3ec8d",
+  "topic": "neurology"
+}

@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Gonarthrose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Gonarthrose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Gonarthrose</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Gonarthrose</i> besser erklärt sind: Kniesteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Reaktive Arthritis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Reaktive_Arthritis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Gonarthrose</i> besser erklärt sind: Kniesteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ilio-tibiales Bandsyndrom (Läuferknie)</i> erhöhen würden: starke körperliche Betätigung</li></ul>",
+      "isCorrect": false,
+      "label": "Ilio-tibiales Bandsyndrom (Läuferknie)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ilio-tibiales_Bandsyndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Meniskusläsion</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "isCorrect": false,
+      "label": "Meniskusläsion",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Adipositas",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Adipositas"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (81) bei rechtsseitigen Knieschmerzen seit sechs Monaten.<br /><br />Verstärkung bzw. Auslösung der Knieschmerzen bei Bewegung.<br /><br />Zusätzlich berichtet die Patientin über eine Kniesteifigkeit.<br /><br />Eine starke körperliche Aktivität sowie ein kürzliches Trauma werden verneint. <br /><br />Eine Knieschwellung, eine Knierötung, anderweitige Gelenkschmerzen und Dyspnoe werden verneint. <h2>Diagnoseliste</h2>- Genu varum<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "d5ca9288-60cc-4c8a-bc09-2c6a9c770637",
+  "topic": "rheumatology"
+}
