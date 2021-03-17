@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Sjögren Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sj%C3%B6gren-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Sjögren Syndrom</i> besser erklärt sind: Mundtrockenheit, Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Fieber, Schüttelfrost, Rhinorrhoe, Kopfschmerzen, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Sjögren Syndrom</i> besser erklärt sind: Mundtrockenheit, Augentrockenheit</li></ul>",
+      "isCorrect": false,
+      "label": "Reaktive Arthritis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Reaktive_Arthritis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Sjögren Syndrom</i> besser erklärt sind: Gelenkschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Idiopathische Fazialisparese</i> erhöhen würden: Muskelschwäche, Hängendes Augenlid, Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Idiopathische Fazialisparese</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Idiopathische Fazialisparese",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fazialisparese"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Gichtarthritis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Sjögren Syndrom</i> besser erklärt sind: Mundtrockenheit, Augentrockenheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gichtarthritis</i> erhöhen würden: Gelenkschwellung, Gelenkrötung</li></ul>",
+      "isCorrect": false,
+      "label": "Gichtarthritis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (35) bei Gelenkschmerzen.<br /><br />Zusätzlich berichtet die Patientin über eine Mund- sowie linksseitige Augentrockenheit seit fünf Monaten.<br /><br />Fieber, Hautveränderungen, Knieschmerzen, Kopfschmerzen, Handschmerzen, Husten, Odynophagie und eine Photophobie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 5py (30 Zigaretten täglich während 3 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "8424c418-b47a-4bdb-bd86-d728489c9d79",
+  "topic": "immunology"
+}

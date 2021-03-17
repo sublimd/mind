@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ischämischer Schlaganfall</i> besser erklärt sind: Dysarthrie, Schwindel, Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Diabetische Ketoazidose</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Bauchschmerzen, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Diabetische Ketoazidose",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Ischämischer Schlaganfall</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: erhöhte Blutdruckwerte</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Kürzliches Schädeltrauma, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Intrazerebrale Blutung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Intrazerebrale_Blutung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul></ul>",
+      "isCorrect": false,
+      "label": "Hirnmetastasen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hirnmetastase"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ischämischer Schlaganfall",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Isch%C3%A4mischer_Schlaganfall"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ischämischer Schlaganfall</i> besser erklärt sind: Dysarthrie, Schwindel, Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperosmolare hyperglykämische Entgleisung",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (35) bei Sensibilitätsstörungen.<br /><br />Zusätzlich berichtet die Patientin über eine Muskelschwäche seit einem Tag sowie Dysarthrie, eine Verwirrtheit, Schwindel, Dysphagie, Sehstörungen und Nausea.<br /><br />Die Sehstörungen seien im Verlauf gleichbleibend.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Rückenschmerzen, Kopfschmerzen, ein kürzlicher Bewusstseinsverlust, Krampfanfälle, Polyurie, ein vermehrtes Durstgefühl, ein Gewichtsverlust und Fieber werden verneint. <h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 6py (20 Zigaretten täglich während 6 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "a83f737d-48fd-4250-a148-7b1e81b455ed",
+  "topic": "neurology"
+}

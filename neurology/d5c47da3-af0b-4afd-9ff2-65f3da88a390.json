@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypertensive Enzephalopathie</i> besser erklärt sind: erhöhte Blutdruckwerte</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Syndrom der inadäquaten ADH-Sekretion (SIADH)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Syndrom_der_inad%C3%A4quaten_ADH-Sekretion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Hypertensive Enzephalopathie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Hypertensive Enzephalopathie</i> besser erklärt sind: Erbrechen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transiente Globale Amnesie (TGA)</i> erhöhen würden: Amnesie</li></ul>",
+      "isCorrect": false,
+      "label": "Transiente Globale Amnesie (TGA)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Transiente_globale_Amnesie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypertensive Enzephalopathie",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypertensive Enzephalopathie</i> besser erklärt sind: erhöhte Blutdruckwerte</li></ul>",
+      "isCorrect": false,
+      "label": "Hyponatriämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyponatri%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypertensive Enzephalopathie</i> besser erklärt sind: erhöhte Blutdruckwerte, Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (60) bei Kopfschmerzen (bis VAS 3 / 10).<br /><br />Im Verlauf seien die Kopfschmerzen gleichbleibend. Die Kopfschmerzen hätten aktuell eine Intensität von VAS 3 / 10.<br /><br />Zusätzlich berichtet der Patient über erhöhte Blutdruckwerte seit einem Tag sowie eine Verwirrtheit und Erbrechen.<br /><br />Schwindel, Sehstörungen, Synkopen, Sensibilitätsstörungen, Thoraxschmerzen, Muskelkrämpfe und Tremor werden verneint. <h2>Diagnoseliste</h2>- Hypertensiver Notfall<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "d5c47da3-af0b-4afd-9ff2-65f3da88a390",
+  "topic": "neurology"
+}

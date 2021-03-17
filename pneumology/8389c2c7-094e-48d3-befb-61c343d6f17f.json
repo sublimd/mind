@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lungenembolie</i> besser erklärt sind: Orthopnoe, Hämoptoe</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Exazerbation eines Asthma bronchiale",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lungenembolie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenembolie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lungenembolie</i> besser erklärt sind: Orthopnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lungentuberkulose</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Lungentuberkulose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungentuberkulose"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ambulant_erworbene_Pneumonie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lungenembolie</i> besser erklärt sind: Orthopnoe, Hämoptoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (30) bei Husten.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe seit einer Woche sowie stechende Thoraxschmerzen (bis VAS 3 / 10), Orthopnoe und Hämoptoe.<br /><br />Verstärkung der Thoraxschmerzen durch tiefe Inspiration.<br /><br />Das abgehustete Blut sei mit Sekret vermischt.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Fieber, Schüttelfrost, eine nasale Obstruktion, Halsschmerzen, Kopfschmerzen, Tachykardien, Schwindel, Synkopen, eine Hyperhidrose und paroxysmale nächtliche Dyspnoe werden verneint. <h2>Diagnoseliste</h2>- Nephrotisches Syndrom<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "8389c2c7-094e-48d3-befb-61c343d6f17f",
+  "topic": "pneumology"
+}
