@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Handgelenksganglion</i> besser erklärt sind: Knoten</li></ul>",
+      "isCorrect": false,
+      "label": "Tendosynovitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Handgelenksganglion</i> besser erklärt sind: Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Handgelenksverstauchung</i> erhöhen würden: Unfall</li></ul>",
+      "isCorrect": false,
+      "label": "Handgelenksverstauchung",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Handgelenksganglion</i> besser erklärt sind: Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Karpaltunnelsyndrom</i> erhöhen würden: Sensibilitätsstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Karpaltunnelsyndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Karpaltunnelsyndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Handgelenksganglion</i> besser erklärt sind: Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Distale Radiusfraktur</i> erhöhen würden: Unfall</li></ul>",
+      "isCorrect": false,
+      "label": "Distale Radiusfraktur",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Distale_Radiusfraktur"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Handgelenksganglion",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (19) bei Handgelenksschmerzen seit neun Tagen.<br /><br />Zusätzlich berichtet die Patientin über einen Knoten am Handgelenk.<br /><br />Ein Unfall, eine Schwellung der Arme, Sensibilitätsstörungen, Fieber, Lähmungserscheinungen, eine Handrötung und eine Handsteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "05cb9502-2754-47e7-b02d-a610576a7465",
+  "topic": "rheumatology"
+}

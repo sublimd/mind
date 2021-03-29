@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Virale Gastroenteritis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Virale Gastroenteritis</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, niedrige Blutdruckwerte</li></ul>",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelallergie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Virale Gastroenteritis</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ischämische Kolitis</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Ischämische Kolitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Isch%C3%A4mische_Colitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Virale Gastroenteritis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Virale Gastroenteritis</i> besser erklärt sind: Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktische Reaktion</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Lidschwellung, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, niedrige Blutdruckwerte</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktische Reaktion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktische_Reaktion"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Virale Gastroenteritis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Virale_Gastroenteritis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (25) bei Diarrhoe seit fünf Tagen.<br /><br />Der Stuhl sei wässrig.<br /><br />Zusätzlich berichtet der Patient über Nausea, Erbrechen, dumpfe Bauchschmerzen im Oberbauch und Fieber.<br /><br />Ein Gewichtsverlust, Hautveränderungen, Hämatochezie, Husten, Pruritus und eine nasale Obstruktion werden verneint. <h2>Diagnoseliste</h2>- Polyposis nasi<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "8612ea79-e853-42ce-bc12-ae3ce7b0edc0",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lues",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lues"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde, vergrösserter Lymphknoten</li></ul>",
+      "isCorrect": false,
+      "label": "Intertrigo",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Intertrigo"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li></ul>",
+      "isCorrect": false,
+      "label": "Abszess",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Abszess"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Insektenstich</i> erhöhen würden: Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Insektenstich",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Insektenstich"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Druckgeschwür</i> erhöhen würden: Hautschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Druckgeschwür",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Druckgeschw%C3%BCr"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (56) bei einer einer erythematösen Hautveränderung mit offenener Wunde im Genitalbereich seit zwei Wochen.<br /><br />Zusätzlich berichtet der Patient über einen subkutanen Knoten bzw. Lymphknoten inguinal rechts.<br /><br />Fieber und Pruritus werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "97a7e83d-4bd5-4fc2-b4a7-84d67f67bf64",
+  "topic": "infectiology"
+}

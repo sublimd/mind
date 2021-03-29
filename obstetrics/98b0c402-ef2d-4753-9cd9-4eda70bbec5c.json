@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schwangerschaft</i> besser erklärt sind: Ausbleiben der Periode, vaginale Blutung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Eisenmangelan%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Schwangerschaft",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schwangerschaft"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Schwangerschaft</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Extrauterine Gravidität (EUG)</i> erhöhen würden: Dysurie, Pollakisurie</li></ul>",
+      "isCorrect": false,
+      "label": "Extrauterine Gravidität (EUG)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Extrauteringravidit%C3%A4t"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schwangerschaft</i> besser erklärt sind: Ausbleiben der Periode, vaginale Blutung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Syndrom der inadäquaten ADH-Sekretion (SIADH)</i> erhöhen würden: Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Syndrom_der_inad%C3%A4quaten_ADH-Sekretion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schwangerschaft</i> besser erklärt sind: Ausbleiben der Periode, vaginale Blutung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mikrozyt%C3%A4re_An%C3%A4mie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (37) bei Nausea.<br /><br />Zusätzlich berichtet die Patientin über ein Ausbleiben der Periode, eine vermehrte Müdigkeit, unerwartete vaginale Blutungen und Schwindel.<br /><br />Ungeschützter Geschlechtsverkehr in der Vergangenheit wird bejaht. <br /><br />Bauchschmerzen, Kopfschmerzen, Tachykardien, Dyspnoe, Thoraxschmerzen, Polyurie und Dysurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "98b0c402-ef2d-4753-9cd9-4eda70bbec5c",
+  "topic": "obstetrics"
+}

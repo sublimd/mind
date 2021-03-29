@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhte Blutdruckwerte, Schwellung der Unterschenkel, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Cushing Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cushing-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Menstruationsbeschwerden, Ausbleiben der Periode, Wärmeintoleranz, Nachtschweiss, Probleme beim Geschlechtsverkehr, vaginaler Juckreiz</li></ul>",
+      "isCorrect": false,
+      "label": "Klimakterisches Syndrom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: depressive Verstimmung</li></ul>",
+      "isCorrect": false,
+      "label": "Schnarchen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schnarchen"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Verwirrtheit, Krampfanfälle, Angstzustände</li></ul>",
+      "isCorrect": false,
+      "label": "Hepatische Enzephalopathie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hepatische_Enzephalopathie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ausgeprägte depressive Episode",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (55) bei einer vermehrten Müdigkeit.<br /><br />Zusätzlich berichtet die Patientin über eine depressive Verstimmung seit zwei Monaten sowie Schlafstörungen.<br /><br />Eine Gewichtszunahme, Wärmeintoleranz, Rückenschmerzen, eine Unterschenkelschwellung und Angstzustände werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "76dcc80e-39c4-4ed7-8b8c-d8c91e5d5d92",
+  "topic": "psychiatry"
+}
