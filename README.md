@@ -14,7 +14,7 @@ _MIND by sublimd_ sind medizinische Aufgaben für die Zugfahrt, zur Vorbereitung
 
 ## Features
 
-* ✅ 500+ Fall-Vignetten
+* ✅ 600+ Fall-Vignetten
 * ✅ 23 medizinische Fachgebiete
 * ✅ Strukturierte Dateien im `JSON` Format
 * ✅ [Single Choice](https://de.wikipedia.org/wiki/Multiple_Choice#Unterschiedliche_Formate_und_Begrifflichkeiten): eine gültige Antwort aus 5 Möglichkeiten
@@ -26,7 +26,7 @@ Hast du Feedback für uns? Sende uns eine [Nachricht](mailto:feedback@sublimd.co
 
 ## Credits
 
-Elmar, Eric, Marc, Reto und Thomas vom [sublimd](https://sublimd.com) Team.
+Elmar, [Eric](https://github.com/digitsensitive), Marc, [Reto](https://github.com/gizmodus) und [Thomas](https://github.com/dtslvr) vom [sublimd](https://sublimd.com) Team.
 
 ## Lizenz
 
