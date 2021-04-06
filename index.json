@@ -665,6 +665,10 @@
       "topic": "endocrinology"
     },
     {
+      "id": "c3bfc495-63db-40af-ad8a-43865e281ab9",
+      "topic": "endocrinology"
+    },
+    {
       "id": "d1160670-f585-481f-96f7-5e931894e47e",
       "topic": "endocrinology"
     },
@@ -833,11 +837,19 @@
       "topic": "gastroenterology"
     },
     {
+      "id": "81ca5ba3-8920-4679-bdd3-21020305b9eb",
+      "topic": "gastroenterology"
+    },
+    {
       "id": "8402c069-4b8c-4ef0-8cf9-5254452610cd",
       "topic": "gastroenterology"
     },
     {
       "id": "85ed37ec-c9e7-45eb-86ae-80822d57354a",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "8612ea79-e853-42ce-bc12-ae3ce7b0edc0",
       "topic": "gastroenterology"
     },
     {
@@ -957,6 +969,10 @@
       "topic": "gastroenterology"
     },
     {
+      "id": "fffc1580-ea4c-4815-88e7-1001645f0ed4",
+      "topic": "gastroenterology"
+    },
+    {
       "id": "0bf36951-a92e-411d-a6f6-916b646bc495",
       "topic": "obstetrics"
     },
@@ -974,6 +990,10 @@
     },
     {
       "id": "7a2e4d57-89a0-47fa-b461-0bdc45ef742d",
+      "topic": "obstetrics"
+    },
+    {
+      "id": "98b0c402-ef2d-4753-9cd9-4eda70bbec5c",
       "topic": "obstetrics"
     },
     {
@@ -1329,6 +1349,10 @@
       "topic": "ear-nose-and-throat"
     },
     {
+      "id": "356b5738-ed5d-453d-902b-34628b715993",
+      "topic": "immunology"
+    },
+    {
       "id": "473ab422-09c6-4a8c-9da1-b845e2814b4c",
       "topic": "immunology"
     },
@@ -1470,6 +1494,10 @@
     },
     {
       "id": "95ef433a-f597-43d0-a8ef-4fe60c8a6354",
+      "topic": "infectiology"
+    },
+    {
+      "id": "97a7e83d-4bd5-4fc2-b4a7-84d67f67bf64",
       "topic": "infectiology"
     },
     {
@@ -1893,6 +1921,10 @@
       "topic": "neurology"
     },
     {
+      "id": "b67b8049-ece0-4373-b98f-38b289dd1fd0",
+      "topic": "neurology"
+    },
+    {
       "id": "bb11576a-e9e6-49b0-9cab-bcd55a3cbf7e",
       "topic": "neurology"
     },
@@ -1951,6 +1983,10 @@
     {
       "id": "fb0d9c02-b5e6-469f-875e-2906bab3ec8d",
       "topic": "neurology"
+    },
+    {
+      "id": "695dfadb-ce8d-451e-b934-f0746bfa9bb0",
+      "topic": "oncology"
     },
     {
       "id": "6b5d7d93-18cf-4918-98b9-df45c54f313e",
@@ -2093,6 +2129,10 @@
       "topic": "pneumology"
     },
     {
+      "id": "3c833c62-853f-4bd1-9306-b8fa4f92c23a",
+      "topic": "pneumology"
+    },
+    {
       "id": "3d35aa41-1ce7-4918-94fc-9b02fafde8b0",
       "topic": "pneumology"
     },
@@ -2106,6 +2146,10 @@
     },
     {
       "id": "5530d73f-8827-45ff-994d-7c4cd27e69ed",
+      "topic": "pneumology"
+    },
+    {
+      "id": "651e73f8-159a-4aab-b9dc-fb8eb583b82f",
       "topic": "pneumology"
     },
     {
@@ -2153,6 +2197,10 @@
       "topic": "pneumology"
     },
     {
+      "id": "ade3ea3a-6d68-4ffc-bf2c-fd167a03f45c",
+      "topic": "pneumology"
+    },
+    {
       "id": "b744ad0c-2281-4ffb-af35-ba4c88228ff0",
       "topic": "pneumology"
     },
@@ -2197,6 +2245,10 @@
       "topic": "psychiatry"
     },
     {
+      "id": "76dcc80e-39c4-4ed7-8b8c-d8c91e5d5d92",
+      "topic": "psychiatry"
+    },
+    {
       "id": "8cbeb4d7-b738-4c04-80ab-34c8e1abd2ba",
       "topic": "psychiatry"
     },
@@ -2218,6 +2270,10 @@
     },
     {
       "id": "05a625ac-b578-4501-bf08-d8ab085ecbe2",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "05cb9502-2754-47e7-b02d-a610576a7465",
       "topic": "rheumatology"
     },
     {

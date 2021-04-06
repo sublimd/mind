@@ -1,0 +1,41 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Akute Exazerbation eines Asthma bronchiale</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Tracheitis</i> erhöhen würden: Fieber, Schüttelfrost, Rhinorrhoe, Odynophagie, Halsschmerzen, Gliederschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Tracheitis</i> erhöhen würden: Tabakrauchkonsum, kürzliche Erkältung</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Tracheitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Stridor</li></ul>",
+      "isCorrect": false,
+      "label": "Interstitielle Lungenerkrankung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Interstitielle_Lungenerkrankung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Exazerbation eines Asthma bronchiale</i> besser erklärt sind: Stridor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Fieber, Schüttelfrost, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Exazerbation eines Asthma bronchiale",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie, Halsschmerzen, Odynophagie, Dysphagie, Fieber, Schüttelfrost, Rhinorrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Laryngitis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (31) bei Dyspnoe mit Stridor seit sechs Tagen.<br /><br />Zusätzlich berichtet der Patient über Husten.<br /><br />Der Patient könne mehr als vier Stockwerke ohne Pause hochsteigen.<br /><br /> Eine kürzliche Erkältung wird verneint. <br /><br />Thoraxschmerzen, Dysphonie, eine allgemeine Müdigkeit, Kopfschmerzen, Orthopnoe, Fieber, Gliederschmerzen, Rhinorrhoe und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "651e73f8-159a-4aab-b9dc-fb8eb583b82f",
+  "topic": "pneumology"
+}

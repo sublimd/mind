@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Harnwegsinfekt</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Hodenkarzinom (Non-Seminom)</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Dysurie, Pollakisurie</li></ul>",
+      "isCorrect": false,
+      "label": "Harnwegsinfekt",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Harnwegsinfekt"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Non-Seminom)</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Koprostase</i> erhöhen würden: Obstipation, Blähungen, Nausea, Appetitverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Koprostase",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Koprostase"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Non-Seminom)</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Darmperforation</i> erhöhen würden: Abdominale Eingriffe in der Vergangenheit, Koloskopie, kürzliches Abdominaltrauma</li></ul>",
+      "isCorrect": false,
+      "label": "Darmperforation",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Darmperforation"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hodenkarzinom (Non-Seminom)",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hodenkarzinom (Non-Seminom)</i> besser erklärt sind: Schwellung oder Vergrösserung des Hodens</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Laktoseintoleranz</i> erhöhen würden: Diarrhoe, Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Laktoseintoleranz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Laktoseintoleranz"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (25) bei einer Hodenschwellung seit vier Monaten.<br /><br />Zusätzlich berichtet der Patient über ziehende Bauchschmerzen suprapubisch.<br /><br />Aktuell hätten die Bauchschmerzen eine Intensität von VAS 6 / 10.<br /><br /> Eine Koloskopie in der Vergangenheit sowie ein kürzliches Abdominaltrauma werden verneint. <br /><br />Hodenschmerzen, Fieber, Nausea, eine allgemeine Müdigkeit, eine erektile Dysfunktion, Hämaturie, Dysurie, Rückenschmerzen, Blähungen und Diarrhoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "695dfadb-ce8d-451e-b934-f0746bfa9bb0",
+  "topic": "oncology"
+}

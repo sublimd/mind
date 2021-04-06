@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Divertikulitis</i> erhöhen würden: Bauchschmerzen, Nausea, Erbrechen, Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Typhus abdominalis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Darmpolypen",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Darmpolypen</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: anale Schmerzen, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Proktitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Darmpolypen</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colon irritabile</i> erhöhen würden: Bauchschmerzen, Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Colon irritabile",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Colon_irritabile"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (61) bei Diarrhoe seit zwei Monaten.<br /><br />Zusätzlich berichtet der Patient über Hämatochezie sowie intermittierende Obstipation.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Nausea, Bauchschmerzen, ein Gewichtsverlust, Blähungen und Schüttelfrost werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "81ca5ba3-8920-4679-bdd3-21020305b9eb",
+  "topic": "gastroenterology"
+}

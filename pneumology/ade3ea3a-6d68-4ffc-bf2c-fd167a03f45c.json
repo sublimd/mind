@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lungenmetastasen</i> besser erklärt sind: Hämoptoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Halsschmerzen, Odynophagie, Fieber, Schüttelfrost, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lungenmetastasen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenmetastase"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lungenmetastasen</i> besser erklärt sind: Hämoptoe</li></ul>",
+      "isCorrect": false,
+      "label": "Pneumothorax",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pneumothorax"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lungenmetastasen</i> besser erklärt sind: Hämoptoe</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenödem",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungen%C3%B6dem"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Lungenmetastasen</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Bronchialadenom",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (80) bei Husten mit Hämoptoe, Dyspnoe und wellenförmigen Thoraxschmerzen (bis VAS 7 / 10) seit zwei Monaten.<br /><br />Fieber, Rhinorrhoe, Dysphonie, Schwindel, eine nasale Obstruktion und Orthopnoe werden verneint. <h2>Diagnoseliste</h2>- Nierenzellkarzinom- Arterielle Hypertonie- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "ade3ea3a-6d68-4ffc-bf2c-fd167a03f45c",
+  "topic": "pneumology"
+}
