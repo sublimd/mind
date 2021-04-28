@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Brustabszess</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mammakarzinom</i> erhöhen würden: vergrösserter Lymphknoten</li></ul>",
+      "isCorrect": false,
+      "label": "Mammakarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mammakarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: Bauchschmerzen, depressive Verstimmung, Angstzustände, Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Prämenstruelles Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pr%C3%A4menstruelles_Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Brustabszess</i> besser erklärt sind: Knoten in der Brust, Brustschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Intertrigo",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Intertrigo"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Brustabszess</i> besser erklärt sind: Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Brustzyste",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Brustabszess",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (37) bei einer Hautveränderung im Bereich des anterioren Thorax.<br /><br />Zusätzlich berichtet die Patientin über einen schmerzhaften Knoten in der Brust seit fünf Tagen.<br /><br />Der Knoten sei durch Selbstuntersuchung der Brust festgestellt worden.<br /><br />Fieber, ein allgemeines Schwächegefühl, Bauchschmerzen, Thoraxschmerzen, Angstzustände, vergrösserte Lymphknoten und Ausfluss aus der Brust werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 25py (10 Zigaretten täglich während 49 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "f6b2d94c-14f5-4b58-9e99-8a37f2ed7948",
+  "topic": "gynecology"
+}

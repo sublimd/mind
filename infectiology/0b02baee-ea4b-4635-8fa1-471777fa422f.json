@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul></ul>",
+      "isCorrect": false,
+      "label": "Typhus abdominalis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Dengue Fieber</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Dengue Fieber</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schistosomiasis</i> erhöhen würden: Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Schistosomiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schistosomiasis"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Dengue Fieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Denguefieber"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Dengue Fieber</i> besser erklärt sind: Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Malaria",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Dengue Fieber</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Rocky-Mountains-Fleckfieber</i> erhöhen würden: Reisen nach Nordamerika in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Rocky-Mountains-Fleckfieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rocky-Mountain-Fleckfieber"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (33) bei Fieber seit einer Woche.<br /><br />Zusätzlich berichtet der Patient über eine erythematöse Hautveränderung, Gliederschmerzen und Nausea.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br /> Reisen nach Nordamerika in den letzten sechs Monaten werden verneint. <br /><br />Husten, Bauchschmerzen, Dyspnoe, Kopfschmerzen, Odynophagie, Diarrhoe, Dysurie, Flankenschmerzen, Pruritus und Nackensteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier).",
+  "id": "0b02baee-ea4b-4635-8fa1-471777fa422f",
+  "topic": "infectiology"
+}

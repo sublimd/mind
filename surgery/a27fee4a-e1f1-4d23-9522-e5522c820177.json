@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Unguis incarnatus</i> besser erklärt sind: Fussschmerzen, Nagelveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Insektenstich</i> erhöhen würden: Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Insektenstich",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Insektenstich"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Unguis incarnatus</i> besser erklärt sind: Nagelveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Abszess",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Abszess"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Unguis incarnatus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Unguis_incarnatus"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Unguis incarnatus</i> besser erklärt sind: Fussschmerzen, Nagelveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stauungsekzem</i> erhöhen würden: Varizen</li></ul>",
+      "isCorrect": false,
+      "label": "Stauungsekzem",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Unguis incarnatus</i> besser erklärt sind: Nagelveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombophlebitis</i> erhöhen würden: Beinschmerzen, Wadenschmerzen, Armschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Thrombophlebitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Thrombophlebitis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (44) bei einer erythematösen Hautveränderung im Bereich der grossen Zehe links.<br /><br />Zusätzlich berichtet der Patient über rechtsseitige Fussschmerzen seit sechs Tagen sowie eine Hautschwellung und Nagelveränderungen.<br /><br />Fieber, eine Schwellung der Unterschenkel, Varizen, Beinschmerzen, Wadenschmerzen, eine Fussschwellung, eine Fussrötung und eine Fusssteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "a27fee4a-e1f1-4d23-9522-e5522c820177",
+  "topic": "surgery"
+}

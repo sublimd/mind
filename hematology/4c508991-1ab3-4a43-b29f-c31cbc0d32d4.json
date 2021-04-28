@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Agranulozytose</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Agranulozytose</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Diarrhoe, Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Agranulozytose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Agranulozytose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Agranulozytose</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie, Stridor, Rhinorrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Laryngitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Agranulozytose</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Kopfschmerzen, Gliederschmerzen, Gelenkschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (59) bei Odynophagie.<br /><br />Zusätzlich berichtet die Patientin über Fieber seit zwei Tagen sowie Veränderungen der Mundschleimhaut, Diarrhoe, Husten und Dyspnoe.<br /><br />Der Stuhl sei dunkelbraun.<br /><br />Rhinorrhoe, Schüttelfrost, vergrösserte Lymphknoten, Dysphonie, Kopfschmerzen, Nausea, Bauchschmerzen, Halsschmerzen, Flankenschmerzen und eine Nackensteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Sekt und Spirituosen).",
+  "id": "4c508991-1ab3-4a43-b29f-c31cbc0d32d4",
+  "topic": "hematology"
+}

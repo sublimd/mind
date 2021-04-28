@@ -1,0 +1,41 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "HIV-Primoinfektion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>HIV-Primoinfektion</i> besser erklärt sind: Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 1",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>HIV-Primoinfektion</i> besser erklärt sind: Hautveränderungen, Kopfschmerzen, Gelenkschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>HIV-Primoinfektion</i> besser erklärt sind: Gliederschmerzen, Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Schilddrüsenkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>HIV-Primoinfektion</i> besser erklärt sind: Hautveränderungen, Gelenkschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Streptokokkentonsillitis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (55) bei einem subkutanen Knoten im Halsbereich.<br /><br />Zusätzlich berichtet die Patientin über Fieber seit zwei Tagen sowie eine vermehrte Müdigkeit, Gliederschmerzen, eine erythematöse Hautveränderung, Kopfschmerzen, Dysphagie und Gelenkschmerzen.<br /><br />Die Müdigkeit sei am Nachmittag am stärksten ausgeprägt.<br /><br />Der Erhalt von Bluttransfusionen wird bejaht.<br /><br /> Der Aufenthalt in Wäldern wird verneint. <br /><br />Schüttelfrost, ein Gewichtsverlust, Dyspnoe, Husten, Rhinorrhoe, Dysphonie, Bauchschmerzen, Flankenschmerzen, Dysurie, Diarrhoe, Nausea, ein Appetitverlust und Nackensteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 24py (10 Zigaretten täglich während 48 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "cafeaa9e-4c41-45f5-af43-c0c3768b773e",
+  "topic": "infectiology"
+}
