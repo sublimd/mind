@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Präeklampsie</i> besser erklärt sind: erhöhte Blutdruckwerte, Sehstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Myokarditis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Präeklampsie</i> besser erklärt sind: Schwellung der Beine</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie, Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypertensiver_Notfall"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Präeklampsie</i> besser erklärt sind: Sehstörungen, Dyspnoe, Thoraxschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Menstruationsbeschwerden, Ausbleiben der Periode, erektile Dysfunktion, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Cushing Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cushing-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Präeklampsie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pr%C3%A4eklampsie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Präeklampsie</i> besser erklärt sind: erhöhte Blutdruckwerte, Kopfschmerzen, Sehstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Linksherzinsuffizienz</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Husten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Linksherzinsuffizienz</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Linksherzinsuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Linksherzinsuffizienz"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (22) bei einer beidseitigen Beinschwellung.<br /><br />Zusätzlich berichtet die Patientin über erhöhte Blutdruckwerte seit zwei Wochen sowie Kopfschmerzen, Sehstörungen, Dyspnoe und wellenförmige Thoraxschmerzen im Bereich des Sternums.<br /><br />Die Kopfschmerzen seien im Verlauf gleichbleibend und würden sich hinsichtlich Schmerzintensität von früheren Episoden unterscheiden. Die aktuelle Intensität der Kopfschmerzen liege bei VAS 3/10.<br /><br />Die Sehstörungen seien im Verlauf zunehmend. Die Patientin beschreibt ein Flimmern.<br /><br />Die Patientin gibt an schwanger zu sein. Vorerkrankungen werden verneint.<br /><br />Polyurie, Bauchschmerzen, Tachykardien, Schwindel, Palpitationen und Menstruationsbeschwerden werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Kein Alkoholkonsum.",
+  "id": "eae341be-421e-41c7-b74d-285f62c84f14",
+  "topic": "obstetrics"
+}

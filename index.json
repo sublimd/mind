@@ -461,6 +461,10 @@
       "topic": "general-internal-medicine"
     },
     {
+      "id": "d9cd24f2-95e1-4d4d-837e-6b99d107891c",
+      "topic": "general-internal-medicine"
+    },
+    {
       "id": "da370ede-8631-43b0-84bd-4dacbcd305bf",
       "topic": "general-internal-medicine"
     },
@@ -581,11 +585,19 @@
       "topic": "angiology"
     },
     {
+      "id": "e042e6d6-360f-4593-a450-cd163526f592",
+      "topic": "angiology"
+    },
+    {
       "id": "e7c80ca8-38ba-40e6-b000-e15a5e415f1f",
       "topic": "angiology"
     },
     {
       "id": "2dbcce1e-4b58-475d-b62d-6e79cb08719c",
+      "topic": "surgery"
+    },
+    {
+      "id": "a27fee4a-e1f1-4d23-9522-e5522c820177",
       "topic": "surgery"
     },
     {
@@ -1001,6 +1013,10 @@
       "topic": "obstetrics"
     },
     {
+      "id": "eae341be-421e-41c7-b74d-285f62c84f14",
+      "topic": "obstetrics"
+    },
+    {
       "id": "3f0018ae-a77f-40b9-b2d7-96a7cf21f4fd",
       "topic": "genetic-disorders"
     },
@@ -1113,6 +1129,10 @@
       "topic": "gynecology"
     },
     {
+      "id": "f6b2d94c-14f5-4b58-9e99-8a37f2ed7948",
+      "topic": "gynecology"
+    },
+    {
       "id": "fcda2487-da49-4774-9d0b-5f744c75b793",
       "topic": "gynecology"
     },
@@ -1166,6 +1186,10 @@
     },
     {
       "id": "4bfa4cbf-2a37-4363-9100-e6b9d25061b2",
+      "topic": "hematology"
+    },
+    {
+      "id": "4c508991-1ab3-4a43-b29f-c31cbc0d32d4",
       "topic": "hematology"
     },
     {
@@ -1393,6 +1417,10 @@
       "topic": "infectiology"
     },
     {
+      "id": "0b02baee-ea4b-4635-8fa1-471777fa422f",
+      "topic": "infectiology"
+    },
+    {
       "id": "1012bf2c-c29e-47ef-87e6-f2b2c7a5219a",
       "topic": "infectiology"
     },
@@ -1514,6 +1542,10 @@
     },
     {
       "id": "c7dc11b3-09fe-4e02-bb19-b7eac55195e7",
+      "topic": "infectiology"
+    },
+    {
+      "id": "cafeaa9e-4c41-45f5-af43-c0c3768b773e",
       "topic": "infectiology"
     },
     {
@@ -1849,6 +1881,10 @@
       "topic": "neurology"
     },
     {
+      "id": "56c958b1-601d-44ad-bf8e-97173fad16e3",
+      "topic": "neurology"
+    },
+    {
       "id": "60d449ca-7fd6-4fa1-b333-34fada63169c",
       "topic": "neurology"
     },
@@ -1862,6 +1898,10 @@
     },
     {
       "id": "722b59d5-2b74-42bb-b2a5-0e39dd1fb5dd",
+      "topic": "neurology"
+    },
+    {
+      "id": "743c3384-07fa-4b9b-931b-c5dab7bbc781",
       "topic": "neurology"
     },
     {

@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperglykämisches Koma</i> erhöhen würden: Bewusstseinsverlust, Synkope, Somnolenz, Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Bauchschmerzen, Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperglykämisches Koma</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperglykämisches Koma",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperglyk%C3%A4misches_Koma"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Vitamin B12 Mangel</i> besser erklärt sind: Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Block III°</i> erhöhen würden: Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>AV-Block III°</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "AV-Block III°",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Vitamin B12 Mangel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vitamin-B12-Mangel"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Vitamin B12 Mangel</i> besser erklärt sind: Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Urämisches Syndrom</i> erhöhen würden: Pruritus, Nausea, Erbrechen, Appetitverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Urämisches Syndrom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Vitamin B12 Mangel</i> besser erklärt sind: Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Perikardtamponade</i> erhöhen würden: Schwindel, Thoraxschmerzen, Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Perikardtamponade",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Perikardtamponade"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (71) bei einer vermehrten Müdigkeit seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über Sensibilitätsstörungen an den Händen und Dyspnoe.<br /><br />Die Patientin könne ein Stockwerk ohne Pause hochsteigen.<br /><br />Ein veganer Ernährungsstil wird bejaht.<br /><br />Fieber, Schlafstörungen, Nausea, Erbrechen, Palpitationen, eine Verwirrtheit, eine depressive Verstimmung, ein kürzlicher Bewusstseinsverlust, Lähmungserscheinungen, Nachtschweiss, Synkopen, ein Ikterus und eine Zungenschwellung werden verneint. <h2>Diagnoseliste</h2>- Arterielle Hypertonie- Perniziöse Anämie<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "d9cd24f2-95e1-4d4d-837e-6b99d107891c",
+  "topic": "general-internal-medicine"
+}
