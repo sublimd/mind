@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Crohn</i> erhöhen würden: Diarrhoe, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "M. Crohn",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Crohn"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Hepatitis A-Infektion</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Zöliakie</i> erhöhen würden: Diarrhoe, Gewichtsverlust, Steatorrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Zöliakie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Z%C3%B6liakie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Hepatitis A-Infektion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Hepatitis A-Infektion</i> besser erklärt sind: Bauchschmerzen, Gelenkschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperparathyroidismus</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperparathyroidismus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperparathyreoidismus"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (27) bei einer vermehrten Müdigkeit seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über drückende Bauchschmerzen (bis VAS 5/10) im rechten Oberbauch, Nausea, Gelenkschmerzen und einen Appetitverlust.<br /><br />Der Kontakt mit kontaminiertem Wasser und Reisen in tropische Regionen in den letzten sechs Monaten wird bejaht.<br /><br />Fieber, Schlafstörungen, ein Gewichtsverlust, eine depressive Verstimmung, Hautveränderungen, ein vermehrtes Durstgefühl, Obstipation, Lähmungserscheinungen und Nachtschweiss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "f7011479-382d-4dc7-9466-440fe8ae92a3",
+  "topic": "gastroenterology"
+}

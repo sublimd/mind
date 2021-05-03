@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Dermatomyositis</i> besser erklärt sind: Muskelschwäche</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Kopfschmerzen, Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 1",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Dermatomyositis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Dermatomyositis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Dermatomyositis</i> besser erklärt sind: Hautveränderungen, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkali%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Dermatomyositis</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypomagnesiämie</i> erhöhen würden: Tremor, Muskelkrämpfe, Sensibilitätsstörungen, Krampfanfall, Verwirrtheit</li></ul>",
+      "isCorrect": false,
+      "label": "Hypomagnesiämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypomagnesi%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Dermatomyositis</i> besser erklärt sind: Hautveränderungen, Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Kopfschmerzen, Photophobie, Phonophobie, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (37) bei einer Muskelschwäche an den Oberschenkeln seit zwei Monaten.<br /><br />Zusätzlich berichtet die Patientin über eine erythematöse Hautveränderung im Gesicht und Gliederschmerzen.<br /><br /> Der Aufenthalt in Wäldern wird verneint. <br /><br />Sensibilitätsstörungen, Rückenschmerzen, Nausea, Erbrechen, Kopfschmerzen, eine allgemeine Müdigkeit, Dysphagie, Thoraxschmerzen, Fieber Handschmerzen und eine Handschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "5dcde435-6195-4d22-b5d8-356c7a4e0f0b",
+  "topic": "immunology"
+}

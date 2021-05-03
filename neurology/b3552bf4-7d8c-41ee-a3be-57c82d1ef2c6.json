@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Neuritis vestibularis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akustikusneurinom</i> erhöhen würden: Hörminderung, Tinnitus</li></ul>",
+      "isCorrect": false,
+      "label": "Akustikusneurinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akustikusneurinom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Neuritis vestibularis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Neuritis_vestibularis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>GHB-Intoxikation</i> erhöhen würden: Bewusstseinsverlust, Somnolenz, Aggressivität, innere Anspannung, Angstzustände, Verwirrtheit</li></ul>",
+      "isCorrect": false,
+      "label": "GHB-Intoxikation",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Muschelvergiftung</i> erhöhen würden: Odynophagie, Dysphagie, Muskelschwäche, Dyspnoe, Sensibilitätsstörungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Muschelvergiftung</i> erhöhen würden: Konsum von potenziell verdorbenen Lebensmitteln</li></ul>",
+      "isCorrect": false,
+      "label": "Muschelvergiftung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Muschelvergiftung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Neuritis vestibularis</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Eisenmangelanämie</i> erhöhen würden: Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Eisenmangelanämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Eisenmangelan%C3%A4mie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (38) bei einer Gangataxie.<br /><br />Zusätzlich berichtet die Patientin über Schwindel seit zwei Tagen sowie Nausea.<br /><br />Der Schwindel trete mit einer Häufigkeit von pro Woche auf.<br /><br /> Der Konsum von potenziell verdorbenen Lebensmitteln wird verneint. <br /><br />Sensibilitätsstörungen, Lähmungserscheinungen, Nackenschmerzen, eine Hörminderung, Sehstörungen, Kopfschmerzen, ein kürzlicher Bewusstseinsverlust, Dyspnoe und Ausfluss aus dem Ohr werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 2py (10 Zigaretten täglich während 4 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "b3552bf4-7d8c-41ee-a3be-57c82d1ef2c6",
+  "topic": "neurology"
+}

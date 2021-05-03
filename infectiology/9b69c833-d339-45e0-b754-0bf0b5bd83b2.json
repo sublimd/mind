@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes genitalis</i> erhöhen würden: Schmerzen im Genitalbereich, Pruritus, Dysurie</li></ul>",
+      "isCorrect": false,
+      "label": "Herpes genitalis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Herpes_genitalis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Husten, Kopfschmerzen, Gliederschmerzen, Gelenkschmerzen, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautüberwärmung, Hautschwellung, Schwellung der Beine</li></ul>",
+      "isCorrect": false,
+      "label": "Erysipel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Lues",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lues"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Lues</i> tritt statistisch häufiger auf</li><li><i>Lymphogranuloma inguinale</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lymphogranuloma inguinale</i> erhöhen würden: Leistenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Lymphogranuloma inguinale",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lymphogranuloma_inguinale"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (42) bei einem subkutanen Knoten inguinal rechts.<br /><br />Zusätzlich berichtet die Patientin über eine offene Wunde im Genitalbereich seit drei Tagen und Fieber.<br /><br />Eine allgemeine Müdigkeit, Pruritus, Leistenschmerzen, Gliederschmerzen, Kopfschmerzen und eine Hautschwellung werden verneint. <h2>Diagnoseliste</h2>- HIV-Infektion- Asthma bronchiale<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "9b69c833-d339-45e0-b754-0bf0b5bd83b2",
+  "topic": "infectiology"
+}
