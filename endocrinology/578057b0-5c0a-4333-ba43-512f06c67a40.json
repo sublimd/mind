@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Dyspnoe, Tremor, Diarrhoe, Schlafstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperprolaktinämie</i> erhöhen würden: unerfüllter Kinderwunsch, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperprolaktinämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperprolaktin%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperthyreose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperthyreose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Dyspnoe, Tremor, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Probleme beim Geschlechtsverkehr, vaginaler Juckreiz</li></ul>",
+      "isCorrect": false,
+      "label": "Klimakterisches Syndrom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Dyspnoe, Tremor, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhte Blutdruckwerte, Rückenschmerzen, Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Cushing Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cushing-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hyperthyreose</i> besser erklärt sind: Tremor, Diarrhoe, Ausbleiben der Periode</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nasale Septumdeviation</i> erhöhen würden: nasale Obstruktion</li></ul>",
+      "isCorrect": false,
+      "label": "Nasale Septumdeviation",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (42) bei Dyspnoe seit sieben Wochen, sowie Tremor, Diarrhoe, Schlafstörungen und einem Ausbleiben der Periode.<br /><br />Der Stuhl sei normal braun.<br /><br />Nykturie, eine Halsschwellung, Pruritus, Thoraxschmerzen, Husten, Orthopnoe, Fieber, paroxysmale nächtliche Dyspnoe, ein unerfüllter Kinderwunsch, Kopfschmerzen und Rückenschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "578057b0-5c0a-4333-ba43-512f06c67a40",
+  "topic": "endocrinology"
+}

@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Pharynxkarzinom</i> besser erklärt sind: Müdigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Larynxkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Larynxkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Fieber, Schüttelfrost, Gliederschmerzen, Hautveränderungen, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit, mehrere Sexualpartner, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Parotitis acuta</i> erhöhen würden: Hautschwellung, Gesichtsschmerzen, Hautveränderungen, Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
+      "label": "Parotitis acuta",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Stridor, Fieber, Schüttelfrost, Rhinorrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Laryngitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Pharynxkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pharynxkarzinom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (77) bei Odynophagie seit einem Monat.<br /><br />Zusätzlich berichtet der Patient über einen subkutanen Knoten im Halsbereich und eine vermehrte Müdigkeit.<br /><br /> Keine Einschlafneigung tagsüber. Intravenöser Drogenkonsum und ungeschützter Geschlechtsverkehr werden verneint. <br /><br />Rhinorrhoe, Fieber, Schüttelfrost, Husten, Thoraxschmerzen, Kopfschmerzen, Hautveränderungen, eine Hypersalivation, Gesichtsschmerzen und eine Hörminderung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 22py (10 Zigaretten täglich während 44 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "d8ce3bbb-0733-4469-933f-dbfb82753fe4",
+  "topic": "ear-nose-and-throat"
+}

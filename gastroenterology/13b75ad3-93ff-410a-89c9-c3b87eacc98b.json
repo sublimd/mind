@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Kürzliche Verwendung von Antibiotika, Hospitalisation in den letzten drei Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Pseudomembranöse Kolitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pseudomembran%C3%B6se_Kolitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: anale Schmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Proktitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ischämische Kolitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Isch%C3%A4mische_Colitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktische Reaktion</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Lidschwellung, Dyspnoe, Husten, Rhinorrhoe, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, niedrige Blutdruckwerte</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktische Reaktion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktische_Reaktion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Husten, Dyspnoe, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ambulant_erworbene_Pneumonie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (76) bei Diarrhoe seit einigen Wochen.<br /><br />Der Stuhl sei rötlich verfärbt.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen (bis VAS 4/10) im linken Hemiabdomen seit einem Monat.<br /><br />Verstärkung der Bauchschmerzen nach Nahrungsaufnahme.<br /><br /> Eine Hospitalisation in den letzten drei Monaten sowie die kürzliche Verwendung von Antibiotika werden verneint. <br /><br />Nausea, Erbrechen, Fieber, Hautveränderungen, Schüttelfrost, Dyspnoe, anale Schmerzen, Pruritus, Meläna und vaginaler Ausfluss werden verneint. <h2>Diagnoseliste</h2>- Arterielle Hypertonie- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 31py (10 Zigaretten täglich während 61 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "13b75ad3-93ff-410a-89c9-c3b87eacc98b",
+  "topic": "gastroenterology"
+}

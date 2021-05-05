@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ovarialtorsion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ovarialtorsion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialtorsion</i> besser erklärt sind: Bauchschmerzen, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Situative Synkope</i> erhöhen würden: Synkope, Bewusstseinsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Situative Synkope",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialtorsion</i> besser erklärt sind: Bauchschmerzen, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Tremor, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hypoglykämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoglyk%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hitzschlag</i> erhöhen würden: Kopfschmerzen, Verwirrtheit, Muskelkrämpfe, Ataxie, Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Hitzschlag",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hitzschlag"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialtorsion</i> besser erklärt sind: Bauchschmerzen, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Menière</i> erhöhen würden: Hörminderung, Tinnitus</li></ul>",
+      "isCorrect": false,
+      "label": "M. Menière",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/M._Meni%C3%A8re"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (32) bei akuter Hyperhidrose.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen im linken Unterbauch seit drei Stunden sowie Nausea, Schwindel und Fieber.<br /><br />Die Bauchschmerzen hätten aktuell eine Intensität von VAS 7/10.<br /><br />Palpitationen, Synkopen, Erbrechen, Sensibilitätsstörungen, Diarrhoe, Obstipation, Krampfanfälle, Hämatochezie, Meläna und vaginaler Ausfluss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "4f37c596-8c27-465e-822b-e4b0b0ec3d72",
+  "topic": "gynecology"
+}

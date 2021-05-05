@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chalazion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chalazion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chalazion</i> besser erklärt sind: Lidschwellung, Rötung des Augenlides</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute bakterielle Keratitis</i> erhöhen würden: Augenrötung, Fremdkörpergefühl im Auge</li></ul>",
+      "isCorrect": false,
+      "label": "Akute bakterielle Keratitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chalazion</i> besser erklärt sind: Rötung des Augenlides</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ektropium</i> erhöhen würden: Fremdkörpergefühl im Auge, Augenrötung, Augentrockenheit</li></ul>",
+      "isCorrect": false,
+      "label": "Ektropium",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ektropium"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chalazion</i> besser erklärt sind: Rötung des Augenlides</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Augenrötung, Juckreiz im Auge</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Allergien auf Umweltfaktoren</li></ul>",
+      "isCorrect": false,
+      "label": "Allergische Konjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Chalazion</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Chalazion</i> besser erklärt sind: Rötung des Augenlides</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Entropium</i> erhöhen würden: Fremdkörpergefühl im Auge, Augenrötung, Augentrockenheit</li></ul>",
+      "isCorrect": false,
+      "label": "Entropium",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Entropium"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (47) bei einer linksseitigen Lidschwellung seit fünf Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Rötung des Augenlides, wässrigen Ausfluss aus dem Auge, Sehstörungen und Augenschmerzen.<br /><br />Die Sehstörung sei schleichend aufgetreten.<br /><br /> Allergien auf Umweltfaktoren (Pollen, Katzenhaare etc.) werden verneint. <br /><br />Eine Augenrötung, Juckreiz in den Augen, Rhinorrhoe, Fieber, ein Fremdkörpergefühl im Auge und eine Hautschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 9py (10 Zigaretten täglich während 17 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt und Spirituosen).",
+  "id": "b403f66d-9ef8-4316-8f9a-930a79393946",
+  "topic": "ophthalmology"
+}

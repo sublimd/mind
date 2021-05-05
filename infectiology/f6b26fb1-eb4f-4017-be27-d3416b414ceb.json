@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Malaria</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Malaria",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Bakterielle Endokarditis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Q Fieber</i> besser erklärt sind: Kopfschmerzen, Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Bakterielle Endokarditis</i> erhöhen würden: Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Bakterielle Endokarditis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Dengue Fieber</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Dengue Fieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Denguefieber"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Q Fieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Q-Fieber"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute virale Meningitis</i> erhöhen würden: Verwirrtheit, Amnesie, Nackensteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Akute virale Meningitis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (63) bei Fieber seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine vermehrte Müdigkeit, Kopfschmerzen (bis VAS 4/10), Gliederschmerzen, eine Hyperhidrose und Nausea.<br /><br />Die Patientin schlafe tagsüber manchmal ungewollt ein.<br /><br />Die Kopfschmerzen hätten schleichend begonnen.<br /><br />Ungewöhnlicher Kontakt zu Tieren wird bejaht (hat mit Schafen zusammengearbeitet).<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten wird verneint. <br /><br />Rhinorrhoe, Husten, Bauchschmerzen, Halsschmerzen, Dyspnoe, Odynophagie, Diarrhoe, Dysurie, Thoraxschmerzen, Flankenschmerzen, Palpitationen, Schüttelfrost und Nackensteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 72py (30 Zigaretten täglich während 48 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier).",
+  "id": "f6b26fb1-eb4f-4017-be27-d3416b414ceb",
+  "topic": "infectiology"
+}
