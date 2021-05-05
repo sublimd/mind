@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialkarzinom</i> besser erklärt sind: Rückenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Funktionelle Dyspepsie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Funktionelle_Dyspepsie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ovarialkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ovarialkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialkarzinom</i> besser erklärt sind: Rückenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Paralytischer Ileus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Paralytischer_Ileus"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialkarzinom</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, niedrige Blutdruckwerte</li></ul>",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelallergie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialkarzinom</i> besser erklärt sind: Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Corpus luteum Zyste",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (66) bei Blähungen seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen im linken Unterbauch seit zwei Monaten sowie Nausea, dumpf-ziehende Rückenschmerzen und einen Gewichtsverlust.<br /><br />Obstipation, Diarrhoe, Erbrechen, eine allgemeine Müdigkeit, saures Aufstossen, Hautveränderungen, Pollakisurie, Dyspnoe, Hämatochezie, Dysurie, Meläna, Rhinorrhoe und vaginaler Ausfluss werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 54py (20 Zigaretten täglich während 54 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Sekt und Spirituosen).",
+  "id": "b152b702-e9d7-46fd-9fba-25fecdd52be2",
+  "topic": "gynecology"
+}

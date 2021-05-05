@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Morbus Basedow</i> besser erklärt sind: Tremor, Schlafstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Extrasystolen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Extrasystole"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Morbus Basedow",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Basedow"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Morbus Basedow</i> besser erklärt sind: Schlafstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Schwindel, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hypoglykämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoglyk%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Phäochromozytom</i> erhöhen würden: erhöhte Blutdruckwerte, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Phäochromozytom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ph%C3%A4ochromozytom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Morbus Basedow</i> besser erklärt sind: Tremor, Schlafstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Vorhofflimmern",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vorhofflimmern"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (61) bei Palpitationen seit einer Woche, Tremor und Schlafstörungen.<br /><br />Dyspnoe, Diarrhoe, Augenschmerzen, Nykturie, eine Halsschwellung, Pruritus, Thoraxschmerzen, Fieber, eine Wärmeintoleranz, Nausea, Kopfschmerzen und erhöhte Blutdruckwerte werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "0d2a51b6-c812-49a6-90ce-54d33d902abe",
+  "topic": "endocrinology"
+}

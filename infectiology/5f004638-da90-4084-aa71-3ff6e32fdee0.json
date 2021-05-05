@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Varizellen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Varizellen"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Varizellen</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: vergrösserte Lymphknoten, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Varizellen</i> besser erklärt sind: Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Bauchschmerzen, Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Hepatitis A-Infektion</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Hepatitis A-Infektion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Varizellen</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Varizellen</i> besser erklärt sind: Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schistosomiasis</i> erhöhen würden: Gliederschmerzen, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Schistosomiasis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Schistosomiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schistosomiasis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Varizellen</i> besser erklärt sind: Dysphagie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Arzneimittelexanthem</i> erhöhen würden: Kürzliche Verwendung von Antibiotika, Verwendung von Analgetika</li></ul>",
+      "isCorrect": false,
+      "label": "Arzneimittelexanthem",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Arzneimittelexanthem"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (19) bei Pruritus am Rücken.<br /><br />Zusätzlich berichtet der Patient über eine Hautveränderung am Rücken seit drei Tagen sowie Fieber, Dysphagie und eine vermehrte Müdigkeit.<br /><br />Der Patient schlafe tagsüber oft ungewollt ein.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten sowie die Einnahme von Analgetika und die Verwendung von Antibiotika in den letzten drei Monaten werden verneint. <br /><br />Nausea, Erbrechen, eine Hautschwellung, Dyspnoe, vergrösserte Lymphknoten, Diarrhoe und Gliederschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",
+  "id": "5f004638-da90-4084-aa71-3ff6e32fdee0",
+  "topic": "infectiology"
+}
