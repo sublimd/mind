@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akustikusneurinom</i> erhöhen würden: Hörminderung, Tinnitus</li></ul>",
+      "isCorrect": false,
+      "label": "Akustikusneurinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akustikusneurinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Einfach fokaler epileptischer Anfall</i> erhöhen würden: Krampfanfall, Sehstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Einfach fokaler epileptischer Anfall",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Korsakow-Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Korsakow-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Korsakow-Syndrom</i> besser erklärt sind: Ataxie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Muskelschwäche, Dysarthrie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus, Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Transitorische ischämische Attacke (TIA)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Transitorische_isch%C3%A4mische_Attacke"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirnmetastasen</i> erhöhen würden: Kopfschmerzen, Nausea, Erbrechen, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Hirnmetastasen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hirnmetastase"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (46) bei einer Ataxie seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über eine Verwirrtheit sowie Sensibilitätsstörungen an den Beinen.<br /><br />Lähmungserscheinungen, Sehstörungen, Kopfschmerzen, ein Harnverhalt, Fieber, Bauchschmerzen, Krampfanfälle, niedrige Blutdruckwerte und Dysurie werden verneint. <h2>Diagnoseliste</h2>- Leberzirrhose- Migräne<h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "d0d191fa-6086-40f5-abde-4ffb0d6c5a3f",
+  "topic": "neurology"
+}

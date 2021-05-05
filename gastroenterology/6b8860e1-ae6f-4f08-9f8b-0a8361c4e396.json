@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pharynxkarzinom</i> erhöhen würden: vergrösserte Lymphknoten, Raumforderung, Halsschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pharynxkarzinom</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Pharynxkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pharynxkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Hiatushernie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Mesotheliom</i> erhöhen würden: Exposition gegenüber Asbest</li></ul>",
+      "isCorrect": false,
+      "label": "Mesotheliom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mesotheliom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schilddrüsenkarzinom</i> erhöhen würden: Halsschwellung, vergrösserte Lymphknoten, Hautschwellung, Dysphonie</li></ul>",
+      "isCorrect": false,
+      "label": "Schilddrüsenkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schilddr%C3%BCsenkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hiatushernie</i> besser erklärt sind: retrosternales Brennen, Dysphagie</li></ul>",
+      "isCorrect": false,
+      "label": "Pleuraerguss",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pleuraerguss"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hiatushernie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hiatushernie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (60) bei Dysphagie.<br /><br />Zusätzlich berichtet der Patient über retrosternales Brennen seit drei Wochen sowie Husten und Dyspnoe.<br /><br />Der Patient könne ein Stockwerk ohne Pause hochsteigen.<br /><br /> Eine Exposition gegenüber Asbest wird verneint. <br /><br />Vergrösserte Lymphknoten, Thoraxschmerzen, Erbrechen, eine Hautschwellung, Odynophagie, Obstipation und eine Halsschwellung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 25py (20 Zigaretten täglich während 25 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",
+  "id": "6b8860e1-ae6f-4f08-9f8b-0a8361c4e396",
+  "topic": "gastroenterology"
+}

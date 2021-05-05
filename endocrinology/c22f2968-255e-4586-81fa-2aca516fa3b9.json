@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetische Ketoazidose</i> besser erklärt sind: Polyurie, Müdigkeit, Sehstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelallergie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetische Ketoazidose</i> besser erklärt sind: Sehstörungen, Dyspnoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Diabetische Ketoazidose",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetische Ketoazidose</i> besser erklärt sind: Polyurie, Müdigkeit, Sehstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktischer Schock</i> erhöhen würden: niedrige Blutdruckwerte, Tachykardien, Schwindel, Hautveränderungen, Pruritus, Hautschwellung, Lidschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktischer Schock",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktischer_Schock"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetische Ketoazidose</i> besser erklärt sind: Polyurie, Müdigkeit, Sehstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktische Reaktion</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Lidschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktische Reaktion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktische_Reaktion"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (60) bei brennenden Bauchschmerzen seit fünf Stunden.<br /><br />Zusätzlich berichtet der Patient über Polyurie seit vier Tagen sowie eine vermehrte Müdigkeit, Nausea, Sehstörungen, Dyspnoe und einen vorübergehenden Bewusstseinsverlust.<br /><br />Schwindel, Hautveränderungen, Husten und Rhinorrhoe werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "c22f2968-255e-4586-81fa-2aca516fa3b9",
+  "topic": "endocrinology"
+}

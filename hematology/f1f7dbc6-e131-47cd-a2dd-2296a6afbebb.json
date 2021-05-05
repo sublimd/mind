@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische myeloische Leukämie</i> besser erklärt sind: Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
+      "isCorrect": false,
+      "label": "Nierenkarzinom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische myeloische Leukämie</i> besser erklärt sind: Bauchschmerzen, Nasenbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Bakterielle Endokarditis</i> erhöhen würden: Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Bakterielle Endokarditis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Chronische myeloische Leukämie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Chronische myeloische Leukämie</i> besser erklärt sind: Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute myeloische Leukämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_myeloische_Leuk%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische myeloische Leukämie</i> besser erklärt sind: Bauchschmerzen, Nasenbluten</li></ul>",
+      "isCorrect": false,
+      "label": "Lungentuberkulose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungentuberkulose"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chronische myeloische Leukämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronische_myeloische_Leuk%C3%A4mie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (64) bei Fieber seit 2 Wochen.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit seit einem Monat sowie Nachtschweiss, Bauchschmerzen (bis VAS 4/10) im linken Oberbauch und Nasenbluten.<br /><br />Eine Strahlenexposition in der Vergangenheit wird bejaht.<br /><br />Nausea, Dyspnoe, ein Gewichtsverlust, Hämaturie, eine Schwellung der Unterschenkel, Schlafstörungen und eine depressive Verstimmung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 48py (30 Zigaretten täglich während 32 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein).",
+  "id": "f1f7dbc6-e131-47cd-a2dd-2296a6afbebb",
+  "topic": "hematology"
+}

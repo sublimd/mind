@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chronische Rhinosinusitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Rhinosinusitis</i> besser erklärt sind: Kopfschmerzen, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Halsschmerzen, Odynophagie, Fieber, Schüttelfrost, Dyspnoe, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktischer Schock</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Lidschwellung, Synkope, Bewusstseinsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktischer Schock",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktischer_Schock"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Rhinosinusitis</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelallergie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chronische Rhinosinusitis</i> besser erklärt sind: Kopfschmerzen, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Polyposis nasi</i> erhöhen würden: Schnarchen</li></ul>",
+      "isCorrect": false,
+      "label": "Polyposis nasi",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polyposis_nasi"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (76) bei einer nasalen Obstruktion und purulenter Rhinorrhoe.<br /><br />Zusätzlich berichtet der Patient über dumpfe Kopfschmerzen frontal seit drei Monaten und Nausea.<br /><br />Die aktuelle Intensität der Kopfschmerzen liege bei VAS 6/10.<br /><br />Husten, Fieber, eine allgemeine Müdigkeit, eine Hyposmie, Ohrenschmerzen, Hautveränderungen, Schwindel, Tachykardien, niedrige Blutdruckwerte, Sehstörungen, Bauchschmerzen, Schlafstörungen, Lähmungserscheinungen, eine Photophobie, eine Phonophobie und Sensibilitätsstörungen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "04a0e2e6-7145-4c73-8b5e-52009123d2cf",
+  "topic": "ear-nose-and-throat"
+}
