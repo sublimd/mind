@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Klimakterisches Syndrom</i> besser erklärt sind: Menstruationsbeschwerden, Schlafstörungen, Probleme beim Geschlechtsverkehr, vaginaler Juckreiz, depressive Verstimmung</li></ul>",
+      "isCorrect": false,
+      "label": "Rheumatoide Arthritis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rheumatoide_Arthritis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Klimakterisches Syndrom</i> besser erklärt sind: Nachtschweiss, Probleme beim Geschlechtsverkehr, vaginaler Juckreiz, Gelenkschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: erhöhte Blutdruckwerte, Schwellung der Beine, Hautschwellung, Polyurie, vermehrtes Durstgefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Cushing Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cushing-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Klimakterisches Syndrom</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Klimakterisches Syndrom</i> besser erklärt sind: Menstruationsbeschwerden, Probleme beim Geschlechtsverkehr, vaginaler Juckreiz, Gelenkschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Morbus Basedow</i> erhöhen würden: Gewichtsverlust, Dyspnoe, Tremor, Diarrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Morbus Basedow",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Basedow"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Klimakterisches Syndrom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Klimakterisches Syndrom</i> besser erklärt sind: Menstruationsbeschwerden, Probleme beim Geschlechtsverkehr, vaginaler Juckreiz, Gelenkschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Gewichtsverlust, Dyspnoe, Tremor, Diarrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperthyreose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperthyreose"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (43) bei Nachtschweiss.<br /><br />Zusätzlich berichtet die Patientin über Menstruationsbeschwerden, Schlafstörungen, Probleme beim Geschlechtsverkehr, vaginalen Juckreiz, Gelenkschmerzen und eine depressive Verstimmung.<br /><br />Die Patientin gibt eine Verstärkung der Regelblutung an.<br /><br />Die Patientin esse seit Beginn der depressiven Episode mehr als gewohnt.<br /><br />Fieber, eine allgemeine Müdigkeit, Schüttelfrost, Palpitationen, Kopfschmerzen, Schwindel, Brustschmerzen, eine Urininkontinenz, Bauchschmerzen, Nykturie, ein unerfüllter Kinderwunsch und Angstzustände werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "d0884d6d-db81-442a-9543-89443d0d5f45",
+  "topic": "gynecology"
+}

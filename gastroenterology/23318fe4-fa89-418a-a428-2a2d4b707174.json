@@ -1,0 +1,41 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stabile Beckenringfraktur</i> erhöhen würden: Hüft- bzw. Rückenschmerzen, Sensibilitätsstörungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Stabile Beckenringfraktur</i> erhöhen würden: Kürzliches Trauma der unteren Extremität</li></ul>",
+      "isCorrect": false,
+      "label": "Stabile Beckenringfraktur",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Divertikulitis</i> erhöhen würden: Nausea, Erbrechen, Fieber, Obstipation, Diarrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mesenterialinfarkt</i> erhöhen würden: Nausea, Erbrechen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Mesenterialinfarkt</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Mesenterialinfarkt",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mesenterialinfarkt"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Divertikelblutung",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Divertikelblutung</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Diarrhoe, anale Schmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Proktitis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (72) bei Hämatochezie seit sechs Tagen.<br /><br />Das Blut sei farblich dunkelrot.<br /><br />Diarrhoe, Obstipation, Fieber, Nausea, Erbrechen, ein Gewichtsverlust, Blähungen, ein kürzliches Trauma sowie Synkopen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 48py (20 Zigaretten täglich während 48 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "23318fe4-fa89-418a-a428-2a2d4b707174",
+  "topic": "gastroenterology"
+}

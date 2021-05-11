@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Leptospirose Stadium I",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Kopfschmerzen, Diarrhoe, Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Augenrötung, Diarrhoe, Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Augenrötung, Odynophagie</li></ul>",
+      "isCorrect": false,
+      "label": "Malaria",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Leptospirose Stadium I</i> besser erklärt sind: Augenrötung, Odynophagie</li></ul>",
+      "isCorrect": false,
+      "label": "Typhus abdominalis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (71) bei Fieber seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen, Gliederschmerzen, eine Augenrötung, Diarrhoe, Husten, Odynophagie und ziehende Bauchschmerzen.<br /><br />Die Kopfschmerzen hätten explosionsartig begonnen und seien im Verlauf kommend und gehend.<br /><br />Der Stuhl sei breiig.<br /><br />Die Bauchschmerzen hätten aktuell eine Intensität von VAS 1/10.<br /><br />Ungewöhnlicher Kontakt zu Tieren und Reisen in tropische Regionen in den letzten sechs Monaten wird bejaht.<br /><br />Eine nasale Obstruktion, Dyspnoe, Dysurie, Niesen, Obstipation, Schüttelfrost und Nackensteifigkeit werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "13f9383b-cee3-4c95-a732-9bab6ac7be5d",
+  "topic": "infectiology"
+}

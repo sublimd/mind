@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rheumatoide Arthritis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rheumatoide_Arthritis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Handschmerzen, Nachtschweiss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Dysurie, Pollakisurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Harnwegsinfekt",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Harnwegsinfekt"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rheumatoide Arthritis</i> besser erklärt sind: Handschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Gewichtsverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische myeloische Leukämie</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische myeloische Leukämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronische_myeloische_Leuk%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Rheumatoide Arthritis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Systemischer Lupus erythematodes</i> erhöhen würden: Hautveränderungen, Thoraxschmerzen, Dyspnoe, Gewichtsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Systemischer Lupus erythematodes",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Systemischer_Lupus_erythematodes"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Rheumatoide Arthritis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Dermatomyositis</i> erhöhen würden: Muskelschwäche, Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Dermatomyositis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Dermatomyositis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (54) bei einer vermehrten Müdigkeit.<br /><br />Die Patientin schlafe tagsüber manchmal ungewollt ein.<br /><br />Zusätzlich berichtet die Patientin über linksseitige Handschmerzen (VAS 8/10) seit vier Monaten sowie Nachtschweiss.<br /><br />Fieber, Dysurie, Bauchschmerzen, Gliederschmerzen, Thoraxschmerzen, vergrösserte Lymphknoten, Lähmungserscheinungen, Knieschmerzen, eine Handsteifigkeit, eine Handschwellung und eine Handrötung werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "68a3ed17-587b-48c4-8539-16730d6b02c7",
+  "topic": "rheumatology"
+}

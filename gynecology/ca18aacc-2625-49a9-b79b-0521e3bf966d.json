@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Tuboovarialabszess</i> besser erklärt sind: Menstruationsbeschwerden, Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Hautüberwärmung, Hautschwellung, Schwellung der Beine, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Erysipel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Tuboovarialabszess</i> besser erklärt sind: Menstruationsbeschwerden, Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Divertikulitis</i> erhöhen würden: Obstipation, Diarrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Tuboovarialabszess",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Tuboovarialabszess</i> besser erklärt sind: Menstruationsbeschwerden</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Pankreatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Pankreatitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Pankreatitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Urolithiasis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Tuboovarialabszess</i> besser erklärt sind: Menstruationsbeschwerden, Rückenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Urolithiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Urolithiasis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (31) bei Fieber.<br /><br />Zusätzlich berichtet die Patientin über wellenförmige Bauchschmerzen im linken Unterbauch seit sechs Tagen sowie Menstruationsbeschwerden, Rückenschmerzen (bis VAS 8/10) und Nausea.<br /><br />Die Patientin gibt eine Verkürzung der Periodendauer an.<br /><br />Die Rückenschmerzen seien jeweils in der Nacht am stärksten.<br /><br />Erbrechen, Diarrhoe, Dysurie, Pollakisurie, eine Hautschwellung, Probleme beim Geschlechtsverkehr, vaginaler Ausfluss, Obstipation, eine Hautüberwärmung, Hämatochezie und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "ca18aacc-2625-49a9-b79b-0521e3bf966d",
+  "topic": "gynecology"
+}

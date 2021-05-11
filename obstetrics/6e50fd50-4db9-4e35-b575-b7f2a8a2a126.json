@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Spontanabort</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: Vaginaler Ausfluss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Extrauterine Gravidität (EUG)</i> erhöhen würden: Dysurie, Pollakisurie, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Extrauterine Gravidität (EUG)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Extrauteringravidit%C3%A4t"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Spontanabort</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tuboovarialabszess</i> erhöhen würden: Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
+      "label": "Tuboovarialabszess",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: vaginale Blutung</li></ul>",
+      "isCorrect": false,
+      "label": "Hydrosalpinx",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hydrosalpinx"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Zervixkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Zervixkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Spontanabort",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Spontanabort"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (30) bei ziehenden Bauchschmerzen seit einem Tag.<br /><br />Die Bauchschmerzen hätten aktuell eine Intensität von VAS 9/10.<br /><br />Zusätzlich berichtet die Patientin über anormale vaginale Blutungen und vaginalen Ausfluss.<br /><br />Der Ausfluss sei weisslich, cremig sowie fötide.<br /><br />Die Patientin schliesst die Möglichkeit einer Schwangerschaft nicht aus.<br /><br />Nausea, Erbrechen, Fieber, Diarrhoe, Dysurie, Obstipation, Probleme beim Geschlechtsverkehr, Schwindel, Hämatochezie und Meläna werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier und Wein).",
+  "id": "6e50fd50-4db9-4e35-b575-b7f2a8a2a126",
+  "topic": "obstetrics"
+}

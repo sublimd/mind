@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>M. Meulengracht</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gallenblasenperforation</i> erhöhen würden: Fieber, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Gallenblasenperforation",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>M. Meulengracht</i> besser erklärt sind: Ikterus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: depressive Verstimmung, Angstzustände, Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Prämenstruelles Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pr%C3%A4menstruelles_Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "M. Meulengracht",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Meulengracht"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>M. Meulengracht</i> besser erklärt sind: Ikterus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Dysurie, Pollakisurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Harnwegsinfekt</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Harnwegsinfekt",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Harnwegsinfekt"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Gewichtsverlust, Appetitverlust, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Leberzirrhose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Leberzirrhose"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (55) bei einem Ikterus seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über ziehende Bauchschmerzen (bis VAS 2/10).<br /><br />Eine allgemeine Müdigkeit, Fieber, Pruritus, Hautveränderungen, Hämaturie und Dysurie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "aad2df34-7862-42eb-9c95-fdb2bccb73d4",
+  "topic": "gastroenterology"
+}

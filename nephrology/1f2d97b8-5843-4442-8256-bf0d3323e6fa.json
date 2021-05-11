@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische tubulointerstitielle Nephritis</i> erhöhen würden: allgemeines Schwächegefühl, Müdigkeit, Leistungsabfall, Nausea, Erbrechen, Appetitverlust, Pruritus, Oligurie, Polyurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische tubulointerstitielle Nephritis</i> erhöhen würden: Kürzliche Verwendung von Analgetika oder Antibiotika in den letzten 3 Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische tubulointerstitielle Nephritis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Fokal segmentale Glomerulosklerose (FSGS)</i> besser erklärt sind: Hämaturie, erhöhte Blutdruckwerte</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rechtsherzinsuffizienz</i> erhöhen würden: Dyspnoe, Nykturie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Rechtsherzinsuffizienz</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Rechtsherzinsuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rechtsherzinsuffizienz"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Fokal segmentale Glomerulosklerose (FSGS)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fokal_segmentale_Glomerulosklerose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Fokal segmentale Glomerulosklerose (FSGS)</i> besser erklärt sind: erhöhte Blutdruckwerte</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Oligurie, Polyurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Nierenschädigung</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Nierenschädigung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Nierensch%C3%A4digung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Fokal segmentale Glomerulosklerose (FSGS)</i> besser erklärt sind: Hämaturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensive Nephropathie</i> erhöhen würden: Nausea, Erbrechen, Appetitverlust</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensive Nephropathie</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensive Nephropathie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypertensive_Nephropathie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (69) bei einer beidseitigen Unterschenkelschwellung seit zwei Wochen.<br /><br />Zusätzlich berichtet der Patient über Hämaturie und erhöhte Blutdruckwerte.<br /><br />Der Urin sei hauptsächlich zu Beginn der Miktion blutig.<br /><br />Die Einnahme von Analgetika oder Antibiotika in den letzten drei Monaten wird verneint. <br /><br />Wadenschmerzen, Hautveränderungen, Dyspnoe, Pruritus, ein Appetitverlust, Polyurie, eine Hautüberwärmung und Nausea werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "1f2d97b8-5843-4442-8256-bf0d3323e6fa",
+  "topic": "nephrology"
+}

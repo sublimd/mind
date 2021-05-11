@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>CPP-Kristall-Arthritis (Pseudogicht)</i> erhöhen würden: Hautüberwärmung</li></ul>",
+      "isCorrect": false,
+      "label": "CPP-Kristall-Arthritis (Pseudogicht)",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Schulterrötung</li></ul>",
+      "isCorrect": false,
+      "label": "Tendinitis der Rotatorenmanschette",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Subskapularissehnenruptur",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Subakromiale Bursitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Subakromiale Bursitis</i> besser erklärt sind: Schulterrötung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Schulterkontusion</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "isCorrect": false,
+      "label": "Schulterkontusion",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (36) bei atraumatischen Schulterschmerzen (VAS 8/10) mit Schulterrötung seit zwei Tagen.<br /><br />Eine Hautschwellung, eine Schulterschwellung, eine Schultersteifigkeit, eine Hautüberwärmung, Knieschmerzen, Fieber, eine Knierötung und Handgelenksschmerzen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "923551e7-27bb-4575-989c-6a5c71e50460",
+  "topic": "rheumatology"
+}

@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Analabszess",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Analabszess"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Analabszess</i> besser erklärt sind: Hautschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Proktitis</i> erhöhen würden: Hämatochezie, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Proktitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Analabszess</i> besser erklärt sind: Hautschwellung, Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Prostatitis</i> erhöhen würden: Dysurie, Pollakisurie, Urininkontinenz, Leistenschmerzen, Schmerzen im Genitalbereich, Hämaturie</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Prostatitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Analabszess</i> besser erklärt sind: Hautschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Hämatochezie, analer Juckreiz</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Analkarzinom</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Analkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Analkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Analabszess</i> besser erklärt sind: Hautschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lymphogranuloma inguinale</i> erhöhen würden: Leistenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Lymphogranuloma inguinale",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lymphogranuloma_inguinale"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (54) bei analen Schmerzen seit zwei Tagen.<br /><br />Verstärkung der analen Schmerzen beim Stuhlgang.<br /><br />Zusätzlich berichtet der Patient über eine Hautschwellung perianal und Obstipation.<br /><br />Hämatochezie, analer Juckreiz, eine Urininkontinenz, Leistenschmerzen, Bauchschmerzen und Nausea werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "5a1ed25b-17c8-451e-91e3-06adcdb3bcf4",
+  "topic": "gastroenterology"
+}
