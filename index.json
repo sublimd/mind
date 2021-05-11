@@ -645,6 +645,10 @@
       "topic": "endocrinology"
     },
     {
+      "id": "6074a848-745a-4dd8-b716-de83ec54ec40",
+      "topic": "endocrinology"
+    },
+    {
       "id": "7428bbc1-c928-4791-982a-e4a68def0427",
       "topic": "endocrinology"
     },
@@ -769,6 +773,10 @@
       "topic": "gastroenterology"
     },
     {
+      "id": "23318fe4-fa89-418a-a428-2a2d4b707174",
+      "topic": "gastroenterology"
+    },
+    {
       "id": "23593fb4-ed25-4783-be35-dafeacc4b232",
       "topic": "gastroenterology"
     },
@@ -830,6 +838,10 @@
     },
     {
       "id": "59a0cca5-417d-4e6b-afb7-15d9552e2b3f",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "5a1ed25b-17c8-451e-91e3-06adcdb3bcf4",
       "topic": "gastroenterology"
     },
     {
@@ -918,6 +930,10 @@
     },
     {
       "id": "a8a175da-1979-4365-bf82-20c9861c9aba",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "aad2df34-7862-42eb-9c95-fdb2bccb73d4",
       "topic": "gastroenterology"
     },
     {
@@ -1037,6 +1053,10 @@
       "topic": "obstetrics"
     },
     {
+      "id": "6e50fd50-4db9-4e35-b575-b7f2a8a2a126",
+      "topic": "obstetrics"
+    },
+    {
       "id": "7a2e4d57-89a0-47fa-b461-0bdc45ef742d",
       "topic": "obstetrics"
     },
@@ -1101,6 +1121,10 @@
       "topic": "gynecology"
     },
     {
+      "id": "4e84eff2-47ce-4737-8c21-b22d66272cc1",
+      "topic": "gynecology"
+    },
+    {
       "id": "4f37c596-8c27-465e-822b-e4b0b0ec3d72",
       "topic": "gynecology"
     },
@@ -1161,7 +1185,15 @@
       "topic": "gynecology"
     },
     {
+      "id": "ca18aacc-2625-49a9-b79b-0521e3bf966d",
+      "topic": "gynecology"
+    },
+    {
       "id": "ca30d4eb-5145-438c-9841-ae3ef9378996",
+      "topic": "gynecology"
+    },
+    {
+      "id": "d0884d6d-db81-442a-9543-89443d0d5f45",
       "topic": "gynecology"
     },
     {
@@ -1183,6 +1215,10 @@
     {
       "id": "fff404ed-554f-4dd5-bbc2-e0e365cb92ad",
       "topic": "gynecology"
+    },
+    {
+      "id": "0352022f-accb-4ead-9a98-e434e4846744",
+      "topic": "hematology"
     },
     {
       "id": "10a598e1-9ed7-4156-8a6e-6fa79b04419c",
@@ -1501,6 +1537,10 @@
       "topic": "infectiology"
     },
     {
+      "id": "13f9383b-cee3-4c95-a732-9bab6ac7be5d",
+      "topic": "infectiology"
+    },
+    {
       "id": "1a3836bb-93d0-4023-b5d9-ca1aa491ffaf",
       "topic": "infectiology"
     },
@@ -1757,11 +1797,19 @@
       "topic": "nephrology"
     },
     {
+      "id": "1f2d97b8-5843-4442-8256-bf0d3323e6fa",
+      "topic": "nephrology"
+    },
+    {
       "id": "1f96ca54-c6ac-4678-8edb-3bfa1aaa1eb7",
       "topic": "nephrology"
     },
     {
       "id": "23f95fde-b39d-4d89-b964-4de970abf39c",
+      "topic": "nephrology"
+    },
+    {
+      "id": "27487845-04d1-4363-8b16-17451524d5ba",
       "topic": "nephrology"
     },
     {
@@ -2109,6 +2157,10 @@
       "topic": "neurology"
     },
     {
+      "id": "e0ad41a6-7f5a-417f-9337-687645180edf",
+      "topic": "neurology"
+    },
+    {
       "id": "e871bc71-87e1-4522-89a3-3f383ed0295d",
       "topic": "neurology"
     },
@@ -2361,6 +2413,10 @@
       "topic": "pneumology"
     },
     {
+      "id": "a60f7726-1d43-4670-a631-a4d93c8f74c4",
+      "topic": "pneumology"
+    },
+    {
       "id": "ade3ea3a-6d68-4ffc-bf2c-fd167a03f45c",
       "topic": "pneumology"
     },
@@ -2453,6 +2509,10 @@
       "topic": "rheumatology"
     },
     {
+      "id": "1f5b8c03-799b-43d4-9fb8-b815cd64e898",
+      "topic": "rheumatology"
+    },
+    {
       "id": "1f7a0141-98f1-4055-83d0-728ef276ac7b",
       "topic": "rheumatology"
     },
@@ -2497,11 +2557,19 @@
       "topic": "rheumatology"
     },
     {
+      "id": "5df89ddf-8c56-48e1-a93c-35da1fe1bd7f",
+      "topic": "rheumatology"
+    },
+    {
       "id": "612a9063-9c41-4f06-8d5c-b81fc245944b",
       "topic": "rheumatology"
     },
     {
       "id": "630e90ec-db74-4167-87c7-8039f0f9972a",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "68a3ed17-587b-48c4-8539-16730d6b02c7",
       "topic": "rheumatology"
     },
     {
@@ -2522,6 +2590,10 @@
     },
     {
       "id": "86633d9a-57c7-4a0d-a7f5-acda2386b347",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "923551e7-27bb-4575-989c-6a5c71e50460",
       "topic": "rheumatology"
     },
     {
@@ -2614,6 +2686,10 @@
     },
     {
       "id": "862b5b26-84fb-4e25-b423-1c7bafe495e9",
+      "topic": "toxicology"
+    },
+    {
+      "id": "b466d2bb-d9f6-4f7b-a279-54dfab63faa0",
       "topic": "toxicology"
     },
     {

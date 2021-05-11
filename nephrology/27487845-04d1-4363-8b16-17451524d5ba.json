@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Nierenschädigung</i> besser erklärt sind: Oligurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Leberzirrhose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Leberzirrhose"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Nierenschädigung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Nierensch%C3%A4digung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Akute Nierenschädigung</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische tubulointerstitielle Nephritis</i> erhöhen würden: Kürzliche Verwendung von Antibiotika oder Analgetika in den letzten 3 Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische tubulointerstitielle Nephritis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Nierenschädigung</i> besser erklärt sind: Oligurie, Hämaturie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische Niereninsuffizienz</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische Niereninsuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronische_Niereninsuffizienz"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Nierenschädigung</i> besser erklärt sind: Oligurie, Hämaturie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Diabetische Nephropathie</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Diabetische Nephropathie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Diabetische_Nephropathie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei einer beidseitigen Unterschenkelschwellung seit zwei Tagen.<br /><br />Zusätzlich berichtet der Patient über Oligurie, Nausea und Hämaturie.<br /><br />Die kürzliche Einnahme von Analgetika oder Antibiotika wird verneint. <br /><br />Wadenschmerzen, Hautveränderungen, Dyspnoe, Pruritus, eine Hautüberwärmung, Schwindel, Flankenschmerzen, Schlafstörungen, ein Gewichtsverlust und ein Ikterus werden verneint. <h2>Diagnoseliste</h2>- Kardiogener Schock<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 51py (30 Zigaretten täglich während 34 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "27487845-04d1-4363-8b16-17451524d5ba",
+  "topic": "nephrology"
+}

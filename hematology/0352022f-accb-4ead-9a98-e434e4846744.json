@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Immunthrombozytopenie (ITP)</i> besser erklärt sind: Zahnfleischbluten, Hämatemesis</li></ul>",
+      "isCorrect": false,
+      "label": "Pityriasis rosea",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pityriasis_rosea"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Immunthrombozytopenie (ITP)</i> besser erklärt sind: Zahnfleischbluten, Hämatemesis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Immunthrombozytopenie (ITP)</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Gewichtsverlust, Appetitverlust, Ikterus, Pruritus, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Leberzirrhose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Leberzirrhose"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Immunthrombozytopenie (ITP)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Immunthrombozytopenie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute myeloische Leukämie</i> erhöhen würden: Nachtschweiss</li></ul>",
+      "isCorrect": false,
+      "label": "Akute myeloische Leukämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_myeloische_Leuk%C3%A4mie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (25) bei einer bläulichen Hautveränderung.<br /><br />Als möglicher Auslöser der Hautveränderung berichtet der Patient von einer Wärmeexposition.<br /><br />Zusätzlich berichtet der Patient über Zahnfleischbluten seit neun Tagen sowie eine vermehrte Müdigkeit, pulsierende Kopfschmerzen (bis VAS 5/10) und Hämatemesis.<br /><br />Die Müdigkeit sei am Abend am stärksten ausgeprägt.<br /><br />Die Kopfschmerzen hätten schleichend begonnen und seien im Verlauf gleichbleibend. Die Kopfschmerzen würden sich hinsichtlich Schmerzintensität von früheren Episoden unterscheiden. Die aktuelle Intensität der Kopfschmerzen liege bei VAS 9/10.<br /><br />Fieber, vergrösserte Lymphknoten, Halsschmerzen, Nausea und Odynophagie werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "0352022f-accb-4ead-9a98-e434e4846744",
+  "topic": "hematology"
+}

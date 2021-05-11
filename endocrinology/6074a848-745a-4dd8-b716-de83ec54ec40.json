@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Hypoglykämie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Hypoglykämie</i> besser erklärt sind: Krampfanfall</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sichelzellkrise</i> erhöhen würden: Gelenk- bzw. Extremitätenschmerzen, Dyspnoe, Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Sichelzellkrise",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypoglykämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoglyk%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>AV-Knoten-Reentry-Tachykardie</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Hypoglykämie</i> besser erklärt sind: Kopfschmerzen, Krampfanfall</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>AV-Knoten-Reentry-Tachykardie</i> erhöhen würden: Dyspnoe, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "AV-Knoten-Reentry-Tachykardie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/AV-Knoten-Reentrytachykardie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypoglykämie</i> besser erklärt sind: Kopfschmerzen, Krampfanfall</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atrioventrikuläre Reentry-Tachykardie (AVRT)</i> erhöhen würden: Dyspnoe, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Atrioventrikuläre Reentry-Tachykardie (AVRT)",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypoglykämie</i> besser erklärt sind: Kopfschmerzen, Krampfanfall</li></ul>",
+      "isCorrect": false,
+      "label": "Extrasystolen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Extrasystole"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (30) bei Palpitationen (Ausstrahlung des Herzschlags) seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über Schwindel, Nausea, dumpfe Kopfschmerzen und einem vorangegangenen Krampfanfall.<br /><br />Die Kopfschmerzen hätten explosionsartig begonnen. Die aktuelle Intensität der Kopfschmerzen liege bei VAS 7/10.<br /><br />Dyspnoe, Thoraxschmerzen, Fieber, Synkopen, eine Hyperhidrose, Sensibilitätsstörungen, eine Wärmeintoleranz, Sehstörungen und Handschmerzen werden verneint. <h2>Diagnoseliste</h2>- Status nach Malariainfektion<h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 1py (20 Zigaretten täglich während 1 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "6074a848-745a-4dd8-b716-de83ec54ec40",
+  "topic": "endocrinology"
+}

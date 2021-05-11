@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Vulvakarzinom</i> besser erklärt sind: Schmerzen im Genitalbereich</li></ul>",
+      "isCorrect": false,
+      "label": "Atopische Dermatitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Atopische_Dermatitis_des_Hundes"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Vulvakarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vulvakarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Vulvakarzinom</i> besser erklärt sind: Schmerzen im Genitalbereich</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Arzneimittelexanthem</i> erhöhen würden: Fieber</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Arzneimittelexanthem</i> erhöhen würden: Kürzliche Verwendung von Analgetika oder Antibiotika</li></ul>",
+      "isCorrect": false,
+      "label": "Arzneimittelexanthem",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Arzneimittelexanthem"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Vulvakarzinom</i> besser erklärt sind: Schmerzen im Genitalbereich</li></ul>",
+      "isCorrect": false,
+      "label": "Insektenstich",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Insektenstich"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Vulvakarzinom</i> besser erklärt sind: Schmerzen im Genitalbereich</li></ul>",
+      "isCorrect": false,
+      "label": "Dermatofibrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Dermatofibrom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (48) bei einer Hautveränderung im Genitalbereich seit vier Monaten.<br /><br />Zusätzlich berichtet die Patientin über Pruritus im Genitalbereich und genitale Schmerzen.<br /><br />Die Einnahme von Analgetika oder Antibiotika in den letzten drei Monaten wird verneint. <br /><br />Eine Hautschwellung, Fieber, vergrösserte Lymphknoten, Dyspnoe, Nausea, Dysurie, Hämatochezie, vaginale Blutungen und Stridor werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucherin: 12py (10 Zigaretten täglich während 24 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "4e84eff2-47ce-4737-8c21-b22d66272cc1",
+  "topic": "gynecology"
+}

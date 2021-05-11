@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Kokain-Intoxikation</i> besser erklärt sind: Aggressivität</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktische Reaktion</i> erhöhen würden: Pruritus, Hautschwellung, Lidschwellung, Nausea, Erbrechen, Bauchschmerzen, Diarrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktische Reaktion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktische_Reaktion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Kokain-Intoxikation</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Kokain-Intoxikation</i> besser erklärt sind: Dyspnoe, Aggressivität</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Phäochromozytom</i> erhöhen würden: Hyperhidrose, Wärmeintoleranz</li></ul>",
+      "isCorrect": false,
+      "label": "Phäochromozytom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ph%C3%A4ochromozytom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Kokain-Intoxikation</i> besser erklärt sind: erhöhte Blutdruckwerte, Kopfschmerzen, Aggressivität</li></ul>",
+      "isCorrect": false,
+      "label": "Sinustachykardie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sinustachykardie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Kokain-Intoxikation</i> besser erklärt sind: erhöhte Blutdruckwerte, Kopfschmerzen, Aggressivität</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vorhofflimmern</i> erhöhen würden: Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Vorhofflimmern",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vorhofflimmern"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Kokain-Intoxikation",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (31) bei Tachykardien seit einem Tag.<br /><br />Zusätzlich berichtet der Patient über erhöhte Blutdruckwerte, Kopfschmerzen (bis VAS 3/10), Dyspnoe und aggressives Verhalten.<br /><br />Die Kopfschmerzen hätten explosionsartig begonnen.<br /><br />Eine allgemeine Müdigkeit, Fieber, Synkopen, Hautveränderungen, Angstzustände, Pruritus und Palpitationen werden verneint. <h2>Systemanamnese</h2><strong>Noxen:</strong> Raucher: 12py (20 Zigaretten täglich während 12 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "b466d2bb-d9f6-4f7b-a279-54dfab63faa0",
+  "topic": "toxicology"
+}
