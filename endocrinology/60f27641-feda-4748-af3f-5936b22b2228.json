@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Primärer Hyperaldosteronismus (Conn-Syndrom)</i> besser erklärt sind: erhöhte Blutdruckwerte</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypoparathyroidismus</i> erhöhen würden: komplette Thyroidektomie</li></ul>",
+      "isCorrect": false,
+      "label": "Hypoparathyroidismus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoparathyreoidismus"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Primärer Hyperaldosteronismus (Conn-Syndrom)</i> besser erklärt sind: erhöhte Blutdruckwerte, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokalzämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokalz%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Primärer Hyperaldosteronismus (Conn-Syndrom)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Prim%C3%A4rer_Hyperaldosteronismus"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Primärer Hyperaldosteronismus (Conn-Syndrom)</i> besser erklärt sind: erhöhte Blutdruckwerte, Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Syndrom der inadäquaten ADH-Sekretion (SIADH)</i> erhöhen würden: Nausea, Erbrechen, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Syndrom_der_inad%C3%A4quaten_ADH-Sekretion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Primärer Hyperaldosteronismus (Conn-Syndrom)</i> besser erklärt sind: Muskelkrämpfe, Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Obstruktives Schlafapnoesyndrom (OSAS)</i> erhöhen würden: Schnarchen, Schlafstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Obstruktives Schlafapnoesyndrom (OSAS)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Obstruktives_Schlafapnoesyndrom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (29) bei einer vermehrten Müdigkeit.<br /><br />Zusätzlich berichtet der Patient über erhöhte Blutdruckwerte seit zwei Monaten sowie Muskelkrämpfe, stechende Kopfschmerzen und Sensibilitätsstörungen.<br /><br />Die Kopfschmerzen hätten schleichend begonnen. Die aktuelle Intensität der Kopfschmerzen liege bei VAS 3/10.<br /><br /> Eine Thyroidektomie in der Vergangenheit wird verneint. <br /><br />Schlafstörungen, Nausea, Thoraxschmerzen, Schwindel, Angstzustände und Beinschmerzen werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucher: 1 pack-year (10 Zigaretten täglich während 2 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "60f27641-feda-4748-af3f-5936b22b2228",
+  "topic": "endocrinology"
+}

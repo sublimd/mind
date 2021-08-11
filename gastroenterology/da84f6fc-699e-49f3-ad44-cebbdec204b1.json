@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Stomatitis</i> besser erklärt sind: orale Schmerzen, Halitosis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hand-Fuss-Mund-Krankheit</i> erhöhen würden: Halsschmerzen, Odynophagie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hand-Fuss-Mund-Krankheit</i> erhöhen würden: Kontakt zu kranken Personen</li></ul>",
+      "isCorrect": false,
+      "label": "Hand-Fuss-Mund-Krankheit",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hand-Fu%C3%9F-Mund-Krankheit"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Stomatitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Stomatitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Stomatitis</i> besser erklärt sind: orale Schmerzen, orale Hautveränderungen, Appetitlosigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Kopfschmerzen, Gesichtsschmerzen, Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Rhinosinusitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sinusitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Stomatitis</i> besser erklärt sind: Hautveränderungen, Appetitlosigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gingivitis</i> erhöhen würden: Zahnfleischbluten, Geschmacksstörung</li></ul>",
+      "isCorrect": false,
+      "label": "Gingivitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Gingivitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Stomatitis</i> besser erklärt sind: orale Schmerzen, Halitosis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Kopfschmerzen, Gliederschmerzen, Gelenkschmerzen, Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 1",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (41) bei Halitosis.<br /><br />Zusätzlich berichtet der Patient über brennende orale Schmerzen seit fünf Tagen, eine Hautveränderung im Bereich des Mundes und Appetitlosigkeit.<br /><br />Der Aufenthalt in Wäldern und der Kontakt zu kranken Personen wird verneint. <br /><br />Zahnfleischbluten, Kopfschmerzen, Fieber, eine Hypersalivation, Halsschmerzen und eine Odynophagie werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucher: 11 pack-years (20 Zigaretten täglich während 11 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",
+  "id": "da84f6fc-699e-49f3-ad44-cebbdec204b1",
+  "topic": "gastroenterology"
+}

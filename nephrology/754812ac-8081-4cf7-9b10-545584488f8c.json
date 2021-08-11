@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Harnwegsinfekt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chlamydien-Zervizitis</i> erhöhen würden: Vaginaler Ausfluss, vaginale Blutung, Probleme beim Geschlechtsverkehr</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chlamydien-Zervizitis</i> erhöhen würden: Ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
+      "isCorrect": false,
+      "label": "Chlamydien-Zervizitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Harnwegsinfekt</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Descensus uteri</i> erhöhen würden: Mehrere Geburten in der Vergangenheit</li></ul>",
+      "isCorrect": false,
+      "label": "Descensus uteri",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Descensus_uteri"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Harnwegsinfekt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Bakterielle Vaginose</i> erhöhen würden: Vaginaler Ausfluss, vaginaler Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Bakterielle Vaginose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Bakterielle_Vaginose"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Harnwegsinfekt",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Harnwegsinfekt"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Harnwegsinfekt</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atrophe Vaginitis</i> erhöhen würden: vaginaler Pruritus, Probleme beim Geschlechtsverkehr, vaginale Blutung, Vaginaler Ausfluss</li></ul>",
+      "isCorrect": false,
+      "label": "Atrophe Vaginitis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (62) bei Dysurie seit acht Tagen.<br /><br /> Ungeschützter Geschlechtsverkehr in der Vergangenheit wird verneint. <br /><br />Bauchschmerzen, Fieber, eine Urininkontinenz, eine Hämaturie, Probleme beim Geschlechtsverkehr, Flankenschmerzen, urethraler Ausfluss, vaginaler Pruritus, Obstipation, Diarrhoe und perineale Schmerzen werden verneint.<h2>Diagnoseliste</h2>- Diabetes mellitus Typ 2<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "754812ac-8081-4cf7-9b10-545584488f8c",
+  "topic": "nephrology"
+}

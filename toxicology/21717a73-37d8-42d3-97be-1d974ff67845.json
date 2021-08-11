@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Paracetamol-Intoxikation",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Paracetamol-Intoxikation</i> besser erklärt sind: Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Laktatazidose</i> erhöhen würden: Gliederschmerzen, Muskelkrämpfe, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Laktatazidose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Laktatazidose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Paracetamol-Intoxikation</i> besser erklärt sind: Schwindel, Tachykardien</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Koprostase</i> erhöhen würden: Obstipation, Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Koprostase",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Koprostase"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Paracetamol-Intoxikation</i> besser erklärt sind: Bauchschmerzen, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Paracetamol-Intoxikation</i> besser erklärt sind: Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pankreatitis</i> erhöhen würden: Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Pankreatitis</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Pankreatitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Pankreatitis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (79) bei Bauchschmerzen (bis VAS 4/10) im rechten Oberbauch.<br /><br />Zusätzlich berichtet der Patient über Appetitlosigkeit seit einem Tag sowie Schwindel und Tachykardien.<br /><br />Der Schwindel trete mit einer Häufigkeit von pro Stunde auf.<br /><br />Diarrhoe, Blähungen, Dyspnoe, ein Ikterus, eine Verwirrtheit, eine Hyperhidrose und Muskelkrämpfe werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "21717a73-37d8-42d3-97be-1d974ff67845",
+  "topic": "toxicology"
+}

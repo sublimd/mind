@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ulcus cruris</i> besser erklärt sind: Offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombophlebitis</i> erhöhen würden: Beinschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Thrombophlebitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Thrombophlebitis"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ulcus cruris",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ulcus_cruris"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ulcus cruris</i> besser erklärt sind: Offene Wunde</li></ul>",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronisch-ven%C3%B6se_Insuffizienz"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ulcus cruris</i> besser erklärt sind: Offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tiefe Venenthrombose</i> erhöhen würden: Beinschmerzen, Hautüberwärmung</li></ul>",
+      "isCorrect": false,
+      "label": "Tiefe Venenthrombose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Tiefe_Venenthrombose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ulcus cruris</i> besser erklärt sind: Offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stauungsekzem</i> erhöhen würden: Varizen</li></ul>",
+      "isCorrect": false,
+      "label": "Stauungsekzem",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (64) bei einer erythematösen Hautveränderung und einer offenen Wunde am rechten Unterschenkel.<br /><br />Zusätzlich berichtet der Patient über eine beidseitige Unterschenkelschwellung.<br /><br />Wadenschmerzen, Varizen und eine Hautüberwärmung werden verneint.<h2>Diagnoseliste</h2>- Arterielle Hypertonie- Diabetes mellitus Typ 2- Periphere arterielle Verschlusskrankheit (PAVK)<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucher, 30 pack-years. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",
+  "id": "23d3b691-d493-4789-a9b5-2200a1efc4cf",
+  "topic": "angiology"
+}

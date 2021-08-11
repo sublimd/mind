@@ -1,7 +1,7 @@
 {
   "answers": [
     {
-      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes genitalis</i> erhöhen würden: Schmerzen im Genitalbereich, Pruritus, Dysurie</li></ul>",
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: Offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes genitalis</i> erhöhen würden: Schmerzen im Genitalbereich, Pruritus, Dysurie</li></ul>",
       "isCorrect": false,
       "label": "Herpes genitalis",
       "references": {
@@ -11,7 +11,7 @@
       }
     },
     {
-      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Husten, Kopfschmerzen, Gliederschmerzen, Gelenkschmerzen, Dyspnoe</li></ul>",
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: Offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Husten, Kopfschmerzen, Gliederschmerzen, Gelenkschmerzen, Dyspnoe</li></ul>",
       "isCorrect": false,
       "label": "Influenza",
       "references": {
@@ -21,7 +21,7 @@
       }
     },
     {
-      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautüberwärmung, Hautschwellung, Schwellung der Beine</li></ul>",
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: Offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautüberwärmung, Hautschwellung, Schwellung der Beine</li></ul>",
       "isCorrect": false,
       "label": "Erysipel",
       "references": {
@@ -41,7 +41,7 @@
       }
     },
     {
-      "explanation": "<ul><li><i>Lues</i> tritt statistisch häufiger auf</li><li><i>Lymphogranuloma inguinale</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lymphogranuloma inguinale</i> erhöhen würden: Leistenschmerzen</li></ul>",
+      "explanation": "<ul><li><i>Lues</i> tritt statistisch häufiger auf</li><li><i>Lymphogranuloma inguinale</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: Offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lymphogranuloma inguinale</i> erhöhen würden: Leistenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Lymphogranuloma inguinale",
       "references": {

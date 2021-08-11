@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Morbus Fabry</i> besser erklärt sind: Beinschmerzen, Hypohidrose, Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Koprostase</i> erhöhen würden: Appetitlosigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Koprostase",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Koprostase"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Morbus Fabry</i> besser erklärt sind: Beinschmerzen, Hypohidrose</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Prämenstruelles Syndrom</i> erhöhen würden: depressive Verstimmung, Angstzustände</li></ul>",
+      "isCorrect": false,
+      "label": "Prämenstruelles Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pr%C3%A4menstruelles_Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Morbus Fabry</i> besser erklärt sind: Beinschmerzen, Hypohidrose, Müdigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Funktionelle Dyspepsie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Funktionelle_Dyspepsie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Morbus Fabry",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Fabry"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Morbus Fabry</i> besser erklärt sind: Beinschmerzen, Hypohidrose</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Endometriose</i> erhöhen würden: Menstruationsbeschwerden, Probleme beim Geschlechtsverkehr</li></ul>",
+      "isCorrect": false,
+      "label": "Endometriose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Endometriose"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (25) bei beidseitigen Beinschmerzen seit drei Wochen.<br /><br />Zusätzlich berichtet die Patientin über eine Hypohidrose, Bauchschmerzen (bis VAS 6/10), Nausea, Blähungen und eine vermehrte Müdigkeit.<br /><br />Rückenschmerzen, Beinschwellungen, Hautveränderungen, Sensibilitätsstörungen, eine Muskelschwäche, eine Appetitlosigkeit, Synkopen, kalte Hautstellen, saures Aufstossen, eine Gewichtszunahme und Menstruationsbeschwerden werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "a9b57971-27d2-4a90-bcb1-f2ec5ccd9f26",
+  "topic": "genetic-disorders"
+}

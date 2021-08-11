@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Fremdkörper in der Nase",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Fremdkörper in der Nase</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Retropharyngealabszess</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, Fieber, Schüttelfrost, Nackenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Retropharyngealabszess",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Fremdkörper in der Nase</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Granulomatose mit Polyangiitis</i> erhöhen würden: Husten, Hämoptoe, Dyspnoe, Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Granulomatose mit Polyangiitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Granulomatose_mit_Polyangiitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktischer Schock</i> erhöhen würden: niedrige Blutdruckwerte, Tachykardien, Schwindel, Hautveränderungen, Pruritus, Hautschwellung, Lidschwellung, Nausea, Erbrechen, Bauchschmerzen, Diarrhoe, Synkope, Bewusstseinsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktischer Schock",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktischer_Schock"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische Rhinosinusitis</i> erhöhen würden: Kopfschmerzen, Gesichtsschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische Rhinosinusitis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (9) bei Rhinorrhoe aus dem linken Nasenloch und nasaler Obstruktion seit vier Tagen.<br /><br />Kopfschmerzen, Dyspnoe, Hautveränderungen, Schwindel und Epistaxis werden verneint.",
+  "id": "3c3307b1-2475-4ab2-a4fd-14da795ebeb9",
+  "topic": "ear-nose-and-throat"
+}
