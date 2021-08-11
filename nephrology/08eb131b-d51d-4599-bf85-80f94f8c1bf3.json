@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Hydatidentorsion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hydatidentorsion"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Epididymitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Epididymitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Akute Hydatidentorsion</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hodenkarzinom (Seminom)</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Hodenkarzinom (Seminom)",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Hydatidentorsion</i> besser erklärt sind: Hodenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nierenkarzinom</i> erhöhen würden: Hämaturie</li></ul>",
+      "isCorrect": false,
+      "label": "Nierenkarzinom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Akute Hydatidentorsion</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Hodenkarzinom (Non-Seminom)",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (9) bei einer Hodenschwellung.<br /><br />Zusätzlich berichtet der Patient über dumpfe Hodenschmerzen seit drei Stunden.<br /><br />Die Hodenschmerzen hätten aktuell eine Intensität von VAS 6/10.<br /><br />Leistenschmerzen, Bauchschmerzen, Fieber, Nausea, eine Hämaturie, Dysurie, Rückenschmerzen, Flankenschmerzen, ein Gewichtsverlust und Hautveränderungen werden verneint.",
+  "id": "08eb131b-d51d-4599-bf85-80f94f8c1bf3",
+  "topic": "nephrology"
+}

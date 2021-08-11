@@ -1,7 +1,7 @@
 {
   "answers": [
     {
-      "explanation": "<ul><li>Probleme, welche durch <i>Ulcus cruris</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stauungsekzem</i> erhöhen würden: Varizen</li></ul>",
+      "explanation": "<ul><li>Probleme, welche durch <i>Ulcus cruris</i> besser erklärt sind: Offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Stauungsekzem</i> erhöhen würden: Varizen</li></ul>",
       "isCorrect": false,
       "label": "Stauungsekzem",
       "references": {}
@@ -37,7 +37,7 @@
       }
     },
     {
-      "explanation": "<ul><li>Probleme, welche durch <i>Ulcus cruris</i> besser erklärt sind: offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombophlebitis</i> erhöhen würden: Bein- oder Wadenschmerzen</li></ul>",
+      "explanation": "<ul><li>Probleme, welche durch <i>Ulcus cruris</i> besser erklärt sind: Offene Wunde</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombophlebitis</i> erhöhen würden: Bein- oder Wadenschmerzen</li></ul>",
       "isCorrect": false,
       "label": "Thrombophlebitis",
       "references": {

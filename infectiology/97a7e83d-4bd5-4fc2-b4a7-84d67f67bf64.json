@@ -11,7 +11,7 @@
       }
     },
     {
-      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde, vergrösserter Lymphknoten</li></ul>",
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: Offene Wunde, vergrösserter Lymphknoten</li></ul>",
       "isCorrect": false,
       "label": "Intertrigo",
       "references": {
@@ -21,7 +21,7 @@
       }
     },
     {
-      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde</li></ul>",
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: Offene Wunde</li></ul>",
       "isCorrect": false,
       "label": "Abszess",
       "references": {
@@ -31,7 +31,7 @@
       }
     },
     {
-      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: offene Wunde, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Insektenstich</i> erhöhen würden: Pruritus</li></ul>",
+      "explanation": "<ul><li>Probleme, welche durch <i>Lues</i> besser erklärt sind: Offene Wunde, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Insektenstich</i> erhöhen würden: Pruritus</li></ul>",
       "isCorrect": false,
       "label": "Insektenstich",
       "references": {

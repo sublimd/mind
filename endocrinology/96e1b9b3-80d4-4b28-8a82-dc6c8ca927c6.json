@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypoglykämie</i> besser erklärt sind: Palpitationen, Hyperhidrose</li></ul>",
+      "isCorrect": false,
+      "label": "Hyponatriämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyponatri%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypoglykämie</i> besser erklärt sind: Tremor, Hyperhidrose, Krampfanfall</li></ul>",
+      "isCorrect": false,
+      "label": "Orthostatische Dysregulation",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Orthostatische_Dysregulation"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypoglykämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoglyk%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypoglykämie</i> besser erklärt sind: Palpitationen, Hyperhidrose</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Syndrom der inadäquaten ADH-Sekretion (SIADH)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li></ul>",
+      "isCorrect": false,
+      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Syndrom_der_inad%C3%A4quaten_ADH-Sekretion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypoglykämie</i> besser erklärt sind: Palpitationen, Tremor, Krampfanfall</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>M. Menière</i> erhöhen würden: Hörminderung, Tinnitus</li></ul>",
+      "isCorrect": false,
+      "label": "M. Menière",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/M._Meni%C3%A8re"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (20) bei Nausea seit einer Stunde.<br /><br />Zusätzlich berichtet die Patientin über Palpitationen, Schwindel, Tremor, einen Hyperhidrose und einen Krampfanfall.<br /><br /><br /><br />Fieber, eine Synkope, Kopfschmerzen, eine Somnolenz, Dyspnoe, Thoraxschmerzen, Sensibilitätsstörungen, ein Tinnitus, Muskelkrämpfe, eine Hörminderung und eine Wärmeintoleranz werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "96e1b9b3-80d4-4b28-8a82-dc6c8ca927c6",
+  "topic": "endocrinology"
+}

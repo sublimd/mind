@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hepatische Enzephalopathie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hepatische_Enzephalopathie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hepatische Enzephalopathie</i> besser erklärt sind: Somnolenz, Krampfanfall, Halitosis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Alkoholüberkonsum</i> erhöhen würden: retrosternales Brennen, saures Aufstossen, erhöhte Blutdruckwerte</li></ul>",
+      "isCorrect": false,
+      "label": "Alkoholüberkonsum",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hepatische Enzephalopathie</i> besser erklärt sind: Verwirrtheit, Schlafstörungen, Krampfanfall, Angstzustände, Halitosis, depressive Verstimmung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Orthostatische Dysregulation</i> erhöhen würden: Schwindel, Nausea</li></ul>",
+      "isCorrect": false,
+      "label": "Orthostatische Dysregulation",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Orthostatische_Dysregulation"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Hepatische Enzephalopathie</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Hepatische Enzephalopathie</i> besser erklärt sind: Schlafstörungen, Krampfanfall, Angstzustände, Halitosis, depressive Verstimmung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Korsakow-Syndrom</i> erhöhen würden: Ataxie</li></ul>",
+      "isCorrect": false,
+      "label": "Korsakow-Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Korsakow-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hepatische Enzephalopathie</i> besser erklärt sind: Schlafstörungen, Halitosis, depressive Verstimmung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>GHB-Intoxikation</i> erhöhen würden: Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "GHB-Intoxikation",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (64) bei Somnolenz.<br /><br />Zusätzlich berichtet der Patient über eine Verwirrtheit seit zwei Tagen sowie Schlafstörungen, einen Krampfanfall, Angstzustände, Halitosis und eine depressive Verstimmung.<br /><br />Nausea, Schwindel, Kopfschmerzen, Sehstörungen, Bauchschmerzen, Fieber, eine Ataxie und Dysurie werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "f0cdbe74-6f30-4b7a-b167-8de8d37fdab5",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Fieber, Gliederschmerzen, Nackensteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mikrozyt%C3%A4re_An%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute virale Meningitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Palpitationen, Tachykardien, Unterschenkelschwellung, Beinschwellung, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Myokarditis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Akute virale Meningitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Müdigkeit, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute bakterielle Meningitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Nackensteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (48) bei einer Nackensteifigkeit seit sechs Stunden.<br /><br />Zusätzlich berichtet der Patient über stechende Kopfschmerzen, eine vermehrte Müdigkeit, Fieber, Gliederschmerzen und eine Verwirrtheit.<br /><br />Die Kopfschmerzen hätten schleichend begonnen und seien im Verlauf zunehmend. Sie würden sich hinsichtlich Intensität von früheren Episoden unterscheiden.<br /><br />Schüttelfrost, Nausea, Erbrechen, Schwindel, eine Muskelschwäche, Sehstörungen, Sensibilitätsstörungen, eine Photophobie, eine Phonophobie, eine Hörminderung, Dyspnoe, Diarrhoe, Husten, Halsschmerzen und Thoraxschmerzen werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "8019bfd6-a3dd-44a9-8bc4-b719db86d4f4",
+  "topic": "neurology"
+}

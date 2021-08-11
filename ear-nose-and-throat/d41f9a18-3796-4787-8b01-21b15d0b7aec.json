@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Erysipel des Ohres</i> besser erklärt sind: Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische Otitis media",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Erysipel des Ohres</i> besser erklärt sind: Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Seromukotympanon",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Seromukotympanon"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Erysipel des Ohres</i> besser erklärt sind: Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Fremdkörper im äusseren Gehörgang",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mastoiditis</i> erhöhen würden: Leistungsabfall, Müdigkeit, allgemeines Schwächegefühl, Hautschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Mastoiditis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mastoiditis"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Erysipel des Ohres",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (64) bei ziehenden linksseitigen Ohrenschmerzen seit sieben Tagen.<br /><br />Zusätzlich berichtet der Patient über eine erythematöse Hautveränderung und Ausfluss aus dem linken Ohr.<br /><br />Eine Hörminderung, Fieber, Husten, ein Tinnitus, Schwindel und eine Hautschwellung werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "d41f9a18-3796-4787-8b01-21b15d0b7aec",
+  "topic": "ear-nose-and-throat"
+}

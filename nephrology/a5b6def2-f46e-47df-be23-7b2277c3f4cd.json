@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Akute Nierenschädigung</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Akute Nierenschädigung</i> besser erklärt sind: Unterschenkelschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute disseminierte intravasale Gerinnung (DIC)</i> erhöhen würden: Hautveränderungen, Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
+      "label": "Akute disseminierte intravasale Gerinnung (DIC)",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Nierenschädigung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_Nierensch%C3%A4digung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Nierenschädigung</i> besser erklärt sind: Unterschenkelschwellung, Hämaturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: erhöhte Blutdruckwerte, Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypertensiver Notfall</i> erhöhen würden: Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Hypertensiver Notfall",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypertensiver_Notfall"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Akute Nierenschädigung</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische tubulointerstitielle Nephritis</i> erhöhen würden: Verwendung von Analgetika, Verwendung von Antibiotika</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische tubulointerstitielle Nephritis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Nierenschädigung</i> besser erklärt sind: Unterschenkelschwellung, Hämaturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Muskelschwäche, Muskelkrämpfe, Gliederschmerzen, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (73) bei Oligurie.<br /><br />Zusätzlich berichtet der Patient über eine beidseitige Unterschenkelschwellung seit zwei Tagen sowie Hämaturie.<br /><br />Der Urin sei während der ganzen Miktion rötlich verfärbt.<br /><br /> Die kürzliche Verwendung von Antibiotika wird verneint. <br /><br />Erhöhte Blutdruckwerte, ein allgemeines Schwächegefühl, Nausea, eine Muskelschwäche, Schwindel, Dyspnoe, Flankenschmerzen, Pruritus, Kopfschmerzen, Hautveränderungen, Wadenschmerzen und eine Hautüberwärmung werden verneint.<h2>Diagnoseliste</h2>- Leberzirrhose<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucher: 84 pack-years (30 Zigaretten täglich während 56 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "a5b6def2-f46e-47df-be23-7b2277c3f4cd",
+  "topic": "nephrology"
+}
