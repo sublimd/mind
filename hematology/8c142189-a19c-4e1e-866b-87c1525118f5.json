@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Agranulozytose</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Dysphonie, Stridor, Rhinorrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Laryngitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Agranulozytose</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Agranulozytose</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Odynophagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ambulant_erworbene_Pneumonie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Agranulozytose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Agranulozytose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Agranulozytose</i> besser erklärt sind: Veränderungen der Mundschleimhaut, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: Rhinorrhoe, nasale Obstruktion, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (69) bei Fieber seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Veränderungen der Mundschleimhaut, Odynophagie, Diarrhoe und Husten.<br /><br />Der Stuhl sei grünlich.<br /><br />Rhinorrhoe, Bauchschmerzen, Nausea, Dyspnoe, Kopfschmerzen, Gliederschmerzen, Dysurie, Thoraxschmerzen, Flankenschmerzen, Schüttelfrost und eine Dysphonie werden verneint.<h2>Diagnoseliste</h2>- Infektiöse Mononukleose<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "8c142189-a19c-4e1e-866b-87c1525118f5",
+  "topic": "hematology"
+}

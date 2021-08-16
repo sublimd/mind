@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Choledocholithiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Choledocholithiasis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Rhabdomyolyse</i> erhöhen würden: Hämaturie, Dysurie, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Rhabdomyolyse",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Rhabdomyolyse"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Choledocholithiasis</i> tritt statistisch häufiger auf</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Gallengangsstenose</i> erhöhen würden: Cholezystektomie</li></ul>",
+      "isCorrect": false,
+      "label": "Gallengangsstenose",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Appendizitis</i> erhöhen würden: Fieber, Appetitlosigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Appendizitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Portale Hypertonie</i> erhöhen würden: Blähungen, Hämatochezie, Meläna</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Portale Hypertonie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Portale Hypertonie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Portale_Hypertonie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (61) bei Nausea.<br /><br />Zusätzlich berichtet der Patient über wellenförmige Bauchschmerzen im rechten Oberbauch seit drei Wochen.<br /><br />Die Bauchschmerzen hätten aktuell eine Intensität von VAS 4/10.<br /><br /> Eine Cholezystektomie in der Vergangenheit wird verneint. <br /><br />Diarrhoe, Fieber, Erbrechen, eine Appetitlosigkeit, Obstipation, Blähungen, Meläna, Hämatochezie, eine Hämaturie und vaginaler Ausfluss werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "80ce391a-5aaa-4851-98eb-547e1329e9a9",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: vaginale Blutung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hydrosalpinx</i> erhöhen würden: unerfüllter Kinderwunsch</li></ul>",
+      "isCorrect": false,
+      "label": "Hydrosalpinx",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hydrosalpinx"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Spontanabort",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Spontanabort"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Spontanabort</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: Vaginaler Ausfluss</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Extrauterine Gravidität (EUG)</i> erhöhen würden: Dysurie, Pollakisurie, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Extrauterine Gravidität (EUG)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Extrauteringravidit%C3%A4t"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Vaginalkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vaginalkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Spontanabort</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Gonokokken-Zervizitis</i> erhöhen würden: mehrere Sexualpartner, ungeschützter Geschlechtsverkehr in der Vergangenheit, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
+      "isCorrect": false,
+      "label": "Gonokokken-Zervizitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Neisseria_gonorrhoeae"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (31) bei wellenförmigen Bauchschmerzen (bis VAS 3/10) seit zwei Tagen.<br /><br />Die Bauchschmerzen hätten aktuell eine Intensität von VAS 10/10.<br /><br />Zusätzlich berichtet die Patientin über ungewöhnliche vaginale Blutungen und vaginalen Ausfluss.<br /><br />Die Patientin schliesst die Möglichkeit einer Schwangerschaft nicht aus.<br /><br />Ungeschützter Geschlechtsverkehr in der Vergangenheit, Kontakt zu mehreren Sexualpartnern in den letzten Monaten und eine sexuelle Aktivität mit einem potenziell HIV-positiven Partner wird verneint. <br /><br />Nausea, Erbrechen, Fieber, eine Pollakisurie, Obstipation, Probleme beim Geschlechtsverkehr, Hämatochezie, Meläna, Leistenschmerzen sowie eine Raumforderung werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein).",
+  "id": "30ef4ed1-4fdd-4b36-b503-2b4e30a9a093",
+  "topic": "obstetrics"
+}

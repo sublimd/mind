@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ösophagusperforation</i> erhöhen würden: Dysphagie, Odynophagie, Dyspnoe, Halsschwellung, Hautschwellung, Dysphonie, retrosternales Brennen</li></ul>",
+      "isCorrect": false,
+      "label": "Ösophagusperforation",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Oesophagusperforation"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Psoashämatom</i> besser erklärt sind: Bauchschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lungenembolie</i> erhöhen würden: Dyspnoe, Thoraxschmerzen, Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenembolie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenembolie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Psoashämatom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Urolithiasis</i> kommt häufiger bei männlichen Patienten vor</li><li>Probleme, welche durch <i>Psoashämatom</i> besser erklärt sind: Tachykardien</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Urolithiasis</i> erhöhen würden: Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Urolithiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Urolithiasis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Psoashämatom</i> besser erklärt sind: Tachykardien</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Diarrhoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pseudomembranöse Kolitis</i> erhöhen würden: Kürzliche Verwendung von Antibiotika, Hospitalisation in den letzten drei Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Pseudomembranöse Kolitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pseudomembran%C3%B6se_Kolitis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (64) bei Fieber.<br /><br />Zusätzlich berichtet die Patientin über pulsierende Bauchschmerzen seit zwei Tagen sowie Tachykardien.<br /><br />Die Bauchschmerzen hätten aktuell eine Intensität von VAS 7/10.<br /><br />Die Einnahme von blutverdünnenden Medikamenten wird bejaht.<br /><br /> Eine Hospitalisation in den letzten drei Monaten sowie die kürzliche Verwendung von Antibiotika werden verneint. <br /><br />Nausea, Erbrechen, Thoraxschmerzen, vaginaler Ausfluss, Obstipation, Schüttelfrost, Hämatochezie, Meläna und eine Muskelschwäche werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucherin: 45 pack-years (20 Zigaretten täglich während 45 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Sekt).",
+  "id": "2ad595a0-1886-4281-803a-df7861a205c2",
+  "topic": "gastroenterology"
+}

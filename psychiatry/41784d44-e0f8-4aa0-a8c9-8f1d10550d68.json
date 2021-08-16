@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Verwirrtheit, Krampfanfall, Angstzustände</li></ul>",
+      "isCorrect": false,
+      "label": "Hepatische Enzephalopathie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hepatische_Enzephalopathie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: depressive Verstimmung</li></ul>",
+      "isCorrect": false,
+      "label": "Schnarchen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schnarchen"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Klimakterisches Syndrom</i> erhöhen würden: Menstruationsbeschwerden, Amenorrhö, Wärmeintoleranz, Nachtschweiss, Probleme beim Geschlechtsverkehr, vaginaler Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Klimakterisches Syndrom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Fibromyalgie</i> erhöhen würden: Kopfschmerzen, Gelenkschmerzen, Hyperhidrose, Nachtschweiss</li></ul>",
+      "isCorrect": false,
+      "label": "Fibromyalgie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fibromyalgie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ausgeprägte depressive Episode",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (54) bei Schlafstörungen.<br /><br />Zusätzlich berichtet die Patientin über eine depressive Verstimmung seit zwei Monaten sowie eine vermehrte Müdigkeit.<br /><br />Die Patientin verneint eine Veränderung der Essgewohnheiten seit Beginn der depressiven Episode.<br /><br />Die Patientin schlafe tagsüber oft ungewollt ein.<br /><br />Schnarchen, Nachtschweiss, Kopfschmerzen und Gliederschmerzen werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucherin: 15 pack-years (10 Zigaretten täglich während 30 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "41784d44-e0f8-4aa0-a8c9-8f1d10550d68",
+  "topic": "psychiatry"
+}

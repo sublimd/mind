@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Akute Blepharitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Chalazion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chalazion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hordeolum</i> besser erklärt sind: Lidschwellung, Rötung des Augenlides</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Konjunktivitis</i> erhöhen würden: Augenrötung, Pruritus im Auge</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Konjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hordeolum",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hordeolum"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hordeolum</i> besser erklärt sind: Rötung des Augenlides, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Augenrötung, Pruritus im Auge</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Allergische Konjunktivitis</i> erhöhen würden: Allergien auf Umweltfaktoren bekannt</li></ul>",
+      "isCorrect": false,
+      "label": "Allergische Konjunktivitis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (67) bei rechtsseitigen Augenschmerzen seit sieben Tagen.<br /><br />Zusätzlich berichtet die Patientin über eine Lidschwellung, eine Rötung des Augenlides, purulenten Ausfluss aus dem Auge und Fieber. <br /><br />Allergien auf Umweltfaktoren (Pollen, Katzenhaare etc.) werden verneint. <br /><br />Eine Augenrötung, Sehstörungen, eine Hautschwellung, eine Odynophagie und Rhinorrhoe werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Sekt und Spirituosen).",
+  "id": "750bd3e5-61c2-4089-ae17-5fda25f72aef",
+  "topic": "ophthalmology"
+}

@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Amöbiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Am%C3%B6biasis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Amöbiasis</i> besser erklärt sind: Ikterus</li></ul>",
+      "isCorrect": false,
+      "label": "Colitis ulcerosa",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Colitis_ulcerosa"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Amöbiasis</i> besser erklärt sind: Hämatochezie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hepatotoxizität",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Amöbiasis</i> besser erklärt sind: Ikterus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Divertikulitis</i> erhöhen würden: Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Divertikulitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Amöbiasis</i> besser erklärt sind: Ikterus</li></ul>",
+      "isCorrect": false,
+      "label": "M. Crohn",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Morbus_Crohn"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (66) bei Fieber.<br /><br />Zusätzlich berichtet der Patient über Diarrhoe seit drei Wochen sowie Hämatochezie, bohrende Bauchschmerzen, Appetitlosigkeit und einen Ikterus.<br /><br />Der Stuhl sei breiig und vermischt mit hellrotem Blut.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br /> Die Einnahme von Analgetika oder anderen Medikamenten wird verneint. <br /><br />Nausea, Erbrechen, ein Gewichtsverlust, Obstipation, Schüttelfrost, Blähungen und eine Stuhlinkontinenz werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein und Sekt).",
+  "id": "7d1a4ece-bb53-4a16-95bd-6f48fb7e83ea",
+  "topic": "gastroenterology"
+}
