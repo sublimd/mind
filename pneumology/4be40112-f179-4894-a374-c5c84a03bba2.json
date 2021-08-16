@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen, Hämoptoe</li></ul>",
+      "isCorrect": false,
+      "label": "Atelektase",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Atelektase"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen, Hämoptoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus, Nausea, Erbrechen, Bauchschmerzen, Diarrhoe, Blähungen, Synkope, Bewusstseinsverlust, Schwindel, Tachykardien, niedrige Blutdruckwerte</li></ul>",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelallergie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Pancoast-Tumor",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pancoast-Tumor"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Bronchialadenom",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Pancoast-Tumor</i> besser erklärt sind: Schulterschmerzen, Hämoptoe</li></ul>",
+      "isCorrect": false,
+      "label": "Sarkoidose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sarkoidose"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (51) bei Husten.<br /><br />Zusätzlich berichtet der Patient über Schulterschmerzen seit drei Monaten sowie Dyspnoe und Hämoptoe.<br /><br />Das abgehustete Blut sei mit Sekret vermischt.<br /><br />Fieber, eine nasale Obstruktion, Thoraxschmerzen, Hautveränderungen, Tachykardien, eine Dysphonie, Pruritus, hängende Augenlider, eine Schulterschwellung, eine Schulterrötung und eine Schultersteifigkeit werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucher: 21 pack-years (20 Zigaretten täglich während 21 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "4be40112-f179-4894-a374-c5c84a03bba2",
+  "topic": "pneumology"
+}

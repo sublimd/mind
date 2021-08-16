@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Sichelzellkrise</i> erhöhen würden: Dyspnoe, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Sichelzellkrise",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Akute virale Meningitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Hautveränderungen, Hämatemesis, Meläna, Zahnfleischbluten, Epistaxis, Hämaturie, Hämoptoe, Hämatochezie</li></ul>",
+      "isCorrect": false,
+      "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Thrombotisch-thrombozytopenische_Purpura"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute virale Meningitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute virale Meningitis</i> besser erklärt sind: Fieber, Schwindel</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Laktatazidose</i> erhöhen würden: Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Laktatazidose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Laktatazidose"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (47) bei einer vermehrten Müdigkeit.<br /><br />Die Müdigkeit sei abends am stärksten ausgeprägt.<br /><br />Zusätzlich berichtet der Patient über Kopfschmerzen (bis VAS 6/10) seit zwei Tagen sowie Fieber, Gliederschmerzen, eine leichte Verwirrtheit, Schwindel und Nausea.<br /><br />Die Kopfschmerzen würden sich hinsichtlich Begleitsymptomatik von früheren Episoden unterscheiden.<br /><br />Schüttelfrost, Husten, Bauchschmerzen, Erbrechen, Tachykardien, ein kürzlicher Bewusstseinsverlust, eine Muskelschwäche, Diarrhoe, eine Hörminderung, Handschmerzen, Sehstörungen, eine Nackensteifigkeit, Nackenschmerzen, eine Photophobie und eine Phonophobie werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein und Spirituosen).",
+  "id": "f25dadf1-7320-40fd-8be7-d8e639cdff8e",
+  "topic": "neurology"
+}

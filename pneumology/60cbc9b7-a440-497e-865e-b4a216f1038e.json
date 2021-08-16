@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Silikose</i> besser erklärt sind: Fieber, Stridor</li></ul>",
+      "isCorrect": false,
+      "label": "Linksherzinsuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Linksherzinsuffizienz"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Silikose</i> besser erklärt sind: Dyspnoe, Stridor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Rhinosinusitis</i> erhöhen würden: nasale Obstruktion, Rhinorrhoe, Kopfschmerzen, Gesichtsschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Rhinosinusitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Sinusitis"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Silikose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Silikose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Silikose</i> besser erklärt sind: Stridor</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenödem",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungen%C3%B6dem"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Silikose</i> besser erklärt sind: Stridor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Rhinorrhoe, Kopfschmerzen, Gliederschmerzen, Gelenkschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (69) bei einer vermehrten Müdigkeit.<br /><br />Die Müdigkeit sei abends am stärksten ausgeprägt.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe mit Stridor seit zwei Monaten sowie Husten mit Auswurf und Fieber.<br /><br />Rhinorrhoe, Schüttelfrost, Gesichtsschmerzen, Thoraxschmerzen, eine Orthopnoe und paroxysmale nächtliche Dyspnoe werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucher: 44 pack-years (20 Zigaretten täglich während 44 Jahren). Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.<h2>Sozialanamnese</h2>Beruf: Bauarbeiter",
+  "id": "60cbc9b7-a440-497e-865e-b4a216f1038e",
+  "topic": "pneumology"
+}

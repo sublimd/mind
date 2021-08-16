@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rupturiertes thorakales Aortenaneurysma",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rupturiertes thorakales Aortenaneurysma</i> besser erklärt sind: Rückenschmerzen, Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Lungenembolie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lungenembolie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rupturiertes thorakales Aortenaneurysma</i> besser erklärt sind: Thoraxschmerzen, Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktischer Schock</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Lidschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktischer Schock",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktischer_Schock"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rupturiertes thorakales Aortenaneurysma</i> besser erklärt sind: Thoraxschmerzen, Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktische Reaktion</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Lidschwellung</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktische Reaktion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktische_Reaktion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rupturiertes thorakales Aortenaneurysma</i> besser erklärt sind: Thoraxschmerzen, Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Nahrungsmittelallergie</i> erhöhen würden: Hautveränderungen, Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Nahrungsmittelallergie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Nahrungsmittelallergie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (35) bei Husten.<br /><br />Zusätzlich berichtet der Patient über drückende Thoraxschmerzen (bis VAS 7/10) im Bereich des Sternums seit einem Tag, dumpf-ziehende Rückenschmerzen über dem posterioren Thorax, Dyspnoe, Schwindel und stechende Oberbauchschmerzen.<br /><br />Die Thoraxschmerzen hätten aktuell eine Intensität von VAS 9/10.<br /><br />Die Rückenschmerzen seien ohne eruierbaren Auslöser aufgetreten und hätten aktuell eine Intensität von VAS 2/10. Die Rückenschmerzen seien jeweils in der Nacht am stärksten.<br /><br />Der Patient könne kein Stockwerk ohne Pause hochsteigen.<br /><br />Die Bauchschmerzen hätten aktuell eine Intensität von VAS 10/10.<br /><br />Ein ungesunder Ernährungsstil und eine geringe körperliche Aktivität wird bejaht.<br /><br />Rhinorrhoe, Fieber, Hautveränderungen, eine Dysphonie, Diarrhoe, eine Hautschwellung, Synkopen und eine Hyperhidrose werden verneint.<h2>Diagnoseliste</h2>- Essentielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucher: 4 pack-years (20 Zigaretten täglich während 4 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "2b8392c8-d456-49b9-b910-07c375711343",
+  "topic": "angiology"
+}

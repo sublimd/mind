@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Trikuspidalklappen-Insuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Trikuspidalklappeninsuffizienz"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Trikuspidalklappen-Insuffizienz</i> besser erklärt sind: Unterschenkelschwellung, Nykturie, Synkope</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Makrozytäre Anämie</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Makrozytäre Anämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mikrozyt%C3%A4re_An%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Trikuspidalklappen-Insuffizienz</i> besser erklärt sind: Nykturie, Synkope</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Myokarditis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Trikuspidalklappen-Insuffizienz</i> besser erklärt sind: Unterschenkelschwellung, Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Kardiogene Synkope</i> erhöhen würden: Thoraxschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Kardiogene Synkope</i> erhöhen würden: Diabetes mellitus, Plötzlicher Todesfall in der Familie</li></ul>",
+      "isCorrect": false,
+      "label": "Kardiogene Synkope",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Trikuspidalklappen-Insuffizienz</i> besser erklärt sind: Nykturie, Synkope</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Mitralklappen-Insuffizienz</i> erhöhen würden: Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Mitralklappen-Insuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Mitralklappeninsuffizienz"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (77) bei einer vermehrten Müdigkeit seit einem Monat.<br /><br />Die Müdigkeit sei am Nachmittag und am Abend am stärksten ausgeprägt. Der Patient schlafe tagsüber oft ungewollt ein.<br /><br />Zusätzlich berichtet der Patient über Palpitationen, eine beidseitige Unterschenkelschwellung, Dyspnoe, Nykturie und eine Synkope.<br /><br />Die Palpitationen würden jeweils für circa Stunden anhalten.<br /><br />Kurz vor der Synkope sei der Patient aufgestanden.<br /><br />Fieber, Husten, Schlafstörungen, Thoraxschmerzen, ein Gewichtsverlust, Schwindel, eine depressive Verstimmung, Nachtschweiss und Bradykardien werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).<h2>Familienanamnese</h2>Keine plötzlichen Todesfälle in der Familie bekannt.",
+  "id": "282632a7-5575-4f9b-8821-8587b3903e37",
+  "topic": "cardiology"
+}

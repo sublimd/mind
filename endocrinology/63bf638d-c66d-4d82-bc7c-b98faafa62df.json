@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Primärer Hyperaldosteronismus (Conn-Syndrom)</i> besser erklärt sind: erhöhte Blutdruckwerte, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokalzämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokalz%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Primärer Hyperaldosteronismus (Conn-Syndrom)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Prim%C3%A4rer_Hyperaldosteronismus"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Primärer Hyperaldosteronismus (Conn-Syndrom)</i> besser erklärt sind: erhöhte Blutdruckwerte, Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Laktatazidose</i> erhöhen würden: Nausea, Erbrechen, Appetitlosigkeit, Dyspnoe, Bewusstseinsverlust, Verwirrtheit</li></ul>",
+      "isCorrect": false,
+      "label": "Laktatazidose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Laktatazidose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Primärer Hyperaldosteronismus (Conn-Syndrom)</i> besser erklärt sind: erhöhte Blutdruckwerte</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoparathyroidismus</i> erhöhen würden: Schlafstörungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Hypoparathyroidismus</i> erhöhen würden: komplette Thyroidektomie</li></ul>",
+      "isCorrect": false,
+      "label": "Hypoparathyroidismus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoparathyreoidismus"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Primärer Hyperaldosteronismus (Conn-Syndrom)</i> besser erklärt sind: erhöhte Blutdruckwerte, Sensibilitätsstörungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Syndrom der inadäquaten ADH-Sekretion (SIADH)</i> erhöhen würden: Nausea, Erbrechen, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Syndrom_der_inad%C3%A4quaten_ADH-Sekretion"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (26) bei Muskelkrämpfen.<br /><br />Zusätzlich berichtet die Patientin über erhöhte Blutdruckwerte seit drei Wochen sowie eine vermehrte Müdigkeit, ziehende Kopfschmerzen und Sensibilitätsstörungen.<br /><br />Die Müdigkeit sei am Mittag am stärksten ausgeprägt. Die Patientin schlafe tagsüber oft ungewollt ein.<br /><br />Die Kopfschmerzen hätten schleichend begonnen. Die aktuelle Intensität der Kopfschmerzen liege bei VAS 5/10.<br /><br /> Eine komplette Thyroidektomie in der Vergangenheit wird verneint. <br /><br />Nausea, Palpitationen, Schwindel, Krampfanfälle, ein kürzlicher Bewusstseinsverlust und Thoraxschmerzen werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucherin: 12 pack-years (30 Zigaretten täglich während 8 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein und Sekt).",
+  "id": "63bf638d-c66d-4d82-bc7c-b98faafa62df",
+  "topic": "endocrinology"
+}

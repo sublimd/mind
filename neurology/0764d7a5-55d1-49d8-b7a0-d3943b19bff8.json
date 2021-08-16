@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>L-Dopa-sensitive Dystonie (DRD)</i> besser erklärt sind: Ataxie, Rigor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyponatriämie</i> erhöhen würden: Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Hyponatriämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyponatri%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "L-Dopa-sensitive Dystonie (DRD)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Segawa-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>L-Dopa-sensitive Dystonie (DRD)</i> besser erklärt sind: Ataxie, Rigor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypomagnesiämie</i> erhöhen würden: Muskelschwäche, Sensibilitätsstörungen, Gliederschmerzen, Krampfanfall, Verwirrtheit</li></ul>",
+      "isCorrect": false,
+      "label": "Hypomagnesiämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypomagnesi%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>L-Dopa-sensitive Dystonie (DRD)</i> besser erklärt sind: Ataxie, Rigor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Syndrom der inadäquaten ADH-Sekretion (SIADH)</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Nausea, Erbrechen, Kopfschmerzen, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Syndrom_der_inad%C3%A4quaten_ADH-Sekretion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>L-Dopa-sensitive Dystonie (DRD)</i> besser erklärt sind: Ataxie, Rigor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Palpitationen, Tachykardien, Schwindel, Nausea, Erbrechen, Hyperhidrose, Nachtschweiss, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hypoglykämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoglyk%C3%A4mie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (23) bei Rigor.<br /><br />Zusätzlich berichtet der Patient über eine Ataxie seit sechs Wochen sowie einem Tremor.<br /><br />Kopfschmerzen, Erbrechen, Schwindel und Krampfanfälle werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "0764d7a5-55d1-49d8-b7a0-d3943b19bff8",
+  "topic": "neurology"
+}

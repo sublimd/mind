@@ -1,0 +1,37 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Ellenbogengelenksarthrose",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Gichtarthritis</i> kommt häufiger bei männlichen Patienten vor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gichtarthritis</i> erhöhen würden: Hautrötung, Hautüberwärmung</li></ul>",
+      "isCorrect": false,
+      "label": "Gichtarthritis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Epicondylitis humeri medialis</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vitamin D-Intoxikation</i> erhöhen würden: Verwirrtheit, Polyurie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitlosigkeit, Muskelschwäche, Nykturie</li></ul>",
+      "isCorrect": false,
+      "label": "Vitamin D-Intoxikation",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Epicondylitis humeri medialis</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Osteochondritis dissecans",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Epicondylitis humeri medialis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (39) bei linksseitigen Ellbogenschmerzen seit drei Tagen.<br /><br />Eine Ellbogenschwellung, eine Ellbogenrötung, anderweitige Gelenkbeschwerden, Fieber oder Unterschenkelschwellungen werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucherin: 12 pack-years (20 Zigaretten täglich während 12 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "0b57ab01-3f4c-4034-a06f-50e0615e1ac3",
+  "topic": "rheumatology"
+}

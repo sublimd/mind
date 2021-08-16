@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ringelröteln (Erythema infectiosum)</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Varizellen</i> erhöhen würden: Immundefekt</li></ul>",
+      "isCorrect": false,
+      "label": "Varizellen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Varizellen"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ringelröteln (Erythema infectiosum)</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Masern</i> erhöhen würden: Schüttelfrost, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Masern",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Masern"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ringelröteln (Erythema infectiosum)</i> besser erklärt sind: Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ringelröteln (Erythema infectiosum)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ringelr%C3%B6teln"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Ringelröteln (Erythema infectiosum)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gliederschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit, mehrere Sexualpartner, sexuelle Aktivität mit einem risikoreichen Sexualpartner</li></ul>",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (18) bei einer erythematösen Hautveränderung seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Fieber, Kopfschmerzen, Halsschmerzen und Diarrhoe.<br /><br />Die Kopfschmerzen seien im Verlauf kommend und gehend.<br /><br />Der Stuhl sei grünlich.<br /><br /> Intravenöser Drogenkonsum und sexuelle Aktivität mit einem potenziell HIV-positiven Partner sowie der Erhalt von Bluttransfusionen werden verneint. <br /><br />Pruritus, vergrösserte Lymphknoten, Schüttelfrost, Husten, Dyspnoe, Nausea, eine Odynophagie, Dysphagie und ein Stridor werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein und Spirituosen).",
+  "id": "f0c9fbf8-0011-4d9a-b402-e14d11b8f5c9",
+  "topic": "infectiology"
+}

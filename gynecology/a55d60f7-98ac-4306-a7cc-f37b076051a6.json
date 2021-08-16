@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": false,
+      "label": "Paralytischer Ileus",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Paralytischer_Ileus"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialkarzinom</i> besser erklärt sind: Obstipation</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Polyhydramnion</i> erhöhen würden: Schwangerschaft, Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Polyhydramnion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Polyhydramnion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialkarzinom</i> besser erklärt sind: Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Laktoseintoleranz</i> erhöhen würden: Diarrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Laktoseintoleranz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Laktoseintoleranz"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ovarialkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ovarialkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ovarialkarzinom</i> besser erklärt sind: Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Funktionelle Dyspepsie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Funktionelle_Dyspepsie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (48) bei Blähungen.<br /><br />Zusätzlich berichtet die Patientin über Bauchschmerzen im linken Unterbauch seit einem Monat sowie Obstipation.<br /><br />Nausea, Diarrhoe, Erbrechen, eine allgemeine Müdigkeit, saures Aufstossen, Menstruationsbeschwerden, Rückenschmerzen, Fieber, eine Pollakisurie, Dyspnoe, Hämatochezie, Meläna und eine Raumforderung werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucherin: 11 pack-years (10 Zigaretten täglich während 22 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "a55d60f7-98ac-4306-a7cc-f37b076051a6",
+  "topic": "gynecology"
+}

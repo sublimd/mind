@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Hepatitis B-Infektion</i> besser erklärt sind: Gelenkschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische Hepatitis B-Infektion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Hepatitis B-Infektion</i> besser erklärt sind: Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hepatotoxizität</i> erhöhen würden: Verwendung von Analgetika</li></ul>",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hepatotoxizität",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Akute Hepatitis B-Infektion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Akute Hepatitis B-Infektion</i> besser erklärt sind: Müdigkeit, Gelenkschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Koprostase</i> erhöhen würden: Obstipation, Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Koprostase",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Koprostase"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (63) bei dumpfen Bauchschmerzen (bis VAS 4/10) im rechten Oberbauch.<br /><br />Zusätzlich berichtet der Patient über eine vermehrte Müdigkeit seit einer Woche sowie Nausea, Gelenkschmerzen und Appetitlosigkeit.<br /><br />Die Einnahme von Analgetika wird verneint. Keine Einschlafneigung tagsüber.<br /><br />Fieber, Diarrhoe, Obstipation, ein Gewichtsverlust, eine depressive Verstimmung, eine Polyurie, ein vermehrtes Durstgefühl, Schlafstörungen und Nachtschweiss werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Sekt und Spirituosen).",
+  "id": "edae06af-aad1-4662-a1b1-1b529082e211",
+  "topic": "gastroenterology"
+}

@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Alkohol-Intoxikation</i> besser erklärt sind: Aggressivität</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Alkohol-Intoxikation</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "GHB-Intoxikation",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Alkohol-Intoxikation</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Alkohol-Intoxikation</i> besser erklärt sind: Aggressivität</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Laktatazidose</i> erhöhen würden: Gliederschmerzen, Muskelkrämpfe, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Laktatazidose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Laktatazidose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Alkohol-Intoxikation</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Alkohol-Intoxikation</i> besser erklärt sind: Aggressivität</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Amnesie, Kopfschmerzen, Schwindel</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Kürzliches Schädeltrauma</li></ul>",
+      "isCorrect": false,
+      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Alkohol-Intoxikation",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Alkoholintoxikation"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (31) bei aggressivem Verhalten.<br /><br />Zusätzlich berichtet der Patient über einen persistierenden Bewusstseinsverlust seit einem Tag sowie Nausea und eine Verwirrtheit.<br /><br />Ein kürzliches Schädeltrauma wird verneint.<br /><br />Krampfanfälle, Kopfschmerzen, eine Amnesie und eine Appetitlosigkeit werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 3 - 4 Standardgetränke / Tag.",
+  "id": "f8709c90-d2b9-4742-b71c-8e96a3dd8d0a",
+  "topic": "toxicology"
+}
