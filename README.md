@@ -14,11 +14,37 @@ _MIND by sublimd_ sind medizinische Aufgaben für die Zugfahrt, zur Vorbereitung
 
 ## Features
 
-* ✅ 600+ Fall-Vignetten
+* ✅ 700+ Fall-Vignetten
 * ✅ 23 medizinische Fachgebiete
 * ✅ Strukturierte Dateien im `JSON` Format
 * ✅ [Single Choice](https://de.wikipedia.org/wiki/Multiple_Choice#Unterschiedliche_Formate_und_Begrifflichkeiten): eine gültige Antwort aus 5 Möglichkeiten
 * ✅ Teilweise mit Erklärungen zur Lösung
+
+## Medizinische Fachgebiete (23)
+
+* [Allgemeine Innere Medizin](https://sublimd.com/de/mind/allgemeine-innere-medizin)
+* [Angiologie](https://sublimd.com/de/mind/angiologie)
+* [Chirurgie](https://sublimd.com/de/mind/chirurgie)
+* [Endokrinologie](https://sublimd.com/de/mind/endokrinologie)
+* [Gastroenterologie und Viszeralchirurgie](https://sublimd.com/de/mind/gastroenterologie-viszeralchirurgie)
+* [Geburtshilfe](https://sublimd.com/de/mind/geburtshilfe)
+* [Genetik](https://sublimd.com/de/mind/genetik)
+* [Gynäkologie](https://sublimd.com/de/mind/gynaekologie)
+* [Hals-Nasen-Ohren-Heilkunde (HNO)](https://sublimd.com/de/mind/hals-nasen-ohren)
+* [Hämatologie](https://sublimd.com/de/mind/haematologie)
+* [Immunologie](https://sublimd.com/de/mind/immunologie)
+* [Infektiologie](https://sublimd.com/de/mind/infektiologie)
+* [Kardiologie](https://sublimd.com/de/mind/kardiologie)
+* [Metabolische Erkrankungen](https://sublimd.com/de/mind/metabolische-krankheiten)
+* [Nephrologie und Urologie](https://sublimd.com/de/mind/nephrologie-urologie)
+* [Neurologie](https://sublimd.com/de/mind/neurologie)
+* [Onkologie](https://sublimd.com/de/mind/onkologie)
+* [Ophthalmologie](https://sublimd.com/de/mind/ophthalmologie)
+* [Pädiatrie](https://sublimd.com/de/mind/paediatrie)
+* [Pneumologie](https://sublimd.com/de/mind/pneumologie)
+* [Psychiatrie](https://sublimd.com/de/mind/psychiatrie)
+* [Rheumatologie](https://sublimd.com/de/mind/rheumatologie)
+* [Toxikologie](https://sublimd.com/de/mind/toxikologie)
 
 ## Feedback
 
