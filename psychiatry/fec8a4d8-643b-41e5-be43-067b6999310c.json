@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Ausgeprägte depressive Episode</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Zirkadiane Schlaf-Wach-Rhythmusstörung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Zirkadiane_Schlaf-Wach-Rhythmusst%C3%B6rung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Fibromyalgie</i> erhöhen würden: Gliederschmerzen, Kopfschmerzen, Nackenschmerzen, Rückenschmerzen, Gesässschmerzen, Armschmerzen, Beinschmerzen, Knieschmerzen, Hyperhidrose, Nachtschweiss</li></ul>",
+      "isCorrect": false,
+      "label": "Fibromyalgie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fibromyalgie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hepatische Enzephalopathie</i> erhöhen würden: Verwirrtheit, Krampfanfall, Angstzustände</li></ul>",
+      "isCorrect": false,
+      "label": "Hepatische Enzephalopathie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hepatische_Enzephalopathie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ausgeprägte depressive Episode",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ausgeprägte depressive Episode</i> besser erklärt sind: depressive Verstimmung</li></ul>",
+      "isCorrect": false,
+      "label": "Schnarchen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schnarchen"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (66) bei einer vermehrten Müdigkeit.<br /><br />Die Müdigkeit sei vormittags am stärksten ausgeprägt.<br /><br />Zusätzlich berichtet die Patientin über eine depressive Verstimmung seit zwei Monaten sowie Schlafstörungen.<br /><br />Keine Einschlafneigung tagsüber. <br /><br />Gliederschmerzen, Schnarchen, ein kürzlicher Bewusstseinsverlust und Krampfanfälle werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "fec8a4d8-643b-41e5-be43-067b6999310c",
+  "topic": "psychiatry"
+}

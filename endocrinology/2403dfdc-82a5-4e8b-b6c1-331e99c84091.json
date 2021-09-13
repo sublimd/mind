@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Schilddrüsenkarzinom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schilddr%C3%BCsenkarzinom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schilddrüsenkarzinom</i> besser erklärt sind: Dysphagie, Dysphonie, Husten, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Laterale Halszyste",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Schilddrüsenkarzinom</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Schilddrüsenkarzinom</i> besser erklärt sind: Husten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ösophagusperforation</i> erhöhen würden: Thoraxschmerzen, Nackenschmerzen, Bauchschmerzen, Odynophagie, Tachykardien, retrosternales Brennen</li></ul>",
+      "isCorrect": false,
+      "label": "Ösophagusperforation",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Oesophagusperforation"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schilddrüsenkarzinom</i> besser erklärt sind: Halsschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Laryngitis</i> erhöhen würden: Stridor, Fieber, Schüttelfrost, Rhinorrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Laryngitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schilddrüsenkarzinom</i> besser erklärt sind: Dysphagie, Dysphonie</li></ul>",
+      "isCorrect": false,
+      "label": "Struma",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Struma"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (49) bei einer schmerzlosen Halsschwellung seit drei Monaten.<br /><br />Zusätzlich berichtet der Patient über Dysphagie, Dysphonie, Husten und Dyspnoe.<br /><br />Eine Strahlenexposition wird bejaht.<br /><br />Fieber, Nackenschmerzen, Thoraxschmerzen und Halsschmerzen werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucher: 22 pack-years (20 Zigaretten täglich während 22 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "2403dfdc-82a5-4e8b-b6c1-331e99c84091",
+  "topic": "endocrinology"
+}

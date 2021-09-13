@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gewichtsverlust, Appetitlosigkeit, Ikterus, Pruritus, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Leberzirrhose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Leberzirrhose"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Fokal segmentale Glomerulosklerose (FSGS)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fokal_segmentale_Glomerulosklerose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronische tubulointerstitielle Nephritis</i> erhöhen würden: allgemeines Schwächegefühl, Müdigkeit, Leistungsabfall, Nausea, Erbrechen, Appetitlosigkeit, Pruritus, Oligurie, Polyurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronische tubulointerstitielle Nephritis</i> erhöhen würden: Verwendung von Analgetika, Verwendung von Antibiotika</li></ul>",
+      "isCorrect": false,
+      "label": "Chronische tubulointerstitielle Nephritis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Fokal segmentale Glomerulosklerose (FSGS)</i> besser erklärt sind: Unterschenkelschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Orchitis</i> erhöhen würden: Hodenschmerzen, Leistenschmerzen, Bauchschmerzen, Nausea, Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
+      "label": "Orchitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Orchitis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Akute Pyelonephritis</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Fokal segmentale Glomerulosklerose (FSGS)</i> besser erklärt sind: Unterschenkelschwellung</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Flankenschmerzen, Fieber, Schüttelfrost, Dysurie, Pollakisurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Pyelonephritis",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (39) bei Hämaturie seit drei Tagen.<br /><br />Der Urin sei während der ganzen Miktion blutig.<br /><br />Zusätzlich berichtet der Patient über eine beidseitige Unterschenkelschwellung seit einer Woche.<br /><br /> Die kürzliche Verwendung von Antibiotika in den letzten drei Monaten wird verneint. <br /><br />Bauchschmerzen, Flankenschmerzen, Schüttelfrost, Nausea, eine Appetitlosigkeit, Hautveränderungen, Dyspnoe, erhöhte Blutdruckwerte, Wadenschmerzen und eine Hautüberwärmung werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Sekt).",
+  "id": "6500b32a-7afa-4636-ac84-3bbd87defeb3",
+  "topic": "nephrology"
+}

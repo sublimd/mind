@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypomagnesiämie</i> besser erklärt sind: Muskelschwäche, Sensibilitätsstörungen, Gliederschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Hyponatriämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyponatri%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypomagnesiämie</i> besser erklärt sind: Tremor, Sensibilitätsstörungen, Bewusstseinsverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypokaliämie</i> erhöhen würden: Polyurie, vermehrtes Durstgefühl, Oligurie, Obstipation, Palpitationen, Tachykardien</li></ul>",
+      "isCorrect": false,
+      "label": "Hypokaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypokali%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hypomagnesiämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypomagnesi%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypomagnesiämie</i> besser erklärt sind: Tremor, Muskelkrämpfe, Gliederschmerzen, Bewusstseinsverlust</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkaliämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkali%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hypomagnesiämie</i> besser erklärt sind: Muskelschwäche, Sensibilitätsstörungen, Gliederschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Syndrom der inadäquaten ADH-Sekretion (SIADH)</i> erhöhen würden: Kopfschmerzen, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Syndrom der inadäquaten ADH-Sekretion (SIADH)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Syndrom_der_inad%C3%A4quaten_ADH-Sekretion"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (24) bei einem Tremor seit sieben Tagen.<br /><br />Zusätzlich berichtet der Patient über Muskelkrämpfe, eine Muskelschwäche, Sensibilitätsstörungen, Gliederschmerzen und einen passageren Bewusstseinsverlust.<br /><br />Eine Verwirrtheit, ein allgemeines Schwächegefühl, Nausea, Krampfanfälle, Palpitationen, Tachykardien, Kopfschmerzen und Schwindel werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "beaedcc3-7100-4e31-90f6-403964de0da6",
+  "topic": "endocrinology"
+}

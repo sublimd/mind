@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Enterozele</i> besser erklärt sind: Obstipation</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Hautüberwärmung, Fieber, Schüttelfrost, vergrösserter Lymphknoten</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Erysipel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Enterozele</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Colon irritabile</i> erhöhen würden: Blähungen</li></ul>",
+      "isCorrect": false,
+      "label": "Colon irritabile",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Colon_irritabile"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Enterozele",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Retroperitoneale Blutung</i> erhöhen würden: Therapie mit blutverdünnenden Medikamenten, kürzliche Intervention am Herz, kürzliche Intervention an den Gefässen</li></ul>",
+      "isCorrect": false,
+      "label": "Retroperitoneale Blutung",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Enterozele</i> besser erklärt sind: Rückenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitlosigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (45) bei drückenden Bauchschmerzen (bis VAS 4/10) im Unterbauch seit vier Monaten.<br /><br />Die Bauchschmerzen hätten aktuell eine Intensität von VAS 3/10.<br /><br />Zusätzlich berichtet die Patientin über Obstipation und Rückenschmerzen lumbal.<br /><br />Die Rückenschmerzen seien ohne eruierbaren Auslöser aufgetreten.<br /><br /> Eine kürzliche Gefäss- oder Herzintervention wird verneint. <br /><br />Nausea, Erbrechen, Fieber, Diarrhoe, Probleme beim Geschlechtsverkehr, Hautveränderungen, vaginaler Ausfluss, eine Nykturie, Hämatochezie, Meläna, eine Polyurie, eine Stuhlinkontinenz und eine Hautüberwärmung werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucherin: 41 pack-years (30 Zigaretten täglich während 27 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier und Spirituosen).",
+  "id": "39f4a964-8e7c-469c-a3cc-86d586a448a6",
+  "topic": "gynecology"
+}

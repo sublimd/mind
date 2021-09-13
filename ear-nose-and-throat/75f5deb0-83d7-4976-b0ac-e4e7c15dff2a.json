@@ -1,0 +1,41 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Retropharyngealabszess</i> besser erklärt sind: Nackenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Retropharyngealabszess</i> besser erklärt sind: Nackenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Pharyngitis</i> erhöhen würden: Dysphonie</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Pharyngitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Retropharyngealabszess",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Retropharyngealabszess</i> besser erklärt sind: Nackenschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Streptokokkentonsillitis</i> erhöhen würden: Halitosis, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Streptokokkentonsillitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Retropharyngealabszess</i> besser erklärt sind: Nackenschmerzen, vergrösserter Lymphknoten bzw. subkutaner Knoten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: nasale Obstruktion</li></ul>",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (80) bei drückenden Nackenschmerzen seit zwei Tagen.<br /><br />Aktuelle Intensität von VAS 8/10.<br /><br />Zusätzlich berichtet die Patientin über Halsschmerzen seit zwei Wochen sowie Fieber, einen Lymphknoten im Halsbereich und eine vermehrte Müdigkeit.<br /><br />Gliederschmerzen, Nausea, Dyspnoe, eine Dysphonie, Husten, Rhinorrhoe, eine Hypersalivation, Hautveränderungen, Niesen und eine nasale Obstruktion werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "75f5deb0-83d7-4976-b0ac-e4e7c15dff2a",
+  "topic": "ear-nose-and-throat"
+}
