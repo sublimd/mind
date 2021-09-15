@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Coxarthrose</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Coxarthrose</i> besser erklärt sind: Hüftsteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Psoashämatom</i> erhöhen würden: Fieber, Muskelschwäche, Tachykardien, niedrige Blutdruckwerte</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Psoashämatom</i> erhöhen würden: Therapie mit blutverdünnenden Medikamenten</li></ul>",
+      "isCorrect": false,
+      "label": "Psoashämatom",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Coxarthrose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Coxarthrose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Hüftdysplasie</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Coxarthrose</i> besser erklärt sind: Hüftsteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Hüftdysplasie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/H%C3%BCftdysplasie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Coxarthrose</i> besser erklärt sind: Leistenschmerzen, Hüftsteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Wirbelkörperfraktur</i> erhöhen würden: Unfall, Kürzliches Trauma, kein Auslöser</li></ul>",
+      "isCorrect": false,
+      "label": "Wirbelkörperfraktur",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Coxarthrose</i> besser erklärt sind: Leistenschmerzen, Hüftsteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Lumbovertebrales Syndrom",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (71) bei dumpfen Rückenschmerzen lumbal seit drei Wochen.<br /><br />Zusätzlich berichtet der Patient über stechende Leistenschmerzen (VAS 7/10) seit zwei Monaten sowie eine beidseitige Hüftsteifigkeit.<br /><br /> Die Einnahme von blutverdünnenden Medikamenten wird verneint. <br /><br />Bauchschmerzen, Beinschwellungen, Dysurie, Hodenschmerzen, Flankenschmerzen und Nackenschmerzen werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "688fb99d-0697-4094-a91f-68fec67d8259",
+  "topic": "rheumatology"
+}

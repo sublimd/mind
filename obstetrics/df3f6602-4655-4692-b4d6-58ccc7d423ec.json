@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Hyperemesis gravidarum</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Paracetamol-Intoxikation</i> erhöhen würden: Bauchschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Paracetamol-Intoxikation",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hyperemesis gravidarum",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperemesis_gravidarum"
+        }
+      }
+    },
+    {
+      "explanation": "<ul></ul>",
+      "isCorrect": false,
+      "label": "Hyponatriämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyponatri%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Gesichtsschädelfraktur</i> erhöhen würden: Gesichtsschmerzen, Kopfschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Gesichtsschädelfraktur</i> erhöhen würden: Kürzliches Trauma</li></ul>",
+      "isCorrect": false,
+      "label": "Gesichtsschädelfraktur",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Hyperemesis gravidarum</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Folsäuremangel</i> erhöhen würden: Müdigkeit, allgemeines Schwächegefühl, Leistungsabfall</li></ul>",
+      "isCorrect": false,
+      "label": "Folsäuremangel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fols%C3%A4uremangel"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (28) bei Nausea und Erbrechen seit einigen Tag.<br /><br />Zusätzlich berichtet die Patientin über Schwindel.<br /><br />Die Patientin schliesst die Möglichkeit einer Schwangerschaft nicht aus.<br /><br /> Ein kürzliches Trauma wird verneint. <br /><br />Bauchschmerzen, ein kürzlicher Bewusstseinsverlust, Kopfschmerzen, Tachykardien und Sehstörungen werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "df3f6602-4655-4692-b4d6-58ccc7d423ec",
+  "topic": "obstetrics"
+}

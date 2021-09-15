@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chlamydien-Zervizitis</i> besser erklärt sind: vaginaler Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Adnexitis</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Adnexitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Chlamydien-Zervizitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chlamydien-Zervizitis</i> besser erklärt sind: Probleme beim Geschlechtsverkehr, vaginaler Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Schwangerschaft</i> erhöhen würden: Amenorrhö, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Schwangerschaft",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schwangerschaft"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chlamydien-Zervizitis</i> besser erklärt sind: vaginale Blutung</li></ul>",
+      "isCorrect": false,
+      "label": "Bakterielle Vaginose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Bakterielle_Vaginose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Chlamydien-Zervizitis</i> besser erklärt sind: vaginaler Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: Bauchschmerzen, Fieber, Schüttelfrost</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Pelvic Inflammatory Disease</i> erhöhen würden: ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
+      "isCorrect": false,
+      "label": "Pelvic Inflammatory Disease",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Pelvic_inflammatory_disease"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (25) bei ungewöhnlichen vaginalen Blutungen.<br /><br />Zusätzlich berichtet die Patientin über vaginalen Ausfluss und Pruritus seit einer Woche sowie Probleme beim Geschlechtsverkehr.<br /><br />Der Ausfluss sei gelblich.<br /><br />Die Patientin gibt an unter Schmierblutungen während dem Geschlechtsverkehr zu leiden.<br /><br />Bauchschmerzen, Dysurie, Schüttelfrost, Nausea, Erbrechen und ein unerfüllter Kinderwunsch.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 4x oder mehr die Woche, jeweils 5 - 6 Standardgetränke / Tag.",
+  "id": "435e3fab-f23c-4c46-9a66-0492e98c6a82",
+  "topic": "gynecology"
+}

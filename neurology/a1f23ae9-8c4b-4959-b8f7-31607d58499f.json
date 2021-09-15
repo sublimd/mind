@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhte Blutdruckwerte</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Transitorische ischämische Attacke (TIA)</i> erhöhen würden: Diabetes mellitus, Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Transitorische ischämische Attacke (TIA)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Transitorische_isch%C3%A4mische_Attacke"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Intrazerebrale Blutung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Intrazerebrale_Blutung"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhte Blutdruckwerte, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Amnesie</li></ul>",
+      "isCorrect": false,
+      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: erhöhte Blutdruckwerte</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Ischämischer Schlaganfall</i> erhöhen würden: Diabetes mellitus, Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Ischämischer Schlaganfall",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Isch%C3%A4mischer_Schlaganfall"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Intrazerebrale Blutung</i> besser erklärt sind: Bewusstseinsverlust, erhöhte Blutdruckwerte, Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Migräne</i> erhöhen würden: Photophobie, Phonophobie</li></ul>",
+      "isCorrect": false,
+      "label": "Migräne",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Migr%C3%A4ne"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (38) bei einem passageren Bewusstseinsverlust, Nausea und Kopfschmerzen (bis VAS 8/10) seit einer Stunde.<br /><br />Zusätzlich berichtet die Patientin über erhöhte Blutdruckwerte, Dysarthrie, eine Muskelschwäche, Sensibilitätsstörungen und eine Verwirrtheit.<br /><br />Ein kürzliches Trauma wird bejaht.<br /><br />Schwindel, Synkopen, eine Photophobie, Sehstörungen, ein Tinnitus, eine Amnesie und eine Nackensteifigkeit werden verneint.<h2>Diagnoseliste</h2>- Essentielle Hypertonie<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Sekt).",
+  "id": "a1f23ae9-8c4b-4959-b8f7-31607d58499f",
+  "topic": "neurology"
+}

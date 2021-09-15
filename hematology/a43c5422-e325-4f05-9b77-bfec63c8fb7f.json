@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Anämie im Rahmen chronischer Erkrankung</i> tritt statistisch häufiger auf</li></ul>",
+      "isCorrect": false,
+      "label": "Folsäuremangel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fols%C3%A4uremangel"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Anämie im Rahmen chronischer Erkrankung</i> besser erklärt sind: Palpitationen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Übergewicht</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Übergewicht",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/%C3%9Cbergewicht"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Anämie im Rahmen chronischer Erkrankung</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vitamin B12 Mangel</i> erhöhen würden: Sensibilitätsstörungen</li></ul>",
+      "isCorrect": false,
+      "label": "Vitamin B12 Mangel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Vitamin-B12-Mangel"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Anämie im Rahmen chronischer Erkrankung</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atrioventrikuläre Reentry-Tachykardie (AVRT)</i> erhöhen würden: Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Atrioventrikuläre Reentry-Tachykardie (AVRT)",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Anämie im Rahmen chronischer Erkrankung",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (80) bei einer vermehrten Müdigkeit seit einem Monat.<br /><br />Zusätzlich berichtet der Patient über Dyspnoe und Palpitationen (schneller Herzschlag).<br /><br />Fieber, Kopfschmerzen, Schlafstörungen, Nausea, Thoraxschmerzen, ein Gewichtsverlust, Schwindel, eine depressive Verstimmung, Nachtschweiss, ein Ikterus und saures Aufstossen werden verneint.<h2>Diagnoseliste</h2>- Multiples Myelom<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "a43c5422-e325-4f05-9b77-bfec63c8fb7f",
+  "topic": "hematology"
+}

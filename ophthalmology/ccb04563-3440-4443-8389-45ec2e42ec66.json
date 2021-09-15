@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Hornhautabrieb</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes-simplex Keratitis</i> erhöhen würden: Sehstörungen, Augenrötung, Ausfluss aus dem Auge</li></ul>",
+      "isCorrect": false,
+      "label": "Herpes-simplex Keratitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Herpes-simplex-Keratitis"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hornhautabrieb",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hornhautabrieb</i> besser erklärt sind: Fremdkörpergefühl im Auge</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hordeolum</i> erhöhen würden: Lidschwellung, Rötung des Augenlides, Ausfluss aus dem Auge, Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Hordeolum",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hordeolum"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ektropium</i> erhöhen würden: übermässiger Tränenfluss, Ausfluss aus dem Auge, Augenrötung, Augentrockenheit</li></ul>",
+      "isCorrect": false,
+      "label": "Ektropium",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ektropium"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Hornhautabrieb</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Entropium</i> erhöhen würden: Augenrötung, übermässiger Tränenfluss, Ausfluss aus dem Auge, Augentrockenheit</li></ul>",
+      "isCorrect": false,
+      "label": "Entropium",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Entropium"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (36) bei linksseitigen Augenschmerzen seit zwei Tagen.<br /><br />Zusätzlich berichtet die Patientin über ein Fremdkörpergefühl im Auge.<br /><br />Die Patienten habe vor zwei Tagen einen Volleyball ins Gesicht bekommen.<br /><br />Ausfluss aus dem Auge, eine Lidschwellung, eine Augenrötung, Sehstörungen, eine Photophobie und Augentrockenheit werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "ccb04563-3440-4443-8389-45ec2e42ec66",
+  "topic": "ophthalmology"
+}

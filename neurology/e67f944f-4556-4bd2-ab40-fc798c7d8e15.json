@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hirnabszess</i> besser erklärt sind: Somnolenz, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tularämie</i> erhöhen würden: Hautveränderungen, Diarrhoe</li></ul>",
+      "isCorrect": false,
+      "label": "Tularämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Tular%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hirnabszess</i> besser erklärt sind: Kopfschmerzen, Somnolenz, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Flankenschmerzen, Dysurie, Pollakisurie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Pyelonephritis</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Pyelonephritis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Hirnabszess",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hirnabszess"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hirnabszess</i> besser erklärt sind: Somnolenz, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Müdigkeit, Leistungsabfall, allgemeines Schwächegefühl, Gliederschmerzen, Hautveränderungen, Dysphagie, Halsschmerzen, Odynophagie, vergrösserter Lymphknoten bzw. subkutaner Knoten, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>HIV-Primoinfektion</i> erhöhen würden: Bluttransfusionen in der Vergangenheit, Konsum von intravenösen Drogen in der Vergangenheit, ungeschützter Geschlechtsverkehr in der Vergangenheit</li></ul>",
+      "isCorrect": false,
+      "label": "HIV-Primoinfektion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Hirnabszess</i> besser erklärt sind: Somnolenz, Dysarthrie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Q Fieber</i> erhöhen würden: Rhinorrhoe, Halsschmerzen, Gliederschmerzen, Gelenkschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Q Fieber</i> erhöhen würden: Ungewöhnlicher Kontakt zu Tieren</li></ul>",
+      "isCorrect": false,
+      "label": "Q Fieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Q-Fieber"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (76) bei Fieber.<br /><br />Zusätzlich berichtet die Patientin über drückende Kopfschmerzen seit zwei Wochen sowie Somnolenz, Nausea und eine Dysarthrie.<br /><br />Die Kopfschmerzen seien im Verlauf zunehmend. Die aktuelle Intensität liege bei VAS 9/10.<br /><br /> Intravenöser Drogenkonsum sowie ungewöhnlicher Kontakt zu Tieren werden verneint. <br /><br />Bauchschmerzen, Erbrechen, Hautveränderungen, Gliederschmerzen, Gelenkschmerzen, Sehstörungen, eine Nackensteifigkeit, eine Muskelschwäche, Sensibilitätsstörungen, Nackenschmerzen, eine Photophobie, eine Phonophobie und Bradykardien werden verneint.<h2>Diagnoseliste</h2>- Akute Otitis media<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Spirituosen).",
+  "id": "e67f944f-4556-4bd2-ab40-fc798c7d8e15",
+  "topic": "neurology"
+}
