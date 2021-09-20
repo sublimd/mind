@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Systemischer Lupus erythematodes</i> besser erklärt sind: Thoraxschmerzen, Fieber</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Atherom (Epidermoidzyste)</i> erhöhen würden: Hautschwellung, Kutanes Knötchen, Hautabszess</li></ul>",
+      "isCorrect": false,
+      "label": "Atherom (Epidermoidzyste)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Atherom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Systemischer Lupus erythematodes</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lues</i> erhöhen würden: offene Wunde, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
+      "isCorrect": false,
+      "label": "Lues",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Lues"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Systemischer Lupus erythematodes",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Systemischer_Lupus_erythematodes"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Systemischer Lupus erythematodes</i> besser erklärt sind: Thoraxschmerzen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Typhus abdominalis</i> erhöhen würden: Reisen in tropische Regionen in den letzten sechs Monaten</li></ul>",
+      "isCorrect": false,
+      "label": "Typhus abdominalis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Systemischer Lupus erythematodes</i> besser erklärt sind: Hautveränderungen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene Pneumonie</i> erhöhen würden: Husten</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene Pneumonie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Ambulant_erworbene_Pneumonie"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (39) bei einer erythematösen Hautveränderung im Halsbereich seit einem Monat.<br /><br />Als möglichen Auslöser der Hautveränderung berichtet die Patientin von einer Wärmeexposition.<br /><br />Zusätzlich berichtet die Patientin über dumpfe Thoraxschmerzen (bis VAS 2/10) und Fieber.<br /><br />Die Thoraxschmerzen hätten aktuell eine Intensität von VAS 2/10.<br /><br /> Reisen in tropische Regionen in den letzten sechs Monaten werden verneint. <br /><br />Pruritus, eine allgemeine Müdigkeit, Bauchschmerzen, Husten, Diarrhoe, Erbrechen, Nausea, Nachtschweiss und ein Stridor werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "2f1759ed-830b-42fd-bf35-8305f917d79a",
+  "topic": "immunology"
+}

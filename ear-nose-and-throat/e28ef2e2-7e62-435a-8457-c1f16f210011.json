@@ -1,0 +1,45 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Streptokokkentonsillitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Streptokokkentonsillitis</i> besser erklärt sind: Halitosis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Myokarditis</i> erhöhen würden: Dyspnoe, Orthopnoe, Schwindel, Bewusstseinsverlust, Palpitationen, Tachykardien, Beinschwellung, Thoraxschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Myokarditis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Myokarditis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Streptokokkentonsillitis</i> besser erklärt sind: Halitosis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Influenza</i> erhöhen würden: Husten, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Influenza",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Influenza"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Streptokokkentonsillitis</i> besser erklärt sind: Halitosis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Ambulant erworbene atypische Pneumonie</i> erhöhen würden: Husten, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Ambulant erworbene atypische Pneumonie",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Streptokokkentonsillitis</i> besser erklärt sind: Halitosis</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Viraler Infekt der oberen Atemwege</i> erhöhen würden: nasale Obstruktion, Husten, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Viraler Infekt der oberen Atemwege",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (53) bei Halsschmerzen seit sechs Tagen.<br /><br />Zusätzlich berichtet die Patientin über Fieber, Halitosis und eine vermehrte Müdigkeit.<br /><br />Die Müdigkeit sei am Morgen am stärksten ausgeprägt.<br /><br />Rhinorrhoe, Husten, eine nasale Obstruktion, Gliederschmerzen, Dyspnoe, Niesen, vergrösserte Lymphknoten, eine Dysphonie, Thoraxschmerzen, Hautveränderungen, Nausea und eine Hypersalivation werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "e28ef2e2-7e62-435a-8457-c1f16f210011",
+  "topic": "ear-nose-and-throat"
+}

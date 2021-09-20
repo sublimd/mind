@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Herpes zoster</i> erhöhen würden: Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Herpes zoster",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Herpes_Zoster"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Nausea</li></ul>",
+      "isCorrect": false,
+      "label": "Synovialzyste der Lendenwirbelsäule",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Retroperitoneale Blutung</i> erhöhen würden: Therapie mit blutverdünnenden Medikamenten, Kürzliche Intervention am Herz oder an den Gefässen</li></ul>",
+      "isCorrect": false,
+      "label": "Retroperitoneale Blutung",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Niereninfarkt",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Niereninfarkt"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Niereninfarkt</i> besser erklärt sind: Nausea</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Erysipel</i> erhöhen würden: Hautveränderungen, Hautüberwärmung, Hautschwellung, Beinschwellung, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
+      "isCorrect": false,
+      "label": "Erysipel",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Erysipel"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (70) bei Flankenschmerzen seit einem Tag.<br /><br />Zusätzlich berichtet die Patientin über Nausea.<br /><br /> Eine kürzliche Gefäss- bzw. Herzintervention sowie die Einnahme von blutverdünnenden Medikamenten werden verneint. <br /><br />Beinschmerzen, Fieber, Dysurie, Hautveränderungen, eine Hämaturie, Bauchschmerzen, Schulterschmerzen und Thoraxschmerzen werden verneint.<h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "38299cb0-0915-4270-84eb-07408c7634ba",
+  "topic": "nephrology"
+}

@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Serotoninsyndrom</i> besser erklärt sind: Palpitationen, Tremor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Anaphylaktische Reaktion</i> erhöhen würden: Hautveränderungen, Pruritus, Hautschwellung, Lidschwellung, Dyspnoe, Husten, Rhinorrhoe, nasale Obstruktion</li></ul>",
+      "isCorrect": false,
+      "label": "Anaphylaktische Reaktion",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Anaphylaktische_Reaktion"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Hyperthyreose</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Serotoninsyndrom</i> besser erklärt sind: Kopfschmerzen, Bewusstseinsverlust</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperthyreose</i> erhöhen würden: Gewichtsverlust, Dyspnoe</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperthyreose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperthyreose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Serotoninsyndrom</i> besser erklärt sind: Tremor, Diarrhoe, Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperkalzämie</i> erhöhen würden: Polyurie, Nykturie, vermehrtes Durstgefühl, Nausea, Erbrechen, Appetitlosigkeit, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperkalzämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hyperkalz%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Serotoninsyndrom</i> besser erklärt sind: Angstzustände, Diarrhoe</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hypoglykämie</i> erhöhen würden: Schwindel, Nausea, Erbrechen</li></ul>",
+      "isCorrect": false,
+      "label": "Hypoglykämie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hypoglyk%C3%A4mie"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Serotoninsyndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Serotoninsyndrom"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (67) bei akuten Angstzuständen. Zusätzlich berichtet der Patient über eine Verwirrtheit, Palpitationen, einem Tremor, Diarrhoe, bohrenden Kopfschmerzen und einem passageren Bewusstseinsverlust.<br /><br />Die Palpitationen würden jeweils für ein paar Minuten anhalten.<br /><br />Die aktuelle Intensität der Kopfschmerzen liege bei VAS 6/10.<br /><br />Die Einnahme von Antidepressiva wird bejaht.<br /><br />Krampfanfälle, eine Nykturie, Dyspnoe, Erbrechen und Nausea werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucher: 22 pack-years (10 Zigaretten täglich während 44 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Wein).",
+  "id": "5a2514fb-fb63-49a7-b51f-14b37459d5be",
+  "topic": "other"
+}
