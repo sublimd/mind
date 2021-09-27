@@ -541,6 +541,10 @@
       "topic": "other"
     },
     {
+      "id": "5a2514fb-fb63-49a7-b51f-14b37459d5be",
+      "topic": "other"
+    },
+    {
       "id": "0085172e-8b2f-4ecc-b19a-a70314328d9a",
       "topic": "angiology"
     },
@@ -702,6 +706,10 @@
     },
     {
       "id": "a5cacfa5-17c5-4c42-8b1a-d18bb2267de1",
+      "topic": "endocrinology"
+    },
+    {
+      "id": "b1db541f-3050-4e6f-9c5d-4fc2c7d602f4",
       "topic": "endocrinology"
     },
     {
@@ -1034,6 +1042,10 @@
     },
     {
       "id": "cfeacbce-7525-4ce0-a564-56965b914107",
+      "topic": "gastroenterology"
+    },
+    {
+      "id": "d0ecfae8-2c43-442a-a3a7-918a111232ce",
       "topic": "gastroenterology"
     },
     {
@@ -1389,6 +1401,10 @@
       "topic": "hematology"
     },
     {
+      "id": "8505e3ad-dfaa-4d65-b9f0-5fd2320ee8cd",
+      "topic": "hematology"
+    },
+    {
       "id": "8c142189-a19c-4e1e-866b-87c1525118f5",
       "topic": "hematology"
     },
@@ -1545,6 +1561,10 @@
       "topic": "ear-nose-and-throat"
     },
     {
+      "id": "8c022bfd-3000-4c04-83e5-d094aaa52e07",
+      "topic": "ear-nose-and-throat"
+    },
+    {
       "id": "8d3be512-ba80-44c9-84ee-71ba46816b1e",
       "topic": "ear-nose-and-throat"
     },
@@ -1593,8 +1613,16 @@
       "topic": "ear-nose-and-throat"
     },
     {
+      "id": "e28ef2e2-7e62-435a-8457-c1f16f210011",
+      "topic": "ear-nose-and-throat"
+    },
+    {
       "id": "e2c6bbb0-261a-4f5c-a669-0c46445953bc",
       "topic": "ear-nose-and-throat"
+    },
+    {
+      "id": "2f1759ed-830b-42fd-bf35-8305f917d79a",
+      "topic": "immunology"
     },
     {
       "id": "356b5738-ed5d-453d-902b-34628b715993",
@@ -1809,11 +1837,19 @@
       "topic": "infectiology"
     },
     {
+      "id": "ca25a130-f36a-444b-bcc6-bd72f4994848",
+      "topic": "infectiology"
+    },
+    {
       "id": "cafeaa9e-4c41-45f5-af43-c0c3768b773e",
       "topic": "infectiology"
     },
     {
       "id": "cbe14ad8-f7f9-41b7-a439-08b0fd7eef24",
+      "topic": "infectiology"
+    },
+    {
+      "id": "d8b3f79a-a15e-46f1-a2cf-badcff985028",
       "topic": "infectiology"
     },
     {
@@ -1966,6 +2002,10 @@
     },
     {
       "id": "287f0bf5-2e7b-4129-b7dc-18bb65a9daf8",
+      "topic": "nephrology"
+    },
+    {
+      "id": "38299cb0-0915-4270-84eb-07408c7634ba",
       "topic": "nephrology"
     },
     {
@@ -2201,6 +2241,10 @@
       "topic": "neurology"
     },
     {
+      "id": "6273fa60-4493-4b5c-9351-4113146e4d13",
+      "topic": "neurology"
+    },
+    {
       "id": "64078087-d7b1-46a6-8e40-c3b28ae65357",
       "topic": "neurology"
     },
@@ -2234,6 +2278,10 @@
     },
     {
       "id": "891e6bc1-758c-4ef5-a3db-340b862eede4",
+      "topic": "neurology"
+    },
+    {
+      "id": "8aba02e3-042f-479a-88ab-6a650a73b7b8",
       "topic": "neurology"
     },
     {
@@ -2362,6 +2410,10 @@
     },
     {
       "id": "f7c10a06-3f11-4acd-889c-5b93c91c5701",
+      "topic": "neurology"
+    },
+    {
+      "id": "fa0ea07c-478a-483a-9cc9-9c46f14aae8a",
       "topic": "neurology"
     },
     {
@@ -2749,6 +2801,10 @@
       "topic": "rheumatology"
     },
     {
+      "id": "2b645125-bc6b-48f3-bf8d-d173956c50b5",
+      "topic": "rheumatology"
+    },
+    {
       "id": "323605e0-24f5-4566-a44b-a1d0295d0ec2",
       "topic": "rheumatology"
     },
@@ -2822,6 +2878,10 @@
     },
     {
       "id": "9312e0bb-2154-4841-ae91-6675eb5d4683",
+      "topic": "rheumatology"
+    },
+    {
+      "id": "93ef1feb-6486-41d9-9288-a5afae1e8553",
       "topic": "rheumatology"
     },
     {
@@ -2914,6 +2974,10 @@
     },
     {
       "id": "27c4bcea-f601-4531-8f77-a5732aa40b1b",
+      "topic": "toxicology"
+    },
+    {
+      "id": "29ffd759-d789-440b-a199-13d2813fc962",
       "topic": "toxicology"
     },
     {

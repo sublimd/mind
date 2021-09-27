@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Höhenkrankheit</i> erhöhen würden: Kopfschmerzen, Schwindel, Nausea, Erbrechen, Dyspnoe</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Akute Höhenkrankheit</i> erhöhen würden: Kürzliche Reise in eine Hochgebirgsregion</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Höhenkrankheit",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Akute_H%C3%B6henkrankheit"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Narkolepsie</i> besser erklärt sind: Muskelschwäche</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Fibromyalgie</i> erhöhen würden: Gliederschmerzen, Kopfschmerzen, Nackenschmerzen, Rückenschmerzen, Gesässschmerzen, Armschmerzen, Beinschmerzen, Knieschmerzen, Hyperhidrose, Nachtschweiss</li></ul>",
+      "isCorrect": false,
+      "label": "Fibromyalgie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Fibromyalgie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Narkolepsie</i> besser erklärt sind: Muskelschwäche</li></ul>",
+      "isCorrect": false,
+      "label": "Schnarchen",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schnarchen"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Narkolepsie",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Narkolepsie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Narkolepsie</i> besser erklärt sind: Muskelschwäche</li></ul>",
+      "isCorrect": false,
+      "label": "Schlafwandeln",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schlafwandeln"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (32) bei Schlafstörungen sowie Müdigkeit.<br /><br />Die Patientin berichtet von Einschlafattacken tagsüber.<br /><br />Zusätzlich berichtet die Patientin über eine Muskelschwäche.<br /><br />Die Müdigkeit sei am Morgen am stärksten ausgeprägt.<br /><br /> Eine Reise in eine Hochgebirgsregion wird verneint. <br /><br />Schnarchen, Nachtschweiss, Kopfschmerzen, Gliederschmerzen, Schwindel und Fieber werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucherin: 3 pack-years (10 Zigaretten täglich während 5 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "8aba02e3-042f-479a-88ab-6a650a73b7b8",
+  "topic": "neurology"
+}

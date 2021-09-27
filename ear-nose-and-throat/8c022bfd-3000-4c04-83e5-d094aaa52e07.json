@@ -1,0 +1,41 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Allergische Rhinokonjunktivitis</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Allergische Rhinokonjunktivitis</i> besser erklärt sind: Rhinorrhoe, nasale Obstruktion, Niesen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Toxische Konjunktivitis</i> erhöhen würden: Augenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Toxische Konjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Allergische Rhinokonjunktivitis</i> besser erklärt sind: Rhinorrhoe, nasale Obstruktion, Niesen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Akute Blepharitis</i> erhöhen würden: Rötung des Augenlides</li></ul>",
+      "isCorrect": false,
+      "label": "Akute Blepharitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Allergische Rhinokonjunktivitis</i> besser erklärt sind: Lidschwellung, Niesen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Virale Konjunktivitis</i> erhöhen würden: Fieber</li></ul>",
+      "isCorrect": false,
+      "label": "Virale Konjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Allergische Rhinokonjunktivitis</i> besser erklärt sind: Rhinorrhoe, nasale Obstruktion, Niesen</li></ul>",
+      "isCorrect": false,
+      "label": "Allergische Konjunktivitis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Allergische Rhinokonjunktivitis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Allergische_Rhinokonjunktivitis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (52) bei wässrigem Ausfluss aus dem Auge.<br /><br />Zusätzlich berichtet der Patient über Pruritus im Auge seit sieben Tagen sowie eine Augenrötung, klare Rhinorrhoe aus beiden Nasenlöchern, eine beidseitige Lidschwellung, eine nasale Obstruktion und Niesen.<br /><br /> Allergien auf Umweltfaktoren (Pollen, Katzenhaare etc.) werden verneint. <br /><br />Augenschmerzen, eine Rötung des Augenlides, Halsschmerzen und eine Odynophagie werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 1x / Monat oder weniger, jeweils 3 - 4 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "8c022bfd-3000-4c04-83e5-d094aaa52e07",
+  "topic": "ear-nose-and-throat"
+}

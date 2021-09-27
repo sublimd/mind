@@ -1,0 +1,41 @@
+{
+  "answers": [
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Diabetes mellitus Typ 1",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Diabetes mellitus Typ 1</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Diabetes mellitus Typ 1</i> besser erklärt sind: Müdigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vitamin D-Intoxikation</i> erhöhen würden: Verwirrtheit, Nausea, Erbrechen, Appetitlosigkeit, Gelenkschmerzen, Rückenschmerzen, Nackenschmerzen, Muskelschwäche</li></ul>",
+      "isCorrect": false,
+      "label": "Vitamin D-Intoxikation",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Cushing Syndrom</i> erhöhen würden: Gewichtszunahme, erhöhte Blutdruckwerte, Menstruationsbeschwerden, Amenorrhö, Beinschwellung, Hautschwellung, Rückenschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Cushing Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Cushing-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetes mellitus Typ 1</i> besser erklärt sind: Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hyperosmolare hyperglykämische Entgleisung</i> erhöhen würden: Sehstörungen, Muskelschwäche, Sensibilitätsstörungen, Krampfanfall, Verwirrtheit</li></ul>",
+      "isCorrect": false,
+      "label": "Hyperosmolare hyperglykämische Entgleisung",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Diabetes mellitus Typ 1</i> besser erklärt sind: Nykturie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Medikamenteninduzierte Hyperkalzämie</i> erhöhen würden: Nausea, Erbrechen, Appetitlosigkeit, Obstipation</li></ul>",
+      "isCorrect": false,
+      "label": "Medikamenteninduzierte Hyperkalzämie",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (26) bei Polyurie seit drei Monaten.<br /><br />Zusätzlich berichtet die Patientin über ein vermehrtes Durstgefühl, Nykturie und eine vermehrte Müdigkeit.<br /><br />Die Patientin schlafe tagsüber oft ungewollt ein.<br /><br />Erbrechen, eine Appetitlosigkeit, Bauchschmerzen, Rückenschmerzen und eine Geschmacksstörung werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Bier, Wein, Sekt und Spirituosen).",
+  "id": "b1db541f-3050-4e6f-9c5d-4fc2c7d602f4",
+  "topic": "endocrinology"
+}

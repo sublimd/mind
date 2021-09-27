@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Ischämischer Schlaganfall</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Hirntumor</i> erhöhen würden: Krampfanfall</li></ul>",
+      "isCorrect": false,
+      "label": "Hirntumor",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Hirntumor"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Ischämischer Schlaganfall",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Isch%C3%A4mischer_Schlaganfall"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Ischämischer Schlaganfall</i> besser erklärt sind: Dysarthrie, Dysphagie</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Amnesie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leichtes Schädel-Hirn-Trauma (Commotio cerebri)</i> erhöhen würden: Kürzliches Schädeltrauma</li></ul>",
+      "isCorrect": false,
+      "label": "Leichtes Schädel-Hirn-Trauma (Commotio cerebri)",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li><i>Ischämischer Schlaganfall</i> tritt statistisch häufiger auf</li><li>Probleme, welche durch <i>Ischämischer Schlaganfall</i> besser erklärt sind: Muskelschwäche, Verwirrtheit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Wallenberg-Syndrom</i> erhöhen würden: Dysphonie</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Wallenberg-Syndrom</i> erhöhen würden: Diabetes mellitus</li></ul>",
+      "isCorrect": false,
+      "label": "Wallenberg-Syndrom",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Wallenberg-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Ischämischer Schlaganfall</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: erhöhte Blutdruckwerte</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Intrazerebrale Blutung</i> erhöhen würden: Kürzliches Schädeltrauma, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Intrazerebrale Blutung",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Intrazerebrale_Blutung"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (35) bei einer Muskelschwäche seit fünf Tagen.<br /><br />Zusätzlich berichtet der Patient über Sensibilitätsstörungen, Dysarthrie, eine Verwirrtheit, Schwindel, Dysphagie und stechende Kopfschmerzen.<br /><br />Der Schwindel trete mehrmals pro Woche auf.<br /><br />Die Kopfschmerzen hätten schleichend begonnen und seien im Verlauf kommend und gehend.<br /><br /> Ein kürzliches Schädeltrauma wird verneint. <br /><br />Nausea, ein kürzlicher Bewusstseinsverlust, Sehstörungen, erhöhte Blutdruckwerte, eine Ataxie, Krampfanfälle, Gesichtsschmerzen und Fieber werden verneint.<h2>Diagnoseliste</h2>- Linksventrikulärer Thrombus<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucher: 2 pack-years (30 Zigaretten täglich während 1 Jahren). Alkoholkonsum 2 - 4 x / Monat, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "6273fa60-4493-4b5c-9351-4113146e4d13",
+  "topic": "neurology"
+}

@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Rigor</li></ul>",
+      "isCorrect": false,
+      "label": "Malaria",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Malaria"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Rigor</li></ul>",
+      "isCorrect": false,
+      "label": "Zika Virus Infektion",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Rigor</li></ul>",
+      "isCorrect": false,
+      "label": "Typhus abdominalis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Rückfallfieber</i> besser erklärt sind: Rigor</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Vibrio-Gastroenteritis</i> erhöhen würden: Hämatochezie, Appetitlosigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Vibrio-Gastroenteritis</i> erhöhen würden: Konsum von potenziell verdorbenen Lebensmitteln, Kontakt mit kontaminiertem Wasser</li></ul>",
+      "isCorrect": false,
+      "label": "Vibrio-Gastroenteritis",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Rückfallfieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/R%C3%BCckfallfieber"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (58) bei Fieber seit drei Tagen.<br /><br />Zusätzlich berichtet die Patientin über brennende Kopfschmerzen, Bauchschmerzen, Gliederschmerzen, Nausea, Diarrhoe und einen Rigor.<br /><br />Die Kopfschmerzen hätten explosionsartig begonnen und seien im Verlauf kommend und gehend.<br /><br />Der Stuhl sei breiig und normal braun.<br /><br />Der Aufenthalt in Wäldern und Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br /> Der Konsum von potenziell verdorbenen Lebensmitteln sowie Kontakt mit kontaminiertem Wasser werden verneint. <br /><br />Husten, Dyspnoe, eine Odynophagie, Dysurie, Flankenschmerzen, eine Verwirrtheit, Schüttelfrost, Handschmerzen, Fussschmerzen und Fingerschmerzen werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucherin. Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Spirituosen).",
+  "id": "ca25a130-f36a-444b-bcc6-bd72f4994848",
+  "topic": "infectiology"
+}

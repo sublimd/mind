@@ -1,0 +1,49 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li><i>Thoracic Outlet Syndrome (TOS)</i> kommt häufiger bei weiblichen Patienten vor</li><li>Probleme, welche durch <i>Frozen shoulder</i> besser erklärt sind: Schultersteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thoracic Outlet Syndrome (TOS)</i> erhöhen würden: Sensibilitätsstörungen, Nackenschmerzen, Rückenschmerzen, Muskelschwäche</li></ul>",
+      "isCorrect": false,
+      "label": "Thoracic Outlet Syndrome (TOS)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Thoracic-outlet-Syndrom"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Frozen shoulder</i> besser erklärt sind: Schultersteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Tendinitis der Rotatorenmanschette",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Frozen shoulder</i> besser erklärt sind: Schultersteifigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Subskapularissehnenruptur",
+      "references": {}
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Frozen shoulder",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Frozen_Shoulder"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Frozen shoulder</i> besser erklärt sind: Schultersteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Spondylitis ankylosans</i> erhöhen würden: Rückenschmerzen, Gelenkschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Spondylitis ankylosans",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Spondylitis_ankylosans"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (23) bei einer linksseitigen Schultersteifigkeit.<br /><br />Zusätzlich berichtet der Patient über linksseitige Schulterschmerzen mit Bewegungseinschränkung seit einem Monat.<br /><br />Ruheschmerzen werden bejaht.<br /><br />Fieber, eine Schulterschwellung, Armschmerzen, Rückenschmerzen und Nackenschmerzen werden verneint.<h2>Diagnoseliste</h2>- Diabetes mellitus Typ 1<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 4x oder mehr die Woche, jeweils 7 - 9 Standardgetränke / Tag.",
+  "id": "93ef1feb-6486-41d9-9288-a5afae1e8553",
+  "topic": "rheumatology"
+}

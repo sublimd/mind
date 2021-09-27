@@ -1,0 +1,57 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Tendinitis der Achillessehne</i> besser erklärt sind: Fusssteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Chronisch venöse Insuffizienz</i> erhöhen würden: Varizen, Hautveränderungen</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Chronisch venöse Insuffizienz</i> erhöhen würden: Tabakrauchkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Chronisch venöse Insuffizienz",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chronisch-ven%C3%B6se_Insuffizienz"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Tendinitis der Achillessehne</i> besser erklärt sind: Fusssteifigkeit, Unterschenkelschwellung</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Periphere arterielle Verschlusskrankheit (PAVK)</i> erhöhen würden: Tabakrauchkonsum, Diabetes mellitus, Arterielle Hypertonie</li></ul>",
+      "isCorrect": false,
+      "label": "Periphere arterielle Verschlusskrankheit (PAVK)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Periphere_arterielle_Verschlusskrankheit"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Tendinitis der Achillessehne",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Tendinitis_der_Achillessehne"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Tendinitis der Achillessehne</i> besser erklärt sind: Fusssteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Varikosis</i> erhöhen würden: Varizen</li></ul>",
+      "isCorrect": false,
+      "label": "Varikosis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Varikosis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Tendinitis der Achillessehne</i> besser erklärt sind: Fusssteifigkeit</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Tiefe Venenthrombose</i> erhöhen würden: Hautüberwärmung, Hautveränderungen</li></ul>",
+      "isCorrect": false,
+      "label": "Tiefe Venenthrombose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Tiefe_Venenthrombose"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (68) bei einer beidseitigen Fusssteifigkeit.<br /><br />Zusätzlich berichtet der Patient über plötzlich aufgetretene, belastungsabhängige beidseitige ziehende Wadenschmerzen seit sieben Wochen sowie eine beidseitige Unterschenkelschwellung.<br /><br />Fussschmerzen, eine Muskelschwäche und Sensibilitätsstörungen werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Nichtraucher. Alkoholkonsum 2 - 4 x / Monat, jeweils 3 - 4 Standardgetränke / Tag (Bier).",
+  "id": "2b645125-bc6b-48f3-bf8d-d173956c50b5",
+  "topic": "rheumatology"
+}

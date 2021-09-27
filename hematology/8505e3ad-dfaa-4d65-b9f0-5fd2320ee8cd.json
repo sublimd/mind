@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Immunthrombozytopenie (ITP)</i> besser erklärt sind: Zahnfleischbluten</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten bzw. subkutaner Knoten</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Immunthrombozytopenie (ITP)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Immunthrombozytopenie"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Immunthrombozytopenie (ITP)</i> besser erklärt sind: Kopfschmerzen</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Gewichtsverlust, Appetitlosigkeit, Ikterus, Pruritus, Nausea</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Leberzirrhose</i> erhöhen würden: Übermässiger Alkoholkonsum</li></ul>",
+      "isCorrect": false,
+      "label": "Leberzirrhose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Leberzirrhose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li><i>Immunthrombozytopenie (ITP)</i> tritt statistisch häufiger auf</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Thrombotisch-thrombozytopenische Purpura (TTP)</i> erhöhen würden: Nausea, Bauchschmerzen, Erbrechen, Schwindel</li></ul>",
+      "isCorrect": false,
+      "label": "Thrombotisch-thrombozytopenische Purpura (TTP)",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Thrombotisch-thrombozytopenische_Purpura"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Immunthrombozytopenie (ITP)</i> besser erklärt sind: Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Akute disseminierte intravasale Gerinnung (DIC)",
+      "references": {}
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung des Patienten (19) bei Zahnfleischbluten seit sechs Tagen.<br /><br />Zusätzlich berichtet der Patient über eine bläuliche Hautveränderung, eine vermehrte Müdigkeit und Kopfschmerzen.<br /><br />Als möglichen Auslöser der Hautveränderung berichtet der Patient von einer externen Druckeinwirkung auf die Haut.<br /><br />Der Patient schlafe tagsüber oft ungewollt ein.<br /><br />Die Kopfschmerzen hätten explosionsartig begonnen. Die aktuelle Intensität der Kopfschmerzen liege bei VAS 4/10.<br /><br />Fieber, Nausea, Bauchschmerzen, Dyspnoe, Hämatemesis und Halsschmerzen werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucher: 8 pack-years (30 Zigaretten täglich während 5 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Wein, Sekt und Spirituosen).",
+  "id": "8505e3ad-dfaa-4d65-b9f0-5fd2320ee8cd",
+  "topic": "hematology"
+}

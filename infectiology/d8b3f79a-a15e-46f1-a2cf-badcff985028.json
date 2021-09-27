@@ -1,0 +1,53 @@
+{
+  "answers": [
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Pruritus, Müdigkeit</li></ul>",
+      "isCorrect": false,
+      "label": "Chikungunya Fieber",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Chikungunyafieber"
+        }
+      }
+    },
+    {
+      "explanation": "",
+      "isCorrect": true,
+      "label": "Schistosomiasis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Schistosomiasis"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Kopfschmerzen, Nackensteifigkeit</li><li>Fehlende Risikofaktoren, welche die Wahrscheinlichkeit von <i>Lyme Borreliose Stadium 1</i> erhöhen würden: Aufenthalt in Wäldern</li></ul>",
+      "isCorrect": false,
+      "label": "Lyme Borreliose Stadium 1",
+      "references": {}
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Pruritus</li><li>Fehlende Probleme, welche die Wahrscheinlichkeit von <i>Infektiöse Mononukleose</i> erhöhen würden: Halsschmerzen, Odynophagie, Dysphagie, vergrösserter Lymphknoten bzw. subkutaner Knoten, Kopfschmerzen</li></ul>",
+      "isCorrect": false,
+      "label": "Infektiöse Mononukleose",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Infekti%C3%B6se_Mononukleose"
+        }
+      }
+    },
+    {
+      "explanation": "<ul><li>Probleme, welche durch <i>Schistosomiasis</i> besser erklärt sind: Pruritus</li></ul>",
+      "isCorrect": false,
+      "label": "Typhus abdominalis",
+      "references": {
+        "de": {
+          "wikipedia": "https://de.wikipedia.org/wiki/Typhus_abdominalis"
+        }
+      }
+    }
+  ],
+  "case": "<h2>Jetziges Leiden</h2>Vorstellung der Patientin (38) bei einer vesikulösen Hautveränderung seit zwei Wochen.<br /><br />Zusätzlich berichtet die Patientin über Pruritus, Fieber, eine vermehrte Müdigkeit und Gliederschmerzen.<br /><br />Die Müdigkeit sei in der Nacht am stärksten ausgeprägt.<br /><br />Reisen in tropische Regionen in den letzten sechs Monaten werden bejaht.<br /><br /> Der Aufenthalt in Wäldern wird verneint. <br /><br />Eine Hautschwellung, vergrösserte Lymphknoten, Bauchschmerzen, Kopfschmerzen, Husten, Dyspnoe, Erbrechen, Nausea, eine Hämaturie und ein Stridor werden verneint.<h2>Systemanamnese</h2><strong>Noxen</strong>: Raucherin: 21 pack-years (20 Zigaretten täglich während 21 Jahren). Alkoholkonsum 1x / Monat oder weniger, jeweils 1 - 2 Standardgetränke / Tag (Bier und Wein).",
+  "id": "d8b3f79a-a15e-46f1-a2cf-badcff985028",
+  "topic": "infectiology"
+}
